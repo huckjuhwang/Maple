@@ -3,7 +3,7 @@
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { formatCombatPower, formatNumber } from '@/lib/constants';
-import type { MemberChange } from '@/features/growth/compare';
+import type { MemberChange, CompareResult } from '@/features/growth/compare';
 
 function memberUrl(name: string) {
   return `/member/${encodeURIComponent(name)}`;
