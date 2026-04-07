@@ -89,8 +89,9 @@ export default function HomePage() {
       {/* 헤더 - 거울 길드 */}
       <header className="mirror-card p-6 mb-6 text-center relative overflow-hidden">
         {/* 떠다니는 메이플 장식 */}
-        <div className="absolute top-3 left-4 text-2xl mushroom-bounce">🍄</div>
-        <div className="absolute top-3 right-4 text-2xl slime-squish" style={{ animationDelay: '0.8s' }}>🐌</div>
+        <div className="absolute top-3 left-4 text-2xl mushroom-bounce"><img src="/maple-icon.png" alt="거울 길드" className="w-10 h-10 object-contain" /></div>
+        {/* <div className="absolute top-3 right-4 text-1.5xl mushroom-bounce" style={{ animationDelay: '0.8s' }}> 🍄</div> */}
+        <div className="absolute top-3 right-4 text-2xl mushroom-bounce"><img src="/maple-icon.png" alt="거울 길드" className="w-10 h-10 object-contain" /></div>
         <div className="absolute bottom-3 left-8 text-xl float sparkle">🌟</div>
         <div className="absolute bottom-3 right-8 text-xl float" style={{ animationDelay: '2s' }}>✨</div>
         <div className="absolute top-12 left-16 text-lg float" style={{ animationDelay: '1.5s', opacity: 0.15 }}>🍄</div>
@@ -98,15 +99,14 @@ export default function HomePage() {
 
         <div className="flex items-center justify-center gap-3 mb-1">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/maple-icon.png" alt="거울 길드" className="w-48 h-48 object-contain" />
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/guild-name.png" alt={guild.guildName} className="h-24 object-contain" />
+          <img src="/guild-name.png" alt={guild.guildName} className="h-36 object-contain" />
         </div>
         <p className="text-sm mt-1" style={{ color: '#7BA7C9' }}>
           {guild.worldName} &middot; Lv.{guild.guildLevel} &middot; {guild.memberCount}명
         </p>
         <p className="text-xs mt-1 opacity-50">
-          길드마스터: {guild.masterName}
+           길드마스터: {guild.masterName}
         </p>
 
         <div className="flex justify-center gap-4 mt-4 flex-wrap">
@@ -137,10 +137,10 @@ export default function HomePage() {
         </div>
 
         {/* 수집 현황 */}
-        <div className="mt-3 text-xs opacity-40">
+        {/* <div className="mt-3 text-xs opacity-40">
           스냅샷: {availableDates.length}일치 보유
           {availableDates.length > 0 && ` (${availableDates[availableDates.length - 1]} ~ ${availableDates[0]})`}
-        </div>
+        </div> */}
       </header>
 
       {/* 직업 분포 */}

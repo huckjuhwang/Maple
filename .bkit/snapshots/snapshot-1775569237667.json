@@ -1,0 +1,627 @@
+{
+  "timestamp": "2026-04-07T13:40:37.667Z",
+  "reason": "compaction",
+  "status": {
+    "version": "3.0",
+    "lastUpdated": "2026-04-07T13:40:37.545Z",
+    "activeFeatures": [
+      "lotto-checker-app",
+      "check",
+      "best-rank",
+      "all-rounds",
+      "predict",
+      "result",
+      "growth",
+      "maple-guild-tracker",
+      "[name]",
+      "scripts",
+      "nexon-api.ts"
+    ],
+    "primaryFeature": "lotto-checker-app",
+    "features": {
+      "lotto-checker-app": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-03-27T10:13:12.307Z",
+          "lastUpdated": "2026-03-27T13:56:56.636Z"
+        },
+        "lastFile": "/Users/hyuckju/Desktop/아카이브/lotto-checker-app/lib/lotto-client.ts"
+      },
+      "check": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-03-27T10:15:05.972Z",
+          "lastUpdated": "2026-03-27T10:15:05.972Z"
+        },
+        "lastFile": "/Users/hyuckju/Desktop/아카이브/lotto-checker-app/app/api/check/route.ts"
+      },
+      "best-rank": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-03-27T10:15:16.817Z",
+          "lastUpdated": "2026-03-27T10:15:16.817Z"
+        },
+        "lastFile": "/Users/hyuckju/Desktop/아카이브/lotto-checker-app/app/api/best-rank/route.ts"
+      },
+      "all-rounds": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-03-27T10:15:21.969Z",
+          "lastUpdated": "2026-03-27T10:15:21.969Z"
+        },
+        "lastFile": "/Users/hyuckju/Desktop/아카이브/lotto-checker-app/app/api/all-rounds/route.ts"
+      },
+      "predict": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-03-27T10:15:28.997Z",
+          "lastUpdated": "2026-03-27T10:18:37.314Z"
+        },
+        "lastFile": "/Users/hyuckju/Desktop/아카이브/lotto-checker-app/app/predict/page.tsx"
+      },
+      "result": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-03-27T10:18:32.287Z",
+          "lastUpdated": "2026-03-27T10:18:32.287Z"
+        },
+        "lastFile": "/Users/hyuckju/Desktop/아카이브/lotto-checker-app/app/result/page.tsx"
+      },
+      "growth": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-04-07T13:01:33.089Z",
+          "lastUpdated": "2026-04-07T13:35:23.026Z"
+        },
+        "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/components/growth/GrowthSection.tsx"
+      },
+      "maple-guild-tracker": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-04-07T13:09:13.534Z",
+          "lastUpdated": "2026-04-07T13:40:37.545Z"
+        },
+        "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/app/page.tsx"
+      },
+      "[name]": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-04-07T13:13:11.622Z",
+          "lastUpdated": "2026-04-07T13:32:11.214Z"
+        },
+        "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/app/member/[name]/page.tsx"
+      },
+      "scripts": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-04-07T13:29:15.228Z",
+          "lastUpdated": "2026-04-07T13:29:15.228Z"
+        },
+        "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/scripts/collect-today.ts"
+      },
+      "nexon-api.ts": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-04-07T13:31:59.065Z",
+          "lastUpdated": "2026-04-07T13:31:59.065Z"
+        },
+        "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/services/nexon-api.ts"
+      }
+    },
+    "pipeline": {
+      "currentPhase": 1,
+      "level": "Dynamic",
+      "phaseHistory": []
+    },
+    "session": {
+      "startedAt": "2026-03-27T10:06:54.216Z",
+      "onboardingCompleted": false,
+      "lastActivity": "2026-04-07T13:40:37.545Z"
+    },
+    "history": [
+      {
+        "timestamp": "2026-03-27T10:13:12.307Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:13:21.710Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:13:25.392Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:13:39.616Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:13:51.966Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:14:03.738Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:14:11.333Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:14:23.188Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:14:55.454Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:15:05.972Z",
+        "feature": "check",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:15:16.817Z",
+        "feature": "best-rank",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:15:21.969Z",
+        "feature": "all-rounds",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:15:28.997Z",
+        "feature": "predict",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:15:41.993Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:16:03.271Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:16:26.419Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:16:56.314Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:17:12.327Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:17:47.885Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:17:59.209Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:18:12.719Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:18:32.287Z",
+        "feature": "result",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T10:18:37.314Z",
+        "feature": "predict",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T13:17:56.541Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T13:18:02.454Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T13:21:01.682Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T13:21:07.928Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T13:24:47.695Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T13:37:08.410Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T13:46:56.736Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T13:51:20.253Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-03-27T13:56:56.636Z",
+        "feature": "lotto-checker-app",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:01:33.089Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:07:28.011Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:07:36.089Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:07:53.057Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:07:56.705Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:08:07.025Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:08:11.896Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:08:15.525Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:08:21.306Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:08:26.797Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:09:13.534Z",
+        "feature": "maple-guild-tracker",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:10:38.839Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:10:50.460Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:12:21.274Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:12:26.987Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:12:32.241Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:12:36.450Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:13:11.622Z",
+        "feature": "[name]",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:13:15.902Z",
+        "feature": "[name]",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:14:46.926Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:14:54.387Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:29:15.228Z",
+        "feature": "scripts",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:31:59.065Z",
+        "feature": "nexon-api.ts",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:32:06.726Z",
+        "feature": "[name]",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:32:11.214Z",
+        "feature": "[name]",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:34:15.276Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:34:21.863Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:34:25.833Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:34:30.241Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:34:35.286Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:34:40.600Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:34:54.448Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:34:58.283Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:35:14.537Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:35:19.383Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:35:23.026Z",
+        "feature": "growth",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:37:50.644Z",
+        "feature": "maple-guild-tracker",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:38:15.608Z",
+        "feature": "maple-guild-tracker",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:39:07.367Z",
+        "feature": "maple-guild-tracker",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-04-07T13:40:37.545Z",
+        "feature": "maple-guild-tracker",
+        "phase": "do",
+        "action": "updated"
+      }
+    ],
+    "stateMachine": {
+      "defaultWorkflow": "default",
+      "activeWorkflows": {},
+      "totalTransitions": 0
+    },
+    "automation": {
+      "globalLevel": 2,
+      "trustScore": 40,
+      "pendingApprovals": 0,
+      "lastGateResult": null
+    },
+    "team": {
+      "enabled": true,
+      "stateFile": ".bkit/runtime/agent-state.json",
+      "eventsFile": ".bkit/runtime/agent-events.jsonl"
+    }
+  }
+}
