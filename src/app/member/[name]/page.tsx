@@ -145,21 +145,24 @@ export default async function MemberPage({ params }: Props) {
     ? Math.round(totalExpGain / dailyExpGains.length)
     : 0;
 
-  // 레벨업 예상일 계산
-  // 현재 경험치% → 100%까지 남은 양 추정
-  const currentExpRate = member.expRate ?? 0;
+  // 레벨업 예상일 계산 (7일 평균 일일 경험치% 상승량 사용)
+  const currentExpRate = displayMember.expRate ?? 0;
   const remainingPct = 100 - currentExpRate;
   let estimatedDaysToLevelUp: number | null = null;
-  if (avgDailyExp > 0 && recent8.length >= 2) {
-    // 하루 평균 경험치% 상승량 계산
-    const latestH = recent8[recent8.length - 1];
-    const firstH = recent8[0];
-    const days = recent8.length - 1;
-    // 같은 레벨 내에서의 expRate 변화로 계산
-    if (latestH.level === firstH.level && days > 0) {
-      const dailyPctGain = (latestH.expRate - firstH.expRate) / days;
-      if (dailyPctGain > 0) {
-        estimatedDaysToLevelUp = Math.ceil(remainingPct / dailyPctGain);
+  if (recent8.length >= 2) {
+    // 연속된 날짜에서 같은 레벨 내 경험치% 상승량만 수집
+    const dailyRateGains: number[] = [];
+    for (let i = 1; i < recent8.length; i++) {
+      const prev = recent8[i - 1];
+      const curr = recent8[i];
+      if (curr.level === prev.level && curr.expRate > prev.expRate) {
+        dailyRateGains.push(curr.expRate - prev.expRate);
+      }
+    }
+    if (dailyRateGains.length > 0) {
+      const avgDailyRateGain = dailyRateGains.reduce((a, b) => a + b, 0) / dailyRateGains.length;
+      if (avgDailyRateGain > 0) {
+        estimatedDaysToLevelUp = Math.ceil(remainingPct / avgDailyRateGain);
       }
     }
   }
