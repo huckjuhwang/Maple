@@ -1,0 +1,290 @@
+@import "tailwindcss";
+
+:root {
+  --maple-orange: #FF9B37;
+  --maple-yellow: #FFD93D;
+  --maple-brown: #6B4226;
+  --maple-cream: #FFF8ED;
+  --maple-green: #7CC576;
+  --maple-blue: #6BB5FF;
+  --maple-pink: #FF8FAB;
+  --maple-purple: #B088F9;
+  --maple-dark: #3D2B1F;
+  --maple-light: #FFFDF7;
+  --guild-mirror: #A8D8EA;
+  --guild-mirror-deep: #5B9BD5;
+}
+
+@theme inline {
+  --color-background: var(--maple-light);
+  --color-foreground: var(--maple-dark);
+}
+
+body {
+  background: linear-gradient(180deg, #FFF8ED 0%, #E8F4FD 50%, #FFF8ED 100%);
+  color: var(--maple-dark);
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  min-height: 100vh;
+}
+
+/* ============================================
+   메이플 감성 카드
+   ============================================ */
+.maple-card {
+  background: white;
+  border-radius: 16px;
+  border: 2px solid #FFE0B2;
+  box-shadow: 0 4px 12px rgba(255, 155, 55, 0.08), 0 1px 3px rgba(0,0,0,0.04);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.maple-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(255, 155, 55, 0.15), 0 2px 6px rgba(0,0,0,0.06);
+}
+
+/* 거울 길드 특별 카드 */
+.mirror-card {
+  background: linear-gradient(135deg, #E8F4FD 0%, #F0F8FF 50%, #E8F4FD 100%);
+  border: 2px solid var(--guild-mirror);
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(91, 155, 213, 0.15);
+  position: relative;
+}
+
+/* 메이플 뱃지 */
+.maple-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* 변화량 뱃지 */
+.change-up {
+  color: #E53935;
+  font-weight: 700;
+}
+.change-down {
+  color: #1E88E5;
+  font-weight: 700;
+}
+.change-none {
+  color: #999;
+}
+
+/* ============================================
+   랭킹 로우
+   ============================================ */
+.rank-row {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  border-radius: 12px;
+  transition: background 0.15s, transform 0.15s;
+  text-decoration: none;
+  color: inherit;
+}
+.rank-row:hover {
+  background: rgba(255, 155, 55, 0.06);
+  transform: translateX(4px);
+}
+
+/* ============================================
+   탭 스타일
+   ============================================ */
+.maple-tab {
+  padding: 8px 20px;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 14px;
+  transition: all 0.2s;
+  cursor: pointer;
+  border: none;
+}
+.maple-tab-active {
+  background: var(--maple-orange);
+  color: white;
+  box-shadow: 0 2px 8px rgba(255, 155, 55, 0.3);
+}
+.maple-tab-inactive {
+  background: #FFF3E0;
+  color: var(--maple-brown);
+}
+.maple-tab-inactive:hover {
+  background: #FFE0B2;
+}
+
+/* ============================================
+   🍄 주황버섯 - 통통 바운스
+   ============================================ */
+@keyframes mushroomBounce {
+  0%, 100% { transform: translateY(0); }
+  25% { transform: translateY(-8px) scaleY(1.1) scaleX(0.95); }
+  50% { transform: translateY(0) scaleY(0.95) scaleX(1.05); }
+  75% { transform: translateY(-4px) scaleY(1.05) scaleX(0.98); }
+}
+.mushroom-bounce {
+  display: inline-block;
+  animation: mushroomBounce 2s ease-in-out infinite;
+}
+
+/* ============================================
+   🐌 슬라임 - 물렁물렁 스쿼시
+   ============================================ */
+@keyframes slimeSquish {
+  0%, 100% { transform: scaleX(1) scaleY(1); }
+  25% { transform: scaleX(1.15) scaleY(0.88); }
+  50% { transform: scaleX(0.92) scaleY(1.1); }
+  75% { transform: scaleX(1.08) scaleY(0.94); }
+}
+.slime-squish {
+  display: inline-block;
+  animation: slimeSquish 2.5s ease-in-out infinite;
+}
+
+/* ============================================
+   ⭐ 별 반짝이
+   ============================================ */
+@keyframes sparkle {
+  0%, 100% { opacity: 1; transform: scale(1) rotate(0deg); }
+  50% { opacity: 0.4; transform: scale(1.3) rotate(15deg); }
+}
+.sparkle {
+  display: inline-block;
+  animation: sparkle 2s ease-in-out infinite;
+}
+
+/* ============================================
+   👑 왕관 - 좌우 흔들기
+   ============================================ */
+@keyframes crownWiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-8deg); }
+  75% { transform: rotate(8deg); }
+}
+.crown-wiggle {
+  display: inline-block;
+  animation: crownWiggle 1.5s ease-in-out infinite;
+}
+
+/* ============================================
+   🎉 축하 팡파레 - 튀어오르기
+   ============================================ */
+@keyframes popIn {
+  0% { transform: scale(0) rotate(-12deg); opacity: 0; }
+  50% { transform: scale(1.2) rotate(4deg); opacity: 1; }
+  100% { transform: scale(1) rotate(0deg); opacity: 1; }
+}
+.pop-in {
+  animation: popIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+/* ============================================
+   떠다니는 효과 (헤더 장식용)
+   ============================================ */
+@keyframes float {
+  0%, 100% { transform: translateY(0) translateX(0); }
+  25% { transform: translateY(-6px) translateX(3px); }
+  50% { transform: translateY(-2px) translateX(-2px); }
+  75% { transform: translateY(-8px) translateX(1px); }
+}
+.float {
+  display: inline-block;
+  animation: float 4s ease-in-out infinite;
+}
+
+/* ============================================
+   리스트 아이템 슬라이드 인
+   ============================================ */
+@keyframes slideIn {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.slide-in {
+  animation: slideIn 0.3s ease-out forwards;
+}
+
+/* ============================================
+   숫자 카운트업 효과용 그라디언트
+   ============================================ */
+.text-gradient-orange {
+  background: linear-gradient(135deg, #FF9B37, #FF6B00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.text-gradient-blue {
+  background: linear-gradient(135deg, #5B9BD5, #2979FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.text-gradient-purple {
+  background: linear-gradient(135deg, #B088F9, #7C4DFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.text-gradient-green {
+  background: linear-gradient(135deg, #7CC576, #43A047);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ============================================
+   포디움 효과
+   ============================================ */
+.podium-gold {
+  background: linear-gradient(180deg, #FFF8E1 0%, #FFD54F 100%);
+}
+.podium-silver {
+  background: linear-gradient(180deg, #F5F5F5 0%, #BDBDBD 100%);
+}
+.podium-bronze {
+  background: linear-gradient(180deg, #FFF3E0 0%, #FFAB40 60%);
+}
+
+/* 캐릭터 이미지 호버 */
+.char-img-hover {
+  transition: transform 0.2s, filter 0.2s;
+}
+.char-img-hover:hover {
+  transform: scale(1.1);
+  filter: brightness(1.1);
+}
+.char-img-hover img {
+  image-rendering: pixelated;
+  transform: scale(2.8);
+  transform-origin: center 55%;
+}
+
+/* ============================================
+   스크롤바
+   ============================================ */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #FFD93D;
+  border-radius: 3px;
+}
+
+/* ============================================
+   반응형
+   ============================================ */
+@media (max-width: 640px) {
+  .rank-row {
+    padding: 10px 12px;
+  }
+  .maple-tab {
+    padding: 6px 14px;
+    font-size: 13px;
+  }
+}
