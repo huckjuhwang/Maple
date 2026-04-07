@@ -107,9 +107,11 @@ export default function GrowthSection({ members, comparisons, allMemberNames, se
 
             {/* 멤버 피커 */}
             <div className="flex flex-wrap gap-1 max-h-40 overflow-y-auto">
-              {allMemberNames.filter(name =>
-                !memberSearch || name.toLowerCase().includes(memberSearch.toLowerCase())
-              ).map(name => (
+              {[...allMemberNames]
+                .sort((a, b) => a.localeCompare(b, 'ko'))
+                .filter(name =>
+                  !memberSearch || name.toLowerCase().includes(memberSearch.toLowerCase())
+                ).map(name => (
                 <button
                   key={name}
                   onClick={() => toggleMember(name)}
