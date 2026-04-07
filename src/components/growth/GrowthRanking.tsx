@@ -140,9 +140,7 @@ export default function GrowthRanking({ members, comparisons, dailyComparisons }
       switch (activeSortBy) {
         case 'combatPower': return formatChange(c.combatPowerChange, 'combat');
         case 'expGain':
-        // 레벨업 시 expChange=0이므로 expLevelChange(레벨분) 기반으로 표시
-        if (c.levelChange > 0) return `+${c.expLevelChange}레벨분`;
-        return `+${formatNumber(c.expChange ?? 0)}`;
+        return `+${c.expLevelChange}레벨분`;
         case 'unionLevel': return formatChange(c.unionLevelChange);
         default: return '-';
       }

@@ -123,26 +123,32 @@ export default async function MemberPage({ params }: Props) {
   const oldest = hasHistory ? history[0] : null;
   const latest = hasHistory ? history[history.length - 1] : null;
 
-  // 경험치 분석 (최근 8일)
+  // 경험치 분석 (최근 8일) - expLevelChange(레벨분)로 통일
   const recent8 = history.slice(-8);
-  const dailyExpGains: { date: string; gain: number; levelUp: boolean }[] = [];
+
+  function calcExpLevelChange(prevLevel: number, prevExpRate: number, currLevel: number, currExpRate: number): number {
+    if (prevLevel === currLevel) return (currExpRate - prevExpRate) / 100;
+    const prevRemaining = (100 - prevExpRate) / 100;
+    const fullLevels = currLevel - prevLevel - 1;
+    const currProgress = currExpRate / 100;
+    return prevRemaining + fullLevels + currProgress;
+  }
+
+  const dailyExpGains: { date: string; gain: number; expLevelChange: number; levelUp: boolean }[] = [];
   for (let i = 1; i < recent8.length; i++) {
     const prev = recent8[i - 1];
     const curr = recent8[i];
-    let gain = curr.exp - prev.exp;
-    // 레벨업 시 exp가 리셋되므로 보정 불가 → 양수만 유효
     const levelUp = curr.level > prev.level;
-    if (gain < 0 && levelUp) gain = 0; // 레벨업으로 리셋된 경우
-    dailyExpGains.push({
-      date: curr.date,
-      gain: Math.max(gain, 0),
-      levelUp,
-    });
+    const expLevelChange = Math.max(0, calcExpLevelChange(prev.level, prev.expRate, curr.level, curr.expRate));
+    // 실제 exp: 레벨업 없을 때만 신뢰 가능
+    const rawGain = curr.exp - prev.exp;
+    const gain = levelUp ? 0 : Math.max(rawGain, 0);
+    dailyExpGains.push({ date: curr.date, gain, expLevelChange, levelUp });
   }
 
   const totalExpGain = dailyExpGains.reduce((s, d) => s + d.gain, 0);
   const avgDailyExp = dailyExpGains.length > 0
-    ? Math.round(totalExpGain / dailyExpGains.length)
+    ? Math.round(totalExpGain / dailyExpGains.filter(d => !d.levelUp).length || 0)
     : 0;
 
   // 레벨업 예상일 계산 (7일 평균 일일 경험치% 상승량 사용)
@@ -282,9 +288,11 @@ export default async function MemberPage({ params }: Props) {
           <div className="maple-card p-4">
             <div className="text-xs font-bold opacity-40 mb-3 uppercase tracking-wider">일별 경험치 획득량</div>
             <div className="space-y-2">
-              {dailyExpGains.map((d, i) => {
-                const maxGain = Math.max(...dailyExpGains.map(x => x.gain), 1);
-                const pct = (d.gain / maxGain) * 100;
+              {dailyExpGains.map((d) => {
+                // 레벨업 날은 expLevelChange 기준으로 바 크기 계산
+                const maxVal = Math.max(...dailyExpGains.map(x => x.levelUp ? x.expLevelChange * 100 : x.gain / 1e10), 0.01);
+                const barVal = d.levelUp ? d.expLevelChange * 100 : d.gain / 1e10;
+                const pct = (barVal / maxVal) * 100;
                 return (
                   <div key={d.date} className="flex items-center gap-2">
                     <div className="text-xs w-12 opacity-60">{d.date.slice(5)}</div>
@@ -300,8 +308,9 @@ export default async function MemberPage({ params }: Props) {
                       />
                       <div className="absolute inset-0 flex items-center px-2">
                         <span className="text-xs font-bold" style={{ color: pct > 40 ? 'white' : 'var(--maple-brown)' }}>
-                          {d.gain > 0 ? formatNumber(d.gain) : '-'}
-                          {d.levelUp && ' 🎉 레벨업!'}
+                          {d.levelUp
+                            ? `+${d.expLevelChange.toFixed(2)}레벨분 🎉`
+                            : d.gain > 0 ? formatNumber(d.gain) : '-'}
                         </span>
                       </div>
                     </div>
