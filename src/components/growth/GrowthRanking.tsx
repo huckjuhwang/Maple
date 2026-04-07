@@ -74,7 +74,8 @@ export default function GrowthRanking({ members, comparisons }: Props) {
     ? [...comparison!.members].sort((a, b) => {
         switch (activeSortBy) {
           case 'combatPower': return b.combatPowerChange - a.combatPowerChange;
-          case 'expGain': return (b.expChange ?? 0) - (a.expChange ?? 0);
+          // 레벨업 시 expChange가 0이 되므로 expLevelChange로 정렬 (레벨분 환산, 레벨업 정확히 반영)
+          case 'expGain': return b.expLevelChange - a.expLevelChange;
           case 'unionLevel': return b.unionLevelChange - a.unionLevelChange;
           default: return 0;
         }
@@ -128,7 +129,10 @@ export default function GrowthRanking({ members, comparisons }: Props) {
       if (!c) return '-';
       switch (activeSortBy) {
         case 'combatPower': return formatChange(c.combatPowerChange, 'combat');
-        case 'expGain': return `+${formatNumber(c.expChange ?? 0)}`;
+        case 'expGain':
+        // 레벨업 시 expChange=0이므로 expLevelChange(레벨분) 기반으로 표시
+        if (c.levelChange > 0) return `+${c.expLevelChange}레벨분`;
+        return `+${formatNumber(c.expChange ?? 0)}`;
         case 'unionLevel': return formatChange(c.unionLevelChange);
         default: return '-';
       }
@@ -147,11 +151,8 @@ export default function GrowthRanking({ members, comparisons }: Props) {
       if (!c) return '';
       switch (activeSortBy) {
         case 'combatPower': return `Lv.${c.level} ${c.job}`;
-        case 'expGain': {
-          return c.levelChange > 0
-            ? `Lv.${c.prevLevel}→${c.level}`
-            : `Lv.${c.level} (${c.expRate.toFixed(1)}%)`;
-        }
+        case 'expGain':
+          return `Lv.${c.level} (${c.expRate.toFixed(1)}%)`;
         case 'unionLevel': return `Lv.${c.level}`;
         default: return '';
       }
