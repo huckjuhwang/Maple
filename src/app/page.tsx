@@ -3,6 +3,17 @@ import * as path from 'path';
 import { formatCombatPower, formatNumber } from '@/lib/constants';
 import { getAutoCompare, getAvailableDates, getCompareByPeriod, loadSnapshot } from '@/features/growth/compare';
 import Dashboard from '@/components/dashboard/Dashboard';
+import NoticeSection from '@/components/NoticeSection';
+
+function getNotices() {
+  try {
+    const filePath = path.join(process.cwd(), 'data', 'notices.json');
+    if (!fs.existsSync(filePath)) return null;
+    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  } catch {
+    return null;
+  }
+}
 
 function getLatestData() {
   try {
@@ -21,6 +32,7 @@ function scouterUrl(name: string) {
 
 export default function HomePage() {
   const guild = getLatestData();
+  const noticesData = getNotices();
 
   if (!guild || !guild.members) {
     return (
@@ -163,6 +175,10 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {noticesData && (
+        <NoticeSection notices={noticesData.notices} fetchedAt={noticesData.fetchedAt} />
+      )}
 
       <Dashboard
         members={members}
