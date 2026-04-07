@@ -155,26 +155,28 @@ export default function HomePage() {
         </div> */}
       </header>
 
-      {/* 직업 분포 */}
-      <section className="mb-6">
-        <div className="maple-card p-4">
-          <div className="flex items-center gap-2 mb-3">
-            <span className="text-lg mushroom-bounce">🍄</span>
-            <h3 className="text-sm font-bold" style={{ color: 'var(--maple-brown)' }}>직업 분포 TOP5</h3>
+      {/* 직업 분포 - 숨김 처리 */}
+      {false && topJobs.length > 0 && (
+        <section className="mb-6">
+          <div className="maple-card p-4">
+            <div className="flex items-center gap-2 mb-3">
+              <span className="text-lg mushroom-bounce">🍄</span>
+              <h3 className="text-sm font-bold" style={{ color: 'var(--maple-brown)' }}>직업 분포 TOP5</h3>
+            </div>
+            <div className="flex gap-2 flex-wrap">
+              {topJobs.map(([job, count], i) => (
+                <span key={job} className="maple-badge pop-in" style={{
+                  background: i === 0 ? '#FFF3E0' : '#F5F5F5',
+                  color: i === 0 ? 'var(--maple-orange)' : '#666',
+                  animationDelay: `${i * 100}ms`,
+                }}>
+                  {job} {count}명
+                </span>
+              ))}
+            </div>
           </div>
-          <div className="flex gap-2 flex-wrap">
-            {topJobs.map(([job, count], i) => (
-              <span key={job} className="maple-badge pop-in" style={{
-                background: i === 0 ? '#FFF3E0' : '#F5F5F5',
-                color: i === 0 ? 'var(--maple-orange)' : '#666',
-                animationDelay: `${i * 100}ms`,
-              }}>
-                {job} {count}명
-              </span>
-            ))}
-          </div>
-        </div>
-      </section>
+        </section>
+      )}
 
       {noticesData && (
         <NoticeSection notices={noticesData.notices} fetchedAt={noticesData.fetchedAt} />
