@@ -140,7 +140,8 @@ export default function GrowthRanking({ members, comparisons, dailyComparisons }
       switch (activeSortBy) {
         case 'combatPower': return formatChange(c.combatPowerChange, 'combat');
         case 'expGain':
-        return `+${c.expLevelChange}레벨분`;
+        if (c.levelChange > 0) return `🎉 Lv.${c.prevLevel}→${c.level}`;
+        return `+${formatNumber(c.expChange ?? 0)}`;
         case 'unionLevel': return formatChange(c.unionLevelChange);
         default: return '-';
       }
