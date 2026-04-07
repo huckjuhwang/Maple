@@ -11,13 +11,14 @@ interface Props {
     weekly: CompareResult | null;
     monthly: CompareResult | null;
   };
+  dailyComparisons: Record<string, CompareResult | null>;
   snapshots: any[];
   allMemberNames: string[];
   selectedGroup: string[];
   onGroupChange: (group: string[]) => void;
 }
 
-export default function GrowthSection({ members, comparisons, allMemberNames, selectedGroup, onGroupChange }: Props) {
+export default function GrowthSection({ members, comparisons, dailyComparisons, allMemberNames, selectedGroup, onGroupChange }: Props) {
   const [showGroupPicker, setShowGroupPicker] = useState(false);
   const [memberSearch, setMemberSearch] = useState('');
 
@@ -130,7 +131,7 @@ export default function GrowthSection({ members, comparisons, allMemberNames, se
       </div>
 
       {/* ── 랭킹 ── */}
-      <GrowthRanking members={filteredMembers} comparisons={filteredComparisons} />
+      <GrowthRanking members={filteredMembers} comparisons={filteredComparisons} dailyComparisons={dailyComparisons} />
     </div>
   );
 }

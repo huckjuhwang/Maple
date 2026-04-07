@@ -14,11 +14,12 @@ interface Props {
     weekly: CompareResult | null;
     monthly: CompareResult | null;
   };
+  dailyComparisons: Record<string, CompareResult | null>;
   snapshots: any[];
   allMemberNames: string[];
 }
 
-export default function Dashboard({ members, comparisons, snapshots, allMemberNames }: Props) {
+export default function Dashboard({ members, comparisons, dailyComparisons, snapshots, allMemberNames }: Props) {
   const [tab, setTab] = useState<Tab>('growth');
   const [selectedGroup, setSelectedGroup] = useState<string[]>([]);
   const isGroupActive = selectedGroup.length > 0;
@@ -60,6 +61,7 @@ export default function Dashboard({ members, comparisons, snapshots, allMemberNa
           <GrowthSection
             members={members}
             comparisons={comparisons}
+            dailyComparisons={dailyComparisons}
             snapshots={snapshots}
             allMemberNames={allMemberNames}
             selectedGroup={selectedGroup}

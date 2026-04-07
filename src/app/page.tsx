@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { formatCombatPower, formatNumber } from '@/lib/constants';
-import { getAutoCompare, getAvailableDates, getCompareByPeriod, loadSnapshot } from '@/features/growth/compare';
+import { compareSnapshots, getAutoCompare, getAvailableDates, getCompareByPeriod, loadSnapshot } from '@/features/growth/compare';
 import Dashboard from '@/components/dashboard/Dashboard';
 import NoticeSection from '@/components/NoticeSection';
 
@@ -58,6 +58,15 @@ export default function HomePage() {
     weekly: getCompareByPeriod('weekly'),
     monthly: getCompareByPeriod('monthly'),
   };
+
+  // 일간 날짜 선택용: 각 날짜 → 전날과 비교 (최근 7일치)
+  // key: 선택 날짜(toDate), value: 전날 대비 변화량
+  const dailyComparisons: Record<string, ReturnType<typeof getAutoCompare>> = {};
+  for (let i = 0; i < Math.min(availableDates.length - 1, 7); i++) {
+    const toDate = availableDates[i];     // 선택한 날짜
+    const fromDate = availableDates[i + 1]; // 그 전날
+    dailyComparisons[toDate] = compareSnapshots(fromDate, toDate, 'daily');
+  }
 
   // 차트용 스냅샷 로드 (최대 30일)
   const snapshots = availableDates.slice(0, 30).reverse().map(date => {
@@ -185,6 +194,7 @@ export default function HomePage() {
       <Dashboard
         members={members}
         comparisons={comparisons}
+        dailyComparisons={dailyComparisons}
         snapshots={snapshots}
         allMemberNames={allMemberNames}
       />

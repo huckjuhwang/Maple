@@ -28,6 +28,7 @@ interface Props {
     weekly: CompareResult | null;
     monthly: CompareResult | null;
   };
+  dailyComparisons: Record<string, CompareResult | null>;
 }
 
 type SortBy = 'combatPower' | 'level' | 'expGain' | 'unionLevel';
@@ -47,13 +48,22 @@ const CHANGE_SORT_OPTIONS: { key: SortBy; label: string; emoji: string }[] = [
 
 const INITIAL_VISIBLE = 50; // 포디움 3 + 리스트 47
 
-export default function GrowthRanking({ members, comparisons }: Props) {
+export default function GrowthRanking({ members, comparisons, dailyComparisons }: Props) {
   const [sortBy, setSortBy] = useState<SortBy>('expGain');
   const [period, setPeriod] = useState<Period>('daily');
   const [viewMode, setViewMode] = useState<ViewMode>(comparisons.daily?.hasData ? 'change' : 'current');
   const [showAll, setShowAll] = useState(false);
 
-  const comparison = useMemo(() => comparisons[period], [comparisons, period]);
+  // 일간 날짜 선택 (기본: 가장 최신 날짜)
+  const availableDailyDates = Object.keys(dailyComparisons).sort().reverse();
+  const [selectedDailyDate, setSelectedDailyDate] = useState<string>(availableDailyDates[0] ?? '');
+
+  const comparison = useMemo(() => {
+    if (period === 'daily' && selectedDailyDate && dailyComparisons[selectedDailyDate]) {
+      return dailyComparisons[selectedDailyDate];
+    }
+    return comparisons[period];
+  }, [comparisons, dailyComparisons, period, selectedDailyDate]);
 
   const hasComparison = comparison?.hasData && comparison.members.length > 0;
 
@@ -248,6 +258,24 @@ export default function GrowthRanking({ members, comparisons }: Props) {
               </button>
             ))}
           </div>
+          {/* 일간 날짜 선택 */}
+          {period === 'daily' && availableDailyDates.length > 0 && (
+            <div className="flex gap-1 mt-2 flex-wrap">
+              {availableDailyDates.map(date => (
+                <button
+                  key={date}
+                  onClick={() => setSelectedDailyDate(date)}
+                  className="text-xs px-2 py-1 rounded-full transition-all"
+                  style={{
+                    background: selectedDailyDate === date ? 'var(--maple-orange)' : '#F5F5F5',
+                    color: selectedDailyDate === date ? 'white' : '#666',
+                  }}
+                >
+                  {date.slice(5)}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
       )}
 
