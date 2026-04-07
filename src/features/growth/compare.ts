@@ -131,7 +131,11 @@ export function compareSnapshots(fromDate: string, toDate: string, period: strin
       unionLevel: curr.unionLevel,
       levelChange: curr.level - prev.level,
       expLevelChange: Math.round(expLevelChange * 100) / 100,
-      expChange: (curr.exp ?? 0) - (prev.exp ?? 0),
+      expChange: (() => {
+        const raw = (curr.exp ?? 0) - (prev.exp ?? 0);
+        // 레벨업 시 exp가 0으로 리셋되어 음수가 될 수 있음 → 0으로 처리
+        return curr.level > prev.level && raw < 0 ? 0 : raw;
+      })(),
       combatPowerChange: curr.combatPower - prev.combatPower,
       unionLevelChange: curr.unionLevel - prev.unionLevel,
       arcaneForceChange: (curr.arcaneForce ?? 0) - (prev.arcaneForce ?? 0),
