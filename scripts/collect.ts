@@ -43,6 +43,8 @@ async function apiCall(url: string) {
   });
   if (!res.ok) {
     const err = await res.text();
+    // 데이터 준비 중 에러 → 상위로 타입 구분 가능하게 던짐
+    if (err.includes('OPENAPI00009')) throw Object.assign(new Error('NOT_READY'), { code: 'NOT_READY' });
     throw new Error(`API ${res.status}: ${err}`);
   }
   return res.json();
@@ -82,13 +84,33 @@ async function main() {
   fs.mkdirSync(SNAPSHOTS_DIR, { recursive: true });
 
   const date = getYesterday();
+
+  // 이미 수집된 날짜면 스킵
+  const snapshotFile = path.join(SNAPSHOTS_DIR, `${date}.json`);
+  if (fs.existsSync(snapshotFile)) {
+    const existing = JSON.parse(fs.readFileSync(snapshotFile, 'utf-8'));
+    if ((existing.members?.length ?? 0) > 0) {
+      console.log(`✅ ${date} 데이터 이미 존재 (${existing.members.length}명) → 스킵`);
+      process.exit(0);
+    }
+  }
+
   console.log(`\n🍄 거울 길드 데이터 수집 시작 (${date})\n`);
 
-  // 1. 길드 ID 조회
+  // 1. 길드 ID 조회 (데이터 준비 여부 probe)
   console.log('1️⃣  길드 ID 조회...');
-  const guildIdData = await apiCall(
-    `${BASE_URL}/guild/id?guild_name=${encodeURIComponent(GUILD_NAME)}&world_name=${encodeURIComponent(WORLD_NAME)}`
-  );
+  let guildIdData: any;
+  try {
+    guildIdData = await apiCall(
+      `${BASE_URL}/guild/id?guild_name=${encodeURIComponent(GUILD_NAME)}&world_name=${encodeURIComponent(WORLD_NAME)}`
+    );
+  } catch (e: any) {
+    if (e.code === 'NOT_READY') {
+      console.log(`⏳ ${date} 데이터 아직 준비 중 (OPENAPI00009) → 다음 시도까지 대기`);
+      process.exit(0);
+    }
+    throw e;
+  }
   const oguildId = guildIdData.oguild_id;
   console.log(`   oguild_id: ${oguildId}`);
 
