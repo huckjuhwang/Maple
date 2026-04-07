@@ -2,8 +2,8 @@ name: 🍄 오늘 실시간 수집 (매시간)
 
 on:
   schedule:
-    # 매시간 정각 (UTC) = KST 매시간 정각+9h
-    - cron: '0 * * * *'
+    # 매 30분마다
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
