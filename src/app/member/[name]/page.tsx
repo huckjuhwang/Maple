@@ -123,7 +123,7 @@ export default async function MemberPage({ params }: Props) {
   const oldest = hasHistory ? history[0] : null;
   const latest = hasHistory ? history[history.length - 1] : null;
 
-  // 경험치 분석 (최근 8일) - expLevelChange(레벨분)로 통일
+  // 경험치 분석 (최근 8일)
   const recent8 = history.slice(-8);
 
   function calcExpLevelChange(prevLevel: number, prevExpRate: number, currLevel: number, currExpRate: number): number {
@@ -134,21 +134,34 @@ export default async function MemberPage({ params }: Props) {
     return prevRemaining + fullLevels + currProgress;
   }
 
-  const dailyExpGains: { date: string; gain: number; expLevelChange: number; levelUp: boolean }[] = [];
+  const dailyExpGains: { date: string; gain: number; expLevelChange: number; levelUp: boolean; estimated: boolean }[] = [];
   for (let i = 1; i < recent8.length; i++) {
     const prev = recent8[i - 1];
     const curr = recent8[i];
     const levelUp = curr.level > prev.level;
     const expLevelChange = Math.max(0, calcExpLevelChange(prev.level, prev.expRate, curr.level, curr.expRate));
-    // 실제 exp: 레벨업 없을 때만 신뢰 가능
     const rawGain = curr.exp - prev.exp;
     const gain = levelUp ? 0 : Math.max(rawGain, 0);
-    dailyExpGains.push({ date: curr.date, gain, expLevelChange, levelUp });
+    dailyExpGains.push({ date: curr.date, gain, expLevelChange, levelUp, estimated: false });
+  }
+
+  // 레벨업 날 경험치 추정: 같은 레벨 날들의 "1% 당 경험치"로 계산
+  const expPerPct = dailyExpGains
+    .filter(d => !d.levelUp && d.gain > 0 && d.expLevelChange > 0)
+    .map(d => d.gain / (d.expLevelChange * 100));
+  const avgExpPerPct = expPerPct.length > 0
+    ? expPerPct.reduce((a, b) => a + b, 0) / expPerPct.length
+    : 0;
+  for (const d of dailyExpGains) {
+    if (d.levelUp && avgExpPerPct > 0) {
+      d.gain = Math.round(d.expLevelChange * 100 * avgExpPerPct);
+      d.estimated = true;
+    }
   }
 
   const totalExpGain = dailyExpGains.reduce((s, d) => s + d.gain, 0);
   const avgDailyExp = dailyExpGains.length > 0
-    ? Math.round(totalExpGain / dailyExpGains.filter(d => !d.levelUp).length || 0)
+    ? Math.round(totalExpGain / dailyExpGains.length)
     : 0;
 
   // 레벨업 예상일 계산 (7일 평균 일일 경험치% 상승량 사용)
@@ -289,10 +302,8 @@ export default async function MemberPage({ params }: Props) {
             <div className="text-xs font-bold opacity-40 mb-3 uppercase tracking-wider">일별 경험치 획득량</div>
             <div className="space-y-2">
               {dailyExpGains.map((d) => {
-                // 레벨업 날은 expLevelChange 기준으로 바 크기 계산
-                const maxVal = Math.max(...dailyExpGains.map(x => x.levelUp ? x.expLevelChange * 100 : x.gain / 1e10), 0.01);
-                const barVal = d.levelUp ? d.expLevelChange * 100 : d.gain / 1e10;
-                const pct = (barVal / maxVal) * 100;
+                const maxGain = Math.max(...dailyExpGains.map(x => x.gain), 1);
+                const pct = (d.gain / maxGain) * 100;
                 return (
                   <div key={d.date} className="flex items-center gap-2">
                     <div className="text-xs w-12 opacity-60">{d.date.slice(5)}</div>
@@ -300,7 +311,7 @@ export default async function MemberPage({ params }: Props) {
                       <div
                         className="h-full rounded-full transition-all duration-500"
                         style={{
-                          width: `${Math.max(pct, 2)}%`,
+                          width: `${Math.max(pct, d.gain > 0 ? 2 : 0)}%`,
                           background: d.levelUp
                             ? 'linear-gradient(90deg, #FFD93D, #FF9B37)'
                             : 'linear-gradient(90deg, #A8D8EA, #5B9BD5)',
@@ -308,9 +319,9 @@ export default async function MemberPage({ params }: Props) {
                       />
                       <div className="absolute inset-0 flex items-center px-2">
                         <span className="text-xs font-bold" style={{ color: pct > 40 ? 'white' : 'var(--maple-brown)' }}>
-                          {d.levelUp
-                            ? `+${d.expLevelChange.toFixed(2)}레벨분 🎉`
-                            : d.gain > 0 ? formatNumber(d.gain) : '-'}
+                          {d.gain > 0
+                            ? `${d.estimated ? '~' : ''}${formatNumber(d.gain)}${d.levelUp ? ' 🎉' : ''}`
+                            : '-'}
                         </span>
                       </div>
                     </div>
