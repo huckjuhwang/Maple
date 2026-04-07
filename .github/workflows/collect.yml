@@ -1,4 +1,4 @@
-name: 🍄 전날 결산 수집 (새벽 1시)
+name: 🍄 전날 결산 수집 (00:05)
 
 on:
   schedule:
@@ -36,25 +36,3 @@ jobs:
           git add -f data/
           git diff --staged --quiet || git commit -m "🍄 전날 결산: $(date +%Y-%m-%d)"
           git push
-
-      - name: 📢 디스코드 공지 수집
-        env:
-          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-          DISCORD_NOTICE_CHANNEL_ID: ${{ secrets.DISCORD_NOTICE_CHANNEL_ID }}
-        run: npx tsx scripts/fetch-notices.ts || true
-
-      - name: 📁 공지 커밋 & 푸시
-        run: |
-          git add -f data/notices.json 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "📢 공지 업데이트: $(date +%Y-%m-%d)"
-          git push || true
-
-      - name: 📊 일별 경험치 리포트 → 디스코드 발송
-        if: ${{ env.CRON_SECRET != '' && env.VERCEL_URL != '' }}
-        env:
-          CRON_SECRET: ${{ secrets.CRON_SECRET }}
-          VERCEL_URL: ${{ secrets.VERCEL_URL }}
-        run: |
-          curl -s -X POST "$VERCEL_URL/api/cron/daily" \
-            -H "Authorization: Bearer $CRON_SECRET" \
-            -H "Content-Type: application/json" || true
