@@ -45,10 +45,13 @@ const CHANGE_SORT_OPTIONS: { key: SortBy; label: string; emoji: string }[] = [
   { key: 'unionLevel', label: '유니온 상승', emoji: '🏰' },
 ];
 
+const INITIAL_VISIBLE = 50; // 포디움 3 + 리스트 47
+
 export default function GrowthRanking({ members, comparisons }: Props) {
   const [sortBy, setSortBy] = useState<SortBy>('expGain');
   const [period, setPeriod] = useState<Period>('daily');
   const [viewMode, setViewMode] = useState<ViewMode>(comparisons.daily?.hasData ? 'change' : 'current');
+  const [showAll, setShowAll] = useState(false);
 
   const comparison = useMemo(() => comparisons[period], [comparisons, period]);
 
@@ -116,6 +119,8 @@ export default function GrowthRanking({ members, comparisons }: Props) {
 
   const top3 = sorted.slice(0, 3);
   const rest = sorted.slice(3);
+  const visibleRest = showAll ? rest : rest.slice(0, INITIAL_VISIBLE - 3);
+  const hiddenCount = rest.length - (INITIAL_VISIBLE - 3);
 
   function getValue(member: any): string {
     if (viewMode === 'change' && hasComparison) {
@@ -131,7 +136,7 @@ export default function GrowthRanking({ members, comparisons }: Props) {
     switch (activeSortBy) {
       case 'combatPower': return formatCombatPower(member.combatPower);
       case 'level': return `Lv.${member.level}`;
-      case 'unionLevel': return formatNumber(member.unionLevel);
+      case 'unionLevel': return member.unionLevel.toLocaleString();
       default: return '';
     }
   }
@@ -143,14 +148,9 @@ export default function GrowthRanking({ members, comparisons }: Props) {
       switch (activeSortBy) {
         case 'combatPower': return `Lv.${c.level} ${c.job}`;
         case 'expGain': {
-          const levelStr = c.levelChange > 0 ? `Lv.${c.prevLevel}→${c.level}` : `Lv.${c.level} (${c.expRate.toFixed(1)}%)`;
-          const periodDays = comparison!.period === 'weekly' ? 7 : comparison!.period === 'monthly' ? 30 : 1;
-          const dailyGain = c.expLevelChange / periodDays;
-          const remaining = (100 - c.expRate) / 100;
-          const daysToLevel = dailyGain > 0 ? Math.ceil(remaining / dailyGain) : null;
-          const levelUpStr = daysToLevel !== null ? ` · 레벨업 ${daysToLevel}일` : '';
-          const dateStr = `${comparison!.fromDate.slice(5)} ~ ${comparison!.toDate.slice(5)}`;
-          return `${levelStr}${levelUpStr}  ${dateStr}`;
+          return c.levelChange > 0
+            ? `Lv.${c.prevLevel}→${c.level}`
+            : `Lv.${c.level} (${c.expRate.toFixed(1)}%)`;
         }
         case 'unionLevel': return `Lv.${c.level}`;
         default: return '';
@@ -272,7 +272,12 @@ export default function GrowthRanking({ members, comparisons }: Props) {
           <span>📅</span>
           <span className="font-bold" style={{ color: 'var(--maple-orange)' }}>{getPeriodLabel()}</span>
           <span className="opacity-40">|</span>
-          <span>{comparison!.fromDate} → {comparison!.toDate}</span>
+          <span>
+            {period === 'daily'
+              ? comparison!.toDate
+              : `${comparison!.fromDate} → ${comparison!.toDate}`
+            }
+          </span>
           <span className="opacity-40 ml-auto">{comparison!.members.length}명</span>
         </div>
       )}
@@ -344,7 +349,7 @@ export default function GrowthRanking({ members, comparisons }: Props) {
       {rest.length > 0 && (
         <div className="maple-card p-3">
           <div className="space-y-1">
-            {rest.map((member: any, i: number) => (
+            {visibleRest.map((member: any, i: number) => (
               <Link
                 key={member.characterName}
                 href={memberUrl(member.characterName)}
@@ -375,6 +380,25 @@ export default function GrowthRanking({ members, comparisons }: Props) {
               </Link>
             ))}
           </div>
+          {/* 50위 이후 펼치기 */}
+          {!showAll && hiddenCount > 0 && (
+            <button
+              onClick={() => setShowAll(true)}
+              className="w-full mt-3 py-2 text-xs rounded-lg transition-colors hover:bg-amber-100"
+              style={{ color: 'var(--maple-orange)', border: '1px dashed var(--maple-orange)' }}
+            >
+              ▼ 나머지 {hiddenCount}명 더 보기
+            </button>
+          )}
+          {showAll && hiddenCount > 0 && (
+            <button
+              onClick={() => setShowAll(false)}
+              className="w-full mt-3 py-2 text-xs rounded-lg transition-colors hover:bg-amber-100"
+              style={{ color: '#aaa', border: '1px dashed #ddd' }}
+            >
+              ▲ 접기
+            </button>
+          )}
         </div>
       )}
     </div>
