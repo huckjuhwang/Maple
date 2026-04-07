@@ -2,12 +2,8 @@ name: 🍄 전날 결산 수집 (00:05)
 
 on:
   schedule:
-    # KST 00:05 = UTC 15:05 (전날)
-    - cron: '5 15 * * *'
-    # KST 01:05 = UTC 16:05 (전날)
-    - cron: '5 16 * * *'
-    # KST 02:05 = UTC 17:05 (전날)
-    - cron: '5 17 * * *'
+    # 매시간 05분마다 실행, 당일 수집 성공 시 자동 스킵
+    - cron: '5 * * * *'
   workflow_dispatch:
 
 permissions:
