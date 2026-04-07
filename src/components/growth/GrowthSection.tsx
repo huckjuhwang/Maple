@@ -2,11 +2,9 @@
 
 import { useState, useMemo } from 'react';
 import GrowthRanking from './GrowthRanking';
-import GrowthChart from '@/components/charts/GrowthChart';
 import type { CompareResult } from '@/features/growth/compare';
 
 type Period = 'daily' | 'weekly' | 'monthly';
-type View = 'chart' | 'ranking';
 
 interface Props {
   members: any[];
@@ -23,7 +21,6 @@ interface Props {
 
 export default function GrowthSection({ members, comparisons, snapshots, allMemberNames, selectedGroup, onGroupChange }: Props) {
   const [period, setPeriod] = useState<Period>('daily');
-  const [view, setView] = useState<View>('ranking');
   const [showGroupPicker, setShowGroupPicker] = useState(false);
   const [memberSearch, setMemberSearch] = useState('');
 
@@ -62,41 +59,19 @@ export default function GrowthSection({ members, comparisons, snapshots, allMemb
   return (
     <div className="space-y-3">
 
-      {/* ── 필터 2x2 그리드 ── */}
-      <div className="grid grid-cols-2 gap-3">
-        {/* 보기 방식 */}
-        <div className="maple-card p-3">
-          <div className="text-xs font-bold opacity-40 mb-2">보기 방식</div>
-          <div className="flex gap-1">
+      {/* ── 기간 탭 ── */}
+      <div className="maple-card p-3">
+        <div className="text-xs font-bold opacity-40 mb-2">기간</div>
+        <div className="flex gap-1">
+          {(['daily', 'weekly', 'monthly'] as Period[]).map(p => (
             <button
-              onClick={() => setView('ranking')}
-              className={`maple-tab flex-1 text-center text-xs ${view === 'ranking' ? 'maple-tab-active' : 'maple-tab-inactive'}`}
+              key={p}
+              onClick={() => setPeriod(p)}
+              className={`maple-tab flex-1 text-center text-xs ${period === p ? 'maple-tab-active' : 'maple-tab-inactive'}`}
             >
-              🏆 랭킹
+              {p === 'daily' ? '일간' : p === 'weekly' ? '주간' : '월간'}
             </button>
-            <button
-              onClick={() => setView('chart')}
-              className={`maple-tab flex-1 text-center text-xs ${view === 'chart' ? 'maple-tab-active' : 'maple-tab-inactive'}`}
-            >
-              📈 차트
-            </button>
-          </div>
-        </div>
-
-        {/* 기간 */}
-        <div className="maple-card p-3">
-          <div className="text-xs font-bold opacity-40 mb-2">기간</div>
-          <div className="flex gap-1">
-            {(['daily', 'weekly', 'monthly'] as Period[]).map(p => (
-              <button
-                key={p}
-                onClick={() => setPeriod(p)}
-                className={`maple-tab flex-1 text-center text-xs ${period === p ? 'maple-tab-active' : 'maple-tab-inactive'}`}
-              >
-                {p === 'daily' ? '일간' : p === 'weekly' ? '주간' : '월간'}
-              </button>
-            ))}
-          </div>
+          ))}
         </div>
       </div>
 
@@ -179,14 +154,8 @@ export default function GrowthSection({ members, comparisons, snapshots, allMemb
         )}
       </div>
 
-      {/* ── 콘텐츠 ── */}
-      {view === 'chart' && (
-        <GrowthChart snapshots={filteredSnapshots} allMembers={filteredMemberNames} />
-      )}
-
-      {view === 'ranking' && (
-        <GrowthRanking members={filteredMembers} comparison={currentComparison} />
-      )}
+      {/* ── 랭킹 ── */}
+      <GrowthRanking members={filteredMembers} comparison={currentComparison} />
     </div>
   );
 }

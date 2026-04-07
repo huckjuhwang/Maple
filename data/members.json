@@ -1,0 +1,786 @@
+[
+  {
+    "characterName": "총알왕",
+    "ocid": "c2aff66d5877280f4ae19398071e25bf"
+  },
+  {
+    "characterName": "패그",
+    "ocid": "00137006198d4823ebd3577d9b40cd83"
+  },
+  {
+    "characterName": "희뜨",
+    "ocid": "cf04fa7c69672a852877f0380bf64db7"
+  },
+  {
+    "characterName": "크리아스노",
+    "ocid": "763229be88900f2d6f04a926d7321520"
+  },
+  {
+    "characterName": "전략가",
+    "ocid": "406dd6f4084cec179b49ab98dbe3a597"
+  },
+  {
+    "characterName": "모홋",
+    "ocid": "d006027d70071fdd280d4d34d1c489ec"
+  },
+  {
+    "characterName": "첫미련",
+    "ocid": "51cebc88ad3f9c646933236462e1d6df"
+  },
+  {
+    "characterName": "도낭비",
+    "ocid": "e67b7d58853c3842e6c6cbf68c3b06d3"
+  },
+  {
+    "characterName": "ol픈소마",
+    "ocid": "6274ccd0d61c7f846824c3d609cfb477"
+  },
+  {
+    "characterName": "쿨우",
+    "ocid": "b130c4173fef8900ee745c897f4aaaa4"
+  },
+  {
+    "characterName": "낙원의인형",
+    "ocid": "7ad25fa838f103bcaa3649f3cbf5080b"
+  },
+  {
+    "characterName": "얼음맛좀봐랏",
+    "ocid": "07631c3647a3385c8b8640db48134fb4"
+  },
+  {
+    "characterName": "십군",
+    "ocid": "06f9d0db4ad802f349806a7a785ee2b5"
+  },
+  {
+    "characterName": "앗츠팡",
+    "ocid": "58e111cb6958416e46763cfeb9a72704"
+  },
+  {
+    "characterName": "내활",
+    "ocid": "33c86de26fddccb053d1c2652ee78044"
+  },
+  {
+    "characterName": "꺄부렁",
+    "ocid": "d6c7cb5366eab2721d6e7f6198eee857"
+  },
+  {
+    "characterName": "예이이이이잇",
+    "ocid": "72427452024608cd9cef62af54c9d29f"
+  },
+  {
+    "characterName": "Fives",
+    "ocid": "f0fe8ad35bc0e108afe5b35a4eb7d885"
+  },
+  {
+    "characterName": "미소맛소다",
+    "ocid": "863ee9f54db36f8f202b531fe990d621"
+  },
+  {
+    "characterName": "하늘수",
+    "ocid": "9ed204f4f099fee101f4402c2004c9ac"
+  },
+  {
+    "characterName": "원기는친구없",
+    "ocid": "f1dd70bd60ec59ad5cc7d3040d45b402"
+  },
+  {
+    "characterName": "Flow",
+    "ocid": "8fe326ded64f96e12f09f506ad3f1bfa"
+  },
+  {
+    "characterName": "에구룽",
+    "ocid": "122ed91b2d43a24caf30d66c496c5b9c"
+  },
+  {
+    "characterName": "소다맛미소",
+    "ocid": "5a310a4c9ebaa5471fc89d8c3d9d3c76"
+  },
+  {
+    "characterName": "뚜왕아",
+    "ocid": "0007fd7dd540ad8749965587fde15ca3"
+  },
+  {
+    "characterName": "도동보",
+    "ocid": "124dfd4254e02d7130f4d9b1c582474e"
+  },
+  {
+    "characterName": "깨이",
+    "ocid": "2ecad477e7aa0d49eab93b270f6232d8"
+  },
+  {
+    "characterName": "노닥아크",
+    "ocid": "858ff61ba2eddfb313d9e72cb52c4dc2"
+  },
+  {
+    "characterName": "찐돌쿤",
+    "ocid": "9486be659dc6f69fd392bd0c5c1743fc"
+  },
+  {
+    "characterName": "여모르띠",
+    "ocid": "777cbca47f40a9cf6ffb31244e42677c"
+  },
+  {
+    "characterName": "젼메추",
+    "ocid": "5536ba2709dc957e81c694d4e63405ab"
+  },
+  {
+    "characterName": "챠루",
+    "ocid": "d0cb2e918053f4238a6b7fb8c518c93f"
+  },
+  {
+    "characterName": "애플핏치",
+    "ocid": "f284c670a568c0d527f135b0425ea284"
+  },
+  {
+    "characterName": "집잃은펭귄",
+    "ocid": "19b75792d543ca1ffd85fb695bd9f064"
+  },
+  {
+    "characterName": "잉짱",
+    "ocid": "2b17e0813a6df5c9ebac0e37b3fab465"
+  },
+  {
+    "characterName": "아델렌타",
+    "ocid": "8f2d51f2712848d79e7e2c74f6cb3354"
+  },
+  {
+    "characterName": "추준",
+    "ocid": "0d4b32b38facab9f872105929355c34c"
+  },
+  {
+    "characterName": "기달리즈",
+    "ocid": "e90db2dfc3367ae7e50272555a46eabb"
+  },
+  {
+    "characterName": "에너지스마일",
+    "ocid": "2574497e3c6f245edc18928a9c80d6cd"
+  },
+  {
+    "characterName": "뚜앵아",
+    "ocid": "c11fb54814a7d6aaaf32b021ad1c5b77"
+  },
+  {
+    "characterName": "벡난",
+    "ocid": "325eda3457090443e6f68d8b78e5c254"
+  },
+  {
+    "characterName": "블결",
+    "ocid": "dfb7e7e65c2f2222fde6da7ce421fd4c"
+  },
+  {
+    "characterName": "소퐁",
+    "ocid": "78b1f828f508269ce3129c489c43c631"
+  },
+  {
+    "characterName": "세현하나",
+    "ocid": "c63574b6d3dfadb13577481ac4b954f8"
+  },
+  {
+    "characterName": "용용이눈나",
+    "ocid": "df9781d407309fcb65f73b7359c12799"
+  },
+  {
+    "characterName": "EsenJ",
+    "ocid": "0d47562bb11d910e152f281e46960f29"
+  },
+  {
+    "characterName": "PBVIP",
+    "ocid": "d2b5d542950c6e4bd13b07a1cab1e739"
+  },
+  {
+    "characterName": "상암벌광전사",
+    "ocid": "bf6e7de1eb2cd9622ab769c53255eaff"
+  },
+  {
+    "characterName": "나로멋쨍이",
+    "ocid": "e020ec5e6d517be4baf12ba8621b1455"
+  },
+  {
+    "characterName": "탁쿤이",
+    "ocid": "971fc28db245db5c2852df708fc0fb82"
+  },
+  {
+    "characterName": "문쏙쏙",
+    "ocid": "fb260bed708eb7f3305b19d1fad8bed8"
+  },
+  {
+    "characterName": "호피곰",
+    "ocid": "14eb573d51c8302152ffd82120751d99"
+  },
+  {
+    "characterName": "쭈히",
+    "ocid": "4c8118bc83e1e2e1b6e0251dd99b3619"
+  },
+  {
+    "characterName": "이민흉",
+    "ocid": "6bcfda2f75a76a60e03beb7783dec31d"
+  },
+  {
+    "characterName": "니콜라테슬라",
+    "ocid": "a5e3bb2ab6734faf34a4eb7e448fd0be"
+  },
+  {
+    "characterName": "쒸꺄",
+    "ocid": "5122aff6ac9c446a2402a9f6fe74e576"
+  },
+  {
+    "characterName": "긍지높은콩",
+    "ocid": "edd0b7f0957ba07d4d01a58ac4553840"
+  },
+  {
+    "characterName": "재주부림",
+    "ocid": "594078e8b689b6761715f3612be9c979"
+  },
+  {
+    "characterName": "전설적인고서",
+    "ocid": "add5d04da0741b31ff244134afc75fbc"
+  },
+  {
+    "characterName": "로보락",
+    "ocid": "6c39a8575578689857c1f2eec155dda8"
+  },
+  {
+    "characterName": "뚱늬",
+    "ocid": "bd477f07b0b28c647e7dbcdff8db7aeb"
+  },
+  {
+    "characterName": "나실피드",
+    "ocid": "d19e7e7c0375828759f5a87af186bbc2"
+  },
+  {
+    "characterName": "임나구리",
+    "ocid": "b377110c03d6661a38069824f29e4bee"
+  },
+  {
+    "characterName": "령언",
+    "ocid": "fdaaeadfdc18e6b8e86e18ba9617a117"
+  },
+  {
+    "characterName": "뽀은",
+    "ocid": "6166baf1a5baa48316bf8f3c7dd0cc8e"
+  },
+  {
+    "characterName": "귀살대호앵",
+    "ocid": "7fc5941d89281113fc1c0dfccbba0996"
+  },
+  {
+    "characterName": "키아o",
+    "ocid": "1ecdf1ee50bd6ae4859d95f49e77420b"
+  },
+  {
+    "characterName": "메익두방",
+    "ocid": "b5d3ee517ad08f22c4c6b710e0990a32"
+  },
+  {
+    "characterName": "고로시상어",
+    "ocid": "e7c1e5e8bac153041023187a4bb1b52e"
+  },
+  {
+    "characterName": "꽐루님",
+    "ocid": "0fc9cfdcd5b568e993b0869f41eab862"
+  },
+  {
+    "characterName": "금발카나오",
+    "ocid": "a9c896de5271d04ef4cc714b75134b67"
+  },
+  {
+    "characterName": "령어니온",
+    "ocid": "afda080c79ba83da14f09f08426376c3"
+  },
+  {
+    "characterName": "20억",
+    "ocid": "5672d90ab0320617dfeada30d6fbfefd"
+  },
+  {
+    "characterName": "유킹",
+    "ocid": "41acae21249bc368a911c50949e94d63"
+  },
+  {
+    "characterName": "부러운눈빛",
+    "ocid": "9540d285e82e6239de4c48c6d0b8aba6"
+  },
+  {
+    "characterName": "크앍숍",
+    "ocid": "ab84f1dcf69cd1edb44e2903b3129adf"
+  },
+  {
+    "characterName": "철상",
+    "ocid": "5abfda99f2cc6386e28b6765ed67d652"
+  },
+  {
+    "characterName": "란화꽃",
+    "ocid": "aa197ec2855b39d507222dd6eaffd1ac"
+  },
+  {
+    "characterName": "THEHYPHEN",
+    "ocid": "741458d6aea989d912e5b6b327de56fa"
+  },
+  {
+    "characterName": "BOB버걸",
+    "ocid": "dc5f730a70bdb2de28dff14e089669c6"
+  },
+  {
+    "characterName": "설윤중",
+    "ocid": "111ec855b9c23d24462f4b351523af40"
+  },
+  {
+    "characterName": "월산동리가민",
+    "ocid": "5d3a0b95d97ddff8f2d5da4a8ccc3ade"
+  },
+  {
+    "characterName": "앵구바퍼",
+    "ocid": "635ee99243c093b7ea0073309ee31e45"
+  },
+  {
+    "characterName": "무로민",
+    "ocid": "c8e6daf00f3ed3dd4f29c75d3235ad32"
+  },
+  {
+    "characterName": "맥주맛소마",
+    "ocid": "6500c843994fe4f0045710b3dc4c5746"
+  },
+  {
+    "characterName": "데먼",
+    "ocid": "e35b32815cecd87c7a2562ea5e7bba03"
+  },
+  {
+    "characterName": "소방교최재혁",
+    "ocid": "2327051261505c03e26b1d5ef513e620"
+  },
+  {
+    "characterName": "운리그",
+    "ocid": "e3acb25da9dc770febcb8e32bf915135"
+  },
+  {
+    "characterName": "윤띠",
+    "ocid": "9525501f83602b9c2e969169c385e1ec"
+  },
+  {
+    "characterName": "흰라라슈",
+    "ocid": "c3bcbc35c5b218680a3a5e99af03f98e"
+  },
+  {
+    "characterName": "렌찌",
+    "ocid": "0af54cdeda6ec7aa4abbe59be784c5a9"
+  },
+  {
+    "characterName": "닛뾰",
+    "ocid": "53f94434d0d0b02bfc3f3cc100d08a20"
+  },
+  {
+    "characterName": "이시카와은월",
+    "ocid": "a7405bb7162b139014b9c94348b9f979"
+  },
+  {
+    "characterName": "여왕님최고다",
+    "ocid": "d177a9f9f0a09ed0941e237f4f7c214f"
+  },
+  {
+    "characterName": "로사나워",
+    "ocid": "e7c0ac991b0aea460e3329310a82a3b2"
+  },
+  {
+    "characterName": "밈두",
+    "ocid": "931e3fd676d4086fac6779917f626ddd"
+  },
+  {
+    "characterName": "설명스킵충",
+    "ocid": "7501ce7e021b1f0004661352e0c8e82e"
+  },
+  {
+    "characterName": "퀘스트충충",
+    "ocid": "a8c17732c131ce86dec01d8897d6ae4a"
+  },
+  {
+    "characterName": "혁쥬",
+    "ocid": "eff243265def164f31d03206bb91a2ce"
+  },
+  {
+    "characterName": "IluvZero",
+    "ocid": "3a38dd5c34a8db2bcc8db92fac9b752a"
+  },
+  {
+    "characterName": "떡꼬치맨",
+    "ocid": "3aab3c9d3c461a70c5125ad3af3d9490"
+  },
+  {
+    "characterName": "탱또먹",
+    "ocid": "10f978ac13f85d36c3b0cdb469682ae1"
+  },
+  {
+    "characterName": "세현마흔여섯",
+    "ocid": "621eff7a31b2fed752e5206c1366732a"
+  },
+  {
+    "characterName": "쪼읊",
+    "ocid": "44868c396fb20328f6d0202ac163c734"
+  },
+  {
+    "characterName": "여명의키드",
+    "ocid": "eacf381b38073044623b5a23797b4781"
+  },
+  {
+    "characterName": "iceia",
+    "ocid": "6757d4bb532a6c52eacf4310275121f1"
+  },
+  {
+    "characterName": "난펫",
+    "ocid": "6804e1d975fedfbb0eb9371b83a7ff89"
+  },
+  {
+    "characterName": "뚱넝",
+    "ocid": "947e14cccf3eaebfeda404b155599670"
+  },
+  {
+    "characterName": "반쪽탄",
+    "ocid": "2945f117b20ccdc62c61c39b961c3a56"
+  },
+  {
+    "characterName": "홍언",
+    "ocid": "5730b69406c2131137fd3de2e26be3ac"
+  },
+  {
+    "characterName": "으연",
+    "ocid": "70c7ef3bcc89afa1e74e215f078acef5"
+  },
+  {
+    "characterName": "총쌤",
+    "ocid": "83310eced051b2473b5c5cc82a5df88f"
+  },
+  {
+    "characterName": "지넬라",
+    "ocid": "77630f4f62b4e930edf2a410ad88275c"
+  },
+  {
+    "characterName": "노약자테러범",
+    "ocid": "c0f925b6d7e691eaffaac4270a85f6b4"
+  },
+  {
+    "characterName": "JELYPO",
+    "ocid": "1fa2c25995fea20c0ac8d28e284a013c"
+  },
+  {
+    "characterName": "맨들쭈",
+    "ocid": "86f721c219a85415767e5aeffed4bc81"
+  },
+  {
+    "characterName": "조팔붕",
+    "ocid": "625c14cbfea42d4fc48fa1bb16a04632"
+  },
+  {
+    "characterName": "텃루",
+    "ocid": "2fd8ef89f74462d4d1e13bb1d4bbcebc"
+  },
+  {
+    "characterName": "빼봉",
+    "ocid": "de524db6402710355725829c5327aa34"
+  },
+  {
+    "characterName": "휭곰범",
+    "ocid": "1e3a8897af4797d673e5df7066cf0065"
+  },
+  {
+    "characterName": "비데물",
+    "ocid": "1e06952d9d3398a1154d312b13f8cd7f"
+  },
+  {
+    "characterName": "오늘춥더라",
+    "ocid": "54e3a3afd5c5887cb4e361503937b9a9"
+  },
+  {
+    "characterName": "콰트로에어",
+    "ocid": "11714c93db0490361428b94bdac9b9aa"
+  },
+  {
+    "characterName": "외톨이영욱",
+    "ocid": "3249abce537abe5f2d098f5a0bcbf30f"
+  },
+  {
+    "characterName": "데션족",
+    "ocid": "5257c22c5cbca146459c2a93c905a89b"
+  },
+  {
+    "characterName": "우미클",
+    "ocid": "ed1b8278610e76ff2ef9cfd58ee88dd6"
+  },
+  {
+    "characterName": "Limit",
+    "ocid": "f9b90c3ea944a19aeb0bbce1a7ca8f64"
+  },
+  {
+    "characterName": "성현x",
+    "ocid": "fa2f17d54ca0dd9747f269457bdaae82"
+  },
+  {
+    "characterName": "키루o",
+    "ocid": "89ad984a801100296e2c19e017f135b8"
+  },
+  {
+    "characterName": "김쫠깃",
+    "ocid": "417f78c62fb9e5b35dc1861e44878411"
+  },
+  {
+    "characterName": "0렙악마",
+    "ocid": "3701c631f41f85c48452046cba822b94"
+  },
+  {
+    "characterName": "Ludani",
+    "ocid": "160e63fc578e022acdb91216d9ebb6a4"
+  },
+  {
+    "characterName": "검바르",
+    "ocid": "fc40df85d8705a93baf7e27d8801b055"
+  },
+  {
+    "characterName": "지렌라",
+    "ocid": "029028c687b992e4b7250a8e85520ca0"
+  },
+  {
+    "characterName": "허쥬",
+    "ocid": "b5729c89e87510005a5c9b77c3c6b966"
+  },
+  {
+    "characterName": "닉넴쥰내귀찮",
+    "ocid": "85b016e80a38b71b15f272667d94daff"
+  },
+  {
+    "characterName": "능캣",
+    "ocid": "4bf34476758d0137fdc6800d511acd37"
+  },
+  {
+    "characterName": "미역",
+    "ocid": "77549ba4e307b08ee0b7e1dcb2d7444a"
+  },
+  {
+    "characterName": "쑈혜",
+    "ocid": "499cd3478b5d596367e99faaba22b3d0"
+  },
+  {
+    "characterName": "렌52",
+    "ocid": "7970c17d1442206206e60646d8fad89d"
+  },
+  {
+    "characterName": "핀치아빠",
+    "ocid": "f103fce7a2b09b1983418da4b483c8b8"
+  },
+  {
+    "characterName": "냐응",
+    "ocid": "2980a14b0ba2dcadc1641020fae11fdf"
+  },
+  {
+    "characterName": "사계의시계",
+    "ocid": "f7b0929a87b6f2625ddba7c41474731d"
+  },
+  {
+    "characterName": "맹자린",
+    "ocid": "087628bba2d2e60feebb9c2df1d71654"
+  },
+  {
+    "characterName": "팽장군",
+    "ocid": "6d8ac940c4c3936fa4d5a8c51fbbd5f7"
+  },
+  {
+    "characterName": "CcHm",
+    "ocid": "642f4bd6d5ba4851491d9dc2c59d80fb"
+  },
+  {
+    "characterName": "두몽지로",
+    "ocid": "ee650d38767c419ef5bfad83a9e58b2f"
+  },
+  {
+    "characterName": "관절렌",
+    "ocid": "ba485563bac8b2eaac14dd618457c51e"
+  },
+  {
+    "characterName": "븜균",
+    "ocid": "7fc6425fe0a37ccfd346f286bcd112de"
+  },
+  {
+    "characterName": "Cygnix",
+    "ocid": "fa893e8ce62ff6992ded4dbda6a9ee11"
+  },
+  {
+    "characterName": "악굽",
+    "ocid": "94bf3be1dca0efe8bd281e7ffc51e0c0"
+  },
+  {
+    "characterName": "딸기던진슬요",
+    "ocid": "e5e5457384220970991c52cbb48885cf"
+  },
+  {
+    "characterName": "섭바이병장",
+    "ocid": "d9b8e69fc6d59878905751cf93830603"
+  },
+  {
+    "characterName": "깅바비",
+    "ocid": "30e98fa27c2ccc27b608d34719d7b82b"
+  },
+  {
+    "characterName": "무민별",
+    "ocid": "f21084703c056111c6d66eaedaf9db28"
+  },
+  {
+    "characterName": "산골짜기렌",
+    "ocid": "2fedc65d889014d337a60d2e20537fa1"
+  },
+  {
+    "characterName": "렌타쿠용",
+    "ocid": "926d4af3d371655ec7918f6291942f2b"
+  },
+  {
+    "characterName": "주입",
+    "ocid": "1868a067a239f705f89f0f9ec863574c"
+  },
+  {
+    "characterName": "깝쯔",
+    "ocid": "d073f345a707d2201c3bc2f453aaf860"
+  },
+  {
+    "characterName": "롄숙",
+    "ocid": "87f9c858fd41bab6c6aa159da5521226"
+  },
+  {
+    "characterName": "누끼렌",
+    "ocid": "b9ae158cf1a288af03f59dc2b070eda9"
+  },
+  {
+    "characterName": "현대렌",
+    "ocid": "a1c696d88dcc4430caeb48daf3daf0f3"
+  },
+  {
+    "characterName": "노약자석여포",
+    "ocid": "d7e134fd0a1eea74715b0633b336c344"
+  },
+  {
+    "characterName": "지팡이와데스",
+    "ocid": "b700ff6def712c632e20b89b82e52ef5"
+  },
+  {
+    "characterName": "시간이머문별",
+    "ocid": "21dcceb52b878f590f56c1daf9bbdfae"
+  },
+  {
+    "characterName": "포피넛",
+    "ocid": "cff639f475da1439f8d0bf3ac5db47e4"
+  },
+  {
+    "characterName": "매혈단화",
+    "ocid": "f541f0ec9afcd7e01aa52f9573a4aebe"
+  },
+  {
+    "characterName": "Or기밤비",
+    "ocid": "595195c20de5cac9b77ceb561ec5b468"
+  },
+  {
+    "characterName": "파랑컬러렌즈",
+    "ocid": "756476bcb48f9c6097733bbb3ed1201d"
+  },
+  {
+    "characterName": "쨩룩",
+    "ocid": "67e2196bb9ed48fa565b55ab15f717f2"
+  },
+  {
+    "characterName": "변백",
+    "ocid": "32e980cd3fe8e2259081bf3342206ce7"
+  },
+  {
+    "characterName": "등대지기은율",
+    "ocid": "848567b925c346ef21024bf78d414f9c"
+  },
+  {
+    "characterName": "잼일검",
+    "ocid": "d5f168b05ed41b77437f2375160712dd"
+  },
+  {
+    "characterName": "전사렌쿤",
+    "ocid": "962829338f40348918c7cccde6e28ca6"
+  },
+  {
+    "characterName": "아리원z",
+    "ocid": "2e042b26a9cdb816dace518786048b9f"
+  },
+  {
+    "characterName": "고냥이계란말",
+    "ocid": "92e946283a92bfc246ee06684df56ae1"
+  },
+  {
+    "characterName": "븐브",
+    "ocid": "b63139603d28994cf36fb411dcbf7309"
+  },
+  {
+    "characterName": "테더코인매입",
+    "ocid": "a67d7ce1e936107d050d42898d802f17"
+  },
+  {
+    "characterName": "렌뚜븃",
+    "ocid": "e71cb497ea5ed5434d61ccb4da18d987"
+  },
+  {
+    "characterName": "금츔",
+    "ocid": "208ce8a221e61b57734f2326196e4db4"
+  },
+  {
+    "characterName": "뱃흔",
+    "ocid": "4be176d5a63884b3e988b442f0cb78d3"
+  },
+  {
+    "characterName": "받쑈",
+    "ocid": "d1c3b86f05b14e672c74f7d5a7827cc9"
+  },
+  {
+    "characterName": "슬렌떠",
+    "ocid": "7e3e9928b118529ad289340e4dfa505b"
+  },
+  {
+    "characterName": "렌선뽑힌망붕",
+    "ocid": "57c0aaec9d70d34c0c0bf306a7ba15ac"
+  },
+  {
+    "characterName": "리승렌즈",
+    "ocid": "419f059288af063cc06d3eb35427ed5e"
+  },
+  {
+    "characterName": "희쿨",
+    "ocid": "27d44ec9d8e53bcc99ad4ed252ab6733"
+  },
+  {
+    "characterName": "렌천칠",
+    "ocid": "885f0d1b92c8e85873ef0c23824ad70a"
+  },
+  {
+    "characterName": "설렌s",
+    "ocid": "4521c9047b25ff5414765a5d5162b397"
+  },
+  {
+    "characterName": "조약백호활",
+    "ocid": "8ba7c8ebda0447531d1408003e35fe74"
+  },
+  {
+    "characterName": "지하돌세민",
+    "ocid": "3eb501f7f0d0aedc0c5c53fac9a2de6a"
+  },
+  {
+    "characterName": "포철상",
+    "ocid": "08f11398d107349f16a74e181dba6eda"
+  },
+  {
+    "characterName": "헬로우송",
+    "ocid": "d60424799788488efa8fe76782a35a90"
+  },
+  {
+    "characterName": "그리워원기형",
+    "ocid": "5b2ae117740a8324fe95d6046d5cd744"
+  },
+  {
+    "characterName": "기마쯔",
+    "ocid": "c4970074bbd2f6fb6f94e02f0a1e8bc4"
+  },
+  {
+    "characterName": "도히쑥",
+    "ocid": "de096f3dbf4519e8eabaffccb2ede06d"
+  },
+  {
+    "characterName": "깡쫑민",
+    "ocid": "a626b8c9c29e2546e416430adbbf436a"
+  }
+]

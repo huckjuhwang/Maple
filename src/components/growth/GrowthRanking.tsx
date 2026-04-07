@@ -40,13 +40,13 @@ const CURRENT_SORT_OPTIONS: { key: SortBy; label: string; emoji: string }[] = [
 ];
 
 const CHANGE_SORT_OPTIONS: { key: SortBy; label: string; emoji: string }[] = [
-  { key: 'combatPower', label: '전투력 상승', emoji: '⚔️' },
   { key: 'expGain', label: '경험치 상승', emoji: '📈' },
+  { key: 'combatPower', label: '전투력 상승', emoji: '⚔️' },
   { key: 'unionLevel', label: '유니온 상승', emoji: '🏰' },
 ];
 
 export default function GrowthRanking({ members, comparison }: Props) {
-  const [sortBy, setSortBy] = useState<SortBy>('combatPower');
+  const [sortBy, setSortBy] = useState<SortBy>('expGain');
   const [viewMode, setViewMode] = useState<ViewMode>(comparison?.hasData ? 'change' : 'current');
 
   const hasComparison = comparison?.hasData && comparison.members.length > 0;
@@ -120,7 +120,7 @@ export default function GrowthRanking({ members, comparison }: Props) {
       if (!c) return '-';
       switch (activeSortBy) {
         case 'combatPower': return formatChange(c.combatPowerChange, 'combat');
-        case 'expGain': return `+${formatCombatPower(c.expChange ?? 0)}`;
+        case 'expGain': return `+${formatNumber(c.expChange ?? 0)}`;
         case 'unionLevel': return formatChange(c.unionLevelChange);
         default: return '-';
       }
@@ -139,7 +139,16 @@ export default function GrowthRanking({ members, comparison }: Props) {
       if (!c) return '';
       switch (activeSortBy) {
         case 'combatPower': return `Lv.${c.level} ${c.job}`;
-        case 'expGain': return c.levelChange > 0 ? `Lv.${c.prevLevel}→${c.level}` : `Lv.${c.level} (${c.expRate.toFixed(1)}%)`;
+        case 'expGain': {
+          const levelStr = c.levelChange > 0 ? `Lv.${c.prevLevel}→${c.level}` : `Lv.${c.level} (${c.expRate.toFixed(1)}%)`;
+          const periodDays = comparison!.period === 'weekly' ? 7 : comparison!.period === 'monthly' ? 30 : 1;
+          const dailyGain = c.expLevelChange / periodDays;
+          const remaining = (100 - c.expRate) / 100;
+          const daysToLevel = dailyGain > 0 ? Math.ceil(remaining / dailyGain) : null;
+          const levelUpStr = daysToLevel !== null ? ` · 레벨업 ${daysToLevel}일` : '';
+          const dateStr = `${comparison!.fromDate.slice(5)} ~ ${comparison!.toDate.slice(5)}`;
+          return `${levelStr}${levelUpStr}  ${dateStr}`;
+        }
         case 'unionLevel': return `Lv.${c.level}`;
         default: return '';
       }
@@ -175,8 +184,30 @@ export default function GrowthRanking({ members, comparison }: Props) {
     }
   }
 
+  function getRankingTitle(): string {
+    if (!hasComparison || viewMode !== 'change') return '길드원 현황';
+    const periodMap: Record<string, string> = {
+      daily: '오늘의',
+      weekly: '이번 주',
+      monthly: '이번 달',
+    };
+    const metricMap: Record<string, string> = {
+      expGain: '경험치 증가',
+      combatPower: '전투력 상승',
+      unionLevel: '유니온 상승',
+    };
+    return `${periodMap[comparison!.period] ?? ''} ${metricMap[activeSortBy] ?? ''} 순위`;
+  }
+
   return (
     <div className="space-y-3">
+      {/* ── 랭킹 타이틀 ── */}
+      {hasComparison && viewMode === 'change' && (
+        <div className="text-lg font-bold" style={{ color: 'var(--maple-orange)' }}>
+          🏆 {getRankingTitle()}
+        </div>
+      )}
+
       {/* ── 데이터 + 정렬 2x2 ── */}
       <div className="grid grid-cols-2 gap-3">
         {/* 데이터 종류 */}
@@ -184,18 +215,18 @@ export default function GrowthRanking({ members, comparison }: Props) {
           <div className="text-xs font-bold opacity-40 mb-2">데이터</div>
           <div className="flex gap-1">
             <button
-              onClick={() => setViewMode('current')}
-              className={`maple-tab flex-1 text-center text-xs ${viewMode === 'current' ? 'maple-tab-active' : 'maple-tab-inactive'}`}
-            >
-              📊 현재
-            </button>
-            <button
               onClick={() => setViewMode('change')}
               className={`maple-tab flex-1 text-center text-xs ${viewMode === 'change' ? 'maple-tab-active' : 'maple-tab-inactive'}`}
               disabled={!hasComparison}
               style={{ opacity: hasComparison ? 1 : 0.4 }}
             >
               📈 변화량
+            </button>
+            <button
+              onClick={() => setViewMode('current')}
+              className={`maple-tab flex-1 text-center text-xs ${viewMode === 'current' ? 'maple-tab-active' : 'maple-tab-inactive'}`}
+            >
+              📊 현재
             </button>
           </div>
         </div>

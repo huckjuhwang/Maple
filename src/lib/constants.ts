@@ -18,7 +18,11 @@ export function getYesterday(): string {
 }
 
 export function formatNumber(n: number): string {
-  if (n >= 100000000) return `${(n / 100000000).toFixed(1)}억`;
+  const abs = Math.abs(n);
+  const sign = n < 0 ? '-' : '';
+  if (abs >= 1000000000000) return `${sign}${(abs / 1000000000000).toFixed(2)}조`;
+  if (abs >= 100000000) return `${sign}${(abs / 100000000).toFixed(1)}억`;
+  if (abs >= 10000) return `${sign}${(abs / 10000).toFixed(0)}만`;
   return n.toLocaleString();
 }
 

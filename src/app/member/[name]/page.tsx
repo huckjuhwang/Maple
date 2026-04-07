@@ -249,12 +249,12 @@ export default async function MemberPage({ params }: Props) {
           <div className="grid grid-cols-3 gap-3 mb-4">
             <div className="maple-card p-4 text-center">
               <div className="text-xs opacity-60 mb-1">📈 일일 평균</div>
-              <div className="text-lg font-bold text-gradient-orange">{formatCombatPower(avgDailyExp)}</div>
+              <div className="text-lg font-bold text-gradient-orange">{formatNumber(avgDailyExp)}</div>
               <div className="text-xs opacity-40">경험치/일</div>
             </div>
             <div className="maple-card p-4 text-center">
               <div className="text-xs opacity-60 mb-1">📊 총 획득</div>
-              <div className="text-lg font-bold text-gradient-blue">{formatCombatPower(totalExpGain)}</div>
+              <div className="text-lg font-bold text-gradient-blue">{formatNumber(totalExpGain)}</div>
               <div className="text-xs opacity-40">{dailyExpGains.length}일간</div>
             </div>
             <div className="maple-card p-4 text-center">
@@ -265,9 +265,11 @@ export default async function MemberPage({ params }: Props) {
                   : '계산 불가'}
               </div>
               <div className="text-xs opacity-40">
-                {estimatedDaysToLevelUp !== null
-                  ? `→ Lv.${member.level + 1}`
-                  : '레벨업 or 데이터 부족'}
+                {estimatedDaysToLevelUp !== null ? (() => {
+                  const d = new Date();
+                  d.setDate(d.getDate() + estimatedDaysToLevelUp);
+                  return `${d.getMonth() + 1}월 ${d.getDate()}일 · Lv.${member.level + 1}`;
+                })() : '레벨업 or 데이터 부족'}
               </div>
             </div>
           </div>
@@ -294,7 +296,7 @@ export default async function MemberPage({ params }: Props) {
                       />
                       <div className="absolute inset-0 flex items-center px-2">
                         <span className="text-xs font-bold" style={{ color: pct > 40 ? 'white' : 'var(--maple-brown)' }}>
-                          {d.gain > 0 ? formatCombatPower(d.gain) : '-'}
+                          {d.gain > 0 ? formatNumber(d.gain) : '-'}
                           {d.levelUp && ' 🎉 레벨업!'}
                         </span>
                       </div>

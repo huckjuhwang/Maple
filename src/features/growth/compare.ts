@@ -42,6 +42,13 @@ function getSnapshotsDir(): string {
   return path.join(process.cwd(), 'data', 'snapshots');
 }
 
+function toLocalDateString(d: Date): string {
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  const day = String(d.getDate()).padStart(2, '0');
+  return `${y}-${m}-${day}`;
+}
+
 /** 사용 가능한 스냅샷 날짜 목록 (최신순) */
 export function getAvailableDates(): string[] {
   const dir = getSnapshotsDir();
@@ -143,7 +150,7 @@ export function compareSnapshots(fromDate: string, toDate: string, period: strin
 export function daysAgo(dateStr: string, days: number): string {
   const d = new Date(dateStr);
   d.setDate(d.getDate() - days);
-  return d.toISOString().split('T')[0];
+  return toLocalDateString(d);
 }
 
 /**
@@ -183,8 +190,8 @@ export function getMapleWeek(dateStr: string, weeksAgo: number = 0): WeekRange {
   const wednesday = new Date(thursday);
   wednesday.setDate(thursday.getDate() + 6);
 
-  const start = thursday.toISOString().split('T')[0];
-  const end = wednesday.toISOString().split('T')[0];
+  const start = toLocalDateString(thursday);
+  const end = toLocalDateString(wednesday);
   const label = `${thursday.getMonth() + 1}/${thursday.getDate()} ~ ${wednesday.getMonth() + 1}/${wednesday.getDate()}`;
 
   return { start, end, label };
@@ -207,8 +214,8 @@ export function getMapleMonth(dateStr: string, monthsAgo: number = 0): WeekRange
   const firstDay = new Date(year, month, 1);
   const lastDay = new Date(year, month + 1, 0); // 말일
 
-  const start = firstDay.toISOString().split('T')[0];
-  const end = lastDay.toISOString().split('T')[0];
+  const start = toLocalDateString(firstDay);
+  const end = toLocalDateString(lastDay);
   const label = `${year}년 ${month + 1}월`;
 
   return { start, end, label };
