@@ -1,13 +1,17 @@
-name: 🍄 전날 결산 수집 (새벽 1시)
+name: 🍄 오늘 실시간 수집 (9시/15시/21시)
 
 on:
   schedule:
-    # KST 01:00 = UTC 16:00
-    - cron: '0 16 * * *'
+    # KST 09:00 = UTC 00:00
+    - cron: '0 0 * * *'
+    # KST 15:00 = UTC 06:00
+    - cron: '0 6 * * *'
+    # KST 21:00 = UTC 12:00
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
-  collect:
+  collect-today:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,17 +23,15 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: 🍄 전날 최종 데이터 수집
+      - name: 🍄 오늘 실시간 데이터 수집
         env:
           NEXON_API_KEY: ${{ secrets.NEXON_API_KEY }}
-          GUILD_NAME: 거울
-          WORLD_NAME: 스카니아
-        run: npx tsx scripts/collect.ts
+        run: npx tsx scripts/collect-today.ts
 
       - name: 📁 커밋 & 푸시
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -f data/
-          git diff --staged --quiet || git commit -m "🍄 전날 결산: $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "🍄 오늘 수집: $(date +%Y-%m-%d %H:%M)"
           git push

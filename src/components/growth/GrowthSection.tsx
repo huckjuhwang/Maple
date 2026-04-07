@@ -4,8 +4,6 @@ import { useState, useMemo } from 'react';
 import GrowthRanking from './GrowthRanking';
 import type { CompareResult } from '@/features/growth/compare';
 
-type Period = 'daily' | 'weekly' | 'monthly';
-
 interface Props {
   members: any[];
   comparisons: {
@@ -19,34 +17,25 @@ interface Props {
   onGroupChange: (group: string[]) => void;
 }
 
-export default function GrowthSection({ members, comparisons, snapshots, allMemberNames, selectedGroup, onGroupChange }: Props) {
-  const [period, setPeriod] = useState<Period>('daily');
+export default function GrowthSection({ members, comparisons, allMemberNames, selectedGroup, onGroupChange }: Props) {
   const [showGroupPicker, setShowGroupPicker] = useState(false);
   const [memberSearch, setMemberSearch] = useState('');
 
   const isGroupActive = selectedGroup.length > 0;
 
-  // 그룹 필터 적용
   const filteredMembers = useMemo(() => {
     if (!isGroupActive) return members;
     return members.filter((m: any) => selectedGroup.includes(m.characterName));
   }, [members, selectedGroup, isGroupActive]);
 
-  const currentComparison = useMemo(() => {
-    const comp = comparisons[period];
-    if (!comp || !comp.hasData || !isGroupActive) return comp;
-    return { ...comp, members: comp.members.filter(m => selectedGroup.includes(m.characterName)) };
-  }, [comparisons, period, selectedGroup, isGroupActive]);
-
-  const filteredSnapshots = useMemo(() => {
-    if (!isGroupActive) return snapshots;
-    return snapshots.map((snap: any) => ({
-      ...snap,
-      members: snap.members.filter((m: any) => selectedGroup.includes(m.characterName)),
-    }));
-  }, [snapshots, selectedGroup, isGroupActive]);
-
-  const filteredMemberNames = isGroupActive ? selectedGroup : allMemberNames;
+  const filteredComparisons = useMemo(() => {
+    if (!isGroupActive) return comparisons;
+    const filter = (comp: CompareResult | null) =>
+      comp && comp.hasData
+        ? { ...comp, members: comp.members.filter(m => selectedGroup.includes(m.characterName)) }
+        : comp;
+    return { daily: filter(comparisons.daily), weekly: filter(comparisons.weekly), monthly: filter(comparisons.monthly) };
+  }, [comparisons, selectedGroup, isGroupActive]);
 
   const toggleMember = (name: string) => {
     onGroupChange(
@@ -58,22 +47,6 @@ export default function GrowthSection({ members, comparisons, snapshots, allMemb
 
   return (
     <div className="space-y-3">
-
-      {/* ── 기간 탭 ── */}
-      <div className="maple-card p-3">
-        <div className="text-xs font-bold opacity-40 mb-2">기간</div>
-        <div className="flex gap-1">
-          {(['daily', 'weekly', 'monthly'] as Period[]).map(p => (
-            <button
-              key={p}
-              onClick={() => setPeriod(p)}
-              className={`maple-tab flex-1 text-center text-xs ${period === p ? 'maple-tab-active' : 'maple-tab-inactive'}`}
-            >
-              {p === 'daily' ? '일간' : p === 'weekly' ? '주간' : '월간'}
-            </button>
-          ))}
-        </div>
-      </div>
 
       {/* ── 비교 대상 (접힘/펼침) ── */}
       <div className="maple-card p-3">
@@ -155,7 +128,7 @@ export default function GrowthSection({ members, comparisons, snapshots, allMemb
       </div>
 
       {/* ── 랭킹 ── */}
-      <GrowthRanking members={filteredMembers} comparison={currentComparison} />
+      <GrowthRanking members={filteredMembers} comparisons={filteredComparisons} />
     </div>
   );
 }

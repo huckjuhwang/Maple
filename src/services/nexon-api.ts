@@ -81,27 +81,27 @@ export async function getOcid(characterName: string): Promise<string> {
 
 export async function getCharacterBasic(
   ocid: string,
-  date: string
+  date?: string
 ): Promise<NexonCharacterBasic> {
-  const params = new URLSearchParams({ ocid, date });
+  const params = new URLSearchParams({ ocid, ...(date && { date }) });
   const res = await rateLimitedFetch(`${BASE_URL}/character/basic?${params}`);
   return res.json();
 }
 
 export async function getCharacterStat(
   ocid: string,
-  date: string
+  date?: string
 ): Promise<NexonCharacterStat> {
-  const params = new URLSearchParams({ ocid, date });
+  const params = new URLSearchParams({ ocid, ...(date && { date }) });
   const res = await rateLimitedFetch(`${BASE_URL}/character/stat?${params}`);
   return res.json();
 }
 
 export async function getSymbolEquipment(
   ocid: string,
-  date: string
+  date?: string
 ): Promise<NexonSymbolEquipment> {
-  const params = new URLSearchParams({ ocid, date });
+  const params = new URLSearchParams({ ocid, ...(date && { date }) });
   const res = await rateLimitedFetch(
     `${BASE_URL}/character/symbol-equipment?${params}`
   );
@@ -110,15 +110,15 @@ export async function getSymbolEquipment(
 
 export async function getUnion(
   ocid: string,
-  date: string
+  date?: string
 ): Promise<NexonUnion> {
-  const params = new URLSearchParams({ ocid, date });
+  const params = new URLSearchParams({ ocid, ...(date && { date }) });
   const res = await rateLimitedFetch(`${BASE_URL}/user/union?${params}`);
   return res.json();
 }
 
-// 길드원 전체 데이터 수집 (한 명)
-export async function collectMemberData(ocid: string, date: string) {
+// 길드원 전체 데이터 수집 (한 명) - date 없으면 실시간
+export async function collectMemberData(ocid: string, date?: string) {
   return withRetry(async () => {
     const [basic, stat, symbol, union] = await Promise.all([
       getCharacterBasic(ocid, date),

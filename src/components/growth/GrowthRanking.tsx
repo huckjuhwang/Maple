@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { formatCombatPower, formatNumber } from '@/lib/constants';
 import type { MemberChange } from '@/features/growth/compare';
@@ -19,15 +19,15 @@ function formatChange(value: number, format: 'combat' | 'number' | 'level' = 'nu
   }
 }
 
+type Period = 'daily' | 'weekly' | 'monthly';
+
 interface Props {
   members: any[];
-  comparison?: {
-    fromDate: string;
-    toDate: string;
-    period: string;
-    members: MemberChange[];
-    hasData: boolean;
-  } | null;
+  comparisons: {
+    daily: CompareResult | null;
+    weekly: CompareResult | null;
+    monthly: CompareResult | null;
+  };
 }
 
 type SortBy = 'combatPower' | 'level' | 'expGain' | 'unionLevel';
@@ -45,9 +45,12 @@ const CHANGE_SORT_OPTIONS: { key: SortBy; label: string; emoji: string }[] = [
   { key: 'unionLevel', label: '유니온 상승', emoji: '🏰' },
 ];
 
-export default function GrowthRanking({ members, comparison }: Props) {
+export default function GrowthRanking({ members, comparisons }: Props) {
   const [sortBy, setSortBy] = useState<SortBy>('expGain');
-  const [viewMode, setViewMode] = useState<ViewMode>(comparison?.hasData ? 'change' : 'current');
+  const [period, setPeriod] = useState<Period>('daily');
+  const [viewMode, setViewMode] = useState<ViewMode>(comparisons.daily?.hasData ? 'change' : 'current');
+
+  const comparison = useMemo(() => comparisons[period], [comparisons, period]);
 
   const hasComparison = comparison?.hasData && comparison.members.length > 0;
 
@@ -208,43 +211,58 @@ export default function GrowthRanking({ members, comparison }: Props) {
         </div>
       )}
 
-      {/* ── 데이터 + 정렬 2x2 ── */}
-      <div className="grid grid-cols-2 gap-3">
-        {/* 데이터 종류 */}
-        <div className="maple-card p-3">
-          <div className="text-xs font-bold opacity-40 mb-2">데이터</div>
-          <div className="flex gap-1">
-            <button
-              onClick={() => setViewMode('change')}
-              className={`maple-tab flex-1 text-center text-xs ${viewMode === 'change' ? 'maple-tab-active' : 'maple-tab-inactive'}`}
-              disabled={!hasComparison}
-              style={{ opacity: hasComparison ? 1 : 0.4 }}
-            >
-              📈 변화량
-            </button>
-            <button
-              onClick={() => setViewMode('current')}
-              className={`maple-tab flex-1 text-center text-xs ${viewMode === 'current' ? 'maple-tab-active' : 'maple-tab-inactive'}`}
-            >
-              📊 현재
-            </button>
-          </div>
+      {/* ── 1. 데이터 종류 ── */}
+      <div className="maple-card p-3">
+        <div className="text-xs font-bold opacity-40 mb-2">데이터</div>
+        <div className="flex gap-1">
+          <button
+            onClick={() => setViewMode('change')}
+            className={`maple-tab flex-1 text-center text-xs ${viewMode === 'change' ? 'maple-tab-active' : 'maple-tab-inactive'}`}
+            disabled={!hasComparison}
+            style={{ opacity: hasComparison ? 1 : 0.4 }}
+          >
+            📈 변화량
+          </button>
+          <button
+            onClick={() => setViewMode('current')}
+            className={`maple-tab flex-1 text-center text-xs ${viewMode === 'current' ? 'maple-tab-active' : 'maple-tab-inactive'}`}
+          >
+            📊 현재
+          </button>
         </div>
+      </div>
 
-        {/* 정렬 기준 */}
+      {/* ── 2. 기간 (변화량일 때만) ── */}
+      {viewMode === 'change' && (
         <div className="maple-card p-3">
-          <div className="text-xs font-bold opacity-40 mb-2">정렬</div>
+          <div className="text-xs font-bold opacity-40 mb-2">기간</div>
           <div className="flex gap-1">
-            {sortOptions.map((opt) => (
+            {(['daily', 'weekly', 'monthly'] as Period[]).map(p => (
               <button
-                key={opt.key}
-                onClick={() => setSortBy(opt.key)}
-                className={`maple-tab flex-1 text-center text-xs whitespace-nowrap ${activeSortBy === opt.key ? 'maple-tab-active' : 'maple-tab-inactive'}`}
+                key={p}
+                onClick={() => setPeriod(p)}
+                className={`maple-tab flex-1 text-center text-xs ${period === p ? 'maple-tab-active' : 'maple-tab-inactive'}`}
               >
-                {opt.emoji} {opt.label}
+                {p === 'daily' ? '일간' : p === 'weekly' ? '주간' : '월간'}
               </button>
             ))}
           </div>
+        </div>
+      )}
+
+      {/* ── 3. 정렬 기준 ── */}
+      <div className="maple-card p-3">
+        <div className="text-xs font-bold opacity-40 mb-2">정렬</div>
+        <div className="flex gap-1">
+          {sortOptions.map((opt) => (
+            <button
+              key={opt.key}
+              onClick={() => setSortBy(opt.key)}
+              className={`maple-tab flex-1 text-center text-xs whitespace-nowrap ${activeSortBy === opt.key ? 'maple-tab-active' : 'maple-tab-inactive'}`}
+            >
+              {opt.emoji} {opt.label}
+            </button>
+          ))}
         </div>
       </div>
 

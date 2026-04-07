@@ -96,10 +96,12 @@ export default function HomePage() {
         <div className="absolute top-12 left-16 text-lg float" style={{ animationDelay: '1.5s', opacity: 0.15 }}>🍄</div>
         <div className="absolute bottom-8 right-16 text-lg float" style={{ animationDelay: '3s', opacity: 0.15 }}>🐌</div>
 
-        <div className="text-4xl mb-1">🪞</div>
-        <h1 className="text-2xl font-bold text-gradient-blue">
-          {guild.guildName}
-        </h1>
+        <div className="flex items-center justify-center gap-3 mb-1">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/maple-icon.png" alt="거울 길드" className="w-48 h-48 object-contain" />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/guild-name.png" alt={guild.guildName} className="h-24 object-contain" />
+        </div>
         <p className="text-sm mt-1" style={{ color: '#7BA7C9' }}>
           {guild.worldName} &middot; Lv.{guild.guildLevel} &middot; {guild.memberCount}명
         </p>

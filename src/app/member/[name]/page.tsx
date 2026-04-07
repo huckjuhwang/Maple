@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import Link from 'next/link';
-import { formatCombatPower, formatNumber, getYesterday } from '@/lib/constants';
+import { formatCombatPower, formatNumber } from '@/lib/constants';
 import { getAvailableDates, loadSnapshot } from '@/features/growth/compare';
 import { getOcid, collectMemberData } from '@/services/nexon-api';
 
@@ -17,9 +17,10 @@ async function fetchLiveData(characterName: string) {
   // 환경변수 없으면 스킵
   if (!process.env.NEXON_API_KEY) return null;
   try {
-    const date = getYesterday();
     const ocid = await getOcid(characterName);
-    const data = await collectMemberData(ocid, date);
+    const data = await collectMemberData(ocid); // 날짜 없이 → 실시간
+    const today = new Date();
+    const date = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
     return { ...data, date, isLive: true };
   } catch {
     return null;
