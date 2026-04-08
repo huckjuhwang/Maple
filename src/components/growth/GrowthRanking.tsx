@@ -82,6 +82,7 @@ export default function GrowthRanking({ members, comparisons, dailyComparisons }
   // 정렬
   const sorted = viewMode === 'change' && hasComparison
     ? [...comparison!.members]
+      .filter(c => activeSortBy !== 'expGain' || c.level >= 260)
       .sort((a, b) => {
         switch (activeSortBy) {
           case 'combatPower': return b.combatPowerChange - a.combatPowerChange;
