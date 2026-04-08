@@ -3,6 +3,7 @@ import * as path from 'path';
 import Link from 'next/link';
 import { formatCombatPower, formatNumber } from '@/lib/constants';
 import { getAvailableDates, loadSnapshot } from '@/features/growth/compare';
+import { calcExpGainWithLevelUp } from '@/lib/levelExpTable';
 import { getOcid, collectMemberData } from '@/services/nexon-api';
 
 function scouterUrl(name: string) {
@@ -140,12 +141,28 @@ export default async function MemberPage({ params }: Props) {
     const curr = recent8[i];
     const levelUp = curr.level > prev.level;
     const expLevelChange = Math.max(0, calcExpLevelChange(prev.level, prev.expRate, curr.level, curr.expRate));
-    const rawGain = curr.exp - prev.exp;
-    const gain = levelUp ? 0 : Math.max(rawGain, 0);
-    dailyExpGains.push({ date: curr.date, gain, expLevelChange, levelUp, estimated: false });
+
+    let gain: number;
+    let estimated = false;
+
+    if (!levelUp) {
+      gain = Math.max(curr.exp - prev.exp, 0);
+    } else {
+      // 레벨업: 테이블 기반 정확한 계산 시도
+      const tableGain = calcExpGainWithLevelUp(prev.level, prev.exp, curr.level, curr.exp);
+      if (tableGain !== null) {
+        gain = tableGain;
+      } else {
+        // 테이블 없는 레벨 → expLevelChange 기반 추정 (폴백)
+        gain = 0;
+        estimated = true;
+      }
+    }
+
+    dailyExpGains.push({ date: curr.date, gain, expLevelChange, levelUp, estimated });
   }
 
-  // 레벨업 날 경험치 추정: 같은 레벨 날들의 "1% 당 경험치"로 계산
+  // 폴백: 테이블 없는 레벨업 날만 avgExpPerPct로 추정
   const expPerPct = dailyExpGains
     .filter(d => !d.levelUp && d.gain > 0 && d.expLevelChange > 0)
     .map(d => d.gain / (d.expLevelChange * 100));
@@ -153,9 +170,8 @@ export default async function MemberPage({ params }: Props) {
     ? expPerPct.reduce((a, b) => a + b, 0) / expPerPct.length
     : 0;
   for (const d of dailyExpGains) {
-    if (d.levelUp && avgExpPerPct > 0) {
+    if (d.estimated && avgExpPerPct > 0) {
       d.gain = Math.round(d.expLevelChange * 100 * avgExpPerPct);
-      d.estimated = true;
     }
   }
 
