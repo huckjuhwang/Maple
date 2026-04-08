@@ -146,11 +146,9 @@ export default function GrowthRanking({ members, comparisons, dailyComparisons }
         case 'combatPower': return formatChange(c.combatPowerChange, 'combat');
         case 'expGain': {
           if (c.expGain !== null && c.expGain !== undefined) {
-            const prefix = c.levelChange > 0 ? '🎉 ' : '+';
-            return `${prefix}${formatNumber(c.expGain)}`;
+            return `+${formatNumber(c.expGain)}`;
           }
-          // 테이블에 없는 레벨 (260 미만 등) → expLevelChange 표시
-          if (c.levelChange > 0) return `🎉 Lv.${c.prevLevel}→${c.level}`;
+          // 테이블에 없는 레벨 (260 미만) → expChange 표시
           return `+${formatNumber(c.expChange ?? 0)}`;
         }
         case 'unionLevel': return formatChange(c.unionLevelChange);
@@ -192,7 +190,7 @@ export default function GrowthRanking({ members, comparisons, dailyComparisons }
     let val = 0;
     switch (activeSortBy) {
       case 'combatPower': val = c.combatPowerChange; break;
-      case 'expGain': val = c.expChange ?? 0; break;
+      case 'expGain': val = c.expGain ?? c.expChange ?? 0; break;
       case 'unionLevel': val = c.unionLevelChange; break;
     }
     return val > 0 ? 'change-up' : val < 0 ? 'change-down' : 'change-none';
