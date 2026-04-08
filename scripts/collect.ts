@@ -86,9 +86,9 @@ async function main() {
   const date = getYesterday();
 
   // 이미 수집된 날짜면 스킵
-  const snapshotFile = path.join(SNAPSHOTS_DIR, `${date}.json`);
-  if (fs.existsSync(snapshotFile)) {
-    const existing = JSON.parse(fs.readFileSync(snapshotFile, 'utf-8'));
+  const existingFile = path.join(SNAPSHOTS_DIR, `${date}.json`);
+  if (fs.existsSync(existingFile)) {
+    const existing = JSON.parse(fs.readFileSync(existingFile, 'utf-8'));
     if ((existing.members?.length ?? 0) > 0) {
       console.log(`✅ ${date} 데이터 이미 존재 (${existing.members.length}명) → 스킵`);
       process.exit(0);
