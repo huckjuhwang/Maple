@@ -81,11 +81,16 @@ export default function GrowthRanking({ members, comparisons, dailyComparisons }
 
   // 정렬
   const sorted = viewMode === 'change' && hasComparison
-    ? [...comparison!.members].sort((a, b) => {
+    ? [...comparison!.members]
+      .sort((a, b) => {
         switch (activeSortBy) {
           case 'combatPower': return b.combatPowerChange - a.combatPowerChange;
-          // 레벨업 시 expChange가 0이 되므로 expLevelChange로 정렬 (레벨분 환산, 레벨업 정확히 반영)
-          case 'expGain': return b.expLevelChange - a.expLevelChange;
+          case 'expGain': {
+            // expGain(테이블 기반) 우선, 없으면 expLevelChange로 폴백
+            const aVal = a.expGain ?? (a.expLevelChange * 1e12);
+            const bVal = b.expGain ?? (b.expLevelChange * 1e12);
+            return bVal - aVal;
+          }
           case 'unionLevel': return b.unionLevelChange - a.unionLevelChange;
           default: return 0;
         }
@@ -139,9 +144,15 @@ export default function GrowthRanking({ members, comparisons, dailyComparisons }
       if (!c) return '-';
       switch (activeSortBy) {
         case 'combatPower': return formatChange(c.combatPowerChange, 'combat');
-        case 'expGain':
-        if (c.levelChange > 0) return `🎉 Lv.${c.prevLevel}→${c.level}`;
-        return `+${formatNumber(c.expChange ?? 0)}`;
+        case 'expGain': {
+          if (c.expGain !== null && c.expGain !== undefined) {
+            const prefix = c.levelChange > 0 ? '🎉 ' : '+';
+            return `${prefix}${formatNumber(c.expGain)}`;
+          }
+          // 테이블에 없는 레벨 (260 미만 등) → expLevelChange 표시
+          if (c.levelChange > 0) return `🎉 Lv.${c.prevLevel}→${c.level}`;
+          return `+${formatNumber(c.expChange ?? 0)}`;
+        }
         case 'unionLevel': return formatChange(c.unionLevelChange);
         default: return '-';
       }

@@ -7,6 +7,7 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
+import { calcExpGainWithLevelUp } from '@/lib/levelExpTable';
 
 export interface MemberChange {
   characterName: string;
@@ -21,6 +22,8 @@ export interface MemberChange {
   levelChange: number;
   expLevelChange: number;  // 레벨분 환산 경험치 변화
   expChange: number;       // 실제 경험치 수치 변화량
+  expGain: number | null;  // 테이블 기반 정확한 획득 경험치 (레벨업 포함), null이면 추정 불가
+  expGainEstimated: boolean; // expGain이 추정값인지 여부
   combatPowerChange: number;
   unionLevelChange: number;
   arcaneForceChange: number;
@@ -133,9 +136,10 @@ export function compareSnapshots(fromDate: string, toDate: string, period: strin
       expLevelChange: Math.round(expLevelChange * 100) / 100,
       expChange: (() => {
         const raw = (curr.exp ?? 0) - (prev.exp ?? 0);
-        // 레벨업 시 exp가 0으로 리셋되어 음수가 될 수 있음 → 0으로 처리
         return curr.level > prev.level && raw < 0 ? 0 : raw;
       })(),
+      expGain: calcExpGainWithLevelUp(prev.level, prev.exp ?? 0, curr.level, curr.exp ?? 0),
+      expGainEstimated: false,
       combatPowerChange: curr.combatPower - prev.combatPower,
       unionLevelChange: curr.unionLevel - prev.unionLevel,
       arcaneForceChange: (curr.arcaneForce ?? 0) - (prev.arcaneForce ?? 0),

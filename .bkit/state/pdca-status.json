@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "lastUpdated": "2026-04-07T13:40:37.545Z",
+  "lastUpdated": "2026-04-07T16:55:20.437Z",
   "activeFeatures": [
     "lotto-checker-app",
     "check",
@@ -12,7 +12,10 @@
     "maple-guild-tracker",
     "[name]",
     "scripts",
-    "nexon-api.ts"
+    "nexon-api.ts",
+    "dashboard",
+    "discord.ts",
+    "daily"
   ],
   "primaryFeature": "lotto-checker-app",
   "features": {
@@ -103,9 +106,9 @@
       "documents": {},
       "timestamps": {
         "started": "2026-04-07T13:01:33.089Z",
-        "lastUpdated": "2026-04-07T13:35:23.026Z"
+        "lastUpdated": "2026-04-07T16:43:18.076Z"
       },
-      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/components/growth/GrowthSection.tsx"
+      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/components/growth/GrowthRanking.tsx"
     },
     "maple-guild-tracker": {
       "phase": "do",
@@ -116,7 +119,7 @@
       "documents": {},
       "timestamps": {
         "started": "2026-04-07T13:09:13.534Z",
-        "lastUpdated": "2026-04-07T13:40:37.545Z"
+        "lastUpdated": "2026-04-07T16:25:25.980Z"
       },
       "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/app/page.tsx"
     },
@@ -129,7 +132,7 @@
       "documents": {},
       "timestamps": {
         "started": "2026-04-07T13:13:11.622Z",
-        "lastUpdated": "2026-04-07T13:32:11.214Z"
+        "lastUpdated": "2026-04-07T16:33:49.561Z"
       },
       "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/app/member/[name]/page.tsx"
     },
@@ -142,7 +145,7 @@
       "documents": {},
       "timestamps": {
         "started": "2026-04-07T13:29:15.228Z",
-        "lastUpdated": "2026-04-07T13:29:15.228Z"
+        "lastUpdated": "2026-04-07T16:55:20.436Z"
       },
       "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/scripts/collect-today.ts"
     },
@@ -158,6 +161,45 @@
         "lastUpdated": "2026-04-07T13:31:59.065Z"
       },
       "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/services/nexon-api.ts"
+    },
+    "dashboard": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-04-07T16:04:44.896Z",
+        "lastUpdated": "2026-04-07T16:25:38.962Z"
+      },
+      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/components/dashboard/Dashboard.tsx"
+    },
+    "discord.ts": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-04-07T16:05:04.634Z",
+        "lastUpdated": "2026-04-07T16:05:04.634Z"
+      },
+      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/services/discord.ts"
+    },
+    "daily": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-04-07T16:05:15.421Z",
+        "lastUpdated": "2026-04-07T16:05:15.421Z"
+      },
+      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/app/api/cron/daily/route.ts"
     }
   },
   "pipeline": {
@@ -168,7 +210,7 @@
   "session": {
     "startedAt": "2026-03-27T10:06:54.216Z",
     "onboardingCompleted": false,
-    "lastActivity": "2026-04-07T13:40:37.545Z"
+    "lastActivity": "2026-04-07T16:55:20.437Z"
   },
   "history": [
     {
@@ -600,6 +642,306 @@
     {
       "timestamp": "2026-04-07T13:40:37.545Z",
       "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:02:38.871Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:03:10.838Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:03:27.414Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:03:31.570Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:03:39.879Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:03:45.300Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:03:49.253Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:04:07.581Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:04:20.730Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:04:44.896Z",
+      "feature": "dashboard",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:05:04.634Z",
+      "feature": "discord.ts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:05:15.421Z",
+      "feature": "daily",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:05:46.594Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:06:03.594Z",
+      "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:06:17.119Z",
+      "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:06:24.177Z",
+      "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:06:29.573Z",
+      "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:07:16.275Z",
+      "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:10:44.691Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:10:49.791Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:10:57.731Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:24:59.142Z",
+      "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:25:07.306Z",
+      "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:25:12.297Z",
+      "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:25:25.980Z",
+      "feature": "maple-guild-tracker",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:25:31.643Z",
+      "feature": "dashboard",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:25:35.082Z",
+      "feature": "dashboard",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:25:38.962Z",
+      "feature": "dashboard",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:25:45.171Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:25:51.777Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:25:55.973Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:26:05.278Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:26:16.975Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:28:28.074Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:28:41.491Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:28:53.831Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:31:48.476Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:31:55.216Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:32:04.509Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:33:27.777Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:33:36.128Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:33:49.561Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:36:01.240Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:36:22.076Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:43:13.499Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:43:18.076Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:49:50.317Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:49:56.651Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:50:03.621Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-07T16:55:20.436Z",
+      "feature": "scripts",
       "phase": "do",
       "action": "updated"
     }
