@@ -20,8 +20,8 @@ async function fetchLiveData(characterName: string) {
   try {
     const ocid = await getOcid(characterName);
     const data = await collectMemberData(ocid); // 날짜 없이 → 실시간
-    const today = new Date();
-    const date = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+    const kst = new Date(Date.now() + 9 * 60 * 60 * 1000);
+    const date = `${kst.getUTCFullYear()}-${String(kst.getUTCMonth() + 1).padStart(2, '0')}-${String(kst.getUTCDate()).padStart(2, '0')}`;
     return { ...data, date, isLive: true };
   } catch {
     return null;
