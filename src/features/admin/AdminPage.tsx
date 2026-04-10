@@ -588,7 +588,7 @@ export default function AdminPage({ secret }: Props) {
                         onChange={() => toggleSelect(member.characterName)}
                       />
                     </td>
-                    <td className="py-2 px-2">
+                    <td className="py-2 px-2 whitespace-nowrap">
                       {member.status === 'new' && (
                         <span className="text-xs px-1.5 py-0.5 rounded-full font-bold" style={{ background: '#E8F5E9', color: '#2E7D32' }}>신규</span>
                       )}
