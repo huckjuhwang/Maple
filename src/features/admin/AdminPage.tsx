@@ -401,6 +401,16 @@ export default function AdminPage({ secret }: Props) {
   const leftCount = currentMembers.filter(m => m.status === 'left').length;
   const newCount = currentMembers.filter(m => m.status === 'new').length;
 
+  // 마스터 직위 항상 맨 위
+  const masterPos = data.config.masterPosition;
+  if (masterPos) {
+    const masterIdx = displayMembers.findIndex(m => m.position === masterPos);
+    if (masterIdx > 0) {
+      const [master] = displayMembers.splice(masterIdx, 1);
+      displayMembers = [master, ...displayMembers];
+    }
+  }
+
   // 컬럼 헤더 클릭 정렬
   const sortBy = (col: string) => {
     if (sortColumn === col) setSortAsc(!sortAsc);
@@ -579,7 +589,7 @@ export default function AdminPage({ secret }: Props) {
                 {displayMembers.map(member => (
                   <tr
                     key={member.characterName}
-                    className={`border-b border-amber-50 hover:bg-amber-50/30 ${member.status === 'left' ? 'opacity-50 bg-red-50/30' : member.leaveDetected ? 'bg-orange-50/40' : member.status === 'new' ? 'bg-green-50/30' : ''}`}
+                    className={`border-b border-amber-50 hover:bg-amber-50/30 ${member.position === data.config.masterPosition ? 'bg-yellow-50/60 border-l-2 border-l-yellow-400' : member.status === 'left' ? 'opacity-50 bg-red-50/30' : member.leaveDetected ? 'bg-orange-50/40' : member.status === 'new' ? 'bg-green-50/30' : ''}`}
                   >
                     <td className="py-2 px-1 text-center">
                       <input
