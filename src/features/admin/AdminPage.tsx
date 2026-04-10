@@ -607,11 +607,7 @@ export default function AdminPage({ secret }: Props) {
                     <td className="py-2 px-2 text-center">
                       <a href={scouterUrl(masterMember.characterName)} target="_blank" rel="noopener noreferrer" className="text-xs hover:opacity-70">🔍</a>
                     </td>
-                    <td className="py-2 px-2 text-center">
-                      <button onClick={() => setTransferModal({ name: masterMember.characterName, from: tab as 'mirror' | 'dalla', to: tab === 'mirror' ? 'dalla' : 'mirror' })} className="text-xs px-2 py-1 rounded-full whitespace-nowrap" style={{ background: '#E3F2FD', color: '#1565C0' }}>
-                        {tab === 'mirror' ? '→달라' : '→거울'}
-                      </button>
-                    </td>
+                    <td className="py-2 px-2 text-center" />
                     <td className="py-2 px-2 text-center" />
                   </tr>
                 </tbody>
