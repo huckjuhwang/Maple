@@ -1,4 +1,4 @@
-name: 🍄 오늘 실시간 수집 (매시간)
+name: 🍄 오늘 실시간 수집 (매 30분)
 
 on:
   workflow_dispatch:

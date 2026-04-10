@@ -1,4 +1,4 @@
-name: 🍄 전날 결산 수집 (00:05)
+name: 🍄 전날 결산 수집 (매일 KST 00:05, 실패 시 30분 재시도)
 
 on:
   workflow_dispatch:

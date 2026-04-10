@@ -51,6 +51,6 @@ npx tsx scripts/setup-cron-jobs.ts
 |------|------|---------|------|
 | `monitor.yml` | 5분마다 | - | 거울/달라 가입·탈퇴 감지, admin.json 업데이트 |
 | `collect-today.yml` | 30분마다 | - | 거울 오늘 실시간 스냅샷 수집 |
-| `collect.yml` | 매일 1회 | 10:05 | 거울 전날 결산 스냅샷 수집 |
+| `collect.yml` | 매일 1회 | 00:05 | 거울 전날 결산 스냅샷 수집 |
 | `inactive.yml` | 매일 1회 | 07:00 | 거울/달라 장기 미접속 Discord 알림 |
-| `weekly-report.yml` | 매주 월 | 09:00 | 거울/달라 주간 리포트 Discord 발송 |
+| `weekly-report.yml` | 매주 목 | 09:00 | 거울/달라 주간 리포트 Discord 발송 |

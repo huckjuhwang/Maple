@@ -60,13 +60,25 @@ const JOBS = [
     },
   },
   {
-    title: '🍄 거울 전날 결산 수집 (매일 10:05 KST)',
+    title: '🍄 거울 전날 결산 수집 (매일 00:05 KST)',
     url: `${DISPATCH_BASE}/collect.yml/dispatches`,
     schedule: {
       timezone: 'Asia/Seoul',
-      hours: [10],
+      hours: [0],
       mdays: [-1],
       minutes: [5],
+      months: [-1],
+      wdays: [-1],
+    },
+  },
+  {
+    title: '🍄 거울 전날 결산 재시도 (30분마다, 실패 시 스킵)',
+    url: `${DISPATCH_BASE}/collect.yml/dispatches`,
+    schedule: {
+      timezone: 'Asia/Seoul',
+      hours: [-1],
+      mdays: [-1],
+      minutes: [35], // 매시간 35분 (00:05 이후 30분 간격)
       months: [-1],
       wdays: [-1],
     },
@@ -84,7 +96,7 @@ const JOBS = [
     },
   },
   {
-    title: '📊 거울/달라 주간 리포트 (매주 월 09:00 KST)',
+    title: '📊 거울/달라 주간 리포트 (매주 목 09:00 KST)',
     url: `${DISPATCH_BASE}/weekly-report.yml/dispatches`,
     schedule: {
       timezone: 'Asia/Seoul',
@@ -92,7 +104,7 @@ const JOBS = [
       mdays: [-1],
       minutes: [0],
       months: [-1],
-      wdays: [1], // 월요일
+      wdays: [4], // 목요일
     },
   },
 ];
@@ -119,8 +131,9 @@ async function createJob(job: typeof JOBS[0]) {
     }),
   });
 
-  const data = await res.json();
-  if (!res.ok) throw new Error(JSON.stringify(data));
+  const text = await res.text();
+  if (!res.ok) throw new Error(text || `HTTP ${res.status}`);
+  const data = text ? JSON.parse(text) : {};
   return data.jobId;
 }
 
@@ -154,7 +167,10 @@ async function main() {
     for (const j of mapleJobs) {
       await deleteJob(j.jobId);
       console.log(`  삭제: ${j.title}`);
+      await new Promise(r => setTimeout(r, 2000));
     }
+    console.log('삭제 완료, 10초 대기...');
+    await new Promise(r => setTimeout(r, 10000));
   }
 
   // 신규 Job 등록
@@ -166,6 +182,7 @@ async function main() {
     } catch (e) {
       console.log(`❌ ${job.title}: ${e}`);
     }
+    await new Promise(r => setTimeout(r, 2000)); // 2초 간격
   }
 
   console.log('\n✅ 완료! cron-job.org 대시보드에서 확인하세요.');

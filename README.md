@@ -1,37 +1,126 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍄 메이플 거울 길드 트래커
 
-## Getting Started
+> 메이플스토리 스카니아 서버 **거울 · 달라 길드** 전용 성장 대시보드
 
-First, run the development server:
+🌐 **사이트**: [maple-guild-tracker.vercel.app](https://maple-guild-tracker.vercel.app)
+📖 **사용 설명서**: [maple-guild-tracker.vercel.app/guide.html](https://maple-guild-tracker.vercel.app/guide.html)
+
+---
+
+## 서비스 소개
+
+거울 길드와 달라 길드 길드원들의 성장 현황을 자동으로 수집하고 시각화하는 웹 서비스입니다.
+
+- 매일 Nexon Open API로 길드원 데이터 자동 수집
+- 일별 / 주간 / 월간 경험치·전투력 성장 레이스 제공
+- 가입·탈퇴 시 Discord 자동 알림
+- 길드 운영진을 위한 관리자 페이지
+
+---
+
+## 주요 기능
+
+### 📊 성장 대시보드
+- 일별 / 주간 / 월간 탭 전환
+- 경험치 · 전투력 성장 랭킹 (포디움 + 전체 순위)
+- 레벨업 정확한 경험치 계산 (260~300 레벨 테이블 기반)
+
+### 👥 길드원 현황
+- 전체 길드원 목록 (닉네임 / 직업 / 레벨 필터)
+- 개인 프로필 페이지 (성장 추이 차트)
+- [MapleScout](https://maplescouter.com) 외부 링크 연동
+
+### 📡 Discord 자동 알림
+- 가입 · 탈퇴 실시간 감지 알림 (5분마다)
+- 15일 이상 미접속 길드원 알림 (매일)
+- 주간 인원 변동 리포트 (매주 목요일)
+
+### 🛠️ 관리자 페이지 (`/admin/{secret}`)
+- 거울 · 달라 길드원 직위 · 이름 · 비고 관리
+- 가입 / 탈퇴 / 길드 이전 처리
+- 배치 자동 이탈 감지 표시 (삭제 없이 관리자 확인 후 처리)
+- 데이터 백업 · 복원
+
+---
+
+## 배치 스케줄
+
+GitHub Actions + **cron-job.org** 외부 트리거로 정확한 주기 실행
+
+| 배치 | 주기 | KST | 역할 |
+|------|------|-----|------|
+| 길드원 모니터링 | 5분마다 | - | 거울/달라 가입·탈퇴 감지 + Discord 알림 |
+| 오늘 실시간 수집 | 30분마다 | - | 거울 오늘 스냅샷 수집 |
+| 전날 결산 수집 | 매일 + 30분 재시도 | 00:05 | 거울 전날 최종 스냅샷 |
+| 미접속 알림 | 매일 | 07:00 | 거울/달라 장기 미접속 Discord 알림 |
+| 주간 리포트 | 매주 목요일 | 09:00 | 거울/달라 주간 리포트 Discord 발송 |
+
+> cron-job.org 설정 방법 → [docs/cron-setup.md](docs/cron-setup.md)
+
+---
+
+## 로컬 실행
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# 패키지 설치
+npm install
+
+# 환경변수 설정
+# .env.local 파일 생성 후 아래 값 입력
+
+# 개발 서버 실행
+npx next dev -p 3333
+
+# 데이터 수집
+npx tsx scripts/collect.ts
+
+# 빌드
+npx next build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 환경변수
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| 변수 | 필수 | 설명 |
+|------|------|------|
+| `NEXON_API_KEY` | ✅ | Nexon Open API Key |
+| `DISCORD_WEBHOOK_URL` | - | Discord 알림 웹훅 URL |
+| `ADMIN_SECRET` | - | 관리자 페이지 접근 키 (`/admin/{키}`) |
+| `GUILD_NAME` | - | 길드명 (기본값: 거울) |
+| `WORLD_NAME` | - | 월드명 (기본값: 스카니아) |
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## GitHub Secrets 등록
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Secret | 설명 |
+|--------|------|
+| `NEXON_API_KEY` | Nexon API Key |
+| `DISCORD_WEBHOOK_URL` | Discord 웹훅 URL |
+| `ADMIN_SECRET` | 관리자 페이지 키 |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 스크립트 목록
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| 스크립트 | 설명 |
+|---------|------|
+| `scripts/collect.ts` | 거울 전날 결산 수집 |
+| `scripts/collect-today.ts` | 거울 오늘 실시간 수집 |
+| `scripts/collect-dalla.ts` | 달라 초기 데이터 수집 (1회) |
+| `scripts/init-admin.ts` | admin.json 초기화 (1회) |
+| `scripts/setup-cron-jobs.ts` | cron-job.org 자동 등록 |
+| `scripts/batch-member-change.ts` | 가입/탈퇴 감지 배치 |
+| `scripts/batch-inactive.ts` | 미접속 알림 배치 |
+| `scripts/batch-weekly-report.ts` | 주간 리포트 배치 |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Maple
+---
+
+## 기술 스택
+
+- **Frontend**: Next.js 16 (App Router) · TypeScript · Tailwind CSS · Recharts
+- **Storage**: JSON 파일 (DB 없음)
+- **배포**: Vercel
+- **배치**: GitHub Actions + cron-job.org
+- **API**: Nexon Open API · Discord Webhook
