@@ -3,94 +3,45 @@
 GitHub Actions 내장 cron은 고빈도 스케줄(5분, 10분)이 불안정해서
 외부 cron 서비스(cron-job.org)로 GitHub API를 직접 호출합니다.
 
+**스크립트로 자동 등록 가능 → 아래 2단계만 하면 됩니다.**
+
 ---
 
-## 사전 준비: GitHub Personal Access Token 발급
+## 1단계: 토큰 2개 발급
 
+### GitHub PAT (Personal Access Token)
 1. GitHub → **Settings** → **Developer settings** → **Personal access tokens** → **Tokens (classic)**
-2. **Generate new token (classic)** 클릭
-3. 설정:
-   - Note: `maple-cron-trigger`
-   - Expiration: No expiration (또는 원하는 기간)
-   - Scope: **`workflow`** 체크 (Actions 워크플로우 실행 권한)
-4. 토큰 복사 (다시 볼 수 없으므로 바로 저장)
+2. **Generate new token (classic)**
+3. Scope: **`workflow`** 체크
+4. 토큰 복사 → `.env.local`에 추가:
+   ```
+   GITHUB_PAT=ghp_xxxxx
+   ```
 
----
-
-## cron-job.org 설정
-
+### cron-job.org API Key
 1. [cron-job.org](https://cron-job.org) 가입 (무료)
-2. **CREATE CRONJOB** 클릭
-3. 아래 5개 Job 생성
+2. 로그인 후 **Account → API** 탭
+3. API Key 복사 → `.env.local`에 추가:
+   ```
+   CRONJOB_API_KEY=xxxxx
+   ```
 
 ---
 
-## Job 설정 공통 항목
+## 2단계: 스크립트 실행
 
-| 항목 | 값 |
-|------|-----|
-| Request Method | **POST** |
-| Header 추가 1 | `Authorization` → `Bearer {발급한_토큰}` |
-| Header 추가 2 | `Accept` → `application/vnd.github.v3+json` |
-| Header 추가 3 | `Content-Type` → `application/json` |
-| Request Body | `{"ref":"main"}` |
+```bash
+npx tsx scripts/setup-cron-jobs.ts
+```
+
+5개 Job이 자동으로 cron-job.org에 등록됩니다.
 
 ---
 
-## Job 1: 길드원 모니터링 (5분마다)
+## 확인
 
-| 항목 | 값 |
-|------|-----|
-| Title | `거울 길드 모니터링` |
-| URL | `https://api.github.com/repos/huckjuhwang/Maple/actions/workflows/monitor.yml/dispatches` |
-| Schedule | **Every 5 minutes** |
-
----
-
-## Job 2: 오늘 실시간 수집 (30분마다)
-
-| 항목 | 값 |
-|------|-----|
-| Title | `거울 오늘 실시간 수집` |
-| URL | `https://api.github.com/repos/huckjuhwang/Maple/actions/workflows/collect-today.yml/dispatches` |
-| Schedule | **Every 30 minutes** |
-
----
-
-## Job 3: 전날 결산 수집 (매일 KST 10:05 = UTC 01:05)
-
-| 항목 | 값 |
-|------|-----|
-| Title | `거울 전날 결산 수집` |
-| URL | `https://api.github.com/repos/huckjuhwang/Maple/actions/workflows/collect.yml/dispatches` |
-| Schedule | **Every day** at **01:05 UTC** |
-
----
-
-## Job 4: 미접속 알림 (매일 KST 07:00 = UTC 22:00 전날)
-
-| 항목 | 값 |
-|------|-----|
-| Title | `거울/달라 미접속 알림` |
-| URL | `https://api.github.com/repos/huckjuhwang/Maple/actions/workflows/inactive.yml/dispatches` |
-| Schedule | **Every day** at **22:00 UTC** |
-
----
-
-## Job 5: 주간 리포트 (매주 월요일 KST 09:00 = UTC 00:00)
-
-| 항목 | 값 |
-|------|-----|
-| Title | `거울/달라 주간 리포트` |
-| URL | `https://api.github.com/repos/huckjuhwang/Maple/actions/workflows/weekly-report.yml/dispatches` |
-| Schedule | **Every week** 월요일 **00:00 UTC** |
-
----
-
-## 확인 방법
-
-- cron-job.org 대시보드에서 각 Job의 **Last execution** 확인
-- GitHub → Actions 탭에서 `Manually run by github-actions-bot` 형태로 실행 기록 확인
+- [cron-job.org 대시보드](https://cron-job.org/en/members/) → Job 목록 확인
+- GitHub → Actions 탭 → 자동 실행 기록 확인
 
 ---
 
