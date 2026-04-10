@@ -414,7 +414,7 @@ export default function AdminPage({ secret }: Props) {
       <header className="mirror-card p-4 mb-6 relative">
         <div className="absolute top-2 right-3 text-lg mushroom-bounce">🍄</div>
         <div className="flex items-center gap-3">
-          <div className="text-3xl">🪞</div>
+          <img src="/guild-name.png" alt="거울 길드" className="h-10 object-contain" />
           <div>
             <h1 className="text-xl font-bold text-gradient-blue">거울 길드 관리</h1>
             <p className="text-xs opacity-50">마지막 수정: {data.config.lastUpdated?.slice(0, 10)}</p>
