@@ -43,6 +43,11 @@ export async function POST(
       case 'updateMember': {
         const { characterName, guild, updates } = body;
         const members = guild === 'dalla' ? adminData.dalla : adminData.mirror;
+        // 직위/이름/비고 입력 시 new → active 전환
+        const member = members.find(m => m.characterName === characterName);
+        if (member?.status === 'new' && (updates.position || updates.realName || updates.note)) {
+          updates.status = 'active';
+        }
         const ok = updateMember(members, characterName, updates);
         if (ok) saveAdminData(adminData);
         return NextResponse.json({ success: ok });

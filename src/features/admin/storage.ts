@@ -182,7 +182,7 @@ export function syncMembers(
       member.level = apiMember.level;
       if (apiMember.combatPower) member.combatPower = apiMember.combatPower;
       if (apiMember.unionLevel) member.unionLevel = apiMember.unionLevel;
-      if (member.status === 'new') member.status = 'active';
+      // new 상태는 관리자가 직접 확인(직위/이름 입력)해야 active로 변경 → sync에서 자동 변환 안 함
     } else {
       member.status = 'left';
       member.leftDate = today;
