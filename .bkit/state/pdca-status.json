@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "lastUpdated": "2026-04-07T16:55:20.437Z",
+  "lastUpdated": "2026-04-10T09:35:44.188Z",
   "activeFeatures": [
     "lotto-checker-app",
     "check",
@@ -15,7 +15,10 @@
     "nexon-api.ts",
     "dashboard",
     "discord.ts",
-    "daily"
+    "daily",
+    "admin",
+    "[secret]",
+    "guild-monitor"
   ],
   "primaryFeature": "lotto-checker-app",
   "features": {
@@ -106,9 +109,9 @@
       "documents": {},
       "timestamps": {
         "started": "2026-04-07T13:01:33.089Z",
-        "lastUpdated": "2026-04-07T16:43:18.076Z"
+        "lastUpdated": "2026-04-10T09:12:47.023Z"
       },
-      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/components/growth/GrowthRanking.tsx"
+      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/features/growth/compare.ts"
     },
     "maple-guild-tracker": {
       "phase": "do",
@@ -132,7 +135,7 @@
       "documents": {},
       "timestamps": {
         "started": "2026-04-07T13:13:11.622Z",
-        "lastUpdated": "2026-04-07T16:33:49.561Z"
+        "lastUpdated": "2026-04-08T00:26:17.620Z"
       },
       "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/app/member/[name]/page.tsx"
     },
@@ -145,9 +148,9 @@
       "documents": {},
       "timestamps": {
         "started": "2026-04-07T13:29:15.228Z",
-        "lastUpdated": "2026-04-07T16:55:20.436Z"
+        "lastUpdated": "2026-04-10T09:35:44.188Z"
       },
-      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/scripts/collect-today.ts"
+      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/scripts/init-admin.ts"
     },
     "nexon-api.ts": {
       "phase": "do",
@@ -184,7 +187,7 @@
       "documents": {},
       "timestamps": {
         "started": "2026-04-07T16:05:04.634Z",
-        "lastUpdated": "2026-04-07T16:05:04.634Z"
+        "lastUpdated": "2026-04-10T09:27:12.828Z"
       },
       "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/services/discord.ts"
     },
@@ -200,6 +203,45 @@
         "lastUpdated": "2026-04-07T16:05:15.421Z"
       },
       "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/app/api/cron/daily/route.ts"
+    },
+    "admin": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-04-10T09:19:52.791Z",
+        "lastUpdated": "2026-04-10T09:34:39.653Z"
+      },
+      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/features/admin/AdminPage.tsx"
+    },
+    "[secret]": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-04-10T09:20:36.173Z",
+        "lastUpdated": "2026-04-10T09:20:36.173Z"
+      },
+      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/app/api/admin/[secret]/route.ts"
+    },
+    "guild-monitor": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-04-10T09:26:55.054Z",
+        "lastUpdated": "2026-04-10T09:30:27.136Z"
+      },
+      "lastFile": "/Users/hyuckju/Downloads/maple-guild-tracker/src/features/guild-monitor/monitor.ts"
     }
   },
   "pipeline": {
@@ -210,7 +252,7 @@
   "session": {
     "startedAt": "2026-03-27T10:06:54.216Z",
     "onboardingCompleted": false,
-    "lastActivity": "2026-04-07T16:55:20.437Z"
+    "lastActivity": "2026-04-10T09:35:44.188Z"
   },
   "history": [
     {
@@ -941,6 +983,156 @@
     },
     {
       "timestamp": "2026-04-07T16:55:20.436Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-08T00:26:17.620Z",
+      "feature": "[name]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:12:47.023Z",
+      "feature": "growth",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:15:13.197Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:15:45.365Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:16:02.611Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:16:29.282Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:18:05.347Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:18:14.297Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:19:52.791Z",
+      "feature": "admin",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:20:36.173Z",
+      "feature": "[secret]",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:23:28.201Z",
+      "feature": "admin",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:26:55.055Z",
+      "feature": "guild-monitor",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:27:01.862Z",
+      "feature": "guild-monitor",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:27:07.541Z",
+      "feature": "guild-monitor",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:27:12.828Z",
+      "feature": "discord.ts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:30:15.603Z",
+      "feature": "guild-monitor",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:30:27.136Z",
+      "feature": "guild-monitor",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:32:44.966Z",
+      "feature": "admin",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:34:04.001Z",
+      "feature": "admin",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:34:13.903Z",
+      "feature": "admin",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:34:19.746Z",
+      "feature": "admin",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:34:31.850Z",
+      "feature": "admin",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:34:39.653Z",
+      "feature": "admin",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:35:13.373Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-10T09:35:44.188Z",
       "feature": "scripts",
       "phase": "do",
       "action": "updated"

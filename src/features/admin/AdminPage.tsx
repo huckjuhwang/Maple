@@ -579,7 +579,7 @@ export default function AdminPage({ secret }: Props) {
                 {displayMembers.map(member => (
                   <tr
                     key={member.characterName}
-                    className={`border-b border-amber-50 hover:bg-amber-50/30 ${member.status === 'left' ? 'opacity-50 bg-red-50/30' : member.status === 'new' ? 'bg-green-50/30' : ''}`}
+                    className={`border-b border-amber-50 hover:bg-amber-50/30 ${member.status === 'left' ? 'opacity-50 bg-red-50/30' : member.leaveDetected ? 'bg-orange-50/40' : member.status === 'new' ? 'bg-green-50/30' : ''}`}
                   >
                     <td className="py-2 px-1 text-center">
                       <input
@@ -595,8 +595,11 @@ export default function AdminPage({ secret }: Props) {
                       {member.status === 'left' && (
                         <span className="text-xs px-1.5 py-0.5 rounded-full font-bold" style={{ background: '#FFEBEE', color: '#C62828' }}>탈퇴</span>
                       )}
-                      {member.status === 'active' && (
+                      {member.status === 'active' && !member.leaveDetected && (
                         <span className="text-xs px-1.5 py-0.5 rounded-full" style={{ background: '#F5F5F5', color: '#999' }}>활동</span>
+                      )}
+                      {member.leaveDetected && (
+                        <span className="text-xs px-1.5 py-0.5 rounded-full font-bold" style={{ background: '#FFF3E0', color: '#E65100' }}>이탈감지</span>
                       )}
                     </td>
                     <td className="py-2 px-2 font-medium whitespace-nowrap">{member.characterName}</td>

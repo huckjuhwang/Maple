@@ -35,6 +35,7 @@ export interface MemberAdmin {
   unionLevel?: number;
   // 상태
   status: 'active' | 'left' | 'new';
+  leaveDetected?: boolean;    // 배치에서 이탈 감지됨 (관리자 확인 전)
   leftDate?: string;
   joinDate?: string;
 }

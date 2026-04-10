@@ -40,19 +40,32 @@ export interface InactiveAlert {
 // 상태 관리
 // ============================================
 
-function getStatePath(): string {
-  return path.join(DATA_DIR, 'guild-monitor.json');
+function getStatePath(guildName?: string): string {
+  const name = guildName ?? process.env.GUILD_NAME ?? 'guild';
+  return path.join(DATA_DIR, `guild-monitor-${name}.json`);
 }
 
-export function loadState(): MonitorState | null {
-  const p = getStatePath();
+/** 하위 호환: 기존 guild-monitor.json → 길드명 파일로 마이그레이션 */
+function migrateStatePath(guildName: string): void {
+  const oldPath = path.join(DATA_DIR, 'guild-monitor.json');
+  const newPath = getStatePath(guildName);
+  if (fs.existsSync(oldPath) && !fs.existsSync(newPath)) {
+    fs.renameSync(oldPath, newPath);
+  }
+}
+
+export function loadState(guildName?: string): MonitorState | null {
+  const name = guildName ?? process.env.GUILD_NAME ?? 'guild';
+  migrateStatePath(name);
+  const p = getStatePath(name);
   if (!fs.existsSync(p)) return null;
   return JSON.parse(fs.readFileSync(p, 'utf-8'));
 }
 
-export function saveState(state: MonitorState): void {
+export function saveState(state: MonitorState, guildName?: string): void {
+  const name = guildName ?? process.env.GUILD_NAME ?? 'guild';
   fs.mkdirSync(DATA_DIR, { recursive: true });
-  fs.writeFileSync(getStatePath(), JSON.stringify(state, null, 2));
+  fs.writeFileSync(getStatePath(name), JSON.stringify(state, null, 2));
 }
 
 // ============================================

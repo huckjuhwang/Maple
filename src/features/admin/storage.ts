@@ -182,11 +182,14 @@ export function syncMembers(
       member.level = apiMember.level;
       if (apiMember.combatPower) member.combatPower = apiMember.combatPower;
       if (apiMember.unionLevel) member.unionLevel = apiMember.unionLevel;
+      member.leaveDetected = false; // API에 있으면 이탈 감지 해제
       // new 상태는 관리자가 직접 확인(직위/이름 입력)해야 active로 변경 → sync에서 자동 변환 안 함
     } else {
-      member.status = 'left';
-      member.leftDate = today;
-      left.push(member.characterName);
+      // 탈퇴 처리 대신 이탈 감지 표시만 (관리자가 직접 확인 후 처리)
+      if (!member.leaveDetected) {
+        member.leaveDetected = true;
+        left.push(member.characterName);
+      }
     }
   }
 
@@ -348,7 +351,28 @@ export function transferMember(
   // 이동
   source.splice(idx, 1);
   const target = toGuild === 'mirror' ? adminData.mirror : adminData.dalla;
-  target.push(member);
+
+  // 이미 대상 길드에 존재하면 (배치가 신규로 추가한 경우) → 달라 데이터로 덮어쓰기
+  const existingIdx = target.findIndex(m => m.characterName === characterName);
+  if (existingIdx !== -1) {
+    const existing = target[existingIdx];
+    // 관리 데이터(직위/이름/비고/메모)는 달라 쪽 데이터 우선, API 데이터는 최신(거울 신규) 우선
+    target[existingIdx] = {
+      ...existing,
+      position: existing.position, // 직위는 이전 후 별도 설정
+      realName: member.realName || existing.realName,
+      mainCharacter: member.mainCharacter || existing.mainCharacter,
+      note: member.note || existing.note,
+      inactiveReason: member.inactiveReason || existing.inactiveReason,
+      fromMirror: member.fromMirror || existing.fromMirror,
+      memoHistory: [...(member.memoHistory ?? []), ...(existing.memoHistory ?? [])],
+      guild: toGuild,
+      status: member.status === 'new' ? 'new' : existing.status,
+      leaveDetected: false,
+    };
+  } else {
+    target.push(member);
+  }
 
   return true;
 }

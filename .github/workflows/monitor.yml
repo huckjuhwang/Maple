@@ -18,11 +18,18 @@ jobs:
         with:
           node-version: '20'
       - run: npm ci
-      - name: 🔍 가입/탈퇴 감지
+      - name: 🔍 가입/탈퇴 감지 (거울)
         env:
           NEXON_API_KEY: ${{ secrets.NEXON_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GUILD_NAME: 거울
+          WORLD_NAME: 스카니아
+        run: npx tsx scripts/batch-member-change.ts
+      - name: 🔍 가입/탈퇴 감지 (달라)
+        env:
+          NEXON_API_KEY: ${{ secrets.NEXON_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GUILD_NAME: 달라
           WORLD_NAME: 스카니아
         run: npx tsx scripts/batch-member-change.ts
       - name: 📁 상태 저장
