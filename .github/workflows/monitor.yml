@@ -1,4 +1,4 @@
-name: 🔍 길드원 모니터링
+name: 🔍 길드원 모니터링 (매 5분)
 
 on:
   schedule:

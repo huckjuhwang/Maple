@@ -1,4 +1,4 @@
-name: 💤 미접속 알림
+name: 💤 미접속 알림 (매일 KST 07:00)
 
 on:
   schedule:
