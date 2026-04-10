@@ -6388,2895 +6388,3963 @@
   "left": [
     {
       "characterName": "팬텀s블렉",
+      "guild": "mirror",
       "job": "팬텀",
+      "level": 0,
       "realName": "",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "삐치다",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "이찬우/95",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "흥엉이",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "김나영/90",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "듀블곰팅이",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "원건호/95",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "땁팼",
+      "guild": "mirror",
       "job": "썬콜",
+      "level": 0,
       "realName": "",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "페라쿄",
+      "guild": "mirror",
       "job": "듀얼블레이드",
+      "level": 0,
       "realName": "송지헌/97",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "진짜호돌이로",
+      "guild": "mirror",
       "job": "카이저",
+      "level": 0,
       "realName": "서준영/00",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뚜알라코알라",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "정우진/03",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "헐귄",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "최준하/97",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "밍후e",
+      "guild": "mirror",
       "job": "보우마스터",
+      "level": 0,
       "realName": "손주환/93",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "Lios윈브",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "박한수/92",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "mylifezob",
+      "guild": "mirror",
       "job": "팔라딘",
+      "level": 0,
       "realName": "조용선/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "사송송",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "김신종/95",
-      "leftReason": "리부트",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "리부트",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "벤이너무조왓",
+      "guild": "mirror",
       "job": "키네시스",
+      "level": 0,
       "realName": "추승준/01",
-      "leftReason": "월드리프",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "월드리프",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "일본avi",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "이진우/90",
-      "leftReason": "월드리프",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "월드리프",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뉴옥닉스",
+      "guild": "mirror",
       "job": "팔라딘",
+      "level": 0,
       "realName": "김대희/96",
-      "leftReason": "재탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "재탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "안콤",
+      "guild": "mirror",
       "job": "신궁",
+      "level": 0,
       "realName": "안민섭/92",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "삿포포",
+      "guild": "mirror",
       "job": "루미너스",
+      "level": 0,
       "realName": "이기훈/94",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "게자동",
+      "guild": "mirror",
       "job": "패스파인더",
+      "level": 0,
       "realName": "이경민/95",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "칼리앰",
+      "guild": "mirror",
       "job": "",
+      "level": 0,
       "realName": "김재하/00",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "YGGG",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "박민수/93",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "선도의배메",
+      "guild": "mirror",
       "job": "배틀메이지",
+      "level": 0,
       "realName": "우형욱/93",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "단훠리",
+      "guild": "mirror",
       "job": "호영",
+      "level": 0,
       "realName": "단은비/01",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "원봄이",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "없음",
-      "leftReason": "강제탈퇴(스틸)",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "강제탈퇴(스틸)",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "박뀨성",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "박규성/01",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "wweee",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "조용주/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "여흥띠",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "이준수/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "라예소",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "하와와호영씨",
+      "guild": "mirror",
       "job": "호영",
+      "level": 0,
       "realName": "송인보/02",
-      "leftReason": "장기 미접속(입대)",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속(입대)",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "장도옥",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "강성진/90",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "Pennem",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "석진우/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "수룡의쌍칼",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "권성진/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뽀롤잉",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "이보라/96",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "냐듣",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "윤범진/00",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "루미륩",
+      "guild": "mirror",
       "job": "루미너스",
+      "level": 0,
       "realName": "김선웅/98",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "호령왕자",
+      "guild": "mirror",
       "job": "호영",
+      "level": 0,
       "realName": "이연비/02",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가, 새근소근",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "상근용사동현",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "김동현/00",
-      "leftReason": "강제탈퇴(먹튀)",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "강제탈퇴(먹튀)",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "홍머표",
+      "guild": "mirror",
       "job": "엔젤릭버스터",
+      "level": 0,
       "realName": "홍대표/98",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "밈쿠",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "박서진/99",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "문연보라",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "문무영/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "원흥떡볶이",
+      "guild": "mirror",
       "job": "은월",
+      "level": 0,
       "realName": "김형준/94",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "수펩",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "김창수/01",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "환상아라모드",
+      "guild": "mirror",
       "job": "신궁",
+      "level": 0,
       "realName": "이동호/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "붕붕훅종일",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "곽재현/97",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "바이퍼전어",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "위지훈/97",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "금방망이",
+      "guild": "mirror",
       "job": "호영",
+      "level": 0,
       "realName": "이금현/98",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "카덴사",
+      "guild": "mirror",
       "job": "카데나",
+      "level": 0,
       "realName": "김승현/03",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "서영창",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "전태영/99",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "별류",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "김태준/95",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "중기",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "민중기",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "새근소근",
+      "guild": "mirror",
       "job": "데몬 슬레이어",
+      "level": 0,
       "realName": "이종민/95",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가, 호령왕자, 묘한소리",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "왹커",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "남혜림/97",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "토반",
+      "guild": "mirror",
       "job": "",
+      "level": 0,
       "realName": "김다훈/95",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "망구르파지",
+      "guild": "mirror",
       "job": "",
+      "level": 0,
       "realName": "이영민/99",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "유틈",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "차재혁/00",
-      "leftReason": "강제탈퇴(스틸)",
-      "note": "* 아이디 구매자가 비매너 행위(스틸)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "강제탈퇴(스틸)",
+      "noRejoin": false,
+      "noRejoinReason": "스틸"
     },
     {
       "characterName": "호설율",
+      "guild": "mirror",
       "job": "칼리",
+      "level": 0,
       "realName": "이재익/93",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "베리쿨쿨",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "김승운/92",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "진짜이적금지",
+      "guild": "mirror",
       "job": "아크",
+      "level": 0,
       "realName": "박동규/94",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "ANTITHESE",
+      "guild": "mirror",
       "job": "은월",
+      "level": 0,
       "realName": "신동민/03",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "광평동히어로",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "양기철/93",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "메점",
+      "guild": "mirror",
       "job": "칼리",
+      "level": 0,
       "realName": "서민형/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "팩돌희",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "김승환/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "꿀섬",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "송태우/91",
-      "leftReason": "재탈퇴",
-      "note": "* 재가입 불가, 재탈퇴",
-      "memoHistory": [
-        "[이전] 탈퇴 * 재가입 불가"
-      ]
+      "leftDate": "",
+      "reason": "재탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "민란",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "민웅기/93",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뽀둡",
+      "guild": "mirror",
       "job": "패스파인더",
+      "level": 0,
       "realName": "최예지/01",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "미카비틱기원",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "김태연/03",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "칠공주리더",
+      "guild": "mirror",
       "job": "메르세데스",
+      "level": 0,
       "realName": "이호준/99",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "안재앙의아들",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "이강훈/98",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "양여자",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "서성빈/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "선조치무보고",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "안성진/92",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "본투러브",
+      "guild": "mirror",
       "job": "메르세데스",
+      "level": 0,
       "realName": "박상준/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "런쉘",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "박세연/01",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "숙제해야겠따",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "정건우/03",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "섶섣",
+      "guild": "mirror",
       "job": "엔젤릭버스터",
+      "level": 0,
       "realName": "안수빈/98",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "출동직(개두요)",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "이두원/91",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가, 묘한소리",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "교황박동범",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "박동범/91",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가, 묘한소리",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "우니여님",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "이다운/91",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가, 묘한소리",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "양주먹고맴맴",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "신동현/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "메또해",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "황동욱/91",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가, 묘한소리",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "잇닷(샌소)",
+      "guild": "mirror",
       "job": "카데나",
+      "level": 0,
       "realName": "오인택/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "THEHYPHEN",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "성화섭/97",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": [
-        "[이전] 장기 미접속"
-      ]
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "꼐훗",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "김시현/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "님하루",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "김수영/01",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "서준도령",
+      "guild": "mirror",
       "job": "키네시스",
+      "level": 0,
       "realName": "유재현/00",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "로미네윈브",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "박영문/89",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "김헷픔",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "김경민/97",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "그랜드오카상",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "이해성/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "솅쿤",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "이세형/88",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "시슬리향수",
+      "guild": "mirror",
       "job": "신궁",
+      "level": 0,
       "realName": "임성진/92",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "응애나살려죠",
+      "guild": "mirror",
       "job": "캡틴",
+      "level": 0,
       "realName": "박지호/97",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "리린썬",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "김민우/96",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "꿰뜬",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "김승범/03",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "윈두심",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "장동규/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가, 묘한소리",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "에프킴라",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "최신걸/95",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "트루엘소마",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "서의히",
+      "guild": "mirror",
       "job": "썬콜",
+      "level": 0,
       "realName": "이새롬/95",
-      "leftReason": "재탈퇴",
-      "note": "* 재가입 불가, 체노 뚜비두빗",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "재탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "푸시깽이",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "신재헌/99",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "송항영",
+      "guild": "mirror",
       "job": "엔젤릭버스터",
+      "level": 0,
       "realName": "원찬웅/00",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "지난날이밉다",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "정다훈/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "오렌지헤드셋",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "이세훈/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "서제노",
+      "guild": "mirror",
       "job": "아란",
+      "level": 0,
       "realName": "송선오/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "콩챠비",
+      "guild": "mirror",
       "job": "엔젤릭버스터",
+      "level": 0,
       "realName": "윤서영/03",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "자답",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "오수영/94",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뚜언히",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "조원희/93",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "세가",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "김동희/04",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "이언뉴",
+      "guild": "mirror",
       "job": "",
+      "level": 0,
       "realName": "김민경/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "가던길가숍",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "김규진/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "권익",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "장현빈/01",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뚜지훈",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "최지훈/93",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "만취전사",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "최서원/91",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "섀도옥킹",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "홍승현/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "앗츠팡",
+      "guild": "mirror",
       "job": "팔라딘",
+      "level": 0,
       "realName": "",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "zl존곰탕",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "손대현/92",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "폴암으로쳐팸",
+      "guild": "mirror",
       "job": "아란",
+      "level": 0,
       "realName": "지성현/91",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "망고마싸",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "정의걸/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뽀오승",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "최승표/93",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "듀블박종찬",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "박종찬/97",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "썬호야스",
+      "guild": "mirror",
       "job": "썬콜",
+      "level": 0,
       "realName": "전호영/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "종퐈",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "오종화/91",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (분쟁)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "분쟁"
     },
     {
       "characterName": "땡벌임",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "정성훈",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "일진하다",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "정일진/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "묘한소리",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "신동해/97",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (분쟁)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "분쟁"
     },
     {
       "characterName": "ChoiYJ",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "송성인/94",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "스빈이",
+      "guild": "mirror",
       "job": "팬텀",
+      "level": 0,
       "realName": "홍주현/97",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "25설경",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "박찬수/00",
-      "leftReason": "강제탈퇴(사기)",
-      "note": "* 재가입 불가, 사기 전적 확인",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "강제탈퇴(사기)",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "잽이님",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "최성민/91",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "키보만",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "김영훈/91",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "둥둥쑤마",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "정한동/90",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "예나키키z",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "신현용/92",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "윤식불독",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "최윤석/00",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "래테이",
+      "guild": "mirror",
       "job": "다크나이트",
+      "level": 0,
       "realName": "남도현/99",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "믹뿌",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "김진영/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "쭈파",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "이민규/95",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "신묘",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "윤일룡/96",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "굻냐",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "김용겸/00",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (노블)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "노블"
     },
     {
       "characterName": "집잃은펭귄",
+      "guild": "mirror",
       "job": "패스파인더",
+      "level": 0,
       "realName": "박정규/98",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "롱알롱알롱",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "박석준",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "암행출두",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "하정우/03",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "검황난무",
+      "guild": "mirror",
       "job": "칼리",
+      "level": 0,
       "realName": "김현준/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "이외팔",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "이기헌/00",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "내폭",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "최준수/98",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": [
-        "[이전] 장기 미접속"
-      ]
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "노먹",
+      "guild": "mirror",
       "job": "카인",
+      "level": 0,
       "realName": "송형준/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "비숍해봤냐",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "박기홍/93",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "숙희집사",
+      "guild": "mirror",
       "job": "호영",
+      "level": 0,
       "realName": "김태인/99",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "유리별콩콩",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "젼밍",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "김지현/00",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "김려울",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "차민정/03",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "르잎",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "강지수/93",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "녜담님",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "서주연/93",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "학영이",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "김학영/94",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "최애의푸",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "진정현/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "유썹",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "김유섭/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "레빛찬",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "김한빛/92",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": [
-        "[이전] 장기 미접속"
-      ]
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "옥과소마",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "김보성/00",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "이마가사이코",
+      "guild": "mirror",
       "job": "키네시스",
+      "level": 0,
       "realName": "김도윤/03",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "숍두심",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "장동규/94",
-      "leftReason": "재탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "재탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "드림처럼",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "김영진/93",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "근육효원",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "김효원/97",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "장오왼",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "장현진/97",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "피바람홍학",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "신동연/01",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "서리꽃",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "김영준/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "마약게임시작",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "최현수/01",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "햄토리p",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "김동진/92",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "묘링",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "김형석/92",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "풀똥",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "홍대기/98",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": [
-        "[이전] 장기 미접속"
-      ]
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "믿믄",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "김재현/97",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "아릇쓰",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "최영재/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "도아델연",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "김상훈/94",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "공부접은학생",
+      "guild": "mirror",
       "job": "캐논마스터",
+      "level": 0,
       "realName": "김택준/05",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "하정우",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "양유안/98",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가, 비매너 제보",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "찬희멍",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "김영진/01",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "최꽥이",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "윤석균/97",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "최꽥이슈우웃",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "이수민/94",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "seezi",
+      "guild": "mirror",
       "job": "은월",
+      "level": 0,
       "realName": "윤병호/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "류나밍",
+      "guild": "mirror",
       "job": "캡틴",
+      "level": 0,
       "realName": "이대형/94",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "동구리썬",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "김기선/97",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (분쟁)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "분쟁"
     },
     {
       "characterName": "맹한",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "정진원/01",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "오빠도적",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "최선호/91",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "빛빈",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "김용환/02",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "누벼",
+      "guild": "mirror",
       "job": "은월",
+      "level": 0,
       "realName": "한승진/90",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "98메이지",
+      "guild": "mirror",
       "job": "배틀메이지",
+      "level": 0,
       "realName": "정원범/98",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "신월동태팔",
+      "guild": "mirror",
       "job": "패스파인더",
+      "level": 0,
       "realName": "김태원/94",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "잼민율",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "이유린/01",
-      "leftReason": "재탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "재탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "정웅인",
+      "guild": "mirror",
       "job": "팔라딘",
+      "level": 0,
       "realName": "최우성/90",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "버프돈받아",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "배명일/97",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "하이퍼엇",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "하건수/89",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "화손녀",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "정우인/98",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "하와와아라",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "김민준/99",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": [
-        "[이전] 장기 미접속"
-      ]
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "쏘기쀼",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "황동욱/99",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "안랩",
+      "guild": "mirror",
       "job": "아란",
+      "level": 0,
       "realName": "이영우/94",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "야잼만아",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "박준용/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "젤리꽁장짱",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "곽주안/02",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "삼성평택공장",
+      "guild": "mirror",
       "job": "배틀메이지",
+      "level": 0,
       "realName": "김태영/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "교황재원",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "임재원/99",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "짐파",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "이강현/99",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뚜비두빗",
+      "guild": "mirror",
       "job": "플레임위자드",
+      "level": 0,
       "realName": "허재성/98",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (분쟁)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "분쟁"
     },
     {
       "characterName": "은환",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "왕은환/87",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (분쟁)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "분쟁"
     },
     {
       "characterName": "체노",
+      "guild": "mirror",
       "job": "은월",
+      "level": 0,
       "realName": "문현우/00",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (분쟁)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "분쟁"
     },
     {
       "characterName": "진류경",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "심수진/93",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "박재곤",
+      "guild": "mirror",
       "job": "메카닉",
+      "level": 0,
       "realName": "박재곤/98",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "흙먹는소마님",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "김지훈/96",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (분쟁)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "분쟁"
     },
     {
       "characterName": "LemonCandy",
+      "guild": "mirror",
       "job": "블래스터",
+      "level": 0,
       "realName": "전지웅/03",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "윤국좌",
+      "guild": "mirror",
       "job": "썬콜",
+      "level": 0,
       "realName": "윤국현/89",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "In2you",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "이도훈/05",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "계란마리떡밥",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "김영진/96",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "naro말하면",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "백종현/00",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "밤침",
+      "guild": "mirror",
       "job": "섀도어",
+      "level": 0,
       "realName": "안현모/97",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "치킨서겟",
+      "guild": "mirror",
       "job": "캐논마스터",
+      "level": 0,
       "realName": "염문식/97",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "곰윤호",
+      "guild": "mirror",
       "job": "플레임위자드",
+      "level": 0,
       "realName": "문윤호/04",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "김삐꾹",
+      "guild": "mirror",
       "job": "칼리",
+      "level": 0,
       "realName": "이우진/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "덩딱지",
+      "guild": "mirror",
       "job": "썬콜",
+      "level": 0,
       "realName": "이태현/91",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "여심도둑춘식",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "이형훈/98",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "옙허",
+      "guild": "mirror",
       "job": "데몬 어벤져",
+      "level": 0,
       "realName": "지수환/05",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "옛븜",
+      "guild": "mirror",
       "job": "호영",
+      "level": 0,
       "realName": "우승우/93",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "잠자는별림",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "한동희/98",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "정상인데",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "유정상/01",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "서연이삼겹살",
+      "guild": "mirror",
       "job": "보우마스터",
+      "level": 0,
       "realName": "정태양/90",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "급솔",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "정재우/04",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "썬생님",
+      "guild": "mirror",
       "job": "썬콜",
+      "level": 0,
       "realName": "강운기/95",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (인벤박제)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "인벤박제"
     },
     {
       "characterName": "눅벽",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "안혁/01",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "도로테아멍",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "변유민/01",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "꿸톡",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "임채원/01",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "시아루카",
+      "guild": "mirror",
       "job": "캐논마스터",
+      "level": 0,
       "realName": "최현영/93",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "본도",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "전유진/96",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (넷카마)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "넷카마"
     },
     {
       "characterName": "드픕",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "김승한/99",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "쯩껴",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "이주현/97",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "세구빔으로",
+      "guild": "mirror",
       "job": "루미너스",
+      "level": 0,
       "realName": "이재웅/93",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "3줄요약해줘",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "박용준/97",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "메론재삐",
+      "guild": "mirror",
       "job": "일리움",
+      "level": 0,
       "realName": "김정훈/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "LavyNetzach",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "고아진/98",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "그리밍스타",
+      "guild": "mirror",
       "job": "팬텀",
+      "level": 0,
       "realName": "정송현/01",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "날아라둥둥띠",
+      "guild": "mirror",
       "job": "다크나이트",
+      "level": 0,
       "realName": "나준엽/96",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "딸리로레",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "김기범/96",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "제갈씨",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "제갈동연/93",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "신인상",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "이위립/92",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "헤루잉",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "허창희/96",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "가이랑랑",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "윤희성/02",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "미자미자",
+      "guild": "mirror",
       "job": "엔젤릭버스터",
+      "level": 0,
       "realName": "차미지/99",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "정기윈",
+      "guild": "mirror",
       "job": "카인",
+      "level": 0,
       "realName": "정기원/95",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "조태다당",
+      "guild": "mirror",
       "job": "팬텀",
+      "level": 0,
       "realName": "조태형/00",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "Lunarli",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "김찬욱/95",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "읍땃",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "임송이/96",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "원잉",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "김민혁/96",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "불벅인데요",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "조희덕/89",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "돼햄이",
+      "guild": "mirror",
       "job": "메르세데스",
+      "level": 0,
       "realName": "윤한기/93",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "안주걸이",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "권용욱/01",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "통한의컨트롤",
+      "guild": "mirror",
       "job": "카데나",
+      "level": 0,
       "realName": "서일현/98",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "컹굿",
+      "guild": "mirror",
       "job": "캐논마스터",
+      "level": 0,
       "realName": "소휘윤/01",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "라디노클로버",
+      "guild": "mirror",
       "job": "팔라딘",
+      "level": 0,
       "realName": "임재원/99",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "I엘시I",
+      "guild": "mirror",
       "job": "썬콜",
+      "level": 0,
       "realName": "한승현/05",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "지히창",
+      "guild": "mirror",
       "job": "카인",
+      "level": 0,
       "realName": "정희창/96",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "유윈오",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "유윤오/96",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "주형상",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "이주형/98",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (노블)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "노블"
     },
     {
       "characterName": "활활탁탁",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "최세빈/95",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "석출존슨",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "김일훈/99",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "아까먹은치킨",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "서영빈/00",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "주스병",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "최승환/00",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "권은월신",
+      "guild": "mirror",
       "job": "은월",
+      "level": 0,
       "realName": "권준/96",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "곰이핑",
+      "guild": "mirror",
       "job": "은월",
+      "level": 0,
       "realName": "김동권/94",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "찰향",
+      "guild": "mirror",
       "job": "엔젤릭버스터",
+      "level": 0,
       "realName": "오재철/99",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "짭콕",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "황용택/00",
-      "leftReason": "강제 탈퇴",
-      "note": "* 재가입 불가, 물통 사기 의심",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "강제탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "똘이와까미",
+      "guild": "mirror",
       "job": "패스파인더",
+      "level": 0,
       "realName": "이재원/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "넙접",
+      "guild": "mirror",
       "job": "데몬 어벤져",
+      "level": 0,
       "realName": "장준수/06",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "su얼크루",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "백성연/95",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "소앵훈",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "박소영/96",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "크사네",
+      "guild": "mirror",
       "job": "칼리",
+      "level": 0,
       "realName": "방성환/90",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "스르르메르르",
+      "guild": "mirror",
       "job": "메르세데스",
+      "level": 0,
       "realName": "김륜형/01",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "안토님",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "임상철/02",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "펭젠",
+      "guild": "mirror",
       "job": "데몬 어벤져",
+      "level": 0,
       "realName": "송호성/03",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "장수베토벤",
+      "guild": "mirror",
       "job": "소울마스터",
+      "level": 0,
       "realName": "김효재/94",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "플레이팅",
+      "guild": "mirror",
       "job": "데몬 어벤져",
+      "level": 0,
       "realName": "박성준/01",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "소꾼",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "남민수/03",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "리시현",
+      "guild": "mirror",
       "job": "팬텀",
+      "level": 0,
       "realName": "이시현/04",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "지레사정",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "최희승/93",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "개피로",
+      "guild": "mirror",
       "job": "다크나이트",
+      "level": 0,
       "realName": "윤상원/99",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "82키로감자",
+      "guild": "mirror",
       "job": "엔젤릭버스터",
+      "level": 0,
       "realName": "김진우/97",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "굿딕",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "조규찬/91",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "매화밍꾸",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "정민구/92",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "노인과지게",
+      "guild": "mirror",
       "job": "팔라딘",
+      "level": 0,
       "realName": "김동한/95",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뎨햇",
+      "guild": "mirror",
       "job": "데몬 어벤져",
+      "level": 0,
       "realName": "손주환/93",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "교드리치",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "전교훈",
-      "leftReason": "장기 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "신한쫄",
+      "guild": "mirror",
       "job": "데몬 슬레이어",
+      "level": 0,
       "realName": "신한철/92",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "룬맨",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "이록원/93",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "S2한",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "이용우/01",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "라딧숍",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "정재우/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "땜볘",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "진석현/99",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "요것바",
+      "guild": "mirror",
       "job": "일리움",
+      "level": 0,
       "realName": "박준수/95",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "jelly젤리",
+      "guild": "mirror",
       "job": "썬콜",
+      "level": 0,
       "realName": "배가람/85",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "딕먕",
+      "guild": "mirror",
       "job": "엔젤릭버스터",
+      "level": 0,
       "realName": "이윤제/03",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (노블)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "노블"
     },
     {
       "characterName": "임칙단",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "정태영/94",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (노블)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "노블"
     },
     {
       "characterName": "냥캣야옹천사",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "정성우/99",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "킨스더",
+      "guild": "mirror",
       "job": "라라",
+      "level": 0,
       "realName": "박민수/99",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "긱년",
+      "guild": "mirror",
       "job": "캐논마스터",
+      "level": 0,
       "realName": "박성윤/01",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "싫어흑인은",
+      "guild": "mirror",
       "job": "키네시스",
+      "level": 0,
       "realName": "이정/00",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "풍각",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "김민규/98",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "쟁반장",
+      "guild": "mirror",
       "job": "루미너스",
+      "level": 0,
       "realName": "우준서/03",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "추의",
+      "guild": "mirror",
       "job": "블래스터",
+      "level": 0,
       "realName": "최시원/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "큄승현",
+      "guild": "mirror",
       "job": "팬텀",
+      "level": 0,
       "realName": "김승현/96",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "엄태열",
+      "guild": "mirror",
       "job": "패스파인더",
+      "level": 0,
       "realName": "김태열/01",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "거눅렌",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "이진기/95",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "a포근포근a",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "윤준용/03",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "Ceph1",
+      "guild": "mirror",
       "job": "보우마스터",
+      "level": 0,
       "realName": "천주형/00",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "똔이요",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "정대희/98",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "눌그룹",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "김정록/97",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "매검설화",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "심성현/95",
-      "leftReason": "탈퇴",
-      "note": "* 상위 길드 이적",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "토모라",
+      "guild": "mirror",
       "job": "썬콜",
+      "level": 0,
       "realName": "이기훈/85",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (핑프)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "핑프"
     },
     {
       "characterName": "잇사시브리",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "양성모/93",
-      "leftReason": "탈퇴",
-      "note": "* 재가입 불가 (소통불가)",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": "소통불가"
     },
     {
       "characterName": "범마렌",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "황상선/90",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "캡뮴미",
+      "guild": "mirror",
       "job": "캡틴",
+      "level": 0,
       "realName": "백준현/02",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "자중심",
+      "guild": "mirror",
       "job": "듀얼블레이더",
+      "level": 0,
       "realName": "배주광/99",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "츠칭잉",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "박준규/00",
-      "leftReason": "탈퇴",
-      "note": "* 지인 길드",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "광주혀기",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "박창혁/95",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "톰오오",
+      "guild": "mirror",
       "job": "보우마스터",
+      "level": 0,
       "realName": "전준영/97",
-      "leftReason": "탈퇴",
-      "note": "* 길드 이전",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "섐딩",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "김용우/02",
-      "leftReason": "월드리프",
-      "note": "* 에바노",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "월드리프",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "렌렌현",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "임수현/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "해구슬",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "유진선/94",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "렌드드",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "이인희/93",
-      "leftReason": "메접",
-      "note": "* 프뽑",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "활잽이킹",
+      "guild": "mirror",
       "job": "보우마스터",
+      "level": 0,
       "realName": "박형민/01",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "물방울앵꼬",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "변창석/95",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "늦산",
+      "guild": "mirror",
       "job": "아크",
+      "level": 0,
       "realName": "서신성/96",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "입량",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "정영석/94",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "멀혜",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "노호찬/92",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "셀격",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "박수열/98",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "마을사람R",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "강동권/95",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "서른살이",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "박경인/97",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "원웅언니",
+      "guild": "mirror",
       "job": "나이트워커",
+      "level": 0,
       "realName": "이원웅/97",
-      "leftReason": "강제탈퇴",
-      "note": "* 이중 길드",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "강제탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "곤뜩",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "최한별/92",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "민몌린",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "김민혁/96",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "손뼉",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "김현우/00",
-      "leftReason": "강제탈퇴",
-      "note": "* 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "강제탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "쌈무에쌈싸기",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "장현욱/02",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "이걸로누구",
+      "guild": "mirror",
       "job": "데몬 어벤져",
+      "level": 0,
       "realName": "김훈호/91",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "돌아와지누",
+      "guild": "mirror",
       "job": "아델",
+      "level": 0,
       "realName": "김진우/95",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "누꿉",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "김보권/97",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "달빛의포근함",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "이유찬/00",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "렐닝2",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "임성규/98",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "머힛",
+      "guild": "mirror",
       "job": "바이퍼",
+      "level": 0,
       "realName": "김진호/99",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "섹시큐티디숭",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "이지수/94",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "루르o",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "유강현/03",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "치즈같은치즈",
+      "guild": "mirror",
       "job": "아크",
+      "level": 0,
       "realName": "이주환/99",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "주몽파트너",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "이철민/93",
-      "leftReason": "탈퇴",
-      "note": "* 노블",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "칠신",
+      "guild": "mirror",
       "job": "히어로",
+      "level": 0,
       "realName": "박창규/94",
-      "leftReason": "탈퇴",
-      "note": "* 상위 길드 이적",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "ldh98",
+      "guild": "mirror",
       "job": "스트라이커",
+      "level": 0,
       "realName": "이동협/98",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뭐딥",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "김문현/88",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "뉘코틴",
+      "guild": "mirror",
       "job": "배틀메이지",
+      "level": 0,
       "realName": "김준영/94",
-      "leftReason": "탈퇴",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "남성혐",
+      "guild": "mirror",
       "job": "와일드헌터",
+      "level": 0,
       "realName": "남성현/93",
-      "leftReason": "탈퇴",
-      "note": "* 노블",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "탈퇴",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "시하소",
+      "guild": "mirror",
       "job": "카데나",
+      "level": 0,
       "realName": "이성현/04",
-      "leftReason": "재탈퇴",
-      "note": "* 어사, 재가입 불가",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "재탈퇴",
+      "noRejoin": true,
+      "noRejoinReason": ""
     },
     {
       "characterName": "래경래",
+      "guild": "mirror",
       "job": "비숍",
+      "level": 0,
       "realName": "김경래/93",
-      "leftReason": "메접",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "메접",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "용용이눈나",
+      "guild": "mirror",
       "job": "에반",
+      "level": 0,
       "realName": "하윤주/98",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "금츔",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "이경국/02",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "쿨우",
+      "guild": "mirror",
       "job": "나이트로드",
+      "level": 0,
       "realName": "이준호/95",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "산골짜기렌",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "송석/01",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "깅바비",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "유지원/94",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "IluvZero",
+      "guild": "mirror",
       "job": "제로",
+      "level": 0,
       "realName": "황광호/06",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "능캣",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "이근원/94",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "설렌s",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "김나영/92",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "쑈혜",
+      "guild": "mirror",
       "job": "윈드브레이커",
+      "level": 0,
       "realName": "박재민/96",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "잼일검",
+      "guild": "mirror",
       "job": "불독",
+      "level": 0,
       "realName": "이상진/98",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "탱또먹",
+      "guild": "mirror",
       "job": "루미너스",
+      "level": 0,
       "realName": "박서연/97",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "렌선뽑힌망붕",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "조수아/95",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     },
     {
       "characterName": "희쿨",
+      "guild": "mirror",
       "job": "렌",
+      "level": 0,
       "realName": "최시원/98",
-      "leftReason": "장기간 미접속",
-      "note": "",
-      "memoHistory": []
+      "leftDate": "",
+      "reason": "장기 미접속",
+      "noRejoin": false,
+      "noRejoinReason": ""
     }
   ]
 }
