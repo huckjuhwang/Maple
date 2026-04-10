@@ -2,7 +2,7 @@
  * 배치 1: 가입/탈퇴 감지 (5분마다)
  *
  * 실행: npx tsx scripts/batch-member-change.ts
- * GitHub Actions: cron '*/5 * * * *'
+ * GitHub Actions: cron (매 5분마다)
  *
  * API 호출: 1회 (길드 멤버 목록만)
  * 변동 없으면 알림 안 보냄
@@ -16,8 +16,8 @@ config({ path: path.join(__dirname, '..', '.env.local') });
 import {
   loadState, saveState, detectChanges,
   buildChangeEmbed, sendDiscordAlert,
-  type MonitorState, type MemberChangeLog,
 } from '../src/features/guild-monitor/monitor';
+import type { MonitorState, MemberChangeLog } from '../src/features/guild-monitor/monitor';
 
 const API_KEY = process.env.NEXON_API_KEY;
 if (!API_KEY) { console.error('❌ NEXON_API_KEY 필요'); process.exit(1); }
@@ -41,8 +41,11 @@ async function main() {
   const guildIdData = await apiCall(
     `${BASE_URL}/guild/id?guild_name=${encodeURIComponent(GUILD_NAME)}&world_name=${encodeURIComponent(WORLD_NAME)}`
   );
+  const kst = new Date(Date.now() + 9 * 60 * 60 * 1000);
+  kst.setUTCDate(kst.getUTCDate() - 1);
+  const yesterday = `${kst.getUTCFullYear()}-${String(kst.getUTCMonth() + 1).padStart(2, '0')}-${String(kst.getUTCDate()).padStart(2, '0')}`;
   const guild = await apiCall(
-    `${BASE_URL}/guild/basic?oguild_id=${guildIdData.oguild_id}&date=${new Date().toISOString().split('T')[0]}`
+    `${BASE_URL}/guild/basic?oguild_id=${guildIdData.oguild_id}&date=${yesterday}`
   );
 
   const currentMembers: string[] = guild.guild_member;
