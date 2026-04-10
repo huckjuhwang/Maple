@@ -1,0 +1,22 @@
+name: 📊 주간 리포트
+
+on:
+  schedule:
+    # 매주 월요일 오전 9시 KST = UTC 0시 (월요일)
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  weekly-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm ci
+      - name: 📊 주간 리포트 생성
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GUILD_NAME: 거울
+        run: npx tsx scripts/batch-weekly-report.ts
