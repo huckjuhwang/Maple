@@ -574,7 +574,16 @@ export default function AdminPage({ secret }: Props) {
                       <input type="text" value={masterMember.mainCharacter} onChange={e => updateField(masterMember.characterName, tab as any, 'mainCharacter', e.target.value)} placeholder="original" className="w-20 px-1 py-0.5 text-xs border border-gray-200 rounded bg-transparent" />
                     </td>
                     <td className="py-2 px-2">
-                      <span className="text-xs font-bold text-yellow-700">{masterMember.position}</span>
+                      <select
+                        value={masterMember.position}
+                        onChange={e => updateField(masterMember.characterName, tab as any, 'position', e.target.value)}
+                        className="text-xs border border-yellow-300 rounded bg-transparent py-0.5 font-bold text-yellow-700"
+                      >
+                        <option value="">-</option>
+                        {data.config.positions.map(p => (
+                          <option key={p} value={p}>{p}{p === data?.config.masterPosition ? ' (마스터)' : ''}</option>
+                        ))}
+                      </select>
                     </td>
                     {tab === 'dalla' && (
                       <td className="py-2 px-2">
