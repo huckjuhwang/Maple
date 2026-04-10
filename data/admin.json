@@ -9,15 +9,16 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-10T09:28:27.487Z"
+    "lastUpdated": "2026-04-10T14:13:30.497Z",
+    "masterPosition": "거울"
   },
   "mirror": [
     {
       "characterName": "PBVIP",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "조영수/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -32,9 +33,9 @@
     {
       "characterName": "Limit",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "손준영/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -49,9 +50,9 @@
     {
       "characterName": "로보락",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "유지민/91",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -66,9 +67,9 @@
     {
       "characterName": "소방교최재혁",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "최재혁/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -83,9 +84,9 @@
     {
       "characterName": "혁쥬",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "황혁주/98",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -100,9 +101,9 @@
     {
       "characterName": "렌뚜븃",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "고재준/95",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -117,9 +118,9 @@
     {
       "characterName": "령언",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김형언/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -134,9 +135,9 @@
     {
       "characterName": "닉넴쥰내귀찮",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "장승환/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -151,9 +152,9 @@
     {
       "characterName": "고로시상어",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김민수/97",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -168,9 +169,9 @@
     {
       "characterName": "텃루",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김은규/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -185,7 +186,7 @@
     {
       "characterName": "나실피드",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
       "realName": "",
       "note": "",
@@ -202,9 +203,9 @@
     {
       "characterName": "크앍숍",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이진원/90",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -219,9 +220,9 @@
     {
       "characterName": "iceia",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "정연우/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -236,9 +237,9 @@
     {
       "characterName": "Or기밤비",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "최은선/95",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -253,9 +254,9 @@
     {
       "characterName": "퀘스트충충",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "정다희/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -270,9 +271,9 @@
     {
       "characterName": "ol픈소마",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "육인혁/99",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -288,7 +289,7 @@
       "characterName": "령어니온",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "령언",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -304,9 +305,9 @@
     {
       "characterName": "노약자테러범",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "최대현/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -321,9 +322,9 @@
     {
       "characterName": "설명스킵충",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "황정현/95",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -338,9 +339,9 @@
     {
       "characterName": "얼음맛좀봐랏",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "최준서/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -355,9 +356,9 @@
     {
       "characterName": "모홋",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "고동우/90",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -372,9 +373,9 @@
     {
       "characterName": "탁쿤이",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "채상훈/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -389,10 +390,10 @@
     {
       "characterName": "유킹",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
       "realName": "",
-      "note": "",
+      "note": "입원",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -406,9 +407,9 @@
     {
       "characterName": "찐돌쿤",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "장진혁/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -423,9 +424,9 @@
     {
       "characterName": "이시카와은월",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "조영빈/03",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -440,10 +441,10 @@
     {
       "characterName": "전사렌쿤",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "권준석/96",
+      "note": "직업 군인",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -457,9 +458,9 @@
     {
       "characterName": "여모르띠",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "어수호/93",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -474,9 +475,9 @@
     {
       "characterName": "뚜왕아",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "오도연/03",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -491,9 +492,9 @@
     {
       "characterName": "키아o",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이준/91",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -508,9 +509,9 @@
     {
       "characterName": "데먼",
       "guild": "mirror",
-      "position": "",
+      "position": "세계",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김현우/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -525,10 +526,10 @@
     {
       "characterName": "내활",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "계요한/92",
+      "note": "하대원",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -542,9 +543,9 @@
     {
       "characterName": "밈두",
       "guild": "mirror",
-      "position": "",
+      "position": "세계",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "황민주/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -559,9 +560,9 @@
     {
       "characterName": "슬렌떠",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이동엽/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -576,9 +577,9 @@
     {
       "characterName": "난펫",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "임인지/90",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -593,9 +594,9 @@
     {
       "characterName": "쨩룩",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "박상현/93",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -610,9 +611,9 @@
     {
       "characterName": "조팔붕",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "박소망/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -628,7 +629,7 @@
       "characterName": "노약자석여포",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "노약자테러범",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -644,9 +645,9 @@
     {
       "characterName": "핀치아빠",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "강철용/95",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -661,9 +662,9 @@
     {
       "characterName": "메익두방",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "홍승표/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -678,10 +679,10 @@
     {
       "characterName": "으연",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "김의연/98",
+      "note": "앨뱁",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -696,7 +697,7 @@
       "characterName": "홍언",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "핀치아빠",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -712,9 +713,9 @@
     {
       "characterName": "에너지스마일",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "최희도/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -729,9 +730,9 @@
     {
       "characterName": "도낭비",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "정대민/99",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -741,14 +742,15 @@
       "combatPower": 141178074,
       "unionLevel": 9340,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "이민흉",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이민형/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -763,9 +765,9 @@
     {
       "characterName": "렌찌",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김은정/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -780,9 +782,9 @@
     {
       "characterName": "뚱늬",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "유지영/93",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -797,7 +799,7 @@
     {
       "characterName": "임나구리",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
       "realName": "",
       "note": "",
@@ -814,9 +816,9 @@
     {
       "characterName": "잉짱",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "박정혁/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -831,9 +833,9 @@
     {
       "characterName": "EsenJ",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "형상아/95",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -849,7 +851,7 @@
       "characterName": "Flow",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "Limit",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -865,9 +867,9 @@
     {
       "characterName": "아델렌타",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "박종우/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -882,9 +884,9 @@
     {
       "characterName": "소퐁",
       "guild": "mirror",
-      "position": "",
+      "position": "세계",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김태완/97",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -899,9 +901,9 @@
     {
       "characterName": "빼봉",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김동석/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -916,9 +918,9 @@
     {
       "characterName": "뽀은",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "정민규/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -933,9 +935,9 @@
     {
       "characterName": "미소맛소다",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이상구/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -950,9 +952,9 @@
     {
       "characterName": "지넬라",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김준섭/03",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -967,9 +969,9 @@
     {
       "characterName": "CcHm",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "차현석/97",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -984,13 +986,26 @@
     {
       "characterName": "쭈히",
       "guild": "mirror",
-      "position": "",
+      "position": "거울",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김주희/90",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
-      "memoHistory": [],
+      "memoHistory": [
+        {
+          "date": "2026-04-10",
+          "field": "position",
+          "oldValue": "",
+          "newValue": "조각"
+        },
+        {
+          "date": "2026-04-10",
+          "field": "position",
+          "oldValue": "조각",
+          "newValue": "거울"
+        }
+      ],
       "job": "아델",
       "level": 297,
       "combatPower": 121445688,
@@ -1001,9 +1016,9 @@
     {
       "characterName": "긍지높은콩",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "유성준/03",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1018,10 +1033,10 @@
     {
       "characterName": "BOB버걸",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "심우국/02",
+      "note": "군 복무",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -1035,9 +1050,9 @@
     {
       "characterName": "전략가",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "강현석/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1052,9 +1067,9 @@
     {
       "characterName": "맹자린",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "임세미/97",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1069,9 +1084,9 @@
     {
       "characterName": "설윤중",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "우윤중/04",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1086,9 +1101,9 @@
     {
       "characterName": "하늘수",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김용한/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1103,9 +1118,9 @@
     {
       "characterName": "렌52",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이동민/97",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1121,7 +1136,7 @@
       "characterName": "소다맛미소",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "미소맛소다",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -1137,9 +1152,9 @@
     {
       "characterName": "깝쯔",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "유다윗/91",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1154,9 +1169,9 @@
     {
       "characterName": "뚜앵아",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "임수아/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1171,9 +1186,9 @@
     {
       "characterName": "앵구바퍼",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김영훈/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1188,9 +1203,9 @@
     {
       "characterName": "지하돌세민",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "정세민/04",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1217,14 +1232,15 @@
       "combatPower": 108408765,
       "unionLevel": 9321,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "집잃은펭귄",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "박정규/98",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1239,9 +1255,9 @@
     {
       "characterName": "등대지기은율",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "황차현/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1257,7 +1273,7 @@
       "characterName": "현대렌",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "꺄부렁",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -1273,9 +1289,9 @@
     {
       "characterName": "문쏙쏙",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "문수형/91",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1290,9 +1306,9 @@
     {
       "characterName": "쒸꺄",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "장현서/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1307,9 +1323,9 @@
     {
       "characterName": "JELYPO",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "박재휘/95",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1324,9 +1340,9 @@
     {
       "characterName": "에구룽",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김재훈/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1341,9 +1357,9 @@
     {
       "characterName": "전설적인고서",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "차준석/99",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1358,9 +1374,9 @@
     {
       "characterName": "벡난",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "허재영/03",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1370,14 +1386,15 @@
       "combatPower": 102914450,
       "unionLevel": 9011,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "꽐루님",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이슬기/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1392,9 +1409,9 @@
     {
       "characterName": "로사나워",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "오일수/93",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1409,9 +1426,9 @@
     {
       "characterName": "예이이이이잇",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "유관우/06",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1426,9 +1443,9 @@
     {
       "characterName": "낙원의인형",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "강영규/04",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1443,9 +1460,9 @@
     {
       "characterName": "뱃흔",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김태용/93",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1460,10 +1477,10 @@
     {
       "characterName": "여명의키드",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "최환/99",
+      "note": "6월 복귀",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -1477,9 +1494,9 @@
     {
       "characterName": "깡쫑민",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "강종민/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1494,10 +1511,10 @@
     {
       "characterName": "미역",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "홍진영/95",
+      "note": "피노키오",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -1512,7 +1529,7 @@
       "characterName": "여왕님최고다",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "ol픈소마",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -1528,9 +1545,9 @@
     {
       "characterName": "고냥이계란말",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김준/99",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1545,9 +1562,9 @@
     {
       "characterName": "노닥아크",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이영훈/93",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1562,9 +1579,9 @@
     {
       "characterName": "뚱넝",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "정한동/90",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1579,9 +1596,9 @@
     {
       "characterName": "팽장군",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "팽우택/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1596,9 +1613,9 @@
     {
       "characterName": "0렙악마",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김동환/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1614,7 +1631,7 @@
       "characterName": "파랑컬러렌즈",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "원기는친구없",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -1630,9 +1647,9 @@
     {
       "characterName": "롄숙",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김경훈/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1647,9 +1664,9 @@
     {
       "characterName": "꺄부렁",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김기태/95",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1664,9 +1681,9 @@
     {
       "characterName": "젼메추",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "권근찬/98",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1681,9 +1698,9 @@
     {
       "characterName": "금발카나오",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "배용민/99",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1698,9 +1715,9 @@
     {
       "characterName": "니콜라테슬라",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "권용준/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1715,9 +1732,9 @@
     {
       "characterName": "총알왕",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "손민재/98",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1733,7 +1750,7 @@
       "characterName": "지렌라",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "지넬라",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -1749,9 +1766,9 @@
     {
       "characterName": "받쑈",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이정섭/91",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1766,10 +1783,10 @@
     {
       "characterName": "무민별",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "채원석/95",
+      "note": "은월짱할거야",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -1783,9 +1800,9 @@
     {
       "characterName": "크리아스노",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "강륜보/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1800,9 +1817,9 @@
     {
       "characterName": "렌천칠",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "현석현/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1817,9 +1834,9 @@
     {
       "characterName": "기달리즈",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김총명/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1834,9 +1851,9 @@
     {
       "characterName": "도동보",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "유승창/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1851,9 +1868,9 @@
     {
       "characterName": "호피곰",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "윤요빈/93",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1868,9 +1885,9 @@
     {
       "characterName": "총쌤",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이승민/91",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1885,9 +1902,9 @@
     {
       "characterName": "Fives",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "진광명/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1902,10 +1919,10 @@
     {
       "characterName": "허쥬",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "김가윤/95",
+      "note": "쯔뗀",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -1919,9 +1936,9 @@
     {
       "characterName": "운리그",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "강태영/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1936,9 +1953,9 @@
     {
       "characterName": "십군",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김학종/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1953,9 +1970,9 @@
     {
       "characterName": "원기는친구없",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "양현우/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1970,9 +1987,9 @@
     {
       "characterName": "악굽",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김진원/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -1987,10 +2004,10 @@
     {
       "characterName": "상암벌광전사",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "홍준영/91",
+      "note": "챌섭 교체",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -2016,14 +2033,15 @@
       "combatPower": 71370812,
       "unionLevel": 8263,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "포철상",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "오상철/03",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2039,7 +2057,7 @@
       "characterName": "첫미련",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "십군",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -2067,14 +2085,15 @@
       "combatPower": 66665859,
       "unionLevel": 9053,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "테더코인매입",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김민수/98",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2089,9 +2108,9 @@
     {
       "characterName": "변백",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "정문기/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2107,7 +2126,7 @@
       "characterName": "흰라라슈",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "운리그",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -2123,10 +2142,10 @@
     {
       "characterName": "희뜨",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "장희승/97",
+      "note": "서거라",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -2140,9 +2159,9 @@
     {
       "characterName": "헬로우송",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "손우현/93",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2157,9 +2176,9 @@
     {
       "characterName": "깨이",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "권덕륜/99",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2174,9 +2193,9 @@
     {
       "characterName": "재주부림",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "박대원/91",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2191,9 +2210,9 @@
     {
       "characterName": "귀살대호앵",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김동선/03",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2208,10 +2227,10 @@
     {
       "characterName": "반쪽탄",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "진세명/94",
+      "note": "4월 복귀",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -2225,9 +2244,9 @@
     {
       "characterName": "세현하나",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "최세현/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2243,7 +2262,7 @@
       "characterName": "키루o",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "키아o",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -2259,9 +2278,9 @@
     {
       "characterName": "우미클",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이우진/98",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2276,9 +2295,9 @@
     {
       "characterName": "김쫠깃",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김수민/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2293,9 +2312,9 @@
     {
       "characterName": "누끼렌",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이상민/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2310,9 +2329,9 @@
     {
       "characterName": "데션족",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "장현우/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2327,10 +2346,10 @@
     {
       "characterName": "챠루",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "박지은/00",
+      "note": "ROTC",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -2344,9 +2363,9 @@
     {
       "characterName": "매혈단화",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "정선문/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2361,9 +2380,9 @@
     {
       "characterName": "20억",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "여범찬/99",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2378,9 +2397,9 @@
     {
       "characterName": "무로민",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이상민/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2395,9 +2414,9 @@
     {
       "characterName": "검바르",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "윤동준/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2413,7 +2432,7 @@
       "characterName": "사계의시계",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "탁쿤이",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -2430,7 +2449,7 @@
       "characterName": "나로멋쨍이",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "메익두방",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -2446,9 +2465,9 @@
     {
       "characterName": "콰트로에어",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "송기렬/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2463,9 +2482,9 @@
     {
       "characterName": "오늘춥더라",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "백종현/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2480,9 +2499,9 @@
     {
       "characterName": "븐브",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이진형/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2497,9 +2516,9 @@
     {
       "characterName": "블결",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "황예일/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2514,9 +2533,9 @@
     {
       "characterName": "THEHYPHEN",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "성화섭/97",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2543,7 +2562,8 @@
       "combatPower": 44579769,
       "unionLevel": 8742,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "IluvZero",
@@ -2560,14 +2580,15 @@
       "combatPower": 44474357,
       "unionLevel": 7441,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "관절렌",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "변영석/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2594,14 +2615,15 @@
       "combatPower": 43010599,
       "unionLevel": 5091,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "패그",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이동민/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2628,14 +2650,15 @@
       "combatPower": 38745432,
       "unionLevel": 8510,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "도히쑥",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "권태형/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2650,9 +2673,9 @@
     {
       "characterName": "기마쯔",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이현준/98",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2667,9 +2690,9 @@
     {
       "characterName": "지팡이와데스",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김형인/94",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2696,14 +2719,15 @@
       "combatPower": 34909131,
       "unionLevel": 9050,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "휭곰범",
       "guild": "mirror",
-      "position": "",
+      "position": "세계",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김대휘/93",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2730,14 +2754,15 @@
       "combatPower": 34178491,
       "unionLevel": 8958,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "추준",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이동민/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2764,7 +2789,8 @@
       "combatPower": 33138358,
       "unionLevel": 8281,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "Cygnix",
@@ -2781,7 +2807,8 @@
       "combatPower": 32916181,
       "unionLevel": 9017,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "냐응",
@@ -2798,14 +2825,15 @@
       "combatPower": 31760892,
       "unionLevel": 9011,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "주입",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "지승헌/03",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2837,9 +2865,9 @@
     {
       "characterName": "외톨이영욱",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이가민/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2866,14 +2894,15 @@
       "combatPower": 29082862,
       "unionLevel": 8863,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "두몽지로",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이광호/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2888,9 +2917,9 @@
     {
       "characterName": "란화꽃",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "최지희/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2905,9 +2934,9 @@
     {
       "characterName": "섭바이병장",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김승섭/97",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2922,9 +2951,9 @@
     {
       "characterName": "븜균",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김고은/01",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -2940,7 +2969,7 @@
       "characterName": "세현마흔여섯",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "세현하나",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -2957,7 +2986,7 @@
       "characterName": "철상",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "포철상",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -2973,10 +3002,10 @@
     {
       "characterName": "떡꼬치맨",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "이충민/06",
+      "note": "3월 복귀",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -3002,15 +3031,16 @@
       "combatPower": 19827413,
       "unionLevel": 2987,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "맥주맛소마",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "이명요/92",
+      "note": "여름 복귀",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -3024,9 +3054,9 @@
     {
       "characterName": "닛뾰",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "김은률/02",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3041,9 +3071,9 @@
     {
       "characterName": "딸기던진슬요",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "전병훈/91",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3058,9 +3088,9 @@
     {
       "characterName": "성현x",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "홍성현/92",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3076,7 +3106,7 @@
       "characterName": "맨들쭈",
       "guild": "mirror",
       "position": "",
-      "mainCharacter": "",
+      "mainCharacter": "쭈히",
       "realName": "",
       "note": "",
       "inactiveReason": "",
@@ -3092,10 +3122,10 @@
     {
       "characterName": "렌타쿠용",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "백진욱/97",
+      "note": "3월 복귀",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -3109,9 +3139,9 @@
     {
       "characterName": "윤띠",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이아율/97",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3126,10 +3156,10 @@
     {
       "characterName": "시간이머문별",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "박지훈/96",
+      "note": "5월 복귀",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -3143,10 +3173,10 @@
     {
       "characterName": "아리원z",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "한다원/88",
+      "note": "지성이대리중",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -3160,9 +3190,9 @@
     {
       "characterName": "애플핏치",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "홍형기/96",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3177,10 +3207,10 @@
     {
       "characterName": "Ludani",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "박상현/02",
+      "note": "학기 중",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -3194,9 +3224,9 @@
     {
       "characterName": "앗츠팡",
       "guild": "mirror",
-      "position": "",
+      "position": "사유",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "임성균/00",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3223,14 +3253,15 @@
       "combatPower": 7652279,
       "unionLevel": 8810,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "포피넛",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "양서영/98",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3245,9 +3276,9 @@
     {
       "characterName": "조약백호활",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "한정우/04",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3262,9 +3293,9 @@
     {
       "characterName": "그리워원기형",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "박주신/95",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3279,9 +3310,9 @@
     {
       "characterName": "리승렌즈",
       "guild": "mirror",
-      "position": "",
+      "position": "모래",
       "mainCharacter": "",
-      "realName": "",
+      "realName": "이승용/98",
       "note": "",
       "inactiveReason": "",
       "fromMirror": "",
@@ -3308,7 +3339,8 @@
       "combatPower": 2566104,
       "unionLevel": 9596,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "잼일검",
@@ -3325,15 +3357,16 @@
       "combatPower": 1954245,
       "unionLevel": 0,
       "status": "active",
-      "joinDate": "2026-04-10"
+      "joinDate": "2026-04-10",
+      "leaveDetected": true
     },
     {
       "characterName": "쪼읊",
       "guild": "mirror",
-      "position": "",
+      "position": "조각",
       "mainCharacter": "",
-      "realName": "",
-      "note": "",
+      "realName": "조민우/02",
+      "note": "직업 군인",
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
@@ -3342,6 +3375,19 @@
       "combatPower": 0,
       "unionLevel": 8731,
       "status": "active",
+      "joinDate": "2026-04-10"
+    },
+    {
+      "characterName": "헝헝석",
+      "guild": "mirror",
+      "position": "조각",
+      "mainCharacter": "",
+      "realName": "전영욱/96",
+      "note": "월산동리가민",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "status": "new",
       "joinDate": "2026-04-10"
     }
   ],
@@ -6339,5 +6385,2898 @@
       "unionLevel": 9582
     }
   ],
-  "left": []
+  "left": [
+    {
+      "characterName": "팬텀s블렉",
+      "job": "팬텀",
+      "realName": "",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "삐치다",
+      "job": "아델",
+      "realName": "이찬우/95",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "흥엉이",
+      "job": "아델",
+      "realName": "김나영/90",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "듀블곰팅이",
+      "job": "나이트로드",
+      "realName": "원건호/95",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "땁팼",
+      "job": "썬콜",
+      "realName": "",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "페라쿄",
+      "job": "듀얼블레이드",
+      "realName": "송지헌/97",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "진짜호돌이로",
+      "job": "카이저",
+      "realName": "서준영/00",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뚜알라코알라",
+      "job": "듀얼블레이더",
+      "realName": "정우진/03",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "헐귄",
+      "job": "나이트워커",
+      "realName": "최준하/97",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "밍후e",
+      "job": "보우마스터",
+      "realName": "손주환/93",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "Lios윈브",
+      "job": "윈드브레이커",
+      "realName": "박한수/92",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "mylifezob",
+      "job": "팔라딘",
+      "realName": "조용선/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "사송송",
+      "job": "나이트로드",
+      "realName": "김신종/95",
+      "leftReason": "리부트",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "벤이너무조왓",
+      "job": "키네시스",
+      "realName": "추승준/01",
+      "leftReason": "월드리프",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "일본avi",
+      "job": "비숍",
+      "realName": "이진우/90",
+      "leftReason": "월드리프",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뉴옥닉스",
+      "job": "팔라딘",
+      "realName": "김대희/96",
+      "leftReason": "재탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "안콤",
+      "job": "신궁",
+      "realName": "안민섭/92",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "삿포포",
+      "job": "루미너스",
+      "realName": "이기훈/94",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "게자동",
+      "job": "패스파인더",
+      "realName": "이경민/95",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "칼리앰",
+      "job": "",
+      "realName": "김재하/00",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "YGGG",
+      "job": "섀도어",
+      "realName": "박민수/93",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "선도의배메",
+      "job": "배틀메이지",
+      "realName": "우형욱/93",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "단훠리",
+      "job": "호영",
+      "realName": "단은비/01",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "원봄이",
+      "job": "불독",
+      "realName": "없음",
+      "leftReason": "강제탈퇴(스틸)",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "박뀨성",
+      "job": "히어로",
+      "realName": "박규성/01",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "wweee",
+      "job": "에반",
+      "realName": "조용주/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "여흥띠",
+      "job": "윈드브레이커",
+      "realName": "이준수/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "라예소",
+      "job": "라라",
+      "realName": "",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "하와와호영씨",
+      "job": "호영",
+      "realName": "송인보/02",
+      "leftReason": "장기 미접속(입대)",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "장도옥",
+      "job": "아델",
+      "realName": "강성진/90",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "Pennem",
+      "job": "나이트로드",
+      "realName": "석진우/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "수룡의쌍칼",
+      "job": "듀얼블레이더",
+      "realName": "권성진/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뽀롤잉",
+      "job": "아델",
+      "realName": "이보라/96",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "냐듣",
+      "job": "나이트로드",
+      "realName": "윤범진/00",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "루미륩",
+      "job": "루미너스",
+      "realName": "김선웅/98",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "호령왕자",
+      "job": "호영",
+      "realName": "이연비/02",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가, 새근소근",
+      "memoHistory": []
+    },
+    {
+      "characterName": "상근용사동현",
+      "job": "히어로",
+      "realName": "김동현/00",
+      "leftReason": "강제탈퇴(먹튀)",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "홍머표",
+      "job": "엔젤릭버스터",
+      "realName": "홍대표/98",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "밈쿠",
+      "job": "섀도어",
+      "realName": "박서진/99",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "문연보라",
+      "job": "불독",
+      "realName": "문무영/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "원흥떡볶이",
+      "job": "은월",
+      "realName": "김형준/94",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "수펩",
+      "job": "섀도어",
+      "realName": "김창수/01",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "환상아라모드",
+      "job": "신궁",
+      "realName": "이동호/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "붕붕훅종일",
+      "job": "소울마스터",
+      "realName": "곽재현/97",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "바이퍼전어",
+      "job": "바이퍼",
+      "realName": "위지훈/97",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "금방망이",
+      "job": "호영",
+      "realName": "이금현/98",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "카덴사",
+      "job": "카데나",
+      "realName": "김승현/03",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "서영창",
+      "job": "불독",
+      "realName": "전태영/99",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "별류",
+      "job": "섀도어",
+      "realName": "김태준/95",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "중기",
+      "job": "섀도어",
+      "realName": "민중기",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "새근소근",
+      "job": "데몬 슬레이어",
+      "realName": "이종민/95",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가, 호령왕자, 묘한소리",
+      "memoHistory": []
+    },
+    {
+      "characterName": "왹커",
+      "job": "나이트워커",
+      "realName": "남혜림/97",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "토반",
+      "job": "",
+      "realName": "김다훈/95",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "망구르파지",
+      "job": "",
+      "realName": "이영민/99",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "유틈",
+      "job": "아델",
+      "realName": "차재혁/00",
+      "leftReason": "강제탈퇴(스틸)",
+      "note": "* 아이디 구매자가 비매너 행위(스틸)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "호설율",
+      "job": "칼리",
+      "realName": "이재익/93",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "베리쿨쿨",
+      "job": "나이트로드",
+      "realName": "김승운/92",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "진짜이적금지",
+      "job": "아크",
+      "realName": "박동규/94",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "ANTITHESE",
+      "job": "은월",
+      "realName": "신동민/03",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "광평동히어로",
+      "job": "히어로",
+      "realName": "양기철/93",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "메점",
+      "job": "칼리",
+      "realName": "서민형/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "팩돌희",
+      "job": "바이퍼",
+      "realName": "김승환/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "꿀섬",
+      "job": "나이트워커",
+      "realName": "송태우/91",
+      "leftReason": "재탈퇴",
+      "note": "* 재가입 불가, 재탈퇴",
+      "memoHistory": [
+        "[이전] 탈퇴 * 재가입 불가"
+      ]
+    },
+    {
+      "characterName": "민란",
+      "job": "아델",
+      "realName": "민웅기/93",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뽀둡",
+      "job": "패스파인더",
+      "realName": "최예지/01",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "미카비틱기원",
+      "job": "비숍",
+      "realName": "김태연/03",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "칠공주리더",
+      "job": "메르세데스",
+      "realName": "이호준/99",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "안재앙의아들",
+      "job": "윈드브레이커",
+      "realName": "이강훈/98",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "양여자",
+      "job": "라라",
+      "realName": "서성빈/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "선조치무보고",
+      "job": "윈드브레이커",
+      "realName": "안성진/92",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "본투러브",
+      "job": "메르세데스",
+      "realName": "박상준/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "런쉘",
+      "job": "소울마스터",
+      "realName": "박세연/01",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "숙제해야겠따",
+      "job": "에반",
+      "realName": "정건우/03",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "섶섣",
+      "job": "엔젤릭버스터",
+      "realName": "안수빈/98",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "출동직(개두요)",
+      "job": "바이퍼",
+      "realName": "이두원/91",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가, 묘한소리",
+      "memoHistory": []
+    },
+    {
+      "characterName": "교황박동범",
+      "job": "비숍",
+      "realName": "박동범/91",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가, 묘한소리",
+      "memoHistory": []
+    },
+    {
+      "characterName": "우니여님",
+      "job": "소울마스터",
+      "realName": "이다운/91",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가, 묘한소리",
+      "memoHistory": []
+    },
+    {
+      "characterName": "양주먹고맴맴",
+      "job": "아델",
+      "realName": "신동현/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "메또해",
+      "job": "히어로",
+      "realName": "황동욱/91",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가, 묘한소리",
+      "memoHistory": []
+    },
+    {
+      "characterName": "잇닷(샌소)",
+      "job": "카데나",
+      "realName": "오인택/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "THEHYPHEN",
+      "job": "윈드브레이커",
+      "realName": "성화섭/97",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": [
+        "[이전] 장기 미접속"
+      ]
+    },
+    {
+      "characterName": "꼐훗",
+      "job": "아델",
+      "realName": "김시현/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "님하루",
+      "job": "나이트로드",
+      "realName": "김수영/01",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "서준도령",
+      "job": "키네시스",
+      "realName": "유재현/00",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "로미네윈브",
+      "job": "윈드브레이커",
+      "realName": "박영문/89",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "김헷픔",
+      "job": "제로",
+      "realName": "김경민/97",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "그랜드오카상",
+      "job": "윈드브레이커",
+      "realName": "이해성/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "솅쿤",
+      "job": "비숍",
+      "realName": "이세형/88",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "시슬리향수",
+      "job": "신궁",
+      "realName": "임성진/92",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "응애나살려죠",
+      "job": "캡틴",
+      "realName": "박지호/97",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "리린썬",
+      "job": "불독",
+      "realName": "김민우/96",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "꿰뜬",
+      "job": "섀도어",
+      "realName": "김승범/03",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "윈두심",
+      "job": "윈드브레이커",
+      "realName": "장동규/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가, 묘한소리",
+      "memoHistory": []
+    },
+    {
+      "characterName": "에프킴라",
+      "job": "듀얼블레이더",
+      "realName": "최신걸/95",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "트루엘소마",
+      "job": "소울마스터",
+      "realName": "",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "서의히",
+      "job": "썬콜",
+      "realName": "이새롬/95",
+      "leftReason": "재탈퇴",
+      "note": "* 재가입 불가, 체노 뚜비두빗",
+      "memoHistory": []
+    },
+    {
+      "characterName": "푸시깽이",
+      "job": "나이트로드",
+      "realName": "신재헌/99",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "송항영",
+      "job": "엔젤릭버스터",
+      "realName": "원찬웅/00",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "지난날이밉다",
+      "job": "소울마스터",
+      "realName": "정다훈/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "오렌지헤드셋",
+      "job": "듀얼블레이더",
+      "realName": "이세훈/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "서제노",
+      "job": "아란",
+      "realName": "송선오/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "콩챠비",
+      "job": "엔젤릭버스터",
+      "realName": "윤서영/03",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "자답",
+      "job": "비숍",
+      "realName": "오수영/94",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뚜언히",
+      "job": "윈드브레이커",
+      "realName": "조원희/93",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "세가",
+      "job": "라라",
+      "realName": "김동희/04",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "이언뉴",
+      "job": "",
+      "realName": "김민경/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "가던길가숍",
+      "job": "비숍",
+      "realName": "김규진/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "권익",
+      "job": "섀도어",
+      "realName": "장현빈/01",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뚜지훈",
+      "job": "히어로",
+      "realName": "최지훈/93",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "만취전사",
+      "job": "히어로",
+      "realName": "최서원/91",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "섀도옥킹",
+      "job": "섀도어",
+      "realName": "홍승현/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "앗츠팡",
+      "job": "팔라딘",
+      "realName": "",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "zl존곰탕",
+      "job": "소울마스터",
+      "realName": "손대현/92",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "폴암으로쳐팸",
+      "job": "아란",
+      "realName": "지성현/91",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "망고마싸",
+      "job": "불독",
+      "realName": "정의걸/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뽀오승",
+      "job": "불독",
+      "realName": "최승표/93",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "듀블박종찬",
+      "job": "듀얼블레이더",
+      "realName": "박종찬/97",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "썬호야스",
+      "job": "썬콜",
+      "realName": "전호영/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "종퐈",
+      "job": "섀도어",
+      "realName": "오종화/91",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (분쟁)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "땡벌임",
+      "job": "히어로",
+      "realName": "정성훈",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "일진하다",
+      "job": "나이트워커",
+      "realName": "정일진/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "묘한소리",
+      "job": "비숍",
+      "realName": "신동해/97",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (분쟁)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "ChoiYJ",
+      "job": "제로",
+      "realName": "송성인/94",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "스빈이",
+      "job": "팬텀",
+      "realName": "홍주현/97",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "25설경",
+      "job": "바이퍼",
+      "realName": "박찬수/00",
+      "leftReason": "강제탈퇴(사기)",
+      "note": "* 재가입 불가, 사기 전적 확인",
+      "memoHistory": []
+    },
+    {
+      "characterName": "잽이님",
+      "job": "윈드브레이커",
+      "realName": "최성민/91",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "키보만",
+      "job": "윈드브레이커",
+      "realName": "김영훈/91",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "둥둥쑤마",
+      "job": "소울마스터",
+      "realName": "정한동/90",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "예나키키z",
+      "job": "바이퍼",
+      "realName": "신현용/92",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "윤식불독",
+      "job": "불독",
+      "realName": "최윤석/00",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "래테이",
+      "job": "다크나이트",
+      "realName": "남도현/99",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "믹뿌",
+      "job": "섀도어",
+      "realName": "김진영/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "쭈파",
+      "job": "나이트로드",
+      "realName": "이민규/95",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "신묘",
+      "job": "불독",
+      "realName": "윤일룡/96",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "굻냐",
+      "job": "듀얼블레이더",
+      "realName": "김용겸/00",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (노블)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "집잃은펭귄",
+      "job": "패스파인더",
+      "realName": "박정규/98",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "롱알롱알롱",
+      "job": "듀얼블레이더",
+      "realName": "박석준",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "암행출두",
+      "job": "나이트워커",
+      "realName": "하정우/03",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "검황난무",
+      "job": "칼리",
+      "realName": "김현준/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "이외팔",
+      "job": "나이트워커",
+      "realName": "이기헌/00",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "내폭",
+      "job": "섀도어",
+      "realName": "최준수/98",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": [
+        "[이전] 장기 미접속"
+      ]
+    },
+    {
+      "characterName": "노먹",
+      "job": "카인",
+      "realName": "송형준/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "비숍해봤냐",
+      "job": "비숍",
+      "realName": "박기홍/93",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "숙희집사",
+      "job": "호영",
+      "realName": "김태인/99",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "유리별콩콩",
+      "job": "섀도어",
+      "realName": "",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "젼밍",
+      "job": "바이퍼",
+      "realName": "김지현/00",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "김려울",
+      "job": "아델",
+      "realName": "차민정/03",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "르잎",
+      "job": "라라",
+      "realName": "강지수/93",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "녜담님",
+      "job": "윈드브레이커",
+      "realName": "서주연/93",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "학영이",
+      "job": "나이트워커",
+      "realName": "김학영/94",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "최애의푸",
+      "job": "나이트로드",
+      "realName": "진정현/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "유썹",
+      "job": "에반",
+      "realName": "김유섭/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "레빛찬",
+      "job": "라라",
+      "realName": "김한빛/92",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": [
+        "[이전] 장기 미접속"
+      ]
+    },
+    {
+      "characterName": "옥과소마",
+      "job": "소울마스터",
+      "realName": "김보성/00",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "이마가사이코",
+      "job": "키네시스",
+      "realName": "김도윤/03",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "숍두심",
+      "job": "비숍",
+      "realName": "장동규/94",
+      "leftReason": "재탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "드림처럼",
+      "job": "비숍",
+      "realName": "김영진/93",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "근육효원",
+      "job": "제로",
+      "realName": "김효원/97",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "장오왼",
+      "job": "히어로",
+      "realName": "장현진/97",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "피바람홍학",
+      "job": "듀얼블레이더",
+      "realName": "신동연/01",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "서리꽃",
+      "job": "제로",
+      "realName": "김영준/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "마약게임시작",
+      "job": "나이트로드",
+      "realName": "최현수/01",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "햄토리p",
+      "job": "라라",
+      "realName": "김동진/92",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "묘링",
+      "job": "아델",
+      "realName": "김형석/92",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "풀똥",
+      "job": "아델",
+      "realName": "홍대기/98",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": [
+        "[이전] 장기 미접속"
+      ]
+    },
+    {
+      "characterName": "믿믄",
+      "job": "소울마스터",
+      "realName": "김재현/97",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "아릇쓰",
+      "job": "듀얼블레이더",
+      "realName": "최영재/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "도아델연",
+      "job": "아델",
+      "realName": "김상훈/94",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "공부접은학생",
+      "job": "캐논마스터",
+      "realName": "김택준/05",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "하정우",
+      "job": "바이퍼",
+      "realName": "양유안/98",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가, 비매너 제보",
+      "memoHistory": []
+    },
+    {
+      "characterName": "찬희멍",
+      "job": "나이트로드",
+      "realName": "김영진/01",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "최꽥이",
+      "job": "비숍",
+      "realName": "윤석균/97",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "최꽥이슈우웃",
+      "job": "소울마스터",
+      "realName": "이수민/94",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "seezi",
+      "job": "은월",
+      "realName": "윤병호/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "류나밍",
+      "job": "캡틴",
+      "realName": "이대형/94",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "동구리썬",
+      "job": "나이트로드",
+      "realName": "김기선/97",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (분쟁)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "맹한",
+      "job": "제로",
+      "realName": "정진원/01",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "오빠도적",
+      "job": "나이트워커",
+      "realName": "최선호/91",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "빛빈",
+      "job": "아델",
+      "realName": "김용환/02",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "누벼",
+      "job": "은월",
+      "realName": "한승진/90",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "98메이지",
+      "job": "배틀메이지",
+      "realName": "정원범/98",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "신월동태팔",
+      "job": "패스파인더",
+      "realName": "김태원/94",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "잼민율",
+      "job": "비숍",
+      "realName": "이유린/01",
+      "leftReason": "재탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "정웅인",
+      "job": "팔라딘",
+      "realName": "최우성/90",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "버프돈받아",
+      "job": "비숍",
+      "realName": "배명일/97",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "하이퍼엇",
+      "job": "바이퍼",
+      "realName": "하건수/89",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "화손녀",
+      "job": "비숍",
+      "realName": "정우인/98",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "하와와아라",
+      "job": "아델",
+      "realName": "김민준/99",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": [
+        "[이전] 장기 미접속"
+      ]
+    },
+    {
+      "characterName": "쏘기쀼",
+      "job": "윈드브레이커",
+      "realName": "황동욱/99",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "안랩",
+      "job": "아란",
+      "realName": "이영우/94",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "야잼만아",
+      "job": "비숍",
+      "realName": "박준용/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "젤리꽁장짱",
+      "job": "에반",
+      "realName": "곽주안/02",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "삼성평택공장",
+      "job": "배틀메이지",
+      "realName": "김태영/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "교황재원",
+      "job": "비숍",
+      "realName": "임재원/99",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "짐파",
+      "job": "바이퍼",
+      "realName": "이강현/99",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뚜비두빗",
+      "job": "플레임위자드",
+      "realName": "허재성/98",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (분쟁)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "은환",
+      "job": "윈드브레이커",
+      "realName": "왕은환/87",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (분쟁)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "체노",
+      "job": "은월",
+      "realName": "문현우/00",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (분쟁)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "진류경",
+      "job": "비숍",
+      "realName": "심수진/93",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "박재곤",
+      "job": "메카닉",
+      "realName": "박재곤/98",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "흙먹는소마님",
+      "job": "소울마스터",
+      "realName": "김지훈/96",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (분쟁)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "LemonCandy",
+      "job": "블래스터",
+      "realName": "전지웅/03",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "윤국좌",
+      "job": "썬콜",
+      "realName": "윤국현/89",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "In2you",
+      "job": "비숍",
+      "realName": "이도훈/05",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "계란마리떡밥",
+      "job": "소울마스터",
+      "realName": "김영진/96",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "naro말하면",
+      "job": "나이트로드",
+      "realName": "백종현/00",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "밤침",
+      "job": "섀도어",
+      "realName": "안현모/97",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "치킨서겟",
+      "job": "캐논마스터",
+      "realName": "염문식/97",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "곰윤호",
+      "job": "플레임위자드",
+      "realName": "문윤호/04",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "김삐꾹",
+      "job": "칼리",
+      "realName": "이우진/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "덩딱지",
+      "job": "썬콜",
+      "realName": "이태현/91",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "여심도둑춘식",
+      "job": "나이트로드",
+      "realName": "이형훈/98",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "옙허",
+      "job": "데몬 어벤져",
+      "realName": "지수환/05",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "옛븜",
+      "job": "호영",
+      "realName": "우승우/93",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "잠자는별림",
+      "job": "비숍",
+      "realName": "한동희/98",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "정상인데",
+      "job": "제로",
+      "realName": "유정상/01",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "서연이삼겹살",
+      "job": "보우마스터",
+      "realName": "정태양/90",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "급솔",
+      "job": "에반",
+      "realName": "정재우/04",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "썬생님",
+      "job": "썬콜",
+      "realName": "강운기/95",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (인벤박제)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "눅벽",
+      "job": "아델",
+      "realName": "안혁/01",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "도로테아멍",
+      "job": "불독",
+      "realName": "변유민/01",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "꿸톡",
+      "job": "에반",
+      "realName": "임채원/01",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "시아루카",
+      "job": "캐논마스터",
+      "realName": "최현영/93",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "본도",
+      "job": "라라",
+      "realName": "전유진/96",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (넷카마)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "드픕",
+      "job": "나이트워커",
+      "realName": "김승한/99",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "쯩껴",
+      "job": "나이트워커",
+      "realName": "이주현/97",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "세구빔으로",
+      "job": "루미너스",
+      "realName": "이재웅/93",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "3줄요약해줘",
+      "job": "아델",
+      "realName": "박용준/97",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "메론재삐",
+      "job": "일리움",
+      "realName": "김정훈/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "LavyNetzach",
+      "job": "비숍",
+      "realName": "고아진/98",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "그리밍스타",
+      "job": "팬텀",
+      "realName": "정송현/01",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "날아라둥둥띠",
+      "job": "다크나이트",
+      "realName": "나준엽/96",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "딸리로레",
+      "job": "제로",
+      "realName": "김기범/96",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "제갈씨",
+      "job": "나이트워커",
+      "realName": "제갈동연/93",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "신인상",
+      "job": "아델",
+      "realName": "이위립/92",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "헤루잉",
+      "job": "에반",
+      "realName": "허창희/96",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "가이랑랑",
+      "job": "라라",
+      "realName": "윤희성/02",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "미자미자",
+      "job": "엔젤릭버스터",
+      "realName": "차미지/99",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "정기윈",
+      "job": "카인",
+      "realName": "정기원/95",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "조태다당",
+      "job": "팬텀",
+      "realName": "조태형/00",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "Lunarli",
+      "job": "윈드브레이커",
+      "realName": "김찬욱/95",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "읍땃",
+      "job": "비숍",
+      "realName": "임송이/96",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "원잉",
+      "job": "듀얼블레이더",
+      "realName": "김민혁/96",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "불벅인데요",
+      "job": "소울마스터",
+      "realName": "조희덕/89",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "돼햄이",
+      "job": "메르세데스",
+      "realName": "윤한기/93",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "안주걸이",
+      "job": "불독",
+      "realName": "권용욱/01",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "통한의컨트롤",
+      "job": "카데나",
+      "realName": "서일현/98",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "컹굿",
+      "job": "캐논마스터",
+      "realName": "소휘윤/01",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "라디노클로버",
+      "job": "팔라딘",
+      "realName": "임재원/99",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "I엘시I",
+      "job": "썬콜",
+      "realName": "한승현/05",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "지히창",
+      "job": "카인",
+      "realName": "정희창/96",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "유윈오",
+      "job": "윈드브레이커",
+      "realName": "유윤오/96",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "주형상",
+      "job": "소울마스터",
+      "realName": "이주형/98",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (노블)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "활활탁탁",
+      "job": "불독",
+      "realName": "최세빈/95",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "석출존슨",
+      "job": "바이퍼",
+      "realName": "김일훈/99",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "아까먹은치킨",
+      "job": "비숍",
+      "realName": "서영빈/00",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "주스병",
+      "job": "바이퍼",
+      "realName": "최승환/00",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "권은월신",
+      "job": "은월",
+      "realName": "권준/96",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "곰이핑",
+      "job": "은월",
+      "realName": "김동권/94",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "찰향",
+      "job": "엔젤릭버스터",
+      "realName": "오재철/99",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "짭콕",
+      "job": "나이트로드",
+      "realName": "황용택/00",
+      "leftReason": "강제 탈퇴",
+      "note": "* 재가입 불가, 물통 사기 의심",
+      "memoHistory": []
+    },
+    {
+      "characterName": "똘이와까미",
+      "job": "패스파인더",
+      "realName": "이재원/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "넙접",
+      "job": "데몬 어벤져",
+      "realName": "장준수/06",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "su얼크루",
+      "job": "윈드브레이커",
+      "realName": "백성연/95",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "소앵훈",
+      "job": "불독",
+      "realName": "박소영/96",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "크사네",
+      "job": "칼리",
+      "realName": "방성환/90",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "스르르메르르",
+      "job": "메르세데스",
+      "realName": "김륜형/01",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "안토님",
+      "job": "나이트워커",
+      "realName": "임상철/02",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "펭젠",
+      "job": "데몬 어벤져",
+      "realName": "송호성/03",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "장수베토벤",
+      "job": "소울마스터",
+      "realName": "김효재/94",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "플레이팅",
+      "job": "데몬 어벤져",
+      "realName": "박성준/01",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "소꾼",
+      "job": "나이트로드",
+      "realName": "남민수/03",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "리시현",
+      "job": "팬텀",
+      "realName": "이시현/04",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "지레사정",
+      "job": "바이퍼",
+      "realName": "최희승/93",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "개피로",
+      "job": "다크나이트",
+      "realName": "윤상원/99",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "82키로감자",
+      "job": "엔젤릭버스터",
+      "realName": "김진우/97",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "굿딕",
+      "job": "제로",
+      "realName": "조규찬/91",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "매화밍꾸",
+      "job": "렌",
+      "realName": "정민구/92",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "노인과지게",
+      "job": "팔라딘",
+      "realName": "김동한/95",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뎨햇",
+      "job": "데몬 어벤져",
+      "realName": "손주환/93",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "교드리치",
+      "job": "나이트로드",
+      "realName": "전교훈",
+      "leftReason": "장기 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "신한쫄",
+      "job": "데몬 슬레이어",
+      "realName": "신한철/92",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "룬맨",
+      "job": "나이트워커",
+      "realName": "이록원/93",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "S2한",
+      "job": "비숍",
+      "realName": "이용우/01",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "라딧숍",
+      "job": "비숍",
+      "realName": "정재우/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "땜볘",
+      "job": "렌",
+      "realName": "진석현/99",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "요것바",
+      "job": "일리움",
+      "realName": "박준수/95",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "jelly젤리",
+      "job": "썬콜",
+      "realName": "배가람/85",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "딕먕",
+      "job": "엔젤릭버스터",
+      "realName": "이윤제/03",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (노블)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "임칙단",
+      "job": "렌",
+      "realName": "정태영/94",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (노블)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "냥캣야옹천사",
+      "job": "라라",
+      "realName": "정성우/99",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "킨스더",
+      "job": "라라",
+      "realName": "박민수/99",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "긱년",
+      "job": "캐논마스터",
+      "realName": "박성윤/01",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "싫어흑인은",
+      "job": "키네시스",
+      "realName": "이정/00",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "풍각",
+      "job": "렌",
+      "realName": "김민규/98",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "쟁반장",
+      "job": "루미너스",
+      "realName": "우준서/03",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "추의",
+      "job": "블래스터",
+      "realName": "최시원/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "큄승현",
+      "job": "팬텀",
+      "realName": "김승현/96",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "엄태열",
+      "job": "패스파인더",
+      "realName": "김태열/01",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "거눅렌",
+      "job": "렌",
+      "realName": "이진기/95",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "a포근포근a",
+      "job": "에반",
+      "realName": "윤준용/03",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "Ceph1",
+      "job": "보우마스터",
+      "realName": "천주형/00",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "똔이요",
+      "job": "렌",
+      "realName": "정대희/98",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "눌그룹",
+      "job": "나이트로드",
+      "realName": "김정록/97",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "매검설화",
+      "job": "렌",
+      "realName": "심성현/95",
+      "leftReason": "탈퇴",
+      "note": "* 상위 길드 이적",
+      "memoHistory": []
+    },
+    {
+      "characterName": "토모라",
+      "job": "썬콜",
+      "realName": "이기훈/85",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (핑프)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "잇사시브리",
+      "job": "듀얼블레이더",
+      "realName": "양성모/93",
+      "leftReason": "탈퇴",
+      "note": "* 재가입 불가 (소통불가)",
+      "memoHistory": []
+    },
+    {
+      "characterName": "범마렌",
+      "job": "렌",
+      "realName": "황상선/90",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "캡뮴미",
+      "job": "캡틴",
+      "realName": "백준현/02",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "자중심",
+      "job": "듀얼블레이더",
+      "realName": "배주광/99",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "츠칭잉",
+      "job": "렌",
+      "realName": "박준규/00",
+      "leftReason": "탈퇴",
+      "note": "* 지인 길드",
+      "memoHistory": []
+    },
+    {
+      "characterName": "광주혀기",
+      "job": "나이트워커",
+      "realName": "박창혁/95",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "톰오오",
+      "job": "보우마스터",
+      "realName": "전준영/97",
+      "leftReason": "탈퇴",
+      "note": "* 길드 이전",
+      "memoHistory": []
+    },
+    {
+      "characterName": "섐딩",
+      "job": "에반",
+      "realName": "김용우/02",
+      "leftReason": "월드리프",
+      "note": "* 에바노",
+      "memoHistory": []
+    },
+    {
+      "characterName": "렌렌현",
+      "job": "렌",
+      "realName": "임수현/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "해구슬",
+      "job": "아델",
+      "realName": "유진선/94",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "렌드드",
+      "job": "렌",
+      "realName": "이인희/93",
+      "leftReason": "메접",
+      "note": "* 프뽑",
+      "memoHistory": []
+    },
+    {
+      "characterName": "활잽이킹",
+      "job": "보우마스터",
+      "realName": "박형민/01",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "물방울앵꼬",
+      "job": "나이트로드",
+      "realName": "변창석/95",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "늦산",
+      "job": "아크",
+      "realName": "서신성/96",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "입량",
+      "job": "불독",
+      "realName": "정영석/94",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "멀혜",
+      "job": "불독",
+      "realName": "노호찬/92",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "셀격",
+      "job": "바이퍼",
+      "realName": "박수열/98",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "마을사람R",
+      "job": "비숍",
+      "realName": "강동권/95",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "서른살이",
+      "job": "렌",
+      "realName": "박경인/97",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "원웅언니",
+      "job": "나이트워커",
+      "realName": "이원웅/97",
+      "leftReason": "강제탈퇴",
+      "note": "* 이중 길드",
+      "memoHistory": []
+    },
+    {
+      "characterName": "곤뜩",
+      "job": "나이트로드",
+      "realName": "최한별/92",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "민몌린",
+      "job": "히어로",
+      "realName": "김민혁/96",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "손뼉",
+      "job": "제로",
+      "realName": "김현우/00",
+      "leftReason": "강제탈퇴",
+      "note": "* 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "쌈무에쌈싸기",
+      "job": "렌",
+      "realName": "장현욱/02",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "이걸로누구",
+      "job": "데몬 어벤져",
+      "realName": "김훈호/91",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "돌아와지누",
+      "job": "아델",
+      "realName": "김진우/95",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "누꿉",
+      "job": "나이트로드",
+      "realName": "김보권/97",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "달빛의포근함",
+      "job": "렌",
+      "realName": "이유찬/00",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "렐닝2",
+      "job": "렌",
+      "realName": "임성규/98",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "머힛",
+      "job": "바이퍼",
+      "realName": "김진호/99",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "섹시큐티디숭",
+      "job": "비숍",
+      "realName": "이지수/94",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "루르o",
+      "job": "제로",
+      "realName": "유강현/03",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "치즈같은치즈",
+      "job": "아크",
+      "realName": "이주환/99",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "주몽파트너",
+      "job": "렌",
+      "realName": "이철민/93",
+      "leftReason": "탈퇴",
+      "note": "* 노블",
+      "memoHistory": []
+    },
+    {
+      "characterName": "칠신",
+      "job": "히어로",
+      "realName": "박창규/94",
+      "leftReason": "탈퇴",
+      "note": "* 상위 길드 이적",
+      "memoHistory": []
+    },
+    {
+      "characterName": "ldh98",
+      "job": "스트라이커",
+      "realName": "이동협/98",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뭐딥",
+      "job": "렌",
+      "realName": "김문현/88",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "뉘코틴",
+      "job": "배틀메이지",
+      "realName": "김준영/94",
+      "leftReason": "탈퇴",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "남성혐",
+      "job": "와일드헌터",
+      "realName": "남성현/93",
+      "leftReason": "탈퇴",
+      "note": "* 노블",
+      "memoHistory": []
+    },
+    {
+      "characterName": "시하소",
+      "job": "카데나",
+      "realName": "이성현/04",
+      "leftReason": "재탈퇴",
+      "note": "* 어사, 재가입 불가",
+      "memoHistory": []
+    },
+    {
+      "characterName": "래경래",
+      "job": "비숍",
+      "realName": "김경래/93",
+      "leftReason": "메접",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "용용이눈나",
+      "job": "에반",
+      "realName": "하윤주/98",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "금츔",
+      "job": "렌",
+      "realName": "이경국/02",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "쿨우",
+      "job": "나이트로드",
+      "realName": "이준호/95",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "산골짜기렌",
+      "job": "렌",
+      "realName": "송석/01",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "깅바비",
+      "job": "렌",
+      "realName": "유지원/94",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "IluvZero",
+      "job": "제로",
+      "realName": "황광호/06",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "능캣",
+      "job": "렌",
+      "realName": "이근원/94",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "설렌s",
+      "job": "렌",
+      "realName": "김나영/92",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "쑈혜",
+      "job": "윈드브레이커",
+      "realName": "박재민/96",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "잼일검",
+      "job": "불독",
+      "realName": "이상진/98",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "탱또먹",
+      "job": "루미너스",
+      "realName": "박서연/97",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "렌선뽑힌망붕",
+      "job": "렌",
+      "realName": "조수아/95",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    },
+    {
+      "characterName": "희쿨",
+      "job": "렌",
+      "realName": "최시원/98",
+      "leftReason": "장기간 미접속",
+      "note": "",
+      "memoHistory": []
+    }
+  ]
 }
