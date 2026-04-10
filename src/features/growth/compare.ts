@@ -256,7 +256,9 @@ export function getCompareByPeriod(
 
   if (period === 'weekly') {
     const week = getMapleWeek(latest, offset);
-    const fromDate = dates.find(d => d <= week.start) ?? dates[dates.length - 1];
+    // 목요일 리셋 기준: fromDate는 목요일 하루 전(수요일) 스냅샷 사용
+    const fromRef = daysAgo(week.start, 1);
+    const fromDate = dates.find(d => d <= fromRef) ?? dates[dates.length - 1];
     const toDate = dates.find(d => d <= week.end) ?? dates[0];
     if (fromDate === toDate) return null;
     const result = compareSnapshots(fromDate, toDate, 'weekly');
