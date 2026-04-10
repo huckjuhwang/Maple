@@ -15,8 +15,13 @@ jobs:
         with:
           node-version: '20'
       - run: npm ci
-      - name: 💤 미접속 감지
+      - name: 💤 미접속 감지 (거울)
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GUILD_NAME: 거울
+        run: npx tsx scripts/batch-inactive.ts
+      - name: 💤 미접속 감지 (달라)
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GUILD_NAME: 달라
         run: npx tsx scripts/batch-inactive.ts

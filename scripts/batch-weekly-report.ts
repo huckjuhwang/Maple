@@ -46,7 +46,7 @@ async function main() {
   console.log(`\n📊 주간 리포트 (${startStr} ~ ${endStr})\n`);
 
   // 1. changeLog에서 이번 주 가입/탈퇴 추출
-  const state = loadState();
+  const state = loadState(GUILD_NAME);
   const weekJoins = (state?.changeLog ?? []).filter(l => l.type === 'join' && l.date >= startStr && l.date <= endStr);
   const weekLeaves = (state?.changeLog ?? []).filter(l => l.type === 'leave' && l.date >= startStr && l.date <= endStr);
 

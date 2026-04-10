@@ -15,8 +15,13 @@ jobs:
         with:
           node-version: '20'
       - run: npm ci
-      - name: 📊 주간 리포트 생성
+      - name: 📊 주간 리포트 생성 (거울)
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GUILD_NAME: 거울
+        run: npx tsx scripts/batch-weekly-report.ts
+      - name: 📊 주간 리포트 생성 (달라)
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GUILD_NAME: 달라
         run: npx tsx scripts/batch-weekly-report.ts
