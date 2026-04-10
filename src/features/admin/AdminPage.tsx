@@ -401,15 +401,10 @@ export default function AdminPage({ secret }: Props) {
   const leftCount = currentMembers.filter(m => m.status === 'left').length;
   const newCount = currentMembers.filter(m => m.status === 'new').length;
 
-  // 마스터 직위 항상 맨 위
+  // 마스터 분리
   const masterPos = data.config.masterPosition;
-  if (masterPos) {
-    const masterIdx = displayMembers.findIndex(m => m.position === masterPos);
-    if (masterIdx > 0) {
-      const [master] = displayMembers.splice(masterIdx, 1);
-      displayMembers = [master, ...displayMembers];
-    }
-  }
+  const masterMember = masterPos ? displayMembers.find(m => m.position === masterPos) : null;
+  const nonMasterMembers = masterPos ? displayMembers.filter(m => m.position !== masterPos) : displayMembers;
 
   // 컬럼 헤더 클릭 정렬
   const sortBy = (col: string) => {
@@ -557,6 +552,64 @@ export default function AdminPage({ secret }: Props) {
             </div>
           )}
 
+          {/* 마스터 카드 */}
+          {masterMember && (
+            <div className="maple-card mb-3 border-2 border-yellow-300 bg-yellow-50/40 overflow-x-auto">
+              <div className="px-3 pt-2 pb-1 text-xs font-bold text-yellow-700 flex items-center gap-1">
+                <span>👑 {masterPos}</span>
+              </div>
+              <table className="w-full text-sm">
+                <tbody>
+                  <tr className="border-t border-yellow-200">
+                    <td className="py-2 px-1 text-center w-8">
+                      <input type="checkbox" checked={selectedMembers.has(masterMember.characterName)} onChange={() => toggleSelect(masterMember.characterName)} />
+                    </td>
+                    <td className="py-2 px-2 whitespace-nowrap">
+                      <span className="text-xs px-1.5 py-0.5 rounded-full" style={{ background: '#F5F5F5', color: '#999' }}>활동</span>
+                    </td>
+                    <td className="py-2 px-2 font-bold whitespace-nowrap">{masterMember.characterName}</td>
+                    <td className="py-2 px-2 text-xs opacity-70">{masterMember.job}</td>
+                    <td className="py-2 px-2 text-right font-medium">{masterMember.level}</td>
+                    <td className="py-2 px-2">
+                      <input type="text" value={masterMember.mainCharacter} onChange={e => updateField(masterMember.characterName, tab as any, 'mainCharacter', e.target.value)} placeholder="original" className="w-20 px-1 py-0.5 text-xs border border-gray-200 rounded bg-transparent" />
+                    </td>
+                    <td className="py-2 px-2">
+                      <span className="text-xs font-bold text-yellow-700">{masterMember.position}</span>
+                    </td>
+                    {tab === 'dalla' && (
+                      <td className="py-2 px-2">
+                        <input type="text" value={masterMember.fromMirror} onChange={e => updateField(masterMember.characterName, 'dalla', 'fromMirror', e.target.value)} className="w-20 px-1 py-0.5 text-xs border border-gray-200 rounded bg-transparent" />
+                      </td>
+                    )}
+                    <td className="py-2 px-2">
+                      <input type="text" value={masterMember.realName} onChange={e => updateField(masterMember.characterName, tab as any, 'realName', e.target.value)} className="w-20 px-1 py-0.5 text-xs border border-gray-200 rounded bg-transparent" />
+                    </td>
+                    <td className="py-2 px-2">
+                      <input type="text" value={masterMember.note} onChange={e => updateField(masterMember.characterName, tab as any, 'note', e.target.value)} className="w-24 px-1 py-0.5 text-xs border border-gray-200 rounded bg-transparent" />
+                    </td>
+                    <td className="py-2 px-2">
+                      <input type="text" value={masterMember.inactiveReason} onChange={e => updateField(masterMember.characterName, tab as any, 'inactiveReason', e.target.value)} placeholder="사유 입력 시 알림 제외" className="w-28 px-1 py-0.5 text-xs border border-gray-200 rounded bg-transparent" />
+                    </td>
+                    <td className="py-2 px-2 text-center">
+                      <button onClick={() => setMemoModal({ name: masterMember.characterName, history: masterMember.memoHistory ?? [] })} className="text-xs hover:opacity-70">
+                        {(masterMember.memoHistory?.length ?? 0) > 0 ? '📝' : '·'}
+                      </button>
+                    </td>
+                    <td className="py-2 px-2 text-center">
+                      <a href={scouterUrl(masterMember.characterName)} target="_blank" rel="noopener noreferrer" className="text-xs hover:opacity-70">🔍</a>
+                    </td>
+                    <td className="py-2 px-2 text-center">
+                      <button onClick={() => setTransferModal({ name: masterMember.characterName, from: tab as 'mirror' | 'dalla', to: tab === 'mirror' ? 'dalla' : 'mirror' })} className="text-xs px-2 py-1 rounded-full whitespace-nowrap" style={{ background: '#E3F2FD', color: '#1565C0' }}>
+                        {tab === 'mirror' ? '→달라' : '→거울'}
+                      </button>
+                    </td>
+                    <td className="py-2 px-2 text-center" />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          )}
+
           {/* 테이블 */}
           <div className="maple-card overflow-x-auto">
             <table className="w-full text-sm">
@@ -586,10 +639,10 @@ export default function AdminPage({ secret }: Props) {
                 </tr>
               </thead>
               <tbody>
-                {displayMembers.map(member => (
+                {nonMasterMembers.map(member => (
                   <tr
                     key={member.characterName}
-                    className={`border-b border-amber-50 hover:bg-amber-50/30 ${member.position === data.config.masterPosition ? 'bg-yellow-50/60 border-l-2 border-l-yellow-400' : member.status === 'left' ? 'opacity-50 bg-red-50/30' : member.leaveDetected ? 'bg-orange-50/40' : member.status === 'new' ? 'bg-green-50/30' : ''}`}
+                    className={`border-b border-amber-50 hover:bg-amber-50/30 ${member.status === 'left' ? 'opacity-50 bg-red-50/30' : member.leaveDetected ? 'bg-orange-50/40' : member.status === 'new' ? 'bg-green-50/30' : ''}`}
                   >
                     <td className="py-2 px-1 text-center">
                       <input
