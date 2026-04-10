@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-10T23:20:35.041Z",
+    "lastUpdated": "2026-04-10T20:57:23.274Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6559,21 +6559,6 @@
       "combatPower": 113019249,
       "unionLevel": 9582,
       "leaveDetected": false
-    },
-    {
-      "characterName": "사백사귀",
-      "guild": "dalla",
-      "position": "",
-      "mainCharacter": "",
-      "realName": "",
-      "note": "",
-      "inactiveReason": "",
-      "fromMirror": "",
-      "memoHistory": [],
-      "job": "",
-      "level": 0,
-      "status": "new",
-      "joinDate": "2026-04-10"
     }
   ],
   "left": [
