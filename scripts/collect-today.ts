@@ -103,6 +103,21 @@ async function main() {
     process.stdout.write(`\r   🍄 ${i + 1}/${membersList.length} (${pct}%) | ✅${success} ❌${fail} | ${elapsed}s`);
   }
 
+  // 기존 스냅샷 있으면 전투력만 높은 쪽으로 유지 (사냥 셋팅 방어)
+  const snapshotFile = path.join(SNAPSHOTS_DIR, `${date}.json`);
+  if (fs.existsSync(snapshotFile)) {
+    try {
+      const existing = JSON.parse(fs.readFileSync(snapshotFile, 'utf-8'));
+      const existingCpMap = new Map<string, number>(
+        (existing.members ?? []).map((m: any) => [m.characterName, m.combatPower ?? 0])
+      );
+      for (const s of snapshots) {
+        const prevCp = existingCpMap.get(s.characterName) ?? 0;
+        if (prevCp > s.combatPower) s.combatPower = prevCp;
+      }
+    } catch {}
+  }
+
   snapshots.sort((a, b) => b.combatPower - a.combatPower);
 
   // 길드 메타정보는 기존 latest.json에서 가져옴

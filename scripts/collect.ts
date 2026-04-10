@@ -85,14 +85,19 @@ async function main() {
 
   const date = getYesterday();
 
-  // 이미 수집된 날짜면 스킵
+  // 이미 수집된 날짜면 전투력 비교용으로만 로드 (사냥 셋팅 방어)
   const existingFile = path.join(SNAPSHOTS_DIR, `${date}.json`);
+  let existingCpMap = new Map<string, number>();
   if (fs.existsSync(existingFile)) {
-    const existing = JSON.parse(fs.readFileSync(existingFile, 'utf-8'));
-    if ((existing.members?.length ?? 0) > 0) {
-      console.log(`✅ ${date} 데이터 이미 존재 (${existing.members.length}명) → 스킵`);
-      process.exit(0);
-    }
+    try {
+      const existing = JSON.parse(fs.readFileSync(existingFile, 'utf-8'));
+      if ((existing.members?.length ?? 0) > 0) {
+        existingCpMap = new Map<string, number>(
+          existing.members.map((m: any) => [m.characterName, m.combatPower ?? 0])
+        );
+        console.log(`📂 ${date} 기존 데이터 로드 (${existing.members.length}명) → 전투력 비교 후 저장`);
+      }
+    } catch {}
   }
 
   console.log(`\n🍄 거울 길드 데이터 수집 시작 (${date})\n`);
@@ -226,6 +231,13 @@ async function main() {
   console.log(`\n\n✅ 수집 완료! ${success}명 성공, ${fail}명 실패 (${totalTime}초)\n`);
 
   // 6. 스냅샷 저장
+  // 기존 전투력보다 낮으면 기존 값 유지 (사냥 셋팅 방어)
+  if (existingCpMap.size > 0) {
+    for (const s of snapshots) {
+      const prevCp = existingCpMap.get(s.characterName) ?? 0;
+      if (prevCp > s.combatPower) s.combatPower = prevCp;
+    }
+  }
   // 전투력 내림차순 정렬
   snapshots.sort((a, b) => b.combatPower - a.combatPower);
 
