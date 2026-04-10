@@ -170,8 +170,9 @@ export function buildChangeEmbed(
 
   return {
     embeds: [{
-      title: `🪞 ${guildName} 길드원 변동 알림`,
+      title: `${guildName} 길드원 변동 알림`,
       color,
+      thumbnail: { url: 'https://maple-guild-tracker.vercel.app/guild-name.png' },
       fields,
       footer: { text: '🍄 거울 길드 대시보드' },
       timestamp: new Date().toISOString(),
@@ -190,8 +191,9 @@ export function buildInactiveEmbed(
 
   return {
     embeds: [{
-      title: `🪞 ${guildName} 장기 미접속 알림`,
+      title: `${guildName} 장기 미접속 알림`,
       color: 0xE53935,
+      thumbnail: { url: 'https://maple-guild-tracker.vercel.app/guild-name.png' },
       fields: [{
         name: `💤 15일 이상 미접속 (${alerts.length}명)`,
         value: alertList || '없음 🎉',
@@ -255,9 +257,10 @@ export function buildWeeklyReportEmbed(data: WeeklyReportData): object {
 
   return {
     embeds: [{
-      title: `🪞 ${data.guildName} 주간 리포트`,
+      title: `${data.guildName} 주간 리포트`,
       description: `📅 ${data.period}`,
       color: 0x4A90D9,
+      thumbnail: { url: 'https://maple-guild-tracker.vercel.app/guild-name.png' },
       fields,
       footer: { text: '🍄 거울 길드 대시보드 · 자동 리포트' },
       timestamp: new Date().toISOString(),

@@ -50,9 +50,10 @@ function buildReportMessage(report: WeeklyReport): object {
 
   return {
     embeds: [{
-      title: `🪞 거울 길드 주간 리포트`,
+      title: `거울 길드 주간 리포트`,
       description: `📅 ${report.fromDate} → ${report.toDate}`,
-      color: 0x5B9BD5, // 거울 길드 색상
+      color: 0x5B9BD5,
+      thumbnail: { url: 'https://maple-guild-tracker.vercel.app/guild-name.png' },
       fields: [
         {
           name: '💪 전투력 상승 랭킹',
