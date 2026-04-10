@@ -50,9 +50,28 @@ data/
     2026-04-06.json              ← 일별 스냅샷 (현재 1일치만 있음)
 
 .env.local                       ← API Key (git에 포함 안 됨)
-.github/workflows/collect.yml   ← GitHub Actions 자동 수집 (매일 06:00 KST)
-vercel.json                      ← Vercel Cron 설정
+.github/workflows/
+  collect.yml                    ← 거울 전날 결산 수집 (cron-job.org → 매일 KST 10:05)
+  collect-today.yml              ← 거울 오늘 실시간 수집 (cron-job.org → 매 30분)
+  monitor.yml                    ← 거울/달라 가입·탈퇴 감지 (cron-job.org → 매 5분)
+  inactive.yml                   ← 거울/달라 미접속 알림 (cron-job.org → 매일 KST 07:00)
+  weekly-report.yml              ← 거울/달라 주간 리포트 (cron-job.org → 매주 월 KST 09:00)
+docs/cron-setup.md               ← cron-job.org 설정 가이드
+vercel.json                      ← Vercel 배포 설정
 ```
+
+## 배치 스케줄 (cron-job.org 외부 트리거)
+
+GitHub Actions 내장 cron은 5분·10분 단위 스케줄이 불안정 → cron-job.org에서 GitHub API 직접 호출
+→ 자세한 설정: `docs/cron-setup.md`
+
+| 배치 | 주기 | KST | 역할 |
+|------|------|-----|------|
+| `monitor.yml` | 5분 | - | 거울/달라 가입·탈퇴 감지, admin.json 업데이트 |
+| `collect-today.yml` | 30분 | - | 거울 오늘 실시간 스냅샷 |
+| `collect.yml` | 매일 | 10:05 | 거울 전날 결산 스냅샷 |
+| `inactive.yml` | 매일 | 07:00 | 거울/달라 장기 미접속 Discord 알림 |
+| `weekly-report.yml` | 매주 월 | 09:00 | 거울/달라 주간 리포트 Discord |
 
 ## 주요 설계 결정
 - **단일 길드 고정**: 환경변수 `GUILD_NAME=거울`, `WORLD_NAME=스카니아` (자유 검색 불가)

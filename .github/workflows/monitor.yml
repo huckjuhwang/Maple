@@ -1,9 +1,6 @@
 name: 🔍 길드원 모니터링 (매 5분)
 
 on:
-  schedule:
-    # 배치 1: 가입/탈퇴 감지 (5분마다)
-    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
