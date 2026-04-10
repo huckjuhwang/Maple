@@ -387,6 +387,17 @@ export default function AdminPage({ secret }: Props) {
   // 정렬
   if (sortColumn) {
     displayMembers = [...displayMembers].sort((a, b) => {
+      // 상태 정렬: leaveDetected를 별도 키로 처리 (new > leaveDetected > active)
+      if (sortColumn === 'status') {
+        const statusOrder = (m: typeof a) => {
+          if (m.status === 'new') return 0;
+          if (m.leaveDetected) return 1;
+          if (m.status === 'active') return 2;
+          return 3;
+        };
+        const diff = statusOrder(a) - statusOrder(b);
+        return sortAsc ? diff : -diff;
+      }
       let va: any = (a as any)[sortColumn] ?? '';
       let vb: any = (b as any)[sortColumn] ?? '';
       if (typeof va === 'number' && typeof vb === 'number') {
