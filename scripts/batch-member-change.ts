@@ -2,7 +2,7 @@
  * 배치 1: 가입/탈퇴 감지 (5분마다)
  *
  * 실행: npx tsx scripts/batch-member-change.ts
- * GitHub Actions: cron (매 5분마다)
+ * GitHub Actions: cron 매 5분 (UTC: "*/5 * * * *" = KST 매 5분)
  *
  * API 호출: 1회 (길드 멤버 목록만)
  * 변동 없으면 알림 안 보냄
