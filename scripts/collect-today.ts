@@ -106,6 +106,7 @@ async function main() {
   // 기존 스냅샷 있으면 전투력만 높은 쪽으로 유지 (사냥 셋팅 방어)
   const snapshotFile = path.join(SNAPSHOTS_DIR, `${date}.json`);
   if (fs.existsSync(snapshotFile)) {
+
     try {
       const existing = JSON.parse(fs.readFileSync(snapshotFile, 'utf-8'));
       const existingCpMap = new Map<string, number>(
@@ -138,7 +139,6 @@ async function main() {
     members: snapshots,
   };
 
-  const snapshotFile = path.join(SNAPSHOTS_DIR, `${date}.json`);
   fs.writeFileSync(snapshotFile, JSON.stringify(snapshotData, null, 2));
   fs.writeFileSync(latestFile, JSON.stringify(snapshotData, null, 2));
 
