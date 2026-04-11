@@ -3,11 +3,17 @@
  *
  * data/snapshots/ 폴더에서 두 날짜의 JSON을 비교하여
  * 각 멤버의 경험치/전투력/레벨 변화량을 산출
+ *
+ * 로컬: fs.readFileSync (개발용)
+ * Vercel: GitHub raw URL fetch (재배포 없이 최신 데이터 반영)
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { calcExpGainWithLevelUp } from '@/lib/levelExpTable';
+import { githubFetchJson, githubListSnapshotDates } from '@/lib/github-data';
+
+const isVercel = process.env.VERCEL === '1';
 
 export interface MemberChange {
   characterName: string;
@@ -41,10 +47,6 @@ export interface CompareResult {
   hasData: boolean;
 }
 
-function getSnapshotsDir(): string {
-  return path.join(process.cwd(), 'data', 'snapshots');
-}
-
 function toLocalDateString(d: Date): string {
   const y = d.getFullYear();
   const m = String(d.getMonth() + 1).padStart(2, '0');
@@ -53,43 +55,49 @@ function toLocalDateString(d: Date): string {
 }
 
 /** 사용 가능한 스냅샷 날짜 목록 (최신순) */
-export function getAvailableDates(): string[] {
-  const dir = getSnapshotsDir();
-  if (!fs.existsSync(dir)) return [];
-  return fs.readdirSync(dir)
-    .filter(f => f.endsWith('.json'))
-    .map(f => f.replace('.json', ''))
-    .sort()
-    .reverse();
+export async function getAvailableDates(): Promise<string[]> {
+  if (!isVercel) {
+    const dir = path.join(process.cwd(), 'data', 'snapshots');
+    if (!fs.existsSync(dir)) return [];
+    return fs.readdirSync(dir)
+      .filter(f => f.endsWith('.json'))
+      .map(f => f.replace('.json', ''))
+      .sort()
+      .reverse();
+  }
+  return githubListSnapshotDates();
 }
 
 /** 특정 날짜 스냅샷 로드 */
-export function loadSnapshot(date: string): any | null {
-  const filePath = path.join(getSnapshotsDir(), `${date}.json`);
-  if (!fs.existsSync(filePath)) return null;
-  return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+export async function loadSnapshot(date: string): Promise<any | null> {
+  if (!isVercel) {
+    const filePath = path.join(process.cwd(), 'data', 'snapshots', `${date}.json`);
+    if (!fs.existsSync(filePath)) return null;
+    try { return JSON.parse(fs.readFileSync(filePath, 'utf-8')); } catch { return null; }
+  }
+  return githubFetchJson(`data/snapshots/${date}.json`, 86400);
 }
 
 /** 최신 스냅샷 로드 */
-export function loadLatest(): any | null {
-  const filePath = path.join(process.cwd(), 'data', 'latest.json');
-  if (!fs.existsSync(filePath)) return null;
-  return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+export async function loadLatest(): Promise<any | null> {
+  if (!isVercel) {
+    const filePath = path.join(process.cwd(), 'data', 'latest.json');
+    if (!fs.existsSync(filePath)) return null;
+    try { return JSON.parse(fs.readFileSync(filePath, 'utf-8')); } catch { return null; }
+  }
+  return githubFetchJson('data/latest.json', 1800);
 }
 
 /**
  * 경험치 변화를 레벨분으로 환산
- * 예) Lv283 (92%) → Lv285 (15%) = 2.23 레벨분
  */
 function calcExpLevelChange(
   prevLevel: number, prevExpRate: number,
   currLevel: number, currExpRate: number
 ): number {
   if (prevLevel === currLevel) {
-    // 같은 레벨 내 경험치 변화
     return (currExpRate - prevExpRate) / 100;
   }
-  // 레벨업 포함
   const prevRemaining = (100 - prevExpRate) / 100;
   const fullLevels = currLevel - prevLevel - 1;
   const currProgress = currExpRate / 100;
@@ -99,15 +107,13 @@ function calcExpLevelChange(
 /**
  * 두 날짜 스냅샷 비교
  */
-export function compareSnapshots(fromDate: string, toDate: string, period: string = 'daily'): CompareResult {
-  const fromSnap = loadSnapshot(fromDate);
-  const toSnap = loadSnapshot(toDate);
+export async function compareSnapshots(fromDate: string, toDate: string, period: string = 'daily'): Promise<CompareResult> {
+  const [fromSnap, toSnap] = await Promise.all([loadSnapshot(fromDate), loadSnapshot(toDate)]);
 
   if (!fromSnap || !toSnap) {
     return { fromDate, toDate, period, members: [], hasData: false };
   }
 
-  // from 데이터를 맵으로 변환
   const fromMap = new Map<string, any>();
   for (const m of fromSnap.members) {
     fromMap.set(m.characterName, m);
@@ -117,7 +123,7 @@ export function compareSnapshots(fromDate: string, toDate: string, period: strin
 
   for (const curr of toSnap.members) {
     const prev = fromMap.get(curr.characterName);
-    if (!prev) continue; // 이전 데이터 없으면 스킵
+    if (!prev) continue;
 
     const expLevelChange = calcExpLevelChange(
       prev.level, prev.expRate,
@@ -161,35 +167,21 @@ export function daysAgo(dateStr: string, days: number): string {
   return toLocalDateString(d);
 }
 
-/**
- * 메이플스토리 주간 기준 계산 (목요일 00시 리셋)
- *
- * 이번 주: 가장 최근 목요일 ~ 다음 수요일
- * 지난 주: 그 전 목요일 ~ 최근 목요일 전날(수요일)
- *
- * 예) 오늘이 2026-04-07 (월요일)이면:
- *   이번 주: 2026-04-02 (목) ~ 2026-04-08 (수)
- *   지난 주: 2026-03-26 (목) ~ 2026-04-01 (수)
- */
 export interface WeekRange {
-  start: string; // 목요일
-  end: string;   // 수요일
-  label: string; // "4/2 ~ 4/8"
+  start: string;
+  end: string;
+  label: string;
 }
 
 export function getMapleWeek(dateStr: string, weeksAgo: number = 0): WeekRange {
   const d = new Date(dateStr);
-  // 요일: 0=일, 1=월, 2=화, 3=수, 4=목, 5=금, 6=토
   const dayOfWeek = d.getDay();
 
-  // 이번 주 목요일 찾기
-  // 목(4)이면 0, 금(5)이면 -1, 토(6)이면 -2, 일(0)이면 -3,
-  // 월(1)이면 -4, 화(2)이면 -5, 수(3)이면 -6
   let daysToThursday: number;
   if (dayOfWeek >= 4) {
     daysToThursday = dayOfWeek - 4;
   } else {
-    daysToThursday = dayOfWeek + 3; // 일=3, 월=4, 화=5, 수=6
+    daysToThursday = dayOfWeek + 3;
   }
 
   const thursday = new Date(d);
@@ -205,22 +197,15 @@ export function getMapleWeek(dateStr: string, weeksAgo: number = 0): WeekRange {
   return { start, end, label };
 }
 
-/**
- * 월간 기준 계산 (1일 ~ 말일)
- *
- * 예) 오늘이 2026-04-07이면:
- *   이번 달: 2026-04-01 ~ 2026-04-30
- *   지난 달: 2026-03-01 ~ 2026-03-31
- */
 export function getMapleMonth(dateStr: string, monthsAgo: number = 0): WeekRange {
   const d = new Date(dateStr);
   d.setMonth(d.getMonth() - monthsAgo);
 
   const year = d.getFullYear();
-  const month = d.getMonth(); // 0-indexed
+  const month = d.getMonth();
 
   const firstDay = new Date(year, month, 1);
-  const lastDay = new Date(year, month + 1, 0); // 말일
+  const lastDay = new Date(year, month + 1, 0);
 
   const start = toLocalDateString(firstDay);
   const end = toLocalDateString(lastDay);
@@ -230,38 +215,33 @@ export function getMapleMonth(dateStr: string, monthsAgo: number = 0): WeekRange
 }
 
 /**
- * 자동 비교: 가능한 데이터에서 최적의 비교 생성
+ * 자동 비교: 가장 최신 vs 전날
  */
-export function getAutoCompare(): CompareResult | null {
-  const dates = getAvailableDates();
+export async function getAutoCompare(): Promise<CompareResult | null> {
+  const dates = await getAvailableDates();
   if (dates.length < 2) return null;
-
-  // 가장 최신 vs 그 다음 → 일별
   return compareSnapshots(dates[1], dates[0], 'daily');
 }
 
 /**
- * 기간별 비교 시도
- * weekly = 메이플 주간 기준 (목~수)
- * monthly = 1일~말일 기준
+ * 기간별 비교
  */
-export function getCompareByPeriod(
+export async function getCompareByPeriod(
   period: 'daily' | 'weekly' | 'monthly',
-  offset: number = 0 // weeksAgo or monthsAgo
-): CompareResult | null {
-  const dates = getAvailableDates();
+  offset: number = 0
+): Promise<CompareResult | null> {
+  const dates = await getAvailableDates();
   if (dates.length === 0) return null;
 
   const latest = dates[0];
 
   if (period === 'weekly') {
     const week = getMapleWeek(latest, offset);
-    // 목요일 리셋 기준: fromDate는 목요일 하루 전(수요일) 스냅샷 사용
     const fromRef = daysAgo(week.start, 1);
     const fromDate = dates.find(d => d <= fromRef) ?? dates[dates.length - 1];
     const toDate = dates.find(d => d <= week.end) ?? dates[0];
     if (fromDate === toDate) return null;
-    const result = compareSnapshots(fromDate, toDate, 'weekly');
+    const result = await compareSnapshots(fromDate, toDate, 'weekly');
     return { ...result, fromDate: week.start, toDate: week.end };
   }
 
@@ -270,7 +250,7 @@ export function getCompareByPeriod(
     const fromDate = dates.find(d => d <= month.start) ?? dates[dates.length - 1];
     const toDate = dates.find(d => d <= month.end) ?? dates[0];
     if (fromDate === toDate) return null;
-    const result = compareSnapshots(fromDate, toDate, 'monthly');
+    const result = await compareSnapshots(fromDate, toDate, 'monthly');
     return { ...result, fromDate: month.start, toDate: month.end };
   }
 
@@ -278,6 +258,5 @@ export function getCompareByPeriod(
   const targetDate = daysAgo(latest, 1);
   const closest = dates.find(d => d <= targetDate) ?? dates[dates.length - 1];
   if (closest === latest) return null;
-
   return compareSnapshots(closest, latest, period);
 }

@@ -11,7 +11,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
   }
 
-  const comparison = getCompareByPeriod('weekly');
+  const comparison = await getCompareByPeriod('weekly');
   if (!comparison || !comparison.hasData) {
     return NextResponse.json({
       success: false,

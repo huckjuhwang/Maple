@@ -10,7 +10,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
   }
 
-  const comparison = getAutoCompare();
+  const comparison = await getAutoCompare();
   if (!comparison || !comparison.hasData) {
     return NextResponse.json({ success: false, error: 'Not enough data for daily comparison' });
   }

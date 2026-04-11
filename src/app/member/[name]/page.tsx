@@ -1,10 +1,10 @@
-import * as fs from 'fs';
-import * as path from 'path';
 import Link from 'next/link';
 import { formatCombatPower, formatNumber } from '@/lib/constants';
-import { getAvailableDates, loadSnapshot } from '@/features/growth/compare';
+import { getAvailableDates, loadSnapshot, loadLatest } from '@/features/growth/compare';
 import { calcExpGainWithLevelUp } from '@/lib/levelExpTable';
 import { getOcid, collectMemberData } from '@/services/nexon-api';
+
+export const revalidate = 1800; // 30분마다 재생성
 
 function scouterUrl(name: string) {
   return `https://maplescouter.com/info?name=${encodeURIComponent(name)}`;
@@ -28,15 +28,6 @@ async function fetchLiveData(characterName: string) {
   }
 }
 
-function getLatestData() {
-  try {
-    const filePath = path.join(process.cwd(), 'data', 'latest.json');
-    if (!fs.existsSync(filePath)) return null;
-    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-  } catch {
-    return null;
-  }
-}
 
 interface Props {
   params: Promise<{ name: string }>;
@@ -45,7 +36,7 @@ interface Props {
 export default async function MemberPage({ params }: Props) {
   const { name } = await params;
   const decodedName = decodeURIComponent(name);
-  const guild = getLatestData();
+  const guild = await loadLatest();
 
   if (!guild || !guild.members) {
     return (
@@ -73,25 +64,19 @@ export default async function MemberPage({ params }: Props) {
   // 전체 랭킹에서 순위 찾기
   const rank = guild.members.findIndex((m: any) => m.characterName === decodedName) + 1;
 
-  // 히스토리 데이터 수집 (JSON 스냅샷)
-  const dates = getAvailableDates();
-  const history: { date: string; level: number; exp: number; combatPower: number; expRate: number; unionLevel: number; isLive?: boolean }[] = [];
-  for (const date of dates.slice(0, 30)) {
-    const snap = loadSnapshot(date);
-    if (!snap) continue;
-    const m = snap.members.find((m: any) => m.characterName === decodedName);
-    if (m) {
-      history.push({
-        date,
-        level: m.level,
-        exp: m.exp ?? 0,
-        combatPower: m.combatPower,
-        expRate: m.expRate,
-        unionLevel: m.unionLevel,
-      });
-    }
-  }
-  history.reverse(); // 오래된 순
+  // 히스토리 데이터 수집 (병렬 fetch)
+  const dates = await getAvailableDates();
+  const historyRaw = await Promise.all(
+    dates.slice(0, 30).map(async date => {
+      const snap = await loadSnapshot(date);
+      if (!snap) return null;
+      const m = snap.members.find((m: any) => m.characterName === decodedName);
+      if (!m) return null;
+      return { date, level: m.level, exp: m.exp ?? 0, combatPower: m.combatPower, expRate: m.expRate, unionLevel: m.unionLevel };
+    })
+  );
+  const history: { date: string; level: number; exp: number; combatPower: number; expRate: number; unionLevel: number; isLive?: boolean }[] =
+    (historyRaw.filter((x): x is NonNullable<typeof x> => x !== null)).reverse(); // 오래된 순
 
   // 실시간 데이터 가져오기 (오늘 기준, 1명만 API 호출)
   const liveData = await fetchLiveData(decodedName);

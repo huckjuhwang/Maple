@@ -1,26 +1,23 @@
-import * as fs from 'fs';
-import * as path from 'path';
 import { formatCombatPower, formatNumber } from '@/lib/constants';
-import { compareSnapshots, getAutoCompare, getAvailableDates, getCompareByPeriod, loadSnapshot } from '@/features/growth/compare';
+import { compareSnapshots, getAutoCompare, getAvailableDates, getCompareByPeriod, loadLatest, loadSnapshot } from '@/features/growth/compare';
 import Dashboard from '@/components/dashboard/Dashboard';
 import NoticeSection from '@/components/NoticeSection';
+import { githubFetchJson } from '@/lib/github-data';
+import * as fs from 'fs';
+import * as path from 'path';
 
-function getNotices() {
-  try {
-    const filePath = path.join(process.cwd(), 'data', 'notices.json');
-    if (!fs.existsSync(filePath)) return null;
-    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-  } catch {
-    return null;
-  }
-}
+export const revalidate = 1800; // 30분마다 재생성
 
-function getLatestData() {
+const isVercel = process.env.VERCEL === '1';
+
+async function getNotices() {
   try {
-    const filePath = path.join(process.cwd(), 'data', 'latest.json');
-    if (!fs.existsSync(filePath)) return null;
-    const raw = fs.readFileSync(filePath, 'utf-8');
-    return JSON.parse(raw);
+    if (!isVercel) {
+      const filePath = path.join(process.cwd(), 'data', 'notices.json');
+      if (!fs.existsSync(filePath)) return null;
+      return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    }
+    return githubFetchJson('data/notices.json', 1800);
   } catch {
     return null;
   }
@@ -30,9 +27,9 @@ function scouterUrl(name: string) {
   return `https://maplescouter.com/info?name=${encodeURIComponent(name)}`;
 }
 
-export default function HomePage() {
-  const guild = getLatestData();
-  const noticesData = getNotices();
+export default async function HomePage() {
+  const guild = await loadLatest();
+  const noticesData = await getNotices();
 
   if (!guild || !guild.members) {
     return (
@@ -50,39 +47,51 @@ export default function HomePage() {
   }
 
   const members = guild.members;
-  const availableDates = getAvailableDates();
+  const availableDates = await getAvailableDates();
 
-  // 기간별 비교 데이터
+  // 기간별 비교 데이터 (병렬)
+  const [autoCompare, weeklyCompare, monthlyCompare] = await Promise.all([
+    getAutoCompare(),
+    getCompareByPeriod('weekly'),
+    getCompareByPeriod('monthly'),
+  ]);
+
   const comparisons = {
-    daily: getAutoCompare(),
-    weekly: getCompareByPeriod('weekly'),
-    monthly: getCompareByPeriod('monthly'),
+    daily: autoCompare,
+    weekly: weeklyCompare,
+    monthly: monthlyCompare,
   };
 
-  // 일간 날짜 선택용: 각 날짜 → 전날과 비교 (최근 7일치)
-  // key: 선택 날짜(toDate), value: 전날 대비 변화량
-  const dailyComparisons: Record<string, ReturnType<typeof getAutoCompare>> = {};
-  for (let i = 0; i < Math.min(availableDates.length - 1, 7); i++) {
-    const toDate = availableDates[i];     // 선택한 날짜
-    const fromDate = availableDates[i + 1]; // 그 전날
-    dailyComparisons[toDate] = compareSnapshots(fromDate, toDate, 'daily');
+  // 일간 날짜 선택용: 최근 7일치 (병렬)
+  const dailyPairs = availableDates.slice(0, 8);
+  const dailyResults = await Promise.all(
+    dailyPairs.slice(0, -1).map((toDate, i) =>
+      compareSnapshots(dailyPairs[i + 1], toDate, 'daily').then(r => ({ toDate, result: r }))
+    )
+  );
+  const dailyComparisons: Record<string, ReturnType<typeof getAutoCompare> extends Promise<infer T> ? T : never> = {};
+  for (const { toDate, result } of dailyResults) {
+    dailyComparisons[toDate] = result;
   }
 
-  // 차트용 스냅샷 로드 (최대 30일)
-  const snapshots = availableDates.slice(0, 30).reverse().map(date => {
-    const snap = loadSnapshot(date);
-    if (!snap) return null;
-    return {
-      date: snap.date,
-      members: snap.members.map((m: any) => ({
-        characterName: m.characterName,
-        level: m.level,
-        expRate: m.expRate,
-        combatPower: m.combatPower,
-        unionLevel: m.unionLevel,
-      })),
-    };
-  }).filter(Boolean);
+  // 차트용 스냅샷 로드 (최대 30일, 병렬)
+  const snapshotDates = availableDates.slice(0, 30).reverse();
+  const snapshotRaws = await Promise.all(snapshotDates.map(date => loadSnapshot(date)));
+  const snapshots = snapshotRaws
+    .map((snap, i) => {
+      if (!snap) return null;
+      return {
+        date: snap.date ?? snapshotDates[i],
+        members: snap.members.map((m: any) => ({
+          characterName: m.characterName,
+          level: m.level,
+          expRate: m.expRate,
+          combatPower: m.combatPower,
+          unionLevel: m.unionLevel,
+        })),
+      };
+    })
+    .filter(Boolean);
 
   const allMemberNames = members.map((m: any) => m.characterName);
 
@@ -95,7 +104,6 @@ export default function HomePage() {
   const maxLevel = members.length
     ? Math.max(...members.map((m: any) => m.level))
     : 0;
-  const topDps = members[0];
 
   // 길마 찾기
   const master = members.find((m: any) => m.characterName === guild.masterName);
@@ -156,12 +164,6 @@ export default function HomePage() {
             </div>
           </div>
         </div>
-
-        {/* 수집 현황 */}
-        {/* <div className="mt-3 text-xs opacity-40">
-          스냅샷: {availableDates.length}일치 보유
-          {availableDates.length > 0 && ` (${availableDates[availableDates.length - 1]} ~ ${availableDates[0]})`}
-        </div> */}
       </header>
 
       {/* 직업 분포 - 숨김 처리 */}
