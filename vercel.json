@@ -5,5 +5,7 @@
       "schedule": "0 0 * * 1"
     }
   ],
-  "ignoreCommand": "git diff HEAD^ HEAD --quiet -- src/ public/ scripts/ package.json next.config.ts tsconfig.json"
+  "github": {
+    "enabled": false
+  }
 }
