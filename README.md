@@ -5,6 +5,18 @@
 🌐 **사이트**: [maple-guild-tracker.vercel.app](https://maple-guild-tracker.vercel.app)
 📖 **사용 설명서**: [maple-guild-tracker.vercel.app/guide.html](https://maple-guild-tracker.vercel.app/guide.html)
 
+<!-- AUTO_STATS_START -->
+## 📊 현황
+
+| 항목 | 값 |
+|------|-----|
+| 마지막 수집 | 2026-04-10 17:48 KST |
+| 수집 인원 | 196명 |
+| 길드 레벨 | Lv.30 |
+| 마스터 | 쭈히 |
+
+<!-- AUTO_STATS_END -->
+
 ---
 
 ## 서비스 소개
