@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-12T14:00:42.237Z",
+    "lastUpdated": "2026-04-12T10:30:35.181Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6805,22 +6805,6 @@
     },
     {
       "characterName": "령어니움",
-      "guild": "dalla",
-      "position": "",
-      "mainCharacter": "",
-      "realName": "",
-      "note": "",
-      "inactiveReason": "",
-      "fromMirror": "",
-      "memoHistory": [],
-      "job": "",
-      "level": 0,
-      "status": "new",
-      "joinDate": "2026-04-12",
-      "leaveDetected": false
-    },
-    {
-      "characterName": "라라밍고야",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
