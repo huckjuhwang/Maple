@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-12T01:20:36.559Z",
+    "lastUpdated": "2026-04-11T06:55:35.252Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4193,8 +4193,8 @@
       "memoHistory": [],
       "status": "new",
       "joinDate": "2026-04-10",
-      "job": "",
-      "level": 0,
+      "job": "히어로",
+      "level": 286,
       "combatPower": 108408765,
       "unionLevel": 9321,
       "leaveDetected": false
@@ -6784,23 +6784,7 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-11",
-      "leaveDetected": false
-    },
-    {
-      "characterName": "십군보마",
-      "guild": "dalla",
-      "position": "",
-      "mainCharacter": "",
-      "realName": "",
-      "note": "",
-      "inactiveReason": "",
-      "fromMirror": "",
-      "memoHistory": [],
-      "job": "",
-      "level": 0,
-      "status": "new",
-      "joinDate": "2026-04-12"
+      "joinDate": "2026-04-11"
     }
   ],
   "left": [
