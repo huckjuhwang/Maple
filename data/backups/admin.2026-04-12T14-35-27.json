@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-12T14:35:27.527Z",
+    "lastUpdated": "2026-04-12T14:35:25.965Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6841,22 +6841,6 @@
     },
     {
       "characterName": "라라밍고야",
-      "guild": "dalla",
-      "position": "",
-      "mainCharacter": "",
-      "realName": "",
-      "note": "",
-      "inactiveReason": "",
-      "fromMirror": "",
-      "memoHistory": [],
-      "job": "",
-      "level": 0,
-      "status": "new",
-      "joinDate": "2026-04-12",
-      "leaveDetected": false
-    },
-    {
-      "characterName": "쭈스페라도",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
