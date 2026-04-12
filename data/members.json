@@ -632,10 +632,6 @@
     "ocid": "848567b925c346ef21024bf78d414f9c"
   },
   {
-    "characterName": "전사렌쿤",
-    "ocid": "962829338f40348918c7cccde6e28ca6"
-  },
-  {
     "characterName": "아리원z",
     "ocid": "2e042b26a9cdb816dace518786048b9f"
   },
@@ -714,5 +710,9 @@
   {
     "characterName": "헝헝석",
     "ocid": "38665c2d8ee930979f8aa3ffa7780b48"
+  },
+  {
+    "characterName": "파이썬콜드맨",
+    "ocid": "a89b697c346abf5b69b9db210083d575"
   }
 ]
