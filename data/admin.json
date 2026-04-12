@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-12T15:00:36.387Z",
+    "lastUpdated": "2026-04-12T16:15:29.117Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6854,7 +6854,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-12",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쭈스페라도",
