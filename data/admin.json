@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-13T06:35:32.118Z",
+    "lastUpdated": "2026-04-13T11:25:26.585Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6905,6 +6905,21 @@
       "status": "new",
       "joinDate": "2026-04-13",
       "leaveDetected": false
+    },
+    {
+      "characterName": "지요렝",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-13"
     }
   ],
   "left": [
