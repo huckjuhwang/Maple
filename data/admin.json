@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-13T06:30:37.349Z",
+    "lastUpdated": "2026-04-13T06:35:32.118Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6380,7 +6380,7 @@
       "level": 0,
       "combatPower": 49918305,
       "unionLevel": 9012,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "해적은쿤",
@@ -6903,7 +6903,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-13"
+      "joinDate": "2026-04-13",
+      "leaveDetected": false
     }
   ],
   "left": [
