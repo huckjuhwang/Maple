@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-13T16:10:37.348Z",
+    "lastUpdated": "2026-04-14T14:05:38.262Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6935,7 +6935,23 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-13"
+      "joinDate": "2026-04-13",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "어둠의상자",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-14"
     }
   ],
   "left": [
