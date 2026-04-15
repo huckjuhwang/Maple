@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-15T15:00:41.643Z",
+    "lastUpdated": "2026-04-15T15:10:32.555Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6972,6 +6972,22 @@
     },
     {
       "characterName": "헬렌츄",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-15",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "ArrowTlc",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
