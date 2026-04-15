@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-15T10:00:41.385Z",
+    "lastUpdated": "2026-04-15T11:50:33.454Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6951,7 +6951,23 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-14"
+      "joinDate": "2026-04-14",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "보미승",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-15"
     }
   ],
   "left": [
