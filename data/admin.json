@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-16T06:45:34.683Z",
+    "lastUpdated": "2026-04-16T06:55:29.676Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4238,7 +4238,7 @@
       "level": 0,
       "combatPower": 28521020,
       "unionLevel": 9521,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "배트마",
@@ -7063,7 +7063,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-16"
+      "joinDate": "2026-04-16",
+      "leaveDetected": false
     }
   ],
   "left": [
