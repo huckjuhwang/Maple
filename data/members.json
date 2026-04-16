@@ -400,10 +400,6 @@
     "ocid": "947e14cccf3eaebfeda404b155599670"
   },
   {
-    "characterName": "반쪽탄",
-    "ocid": "2945f117b20ccdc62c61c39b961c3a56"
-  },
-  {
     "characterName": "홍언",
     "ocid": "5730b69406c2131137fd3de2e26be3ac"
   },
@@ -656,10 +652,6 @@
     "ocid": "7e3e9928b118529ad289340e4dfa505b"
   },
   {
-    "characterName": "리승렌즈",
-    "ocid": "419f059288af063cc06d3eb35427ed5e"
-  },
-  {
     "characterName": "렌천칠",
     "ocid": "885f0d1b92c8e85873ef0c23824ad70a"
   },
@@ -706,5 +698,37 @@
   {
     "characterName": "파이썬콜드맨",
     "ocid": "a89b697c346abf5b69b9db210083d575"
+  },
+  {
+    "characterName": "하린탄",
+    "ocid": "3532f302e920a0f2e8099e82b728885f"
+  },
+  {
+    "characterName": "검이무서워요",
+    "ocid": "e3c75e424d588286fa16b21959e1c273"
+  },
+  {
+    "characterName": "일니솔",
+    "ocid": "75834b510b506c0b270a31c12fda203d"
+  },
+  {
+    "characterName": "김물코이",
+    "ocid": "f2dc23cf288d45dbc51e71dfe22e9302"
+  },
+  {
+    "characterName": "활잡이곰돌E",
+    "ocid": "f2043cc6eeabd6b84c37ff2daa16ed97"
+  },
+  {
+    "characterName": "이용심",
+    "ocid": "7494890d4bbc7fce4aa636cbd49eb9d0"
+  },
+  {
+    "characterName": "박도현12",
+    "ocid": "e5950488fc9b818f098e6426cb1156ca"
+  },
+  {
+    "characterName": "왜포12움",
+    "ocid": "280968c711c8c109f600b3033a1284f0"
   }
 ]
