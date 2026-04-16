@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-16T12:25:30.479Z",
+    "lastUpdated": "2026-04-16T12:35:27.011Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -43,7 +43,7 @@
       "memoHistory": [],
       "job": "제논",
       "level": 292,
-      "combatPower": 641319834,
+      "combatPower": 665284656,
       "unionLevel": 9671,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -115,7 +115,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 291,
-      "combatPower": 424392904,
+      "combatPower": 440343367,
       "unionLevel": 9069,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -260,7 +260,7 @@
       "job": "비숍",
       "level": 292,
       "combatPower": 164937127,
-      "unionLevel": 9009,
+      "unionLevel": 9167,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1082,7 +1082,7 @@
       "memoHistory": [],
       "job": "엔젤릭버스터",
       "level": 290,
-      "combatPower": 80090532,
+      "combatPower": 115672511,
       "unionLevel": 9059,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1749,7 +1749,7 @@
       "job": "렌",
       "level": 285,
       "combatPower": 86384093,
-      "unionLevel": 8536,
+      "unionLevel": 8559,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -2685,7 +2685,7 @@
       "job": "윈드브레이커",
       "level": 279,
       "combatPower": 61013813,
-      "unionLevel": 8858,
+      "unionLevel": 8862,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -3605,7 +3605,7 @@
       "status": "new",
       "joinDate": "2026-04-12",
       "leaveDetected": false,
-      "combatPower": 40157836,
+      "combatPower": 79676673,
       "unionLevel": 8683
     },
     {
@@ -3674,6 +3674,22 @@
     },
     {
       "characterName": "왜포12움",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-16",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "일니솔",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
