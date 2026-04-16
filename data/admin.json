@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-16T04:00:35.142Z",
+    "lastUpdated": "2026-04-16T06:45:34.683Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7015,7 +7015,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-16"
+      "joinDate": "2026-04-16",
+      "leaveDetected": false
     },
     {
       "characterName": "뽀마유챔",
@@ -7030,10 +7031,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-16"
+      "joinDate": "2026-04-16",
+      "leaveDetected": false
     },
     {
       "characterName": "빼펭",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-16",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "세현쉰하나",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
