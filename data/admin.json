@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-16T14:11:11.060Z",
+    "lastUpdated": "2026-04-16T16:01:04.292Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7224,6 +7224,21 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false
+    },
+    {
+      "characterName": "구미호요정",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-16"
     }
   ],
   "left": [
