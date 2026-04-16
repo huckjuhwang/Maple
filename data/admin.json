@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-16T08:15:30.640Z",
+    "lastUpdated": "2026-04-16T10:10:32.520Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7115,6 +7115,22 @@
     },
     {
       "characterName": "Or기설주",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-16",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "1초라면",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
