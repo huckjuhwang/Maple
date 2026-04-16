@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-16T13:20:31.901Z",
+    "lastUpdated": "2026-04-16T13:55:31.884Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5735,7 +5735,7 @@
       "level": 0,
       "combatPower": 63994743,
       "unionLevel": 9442,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "천혼아",
@@ -7206,7 +7206,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-16"
+      "joinDate": "2026-04-16",
+      "leaveDetected": false
     }
   ],
   "left": [
