@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-16T16:01:04.292Z",
+    "lastUpdated": "2026-04-17T12:30:37.785Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -3951,7 +3951,7 @@
       "level": 0,
       "combatPower": 29358598,
       "unionLevel": 9619,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "보마뚜왕",
@@ -4851,7 +4851,7 @@
       "level": 0,
       "combatPower": 8158677,
       "unionLevel": 9012,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "LA고사리",
@@ -5085,7 +5085,7 @@
       "level": 0,
       "combatPower": 4736315,
       "unionLevel": 8881,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "레인맛소다",
@@ -5787,7 +5787,7 @@
       "level": 0,
       "combatPower": 0,
       "unionLevel": 8627,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "JEL렌",
@@ -6471,7 +6471,7 @@
       "level": 0,
       "combatPower": 22012810,
       "unionLevel": 8595,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "밥빙어",
@@ -7238,7 +7238,23 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-16"
+      "joinDate": "2026-04-16",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "고영희계란말",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-17"
     }
   ],
   "left": [
