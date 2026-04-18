@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-17T12:30:37.785Z",
+    "lastUpdated": "2026-04-18T07:55:26.974Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7254,7 +7254,23 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-17"
+      "joinDate": "2026-04-17",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "GeniusAct",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-18"
     }
   ],
   "left": [
