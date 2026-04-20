@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-20T01:25:30.675Z",
+    "lastUpdated": "2026-04-20T12:15:32.263Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7288,6 +7288,21 @@
       "status": "new",
       "joinDate": "2026-04-19",
       "leaveDetected": false
+    },
+    {
+      "characterName": "곰돌EE",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-20"
     }
   ],
   "left": [
