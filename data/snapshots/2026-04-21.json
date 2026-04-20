@@ -6,7 +6,7 @@
   "masterName": "쭈히",
   "memberCount": 183,
   "collectedCount": 183,
-  "collectedAt": "2026-04-20T21:03:28.596Z",
+  "collectedAt": "2026-04-20T21:33:31.221Z",
   "members": [
     {
       "characterName": "Limit",
@@ -1272,8 +1272,8 @@
       "characterName": "도동보",
       "job": "아크메이지(불,독)",
       "level": 296,
-      "exp": 212120738788137,
-      "expRate": 22.155,
+      "exp": 212805716189595,
+      "expRate": 22.226,
       "combatPower": 80886491,
       "unionLevel": 9461,
       "arcaneForce": 1320,
