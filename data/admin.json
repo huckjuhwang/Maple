@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-19T02:30:33.415Z",
+    "lastUpdated": "2026-04-20T01:25:30.675Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6021,7 +6021,7 @@
       "level": 0,
       "combatPower": 18687344,
       "unionLevel": 6276,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "매화맛소다",
@@ -7286,7 +7286,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-19"
+      "joinDate": "2026-04-19",
+      "leaveDetected": false
     }
   ],
   "left": [
