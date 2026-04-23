@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-23T03:57:10.665Z",
+    "lastUpdated": "2026-04-23T04:00:38.600Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7351,7 +7351,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-23"
+      "joinDate": "2026-04-23",
+      "leaveDetected": false
     },
     {
       "characterName": "쭈라주",
@@ -7366,10 +7367,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-23"
+      "joinDate": "2026-04-23",
+      "leaveDetected": false
     },
     {
       "characterName": "쭈크메이트",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "쭈메리쫑쫑",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
