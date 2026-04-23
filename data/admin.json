@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-23T13:50:32.620Z",
+    "lastUpdated": "2026-04-23T17:50:33.659Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7403,6 +7403,22 @@
     },
     {
       "characterName": "쭈메리쫑쫑",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "렌은토끼에오",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
