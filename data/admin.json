@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-22T15:10:39.345Z",
+    "lastUpdated": "2026-04-23T03:57:10.665Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7337,6 +7337,51 @@
       "status": "new",
       "joinDate": "2026-04-20",
       "leaveDetected": false
+    },
+    {
+      "characterName": "숍쭈히",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-23"
+    },
+    {
+      "characterName": "쭈라주",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-23"
+    },
+    {
+      "characterName": "쭈크메이트",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-23"
     }
   ],
   "left": [
