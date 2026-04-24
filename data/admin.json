@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-24T11:40:31.757Z",
+    "lastUpdated": "2026-04-24T14:00:40.022Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7435,6 +7435,21 @@
       "status": "new",
       "joinDate": "2026-04-23",
       "leaveDetected": false
+    },
+    {
+      "characterName": "도리네로하츠",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-24"
     }
   ],
   "left": [
