@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-24T14:00:40.022Z",
+    "lastUpdated": "2026-04-26T01:05:32.676Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7449,7 +7449,23 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-24"
+      "joinDate": "2026-04-24",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "최셔준",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-26"
     }
   ],
   "left": [
