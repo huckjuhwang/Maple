@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-26T12:25:32.061Z",
+    "lastUpdated": "2026-04-28T10:45:38.945Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7481,7 +7481,23 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-26"
+      "joinDate": "2026-04-26",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "스파이괘밀리",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-04-28"
     }
   ],
   "left": [
