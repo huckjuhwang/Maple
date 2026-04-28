@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-28T12:30:40.533Z",
+    "lastUpdated": "2026-04-28T12:35:33.710Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4470,7 +4470,7 @@
       "level": 0,
       "combatPower": 60591337,
       "unionLevel": 9665,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "크앍바퍼",
@@ -7497,7 +7497,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-04-28"
+      "joinDate": "2026-04-28",
+      "leaveDetected": false
     }
   ],
   "left": [
