@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-04-28T12:35:33.710Z",
+    "lastUpdated": "2026-04-29T01:00:38.763Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4002,7 +4002,7 @@
       "level": 0,
       "combatPower": 29358598,
       "unionLevel": 9619,
-      "leaveDetected": true
+      "leaveDetected": false
     },
     {
       "characterName": "보마뚜왕",
