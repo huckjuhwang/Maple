@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-01T08:25:25.296Z",
+    "lastUpdated": "2026-05-01T08:30:40.009Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -3788,6 +3788,22 @@
     },
     {
       "characterName": "쭈라우닝",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-01",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "리엔쭈",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
