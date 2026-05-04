@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-04T08:30:35.948Z",
+    "lastUpdated": "2026-05-04T11:40:33.359Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7550,6 +7550,21 @@
       "status": "new",
       "joinDate": "2026-04-28",
       "leaveDetected": false
+    },
+    {
+      "characterName": "aasd2313",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-04"
     }
   ],
   "left": [
