@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-04T11:40:33.359Z",
+    "lastUpdated": "2026-05-06T15:05:34.371Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -3873,7 +3873,7 @@
       "level": 0,
       "combatPower": 1025714,
       "unionLevel": 9753,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "초심2020",
@@ -4215,7 +4215,7 @@
       "level": 0,
       "combatPower": 4840222,
       "unionLevel": 9321,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뽕구니",
@@ -4575,7 +4575,7 @@
       "level": 0,
       "combatPower": 5336915,
       "unionLevel": 9018,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "어리머",
@@ -4917,7 +4917,7 @@
       "level": 0,
       "combatPower": 8820556,
       "unionLevel": 9145,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "은얼핑",
@@ -5097,7 +5097,7 @@
       "level": 0,
       "combatPower": 4135048,
       "unionLevel": 9470,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "두밈",
@@ -5241,7 +5241,7 @@
       "level": 0,
       "combatPower": 13823704,
       "unionLevel": 9019,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "불션족",
@@ -5259,7 +5259,7 @@
       "level": 0,
       "combatPower": 9215014,
       "unionLevel": 9018,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "금지옥엽다히",
@@ -6519,7 +6519,7 @@
       "level": 0,
       "combatPower": 18645557,
       "unionLevel": 9849,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쭈렌뚜",
@@ -6591,7 +6591,7 @@
       "level": 0,
       "combatPower": 10332756,
       "unionLevel": 9210,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "개불건",
@@ -6645,7 +6645,7 @@
       "level": 0,
       "combatPower": 37080190,
       "unionLevel": 8666,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "얼음성녀님",
@@ -6861,7 +6861,7 @@
       "level": 0,
       "combatPower": 2208187,
       "unionLevel": 9409,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "아카츠키노메",
@@ -6915,7 +6915,7 @@
       "level": 0,
       "combatPower": 31071928,
       "unionLevel": 8616,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "시끔디",
@@ -7564,7 +7564,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-05-04"
+      "joinDate": "2026-05-04",
+      "leaveDetected": false
     }
   ],
   "left": [
