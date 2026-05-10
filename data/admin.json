@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-10T04:30:32.927Z",
+    "lastUpdated": "2026-05-10T07:25:30.060Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7569,6 +7569,21 @@
       "status": "new",
       "joinDate": "2026-05-04",
       "leaveDetected": false
+    },
+    {
+      "characterName": "넬라스커",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-10"
     }
   ],
   "left": [
