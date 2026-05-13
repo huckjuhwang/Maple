@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-13T13:25:38.178Z",
+    "lastUpdated": "2026-05-13T14:25:39.413Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7598,7 +7598,23 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-05-10"
+      "joinDate": "2026-05-10",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "시간이머문날",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-13"
     }
   ],
   "left": [
