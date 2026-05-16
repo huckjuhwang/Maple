@@ -660,10 +660,6 @@
     "ocid": "d60424799788488efa8fe76782a35a90"
   },
   {
-    "characterName": "그리워원기형",
-    "ocid": "5b2ae117740a8324fe95d6046d5cd744"
-  },
-  {
     "characterName": "기마쯔",
     "ocid": "c4970074bbd2f6fb6f94e02f0a1e8bc4"
   },
@@ -710,5 +706,9 @@
   {
     "characterName": "왜포12움",
     "ocid": "280968c711c8c109f600b3033a1284f0"
+  },
+  {
+    "characterName": "요베륜",
+    "ocid": "4b59aed217a87d741824e574500c1e22"
   }
 ]
