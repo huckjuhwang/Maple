@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-17T12:55:32.931Z",
+    "lastUpdated": "2026-05-17T14:05:33.944Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7689,6 +7689,21 @@
       "status": "new",
       "joinDate": "2026-05-15",
       "leaveDetected": false
+    },
+    {
+      "characterName": "요베룬",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-17"
     }
   ],
   "left": [
