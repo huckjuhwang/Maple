@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-16T13:20:29.675Z",
+    "lastUpdated": "2026-05-17T12:55:32.931Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -727,7 +727,7 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 290,
-      "combatPower": 130790496,
+      "combatPower": 174797073,
       "unionLevel": 9085,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -854,7 +854,7 @@
       "job": "다크나이트",
       "level": 290,
       "combatPower": 317766667,
-      "unionLevel": 10357,
+      "unionLevel": 10358,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -925,7 +925,7 @@
       "memoHistory": [],
       "job": "아델",
       "level": 290,
-      "combatPower": 125217401,
+      "combatPower": 206838586,
       "unionLevel": 9467,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -979,7 +979,7 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 296,
-      "combatPower": 206207290,
+      "combatPower": 490315365,
       "unionLevel": 9674,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1064,7 +1064,7 @@
       ],
       "job": "아델",
       "level": 297,
-      "combatPower": 125940845,
+      "combatPower": 308139272,
       "unionLevel": 9795,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1550,7 +1550,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 290,
-      "combatPower": 166192573,
+      "combatPower": 180977262,
       "unionLevel": 8968,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1608,7 +1608,7 @@
       "unionLevel": 9813,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "여왕님최고다",
@@ -2072,7 +2072,7 @@
       "memoHistory": [],
       "job": "루미너스",
       "level": 288,
-      "combatPower": 68566971,
+      "combatPower": 92666497,
       "unionLevel": 10164,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3135,7 +3135,7 @@
       "job": "스트라이커",
       "level": 281,
       "combatPower": 23353585,
-      "unionLevel": 9607,
+      "unionLevel": 9608,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -3386,7 +3386,7 @@
       "memoHistory": [],
       "job": "나이트로드",
       "level": 281,
-      "combatPower": 11460034,
+      "combatPower": 13854705,
       "unionLevel": 1603,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3746,7 +3746,7 @@
       "level": 279,
       "status": "new",
       "joinDate": "2026-04-16",
-      "combatPower": 17776910,
+      "combatPower": 18334617,
       "unionLevel": 2431,
       "leaveDetected": false
     },
@@ -3836,7 +3836,7 @@
       "level": 290,
       "status": "new",
       "joinDate": "2026-05-04",
-      "combatPower": 112988001,
+      "combatPower": 203613291,
       "unionLevel": 8902,
       "leaveDetected": false
     },
@@ -3904,10 +3904,13 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "",
-      "level": 0,
+      "job": "렌",
+      "level": 276,
       "status": "new",
-      "joinDate": "2026-05-16"
+      "joinDate": "2026-05-16",
+      "combatPower": 10943873,
+      "unionLevel": 2719,
+      "leaveDetected": false
     }
   ],
   "dalla": [
@@ -4197,7 +4200,7 @@
       "level": 0,
       "combatPower": 35123571,
       "unionLevel": 9768,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "철상px5",
@@ -7189,7 +7192,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-12",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "드디어토끼가",
@@ -7684,7 +7687,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-05-15"
+      "joinDate": "2026-05-15",
+      "leaveDetected": false
     }
   ],
   "left": [
