@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-19T01:20:32.642Z",
+    "lastUpdated": "2026-05-19T06:30:38.915Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7721,7 +7721,23 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-05-17"
+      "joinDate": "2026-05-17",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "냥냥펀치로시",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-19"
     }
   ],
   "left": [
