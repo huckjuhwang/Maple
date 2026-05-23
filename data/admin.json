@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-22T08:45:34.910Z",
+    "lastUpdated": "2026-05-23T03:10:36.593Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7754,6 +7754,21 @@
       "status": "new",
       "joinDate": "2026-05-19",
       "leaveDetected": false
+    },
+    {
+      "characterName": "임나구밍",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-23"
     }
   ],
   "left": [
