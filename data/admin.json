@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-24T02:10:33.399Z",
+    "lastUpdated": "2026-05-24T03:25:32.263Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -638,7 +638,7 @@
       "job": "렌",
       "level": 296,
       "combatPower": 493406947,
-      "unionLevel": 8934,
+      "unionLevel": 8935,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -2234,8 +2234,8 @@
       "memoHistory": [],
       "job": "제로",
       "level": 285,
-      "combatPower": 184398447,
-      "unionLevel": 9073,
+      "combatPower": 185081942,
+      "unionLevel": 9075,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -2594,7 +2594,7 @@
       "memoHistory": [],
       "job": "나이트로드",
       "level": 281,
-      "combatPower": 61183781,
+      "combatPower": 63556909,
       "unionLevel": 9474,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3968,6 +3968,22 @@
     },
     {
       "characterName": "꼬마볼딘",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-24",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "GGIYA",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
