@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-25T12:15:37.058Z",
+    "lastUpdated": "2026-05-26T08:50:38.111Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7869,7 +7869,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-05-25"
+      "joinDate": "2026-05-25",
+      "leaveDetected": false
     },
     {
       "characterName": "로뜨노예",
@@ -7884,7 +7885,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-05-25"
+      "joinDate": "2026-05-25",
+      "leaveDetected": false
     },
     {
       "characterName": "로뜨아재",
@@ -7899,7 +7901,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-05-25"
+      "joinDate": "2026-05-25",
+      "leaveDetected": false
     },
     {
       "characterName": "R0TT",
@@ -7914,7 +7917,23 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-05-25"
+      "joinDate": "2026-05-25",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "뚱늬숍",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-26"
     }
   ],
   "left": [
