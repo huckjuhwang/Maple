@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-26T12:50:36.906Z",
+    "lastUpdated": "2026-05-26T13:35:39.915Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7939,6 +7939,22 @@
     },
     {
       "characterName": "뚱늬숍",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-05-26",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "범학지인",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
