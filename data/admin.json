@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-27T15:05:38.391Z",
+    "lastUpdated": "2026-05-27T15:10:39.842Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -1644,7 +1644,7 @@
       "unionLevel": 9274,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "노닥아크",
