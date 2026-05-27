@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-27T15:15:38.550Z",
+    "lastUpdated": "2026-05-27T15:20:46.712Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4612,7 +4612,7 @@
       "level": 0,
       "combatPower": 1885666,
       "unionLevel": 9433,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "월산동리가민",
@@ -4720,7 +4720,7 @@
       "level": 0,
       "combatPower": 84030104,
       "unionLevel": 9442,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "자으지",
@@ -4918,7 +4918,7 @@
       "level": 0,
       "combatPower": 24124037,
       "unionLevel": 8714,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "간지민",
@@ -5314,7 +5314,7 @@
       "level": 0,
       "combatPower": 3510631,
       "unionLevel": 8700,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "달sen라",
@@ -5494,7 +5494,7 @@
       "level": 0,
       "combatPower": 63222437,
       "unionLevel": 9506,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "고양희계란말",
@@ -5512,7 +5512,7 @@
       "level": 0,
       "combatPower": 17184093,
       "unionLevel": 9105,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "기대천",
@@ -5746,7 +5746,7 @@
       "level": 0,
       "combatPower": 0,
       "unionLevel": 8881,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "깅혀눙",
@@ -6448,7 +6448,7 @@
       "level": 0,
       "combatPower": 21175376,
       "unionLevel": 8957,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "MinuteHour",
@@ -6520,7 +6520,7 @@
       "level": 0,
       "combatPower": 30568613,
       "unionLevel": 9128,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "렌이승",
@@ -6736,7 +6736,7 @@
       "level": 0,
       "combatPower": 6944365,
       "unionLevel": 9655,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "아머모",
@@ -7538,7 +7538,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-17",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "GeniusAct",
@@ -7969,7 +7969,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-05-26"
+      "joinDate": "2026-05-26",
+      "leaveDetected": false
     }
   ],
   "left": [
