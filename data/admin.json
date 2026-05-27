@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-27T15:10:39.842Z",
+    "lastUpdated": "2026-05-27T15:15:38.550Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -749,7 +749,7 @@
       "unionLevel": 9459,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "에너지스마일",
@@ -2832,7 +2832,7 @@
       "unionLevel": 9097,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "지팡이와데스",
@@ -3174,7 +3174,7 @@
       "unionLevel": 8873,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "능캣",
