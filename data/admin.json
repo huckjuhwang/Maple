@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-27T15:50:37.948Z",
+    "lastUpdated": "2026-05-27T17:20:45.115Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4738,7 +4738,7 @@
       "level": 0,
       "combatPower": 6941201,
       "unionLevel": 8209,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "신션족",
@@ -5008,7 +5008,7 @@
       "level": 0,
       "combatPower": 5894582,
       "unionLevel": 6316,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "다크나2트다",
