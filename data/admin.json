@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-28T03:35:34.574Z",
+    "lastUpdated": "2026-05-29T13:00:51.564Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7810,7 +7810,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-17",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "냥냥펀치로시",
