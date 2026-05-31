@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-05-30T05:00:45.065Z",
+    "lastUpdated": "2026-05-31T11:40:34.809Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5872,7 +5872,7 @@
       "level": 0,
       "combatPower": 54159367,
       "unionLevel": 9027,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "청은",
@@ -7458,7 +7458,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-16",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "세현쉰하나",
