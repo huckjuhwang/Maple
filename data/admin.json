@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-02T13:45:43.274Z",
+    "lastUpdated": "2026-06-02T13:55:37.931Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7700,7 +7700,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-24",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "최셔준",
