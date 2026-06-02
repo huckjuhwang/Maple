@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-02T11:00:52.328Z",
+    "lastUpdated": "2026-06-02T11:10:39.584Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7186,7 +7186,7 @@
       "level": 0,
       "combatPower": 132023807,
       "unionLevel": 9638,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로보궁",
