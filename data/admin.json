@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-01T07:30:44.571Z",
+    "lastUpdated": "2026-06-02T10:55:37.773Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4051,7 +4051,7 @@
       "level": 0,
       "combatPower": 106258551,
       "unionLevel": 9638,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "윈브오구",
@@ -5905,7 +5905,7 @@
       "level": 0,
       "combatPower": 111275898,
       "unionLevel": 9638,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "무케친구탄이",
