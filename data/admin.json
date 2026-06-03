@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-03T15:10:44.873Z",
+    "lastUpdated": "2026-06-03T15:55:42.280Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7540,7 +7540,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-16",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "고영희계란말",
