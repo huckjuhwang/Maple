@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-03T14:25:44.936Z",
+    "lastUpdated": "2026-06-03T14:55:45.278Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7989,6 +7989,21 @@
       "status": "new",
       "joinDate": "2026-05-26",
       "leaveDetected": false
+    },
+    {
+      "characterName": "디젠오션",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-03"
     }
   ],
   "left": [
