@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-02T14:05:40.197Z",
+    "lastUpdated": "2026-06-03T12:05:39.995Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7892,7 +7892,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-25",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로뜨티비",
@@ -7908,7 +7908,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-25",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로뜨노예",
@@ -7924,7 +7924,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-25",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로뜨아재",
