@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-03T15:05:47.620Z",
+    "lastUpdated": "2026-06-03T15:10:44.873Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -1230,7 +1230,7 @@
       "unionLevel": 9326,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뚜앵아",
@@ -2562,7 +2562,7 @@
       "unionLevel": 9144,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "사계의시계",
@@ -7300,7 +7300,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-12",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "피노밍고",
@@ -7620,7 +7620,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-23",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쭈라주",
@@ -7636,7 +7636,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-23",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쭈크메이트",
@@ -7652,7 +7652,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-23",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쭈메리쫑쫑",
@@ -7668,7 +7668,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-23",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "렌은토끼에오",
@@ -8003,7 +8003,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-03"
+      "joinDate": "2026-06-03",
+      "leaveDetected": false
     }
   ],
   "left": [
