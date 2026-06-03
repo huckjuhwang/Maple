@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-03T13:45:46.629Z",
+    "lastUpdated": "2026-06-03T14:25:44.936Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5872,7 +5872,7 @@
       "level": 0,
       "combatPower": 43688263,
       "unionLevel": 9383,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "켱뀌",
@@ -6862,7 +6862,7 @@
       "level": 0,
       "combatPower": 181036507,
       "unionLevel": 9383,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "조용히해핀치",
