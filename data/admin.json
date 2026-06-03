@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-03T12:05:39.995Z",
+    "lastUpdated": "2026-06-03T13:45:46.629Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4360,7 +4360,7 @@
       "level": 0,
       "combatPower": 66090018,
       "unionLevel": 9200,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "임나구이",
