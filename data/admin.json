@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-04T10:05:40.105Z",
+    "lastUpdated": "2026-06-04T10:40:44.154Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -3102,7 +3102,7 @@
       "unionLevel": 9152,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "븜균",
@@ -4049,7 +4049,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": false
     },
     {
       "characterName": "한2현",
@@ -4064,7 +4065,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": false
     },
     {
       "characterName": "넬라스커",
@@ -4079,7 +4081,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": false
     }
   ],
   "dalla": [
