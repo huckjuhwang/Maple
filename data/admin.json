@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-03T15:55:42.280Z",
+    "lastUpdated": "2026-06-04T01:25:38.539Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7060,7 +7060,7 @@
       "level": 0,
       "combatPower": 2208187,
       "unionLevel": 9409,
-      "leaveDetected": true
+      "leaveDetected": false
     },
     {
       "characterName": "아카츠키노메",
@@ -8005,6 +8005,51 @@
       "status": "new",
       "joinDate": "2026-06-03",
       "leaveDetected": false
+    },
+    {
+      "characterName": "살롱드마스터",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-04"
+    },
+    {
+      "characterName": "나워터케언니",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-04"
+    },
+    {
+      "characterName": "진격의녹말",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-04"
     }
   ],
   "left": [
