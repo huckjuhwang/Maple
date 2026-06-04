@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-04T08:25:37.653Z",
+    "lastUpdated": "2026-06-04T08:55:38.603Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4198,7 +4198,7 @@
       "level": 0,
       "combatPower": 101954073,
       "unionLevel": 9339,
-      "leaveDetected": true
+      "leaveDetected": false
     },
     {
       "characterName": "룸퐁",
@@ -4702,7 +4702,7 @@
       "level": 0,
       "combatPower": 61725175,
       "unionLevel": 9339,
-      "leaveDetected": true
+      "leaveDetected": false
     },
     {
       "characterName": "Lost",
@@ -8067,7 +8067,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": false
     }
   ],
   "left": [
