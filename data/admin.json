@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-04T01:25:38.539Z",
+    "lastUpdated": "2026-06-04T02:05:41.523Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8019,7 +8019,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": true
     },
     {
       "characterName": "나워터케언니",
@@ -8034,7 +8035,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": true
     },
     {
       "characterName": "진격의녹말",
@@ -8049,7 +8051,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": true
     }
   ],
   "left": [
