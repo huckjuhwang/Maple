@@ -224,6 +224,10 @@
     "ocid": "a9c896de5271d04ef4cc714b75134b67"
   },
   {
+    "characterName": "아르건",
+    "ocid": "7ac7987b200b8726f12da4d83e0651d0"
+  },
+  {
     "characterName": "령어니온",
     "ocid": "afda080c79ba83da14f09f08426376c3"
   },
@@ -340,10 +344,6 @@
     "ocid": "947e14cccf3eaebfeda404b155599670"
   },
   {
-    "characterName": "리엔쭈",
-    "ocid": "aa7f46440f2074fa048cf24e50940aa7"
-  },
-  {
     "characterName": "으연",
     "ocid": "70c7ef3bcc89afa1e74e215f078acef5"
   },
@@ -358,10 +358,6 @@
   {
     "characterName": "JELYPO",
     "ocid": "1fa2c25995fea20c0ac8d28e284a013c"
-  },
-  {
-    "characterName": "맨들쭈",
-    "ocid": "86f721c219a85415767e5aeffed4bc81"
   },
   {
     "characterName": "조팔붕",
@@ -408,16 +404,16 @@
     "ocid": "89ad984a801100296e2c19e017f135b8"
   },
   {
+    "characterName": "한2현",
+    "ocid": "95ca461f082d397ff9238890e3420dca"
+  },
+  {
     "characterName": "0렙악마",
     "ocid": "3701c631f41f85c48452046cba822b94"
   },
   {
     "characterName": "Ludani",
     "ocid": "160e63fc578e022acdb91216d9ebb6a4"
-  },
-  {
-    "characterName": "검바르",
-    "ocid": "fc40df85d8705a93baf7e27d8801b055"
   },
   {
     "characterName": "퀀텀si",
@@ -452,24 +448,12 @@
     "ocid": "642f4bd6d5ba4851491d9dc2c59d80fb"
   },
   {
-    "characterName": "쭈라우닝",
-    "ocid": "606e1e99e64d5aa5ded53618289af80a"
-  },
-  {
     "characterName": "악굽",
     "ocid": "94bf3be1dca0efe8bd281e7ffc51e0c0"
   },
   {
-    "characterName": "섭바이병장",
-    "ocid": "d9b8e69fc6d59878905751cf93830603"
-  },
-  {
     "characterName": "주입",
     "ocid": "1868a067a239f705f89f0f9ec863574c"
-  },
-  {
-    "characterName": "깝쯔",
-    "ocid": "d073f345a707d2201c3bc2f453aaf860"
   },
   {
     "characterName": "롄숙",
@@ -572,6 +556,10 @@
     "ocid": "38665c2d8ee930979f8aa3ffa7780b48"
   },
   {
+    "characterName": "넬라스커",
+    "ocid": "05fbd947e849994832187a43f10f33de"
+  },
+  {
     "characterName": "하린탄",
     "ocid": "3532f302e920a0f2e8099e82b728885f"
   },
@@ -614,9 +602,5 @@
   {
     "characterName": "GGIYA",
     "ocid": "5a440aa2f4d73ad480f4e17037428c2e"
-  },
-  {
-    "characterName": "치햐하",
-    "ocid": "c62cbc9a54227ff5f2cba3689e271aec"
   }
 ]
