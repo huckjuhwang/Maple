@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-04T02:05:41.523Z",
+    "lastUpdated": "2026-06-04T08:25:37.653Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8053,6 +8053,21 @@
       "status": "new",
       "joinDate": "2026-06-04",
       "leaveDetected": true
+    },
+    {
+      "characterName": "쨩탔",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-04"
     }
   ],
   "left": [
