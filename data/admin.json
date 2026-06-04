@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-04T10:55:37.573Z",
+    "lastUpdated": "2026-06-04T13:10:42.602Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8117,6 +8117,53 @@
       "status": "new",
       "joinDate": "2026-06-04",
       "leaveDetected": false
+    },
+    {
+      "characterName": "등떱",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-04"
+    },
+    {
+      "characterName": "섭섭하논",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-04"
+    },
+    {
+      "characterName": "섭바이병장",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "팔라딘",
+      "level": 281,
+      "combatPower": 51331993,
+      "unionLevel": 9152,
+      "status": "new",
+      "joinDate": "2026-06-04"
     }
   ],
   "left": [
