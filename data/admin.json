@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-04T10:00:53.036Z",
+    "lastUpdated": "2026-06-04T10:05:40.105Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4585,7 +4585,7 @@
       "level": 0,
       "combatPower": 75337831,
       "unionLevel": 9484,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "힁곰범",
@@ -7825,7 +7825,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "시간이머문날",
