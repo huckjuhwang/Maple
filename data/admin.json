@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-04T10:40:44.154Z",
+    "lastUpdated": "2026-06-04T10:55:37.573Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -3946,7 +3946,7 @@
       "joinDate": "2026-05-22",
       "combatPower": 6473847,
       "unionLevel": 2184,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "언팩",
