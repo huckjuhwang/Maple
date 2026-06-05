@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-05T16:00:46.074Z",
+    "lastUpdated": "2026-06-05T16:10:45.099Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7093,7 +7093,7 @@
       "level": 0,
       "combatPower": 161848290,
       "unionLevel": 9383,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "핀치보마",
@@ -8152,7 +8152,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": false
     },
     {
       "characterName": "섭섭하논",
@@ -8167,7 +8168,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": false
     },
     {
       "characterName": "섭바이병장",
@@ -8179,12 +8181,13 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "팔라딘",
-      "level": 281,
+      "job": "",
+      "level": 0,
       "combatPower": 51331993,
       "unionLevel": 9152,
       "status": "new",
-      "joinDate": "2026-06-04"
+      "joinDate": "2026-06-04",
+      "leaveDetected": false
     }
   ],
   "left": [
