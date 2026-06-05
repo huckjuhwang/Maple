@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-05T16:10:45.099Z",
+    "lastUpdated": "2026-06-05T16:15:42.023Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -79,7 +79,7 @@
       "memoHistory": [],
       "job": "바이퍼",
       "level": 292,
-      "combatPower": 206991796,
+      "combatPower": 505314286,
       "unionLevel": 8860,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -349,7 +349,7 @@
       "memoHistory": [],
       "job": "제로",
       "level": 292,
-      "combatPower": 144573402,
+      "combatPower": 151114338,
       "unionLevel": 9238,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -493,7 +493,7 @@
       "memoHistory": [],
       "job": "나이트워커",
       "level": 286,
-      "combatPower": 79660783,
+      "combatPower": 86428679,
       "unionLevel": 10002,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -727,7 +727,7 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 290,
-      "combatPower": 186534533,
+      "combatPower": 188979804,
       "unionLevel": 9085,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3891,7 +3891,7 @@
       "status": "new",
       "joinDate": "2026-05-15",
       "leaveDetected": false,
-      "combatPower": 60089530,
+      "combatPower": 65583735,
       "unionLevel": 8934
     },
     {
@@ -3963,7 +3963,7 @@
       "status": "new",
       "joinDate": "2026-05-23",
       "combatPower": 91356650,
-      "unionLevel": 9153,
+      "unionLevel": 9154,
       "leaveDetected": false
     },
     {
@@ -4092,6 +4092,22 @@
     },
     {
       "characterName": "앵스바리",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-05",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "퐁스바리",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
