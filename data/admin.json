@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-05T16:15:42.023Z",
+    "lastUpdated": "2026-06-05T16:20:40.016Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -371,7 +371,7 @@
       "unionLevel": 9416,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "모홋",
@@ -4119,7 +4119,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-05"
+      "joinDate": "2026-06-05",
+      "leaveDetected": false
     }
   ],
   "dalla": [
