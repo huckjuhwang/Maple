@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-06T11:05:35.530Z",
+    "lastUpdated": "2026-06-06T15:30:46.779Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8220,6 +8220,21 @@
       "status": "new",
       "joinDate": "2026-06-04",
       "leaveDetected": false
+    },
+    {
+      "characterName": "어모로띠",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-06"
     }
   ],
   "left": [
