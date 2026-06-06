@@ -32,10 +32,6 @@
     "ocid": "7ad25fa838f103bcaa3649f3cbf5080b"
   },
   {
-    "characterName": "얼음맛좀봐랏",
-    "ocid": "07631c3647a3385c8b8640db48134fb4"
-  },
-  {
     "characterName": "십군",
     "ocid": "06f9d0db4ad802f349806a7a785ee2b5"
   },
@@ -472,6 +468,10 @@
     "ocid": "b700ff6def712c632e20b89b82e52ef5"
   },
   {
+    "characterName": "아기공룡탄이",
+    "ocid": "ddf1e3b65a588d893f506e140bad0189"
+  },
+  {
     "characterName": "시간이머문별",
     "ocid": "21dcceb52b878f590f56c1daf9bbdfae"
   },
@@ -542,6 +542,14 @@
   {
     "characterName": "헬로우송",
     "ocid": "d60424799788488efa8fe76782a35a90"
+  },
+  {
+    "characterName": "퐁스바리",
+    "ocid": "2ffe8ef988e34df4689864f14d7bc9f9"
+  },
+  {
+    "characterName": "앵스바리",
+    "ocid": "ab9764e8632209f029cd599e8137c0c5"
   },
   {
     "characterName": "도히쑥",
