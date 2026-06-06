@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-06T15:30:46.779Z",
+    "lastUpdated": "2026-06-06T16:00:49.992Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8223,6 +8223,37 @@
     },
     {
       "characterName": "어모로띠",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-06",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "내친구링크10",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-06"
+    },
+    {
+      "characterName": "청공탄",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
