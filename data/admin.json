@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-06T16:00:49.992Z",
+    "lastUpdated": "2026-06-07T00:10:38.478Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6063,7 +6063,7 @@
       "level": 0,
       "combatPower": 21877595,
       "unionLevel": 9311,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "패링o",
@@ -7053,7 +7053,7 @@
       "level": 0,
       "combatPower": 14591003,
       "unionLevel": 9311,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "박은붕",
@@ -8250,7 +8250,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-06"
+      "joinDate": "2026-06-06",
+      "leaveDetected": false
     },
     {
       "characterName": "청공탄",
@@ -8265,7 +8266,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-06"
+      "joinDate": "2026-06-06",
+      "leaveDetected": false
     }
   ],
   "left": [
