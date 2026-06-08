@@ -244,6 +244,10 @@
     "ocid": "2e72d755d1fa717faf2c4ec9e4627b94"
   },
   {
+    "characterName": "뱅하타",
+    "ocid": "60df41dd3316ab93c2e94eccebe9c655"
+  },
+  {
     "characterName": "THEHYPHEN",
     "ocid": "741458d6aea989d912e5b6b327de56fa"
   },
@@ -278,10 +282,6 @@
   {
     "characterName": "운리그",
     "ocid": "e3acb25da9dc770febcb8e32bf915135"
-  },
-  {
-    "characterName": "윤띠",
-    "ocid": "9525501f83602b9c2e969169c385e1ec"
   },
   {
     "characterName": "흰라라슈",
@@ -610,5 +610,9 @@
   {
     "characterName": "GGIYA",
     "ocid": "5a440aa2f4d73ad480f4e17037428c2e"
+  },
+  {
+    "characterName": "IS렌SI",
+    "ocid": "44b2622b0e5aada44827c255a899a645"
   }
 ]
