@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-10T15:15:51.718Z",
+    "lastUpdated": "2026-06-10T15:20:46.184Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -335,7 +335,7 @@
       "unionLevel": 9169,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "설명스킵충",
@@ -1734,7 +1734,7 @@
       "unionLevel": 9637,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "롄숙",
@@ -2220,7 +2220,7 @@
       "unionLevel": 8682,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "변백",
@@ -3354,7 +3354,7 @@
       "unionLevel": 6311,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "애플핏치",
