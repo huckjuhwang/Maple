@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-10T15:20:46.184Z",
+    "lastUpdated": "2026-06-10T16:35:42.431Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4630,7 +4630,7 @@
       "level": 0,
       "combatPower": 9140194,
       "unionLevel": 11101,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "듀실피드",
