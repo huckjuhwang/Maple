@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-08T13:10:41.611Z",
+    "lastUpdated": "2026-06-10T10:55:36.437Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5831,7 +5831,7 @@
       "level": 0,
       "combatPower": 66358443,
       "unionLevel": 9753,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "렌실피드",
