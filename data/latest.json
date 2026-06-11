@@ -6,7 +6,7 @@
   "masterName": "언팩",
   "memberCount": 154,
   "collectedCount": 154,
-  "collectedAt": "2026-06-11T00:03:10.670Z",
+  "collectedAt": "2026-06-11T00:33:24.035Z",
   "members": [
     {
       "characterName": "PBVIP",
@@ -468,7 +468,7 @@
       "characterName": "변백",
       "job": "제로",
       "level": 286,
-      "exp": 9593599325620,
+      "exp": 9593687825622,
       "expRate": 8.764,
       "combatPower": 188840235,
       "unionLevel": 9079,
@@ -1008,8 +1008,8 @@
       "characterName": "도동보",
       "job": "아크메이지(불,독)",
       "level": 296,
-      "exp": 763017831567412,
-      "expRate": 79.693,
+      "exp": 763809846009399,
+      "expRate": 79.776,
       "combatPower": 111077097,
       "unionLevel": 9530,
       "arcaneForce": 1320,
