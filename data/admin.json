@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-11T01:10:37.662Z",
+    "lastUpdated": "2026-06-13T22:20:51.463Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8311,6 +8311,21 @@
       "status": "new",
       "joinDate": "2026-06-06",
       "leaveDetected": false
+    },
+    {
+      "characterName": "령언라라라",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-13"
     }
   ],
   "left": [
