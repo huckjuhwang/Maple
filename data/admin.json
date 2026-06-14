@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-13T22:20:51.463Z",
+    "lastUpdated": "2026-06-14T17:20:49.388Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7716,7 +7716,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-18",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로사유우",
@@ -8325,7 +8325,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-13"
+      "joinDate": "2026-06-13",
+      "leaveDetected": false
     }
   ],
   "left": [
