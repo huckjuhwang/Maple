@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-14T17:20:49.388Z",
+    "lastUpdated": "2026-06-14T23:20:46.347Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8132,7 +8132,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-26",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "디젠오션",
