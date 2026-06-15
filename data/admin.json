@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-15T06:30:55.699Z",
+    "lastUpdated": "2026-06-15T11:20:45.643Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8330,6 +8330,22 @@
     },
     {
       "characterName": "아만도쿄",
+      "guild": "dalla",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-15",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "맨들쭈",
       "guild": "dalla",
       "position": "",
       "mainCharacter": "",
