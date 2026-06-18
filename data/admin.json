@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T13:20:52.571Z",
+    "lastUpdated": "2026-06-18T13:25:52.275Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7714,7 +7714,7 @@
       "level": 0,
       "combatPower": 50761415,
       "unionLevel": 9460,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "씀퐁",
@@ -8200,7 +8200,7 @@
       "level": 0,
       "combatPower": 27733513,
       "unionLevel": 9425,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "우이52",
@@ -8596,7 +8596,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-16",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "Or기설주",
