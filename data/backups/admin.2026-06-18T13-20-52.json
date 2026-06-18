@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T11:45:53.511Z",
+    "lastUpdated": "2026-06-18T13:01:08.878Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4851,7 +4851,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "weriat",
@@ -4866,10 +4867,234 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "cyrillus",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "뽀마유챔",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "깅며누",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "며누라",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "깅혀눙",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "렌며누",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "박은붕",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "얼굴이아퐈이",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "쨩륙",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "딸기향쨩룩",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "소인섭김남준",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "뚱늬숍",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "지요렝",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "세현마흔아홉",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18"
+    },
+    {
+      "characterName": "세현쉰하나",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
@@ -5729,7 +5954,7 @@
       "level": 0,
       "combatPower": 38367046,
       "unionLevel": 9655,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "앵구엔젤",
@@ -6053,7 +6278,7 @@
       "level": 0,
       "combatPower": 14047426,
       "unionLevel": 9655,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "낯빗",
@@ -6629,7 +6854,7 @@
       "level": 0,
       "combatPower": 30598665,
       "unionLevel": 9655,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "이재명의과거",
@@ -6665,7 +6890,7 @@
       "level": 0,
       "combatPower": 3864080,
       "unionLevel": 9656,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "장마캣",
@@ -7817,7 +8042,7 @@
       "level": 0,
       "combatPower": 120627134,
       "unionLevel": 9223,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "닉넴진심귀찮",
@@ -8195,7 +8420,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-13",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쏙쏙쿤",
@@ -8243,7 +8468,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-15",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "헬렌츄",
@@ -8307,7 +8532,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-16",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "빼펭",
@@ -8819,7 +9044,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-26",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "범학지인",
