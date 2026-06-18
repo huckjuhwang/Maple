@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T13:25:52.275Z",
+    "lastUpdated": "2026-06-18T14:40:54.822Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7318,7 +7318,7 @@
       "level": 0,
       "combatPower": 144946117,
       "unionLevel": 10017,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "앵구토끼",
