@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-06-18T23:05:41.006Z",
+  "lastChecked": "2026-06-18T23:10:42.802Z",
   "members": [
     "0렙악마",
     "20억",
@@ -192,6 +192,7 @@
     "BOB버걸",
     "CcHm",
     "EsenJ",
+    "렌senJ",
     "Fives",
     "GGIYA",
     "weriat",
@@ -1218,6 +1219,11 @@
     },
     {
       "name": "머스크일론",
+      "type": "join",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "렌senJ",
       "type": "join",
       "date": "2026-06-18"
     }

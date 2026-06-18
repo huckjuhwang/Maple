@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T22:15:45.546Z",
+    "lastUpdated": "2026-06-18T23:10:43.597Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -1820,7 +1820,7 @@
       "memoHistory": [],
       "job": "아델",
       "level": 288,
-      "combatPower": 96087889,
+      "combatPower": 104803343,
       "unionLevel": 9527,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4140,7 +4140,7 @@
       "level": 289,
       "status": "new",
       "joinDate": "2026-06-06",
-      "combatPower": 131370172,
+      "combatPower": 272760903,
       "unionLevel": 9006,
       "leaveDetected": false
     },
@@ -5343,6 +5343,22 @@
     },
     {
       "characterName": "머스크일론",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "렌senJ",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
