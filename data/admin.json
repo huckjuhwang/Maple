@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T12:01:04.578Z",
+    "lastUpdated": "2026-06-18T12:10:54.007Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5808,7 +5808,7 @@
       "level": 0,
       "combatPower": 38367046,
       "unionLevel": 9655,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "앵구엔젤",
@@ -6132,7 +6132,7 @@
       "level": 0,
       "combatPower": 14047426,
       "unionLevel": 9655,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "낯빗",
@@ -6708,7 +6708,7 @@
       "level": 0,
       "combatPower": 30598665,
       "unionLevel": 9655,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "이재명의과거",
@@ -6744,7 +6744,7 @@
       "level": 0,
       "combatPower": 3864080,
       "unionLevel": 9656,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "장마캣",
@@ -8386,7 +8386,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-16",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "빼펭",
