@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-06-18T06:40:46.407Z",
+  "lastChecked": "2026-06-18T06:45:45.220Z",
   "members": [
     "0렙악마",
     "20억",
@@ -165,7 +165,8 @@
     "ol픈소마",
     "ooblanxoo",
     "PBVIP",
-    "THEHYPHEN"
+    "THEHYPHEN",
+    "듀실피드"
   ],
   "changeLog": [
     {
@@ -924,6 +925,11 @@
     },
     {
       "name": "렌실피드",
+      "type": "join",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "듀실피드",
       "type": "join",
       "date": "2026-06-18"
     }
