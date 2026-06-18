@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T11:40:47.962Z",
+    "lastUpdated": "2026-06-18T11:45:53.511Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5693,7 +5693,7 @@
       "level": 0,
       "combatPower": 13189933,
       "unionLevel": 9473,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "절벽위의수리",
@@ -6521,7 +6521,7 @@
       "level": 0,
       "combatPower": 80912836,
       "unionLevel": 9198,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쭈레엔",
@@ -7781,7 +7781,7 @@
       "level": 0,
       "combatPower": 21348274,
       "unionLevel": 9476,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "땅땅두",

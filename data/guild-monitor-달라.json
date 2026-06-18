@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-06-18T11:40:48.924Z",
+  "lastChecked": "2026-06-18T11:45:52.914Z",
   "members": [
     "1초라면",
     "6분라면",
@@ -27,7 +27,6 @@
     "뚜렝아",
     "뚜왕렌",
     "뚱늬숍",
-    "랜꾜",
     "랜쐐",
     "레인맛소다",
     "렌며누",
@@ -117,15 +116,13 @@
     "힁곰범",
     "aasd2313",
     "ArrowTlc",
-    "cyrillus",
     "DuIly",
     "JEL렌",
     "JEL보마",
     "JEL키네",
     "kanxki",
     "LA고사리",
-    "R0TT",
-    "weriat"
+    "R0TT"
   ],
   "changeLog": [
     {
@@ -1070,6 +1067,21 @@
     },
     {
       "name": "닉넴진심귀찮",
+      "type": "leave",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "랜꾜",
+      "type": "leave",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "cyrillus",
+      "type": "leave",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "weriat",
       "type": "leave",
       "date": "2026-06-18"
     }
