@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T08:25:41.341Z",
+    "lastUpdated": "2026-06-18T08:31:00.275Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7618,7 +7618,7 @@
       "level": 0,
       "combatPower": 87991383,
       "unionLevel": 8885,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "넉벼",
@@ -8788,7 +8788,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-06-04",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "등떱",
