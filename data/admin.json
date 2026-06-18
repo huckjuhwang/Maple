@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T05:45:43.626Z",
+    "lastUpdated": "2026-06-18T05:50:50.028Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4259,7 +4259,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "냥냥펀치로시",
@@ -4274,7 +4275,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "앱뚱",
@@ -4289,7 +4291,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "마리린로시",
@@ -4304,7 +4307,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "뽕구니",
@@ -4319,7 +4323,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "다크나2트다",
@@ -4334,7 +4339,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "은얼핑",
@@ -4349,7 +4355,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "지를렌",
@@ -4364,10 +4371,42 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "시끔디",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "핀치엄마",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18"
+    },
+    {
+      "characterName": "시끄러워핀치",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
