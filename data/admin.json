@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T12:20:50.943Z",
+    "lastUpdated": "2026-06-18T12:30:57.666Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8293,7 +8293,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-13",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쏙쏙쿤",
