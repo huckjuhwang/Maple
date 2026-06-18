@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T12:15:55.035Z",
+    "lastUpdated": "2026-06-18T12:20:50.943Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8341,7 +8341,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-15",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "헬렌츄",
