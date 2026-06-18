@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T10:35:42.793Z",
+    "lastUpdated": "2026-06-18T10:56:10.905Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7325,7 +7325,7 @@
       "level": 0,
       "combatPower": 18218743,
       "unionLevel": 8899,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "에구렌",
