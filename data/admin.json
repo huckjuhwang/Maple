@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T07:30:55.018Z",
+    "lastUpdated": "2026-06-18T07:35:46.198Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -421,7 +421,7 @@
       "memoHistory": [],
       "job": "다크나이트",
       "level": 286,
-      "combatPower": 238909382,
+      "combatPower": 247654598,
       "unionLevel": 9428,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1154,7 +1154,7 @@
       "memoHistory": [],
       "job": "제로",
       "level": 291,
-      "combatPower": 164552723,
+      "combatPower": 435950403,
       "unionLevel": 9052,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1406,7 +1406,7 @@
       "memoHistory": [],
       "job": "나이트워커",
       "level": 293,
-      "combatPower": 134081639,
+      "combatPower": 134814547,
       "unionLevel": 9301,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2630,7 +2630,7 @@
       "memoHistory": [],
       "job": "아크메이지(썬,콜)",
       "level": 289,
-      "combatPower": 185832772,
+      "combatPower": 192511327,
       "unionLevel": 9029,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3260,7 +3260,7 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 281,
-      "combatPower": 23373873,
+      "combatPower": 23890567,
       "unionLevel": 8969,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4563,7 +4563,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "앵구파파",
@@ -4578,7 +4579,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "앵구엔젤",
@@ -4593,7 +4595,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "기대천",
@@ -4608,10 +4611,87 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "앵구토끼",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "간지민",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18"
+    },
+    {
+      "characterName": "이필립",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18"
+    },
+    {
+      "characterName": "로보릭",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18"
+    },
+    {
+      "characterName": "렌로보",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18"
+    },
+    {
+      "characterName": "로보궁",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
