@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T07:00:58.005Z",
+    "lastUpdated": "2026-06-18T07:15:46.037Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4962,7 +4962,7 @@
       "level": 0,
       "combatPower": 130399308,
       "unionLevel": 11101,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "얌실피드",
@@ -4980,7 +4980,7 @@
       "level": 0,
       "combatPower": 301479889,
       "unionLevel": 11098,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뮤실피드",
@@ -6780,7 +6780,7 @@
       "level": 0,
       "combatPower": 100160443,
       "unionLevel": 8921,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "ooblanxoo",
@@ -7680,7 +7680,7 @@
       "level": 0,
       "combatPower": 92790568,
       "unionLevel": 8921,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "너도탈모빔",
