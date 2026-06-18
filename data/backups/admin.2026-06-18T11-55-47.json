@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T07:50:50.396Z",
+    "lastUpdated": "2026-06-18T11:45:53.511Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -1728,13 +1728,13 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "렌",
-      "level": 288,
+      "job": "",
+      "level": 0,
       "combatPower": 128398525,
       "unionLevel": 9637,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": true
+      "leaveDetected": false
     },
     {
       "characterName": "롄숙",
@@ -4723,6 +4723,164 @@
       "job": "",
       "level": 0,
       "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "쨩탔",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "쨩깟",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "숍쭈히",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "쭈레엔",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "취업진로지원",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "닉넴겁나귀찮",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "닉넴진심귀찮",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "랜꾜",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18"
+    },
+    {
+      "characterName": "weriat",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18"
+    },
+    {
+      "characterName": "cyrillus",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
       "joinDate": "2026-06-18"
     }
   ],
@@ -5535,7 +5693,7 @@
       "level": 0,
       "combatPower": 13189933,
       "unionLevel": 9473,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "절벽위의수리",
@@ -6363,7 +6521,7 @@
       "level": 0,
       "combatPower": 80912836,
       "unionLevel": 9198,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쭈레엔",
@@ -6417,7 +6575,7 @@
       "level": 0,
       "combatPower": 91670743,
       "unionLevel": 9285,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "혁쥬렌",
@@ -7083,7 +7241,7 @@
       "level": 0,
       "combatPower": 62279593,
       "unionLevel": 10010,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쏙쏙쨩",
@@ -7245,7 +7403,7 @@
       "level": 0,
       "combatPower": 18218743,
       "unionLevel": 8899,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "에구렌",
@@ -7587,7 +7745,7 @@
       "level": 0,
       "combatPower": 87991383,
       "unionLevel": 8885,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "넉벼",
@@ -7623,7 +7781,7 @@
       "level": 0,
       "combatPower": 21348274,
       "unionLevel": 9476,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "땅땅두",
@@ -7677,7 +7835,7 @@
       "level": 0,
       "combatPower": 106009541,
       "unionLevel": 9285,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "표창맛소다",
@@ -8757,7 +8915,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-06-04",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "등떱",

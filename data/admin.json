@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T11:45:53.511Z",
+    "lastUpdated": "2026-06-18T11:55:47.874Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4851,7 +4851,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "weriat",
@@ -4866,10 +4867,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "cyrillus",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "뽀마유챔",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
