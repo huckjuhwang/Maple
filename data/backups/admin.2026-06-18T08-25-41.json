@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T05:50:50.028Z",
+    "lastUpdated": "2026-06-18T07:50:50.396Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4403,10 +4403,315 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-18"
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
     },
     {
       "characterName": "시끄러워핀치",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "뇽실피드",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "얌실피드",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "효실피드",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "썬실피드",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "렌실피드",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "듀실피드",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "렌로봉",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "로보략",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "물새미",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "앵구파파",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "앵구엔젤",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "기대천",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "앵구토끼",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "간지민",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "이필립",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "로보릭",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "렌로보",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "로보궁",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-18",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "윤린",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
@@ -4816,7 +5121,7 @@
       "level": 0,
       "combatPower": 86659024,
       "unionLevel": 9332,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뇽실피드",
@@ -4834,7 +5139,7 @@
       "level": 0,
       "combatPower": 130399308,
       "unionLevel": 11101,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "얌실피드",
@@ -4852,7 +5157,7 @@
       "level": 0,
       "combatPower": 301479889,
       "unionLevel": 11098,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뮤실피드",
@@ -4888,7 +5193,7 @@
       "level": 0,
       "combatPower": 295565105,
       "unionLevel": 11101,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "효실피드",
@@ -4906,7 +5211,7 @@
       "level": 0,
       "combatPower": 238956450,
       "unionLevel": 11101,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "아르건",
@@ -5284,7 +5589,7 @@
       "level": 0,
       "combatPower": 61729500,
       "unionLevel": 9441,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "받쏴",
@@ -5338,7 +5643,7 @@
       "level": 0,
       "combatPower": 30323527,
       "unionLevel": 9473,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로사워나",
@@ -5428,7 +5733,7 @@
       "level": 0,
       "combatPower": 56596225,
       "unionLevel": 9322,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "황곰범",
@@ -5464,7 +5769,7 @@
       "level": 0,
       "combatPower": 167334707,
       "unionLevel": 11101,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "아크노닥",
@@ -5518,7 +5823,7 @@
       "level": 0,
       "combatPower": 15570462,
       "unionLevel": 9334,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "다이퍼데몬",
@@ -5572,7 +5877,7 @@
       "level": 0,
       "combatPower": 161508996,
       "unionLevel": 9504,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "며누라",
@@ -5752,7 +6057,7 @@
       "level": 0,
       "combatPower": 23576746,
       "unionLevel": 9473,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "추억을담아",
@@ -5932,7 +6237,7 @@
       "level": 0,
       "combatPower": 19297447,
       "unionLevel": 9441,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뱝퐁",
@@ -6022,7 +6327,7 @@
       "level": 0,
       "combatPower": 53656020,
       "unionLevel": 8882,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "류류엥",
@@ -6094,7 +6399,7 @@
       "level": 0,
       "combatPower": 258329302,
       "unionLevel": 11101,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "닉넴겁나귀찮",
@@ -6382,7 +6687,7 @@
       "level": 0,
       "combatPower": 93253189,
       "unionLevel": 9322,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "나이스밤비",
@@ -6418,7 +6723,7 @@
       "level": 0,
       "combatPower": 172196297,
       "unionLevel": 9521,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "크앍렌",
@@ -6616,7 +6921,7 @@
       "level": 0,
       "combatPower": 51948378,
       "unionLevel": 9441,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "렌로보",
@@ -6634,7 +6939,7 @@
       "level": 0,
       "combatPower": 107502289,
       "unionLevel": 9504,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "렌로봉",
@@ -6652,7 +6957,7 @@
       "level": 0,
       "combatPower": 100160443,
       "unionLevel": 8921,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "ooblanxoo",
@@ -7516,7 +7821,7 @@
       "level": 0,
       "combatPower": 40242234,
       "unionLevel": 9336,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "마리린로시",
@@ -7534,7 +7839,7 @@
       "level": 0,
       "combatPower": 116874350,
       "unionLevel": 9521,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로보략",
@@ -7552,7 +7857,7 @@
       "level": 0,
       "combatPower": 92790568,
       "unionLevel": 8921,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "너도탈모빔",
@@ -7588,7 +7893,7 @@
       "level": 0,
       "combatPower": 113019249,
       "unionLevel": 9582,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "사백사귀",
@@ -8228,7 +8533,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-19",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "임나구밍",
