@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T07:40:49.356Z",
+    "lastUpdated": "2026-06-18T07:50:50.396Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5589,7 +5589,7 @@
       "level": 0,
       "combatPower": 61729500,
       "unionLevel": 9441,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "받쏴",
@@ -5643,7 +5643,7 @@
       "level": 0,
       "combatPower": 30323527,
       "unionLevel": 9473,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로사워나",
@@ -5877,7 +5877,7 @@
       "level": 0,
       "combatPower": 161508996,
       "unionLevel": 9504,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "며누라",
@@ -6057,7 +6057,7 @@
       "level": 0,
       "combatPower": 23576746,
       "unionLevel": 9473,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "추억을담아",
@@ -6237,7 +6237,7 @@
       "level": 0,
       "combatPower": 19297447,
       "unionLevel": 9441,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뱝퐁",
@@ -6327,7 +6327,7 @@
       "level": 0,
       "combatPower": 53656020,
       "unionLevel": 8882,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "류류엥",
@@ -6921,7 +6921,7 @@
       "level": 0,
       "combatPower": 51948378,
       "unionLevel": 9441,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "렌로보",
@@ -6939,7 +6939,7 @@
       "level": 0,
       "combatPower": 107502289,
       "unionLevel": 9504,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "렌로봉",
@@ -7893,7 +7893,7 @@
       "level": 0,
       "combatPower": 113019249,
       "unionLevel": 9582,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "사백사귀",
