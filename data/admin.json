@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T16:15:55.077Z",
+    "lastUpdated": "2026-06-18T16:20:53.511Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6637,7 +6637,7 @@
       "level": 0,
       "combatPower": 11414545,
       "unionLevel": 9175,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "EsenH",
@@ -7321,7 +7321,7 @@
       "level": 0,
       "combatPower": 9357083,
       "unionLevel": 9180,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뚜왕렌",
@@ -8659,7 +8659,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-16",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뽀마유챔",

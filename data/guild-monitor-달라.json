@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-06-18T16:15:55.899Z",
+  "lastChecked": "2026-06-18T16:20:52.968Z",
   "members": [
     "1초라면",
     "6분라면",
@@ -104,9 +104,6 @@
     "aasd2313",
     "ArrowTlc",
     "DuIly",
-    "JEL렌",
-    "JEL보마",
-    "JEL키네",
     "kanxki",
     "LA고사리",
     "R0TT"
@@ -1134,6 +1131,21 @@
     },
     {
       "name": "렌senJ",
+      "type": "leave",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "JEL렌",
+      "type": "leave",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "JEL보마",
+      "type": "leave",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "JEL키네",
       "type": "leave",
       "date": "2026-06-18"
     }
