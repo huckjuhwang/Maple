@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T05:50:50.028Z",
+    "lastUpdated": "2026-06-18T06:10:47.777Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -4816,7 +4816,7 @@
       "level": 0,
       "combatPower": 86659024,
       "unionLevel": 9332,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뇽실피드",
@@ -5428,7 +5428,7 @@
       "level": 0,
       "combatPower": 56596225,
       "unionLevel": 9322,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "황곰범",
@@ -5518,7 +5518,7 @@
       "level": 0,
       "combatPower": 15570462,
       "unionLevel": 9334,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "다이퍼데몬",
@@ -6382,7 +6382,7 @@
       "level": 0,
       "combatPower": 93253189,
       "unionLevel": 9322,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "나이스밤비",
@@ -6418,7 +6418,7 @@
       "level": 0,
       "combatPower": 172196297,
       "unionLevel": 9521,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "크앍렌",
@@ -7516,7 +7516,7 @@
       "level": 0,
       "combatPower": 40242234,
       "unionLevel": 9336,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "마리린로시",
@@ -7534,7 +7534,7 @@
       "level": 0,
       "combatPower": 116874350,
       "unionLevel": 9521,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로보략",
@@ -8228,7 +8228,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-19",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "임나구밍",
