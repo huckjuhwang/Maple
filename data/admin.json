@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T10:31:02.652Z",
+    "lastUpdated": "2026-06-18T10:35:42.793Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7163,7 +7163,7 @@
       "level": 0,
       "combatPower": 62279593,
       "unionLevel": 10010,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쏙쏙쨩",

@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-06-18T10:31:03.732Z",
+  "lastChecked": "2026-06-18T10:35:42.147Z",
   "members": [
     "1초라면",
     "6분라면",
@@ -127,7 +127,6 @@
     "JEL키네",
     "kanxki",
     "LA고사리",
-    "LenTlc",
     "R0TT",
     "weriat"
   ],
@@ -1054,6 +1053,11 @@
     },
     {
       "name": "쨩탔",
+      "type": "leave",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "LenTlc",
       "type": "leave",
       "date": "2026-06-18"
     }
