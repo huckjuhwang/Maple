@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T12:35:42.976Z",
+    "lastUpdated": "2026-06-18T12:55:46.366Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9008,7 +9008,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-26",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "범학지인",
