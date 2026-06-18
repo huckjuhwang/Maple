@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-06-18T11:35:43.615Z",
+  "lastChecked": "2026-06-18T11:40:47.252Z",
   "members": [
     "0렙악마",
     "20억",
@@ -62,6 +62,7 @@
     "맥주맛소마",
     "맹자린",
     "메익두방",
+    "랜꾜",
     "멜랑쿠키크림",
     "모홋",
     "문쏙쏙",
@@ -176,7 +177,9 @@
     "EsenJ",
     "Fives",
     "GGIYA",
+    "weriat",
     "iceia",
+    "cyrillus",
     "IS렌SI",
     "JELYPO",
     "Ludani",
@@ -1056,6 +1059,21 @@
     },
     {
       "name": "파랑컬러렌즈",
+      "type": "join",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "랜꾜",
+      "type": "join",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "weriat",
+      "type": "join",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "cyrillus",
       "type": "join",
       "date": "2026-06-18"
     }
