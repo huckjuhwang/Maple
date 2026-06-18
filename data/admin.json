@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T11:15:48.502Z",
+    "lastUpdated": "2026-06-18T11:20:53.628Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6528,7 +6528,7 @@
       "level": 0,
       "combatPower": 91670743,
       "unionLevel": 9285,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "혁쥬렌",
@@ -7788,7 +7788,7 @@
       "level": 0,
       "combatPower": 106009541,
       "unionLevel": 9285,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "표창맛소다",
