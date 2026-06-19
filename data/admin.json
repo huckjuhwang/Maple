@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-19T09:05:43.565Z",
+    "lastUpdated": "2026-06-19T09:25:44.395Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7053,7 +7053,7 @@
       "level": 0,
       "combatPower": 24902597,
       "unionLevel": 9114,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "6분라면",
@@ -8043,7 +8043,7 @@
       "level": 0,
       "combatPower": 51685497,
       "unionLevel": 9114,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "르퀴",
@@ -9409,7 +9409,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-25",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "R0TT",
@@ -9425,7 +9425,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-25",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뚱늬숍",
