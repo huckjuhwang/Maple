@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-19T07:40:48.316Z",
+    "lastUpdated": "2026-06-19T08:01:02.633Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8100,7 +8100,7 @@
       "level": 0,
       "combatPower": 54239643,
       "unionLevel": 9235,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "십군렌",
@@ -9440,7 +9440,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-06-03",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "살롱드마스터",
@@ -9634,7 +9634,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-06-15",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "맨들쭈",
