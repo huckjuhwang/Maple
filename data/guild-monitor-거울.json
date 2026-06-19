@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-06-19T07:35:42.112Z",
+  "lastChecked": "2026-06-19T07:40:47.667Z",
   "members": [
     "0렙악마",
     "20억",
@@ -214,6 +214,9 @@
     "ol픈소마",
     "ooblanxoo",
     "PBVIP",
+    "아만도쿄",
+    "GeniusAct",
+    "디젠오션",
     "THEHYPHEN",
     "듀실피드",
     "렌로봉",
@@ -1236,6 +1239,21 @@
     },
     {
       "name": "핀치보마",
+      "type": "join",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "아만도쿄",
+      "type": "join",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "GeniusAct",
+      "type": "join",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "디젠오션",
       "type": "join",
       "date": "2026-06-19"
     }

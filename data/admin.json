@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-19T02:50:45.966Z",
+    "lastUpdated": "2026-06-19T07:40:48.316Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5413,6 +5413,52 @@
     },
     {
       "characterName": "핀치보마",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-19",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "아만도쿄",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-19"
+    },
+    {
+      "characterName": "GeniusAct",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-19"
+    },
+    {
+      "characterName": "디젠오션",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
