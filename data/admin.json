@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-18T23:10:43.597Z",
+    "lastUpdated": "2026-06-19T02:30:54.711Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5894,7 +5894,7 @@
       "level": 0,
       "combatPower": 67430673,
       "unionLevel": 9833,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "바이퍼초심00",
@@ -6398,7 +6398,7 @@
       "level": 0,
       "combatPower": 30317556,
       "unionLevel": 9753,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "썬실피드",
