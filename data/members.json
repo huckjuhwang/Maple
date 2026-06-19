@@ -40,6 +40,10 @@
     "ocid": "7fc5941d89281113fc1c0dfccbba0996"
   },
   {
+    "characterName": "일로리얼",
+    "ocid": "4d234df449f953bb8e74329700befc15"
+  },
+  {
     "characterName": "금발카나오",
     "ocid": "a9c896de5271d04ef4cc714b75134b67"
   },
@@ -108,10 +112,6 @@
     "ocid": "33c86de26fddccb053d1c2652ee78044"
   },
   {
-    "characterName": "넬라스커",
-    "ocid": "05fbd947e849994832187a43f10f33de"
-  },
-  {
     "characterName": "노닥아크",
     "ocid": "858ff61ba2eddfb313d9e72cb52c4dc2"
   },
@@ -138,6 +138,10 @@
   {
     "characterName": "니콜라테슬라",
     "ocid": "a5e3bb2ab6734faf34a4eb7e448fd0be"
+  },
+  {
+    "characterName": "머스크일론",
+    "ocid": "f2f5680c6c27d46c77b487c0f93cb0b2"
   },
   {
     "characterName": "닉넴쥰내귀찮",
@@ -408,10 +412,6 @@
     "ocid": "d2472207590761b13664f375c7b772cf"
   },
   {
-    "characterName": "아르건",
-    "ocid": "7ac7987b200b8726f12da4d83e0651d0"
-  },
-  {
     "characterName": "악굽",
     "ocid": "94bf3be1dca0efe8bd281e7ffc51e0c0"
   },
@@ -452,6 +452,14 @@
     "ocid": "122ed91b2d43a24caf30d66c496c5b9c"
   },
   {
+    "characterName": "마스터에구",
+    "ocid": "583fbcefa7a7ba3262fa9808d3638cc0"
+  },
+  {
+    "characterName": "에구렌",
+    "ocid": "c071bfb8684070ba962352de09d24c78"
+  },
+  {
     "characterName": "에너지스마일",
     "ocid": "2574497e3c6f245edc18928a9c80d6cd"
   },
@@ -470,6 +478,18 @@
   {
     "characterName": "예이이이이잇",
     "ocid": "72427452024608cd9cef62af54c9d29f"
+  },
+  {
+    "characterName": "보마예이잇",
+    "ocid": "9a2eb7938b75460730ff1412e0aba6f5"
+  },
+  {
+    "characterName": "레니에잇",
+    "ocid": "f17223a67ca6a14b8f3a6028ede59716"
+  },
+  {
+    "characterName": "XaleidscopiX",
+    "ocid": "e24f7c6326341328ea9fabf7aac9269e"
   },
   {
     "characterName": "오늘춥더라",
@@ -568,12 +588,24 @@
     "ocid": "87f1cb59f43f8eb45aca8c73ab3612e3"
   },
   {
+    "characterName": "아르건",
+    "ocid": "7ac7987b200b8726f12da4d83e0651d0"
+  },
+  {
     "characterName": "지넬라",
     "ocid": "77630f4f62b4e930edf2a410ad88275c"
   },
   {
+    "characterName": "한2현",
+    "ocid": "95ca461f082d397ff9238890e3420dca"
+  },
+  {
     "characterName": "지렌라",
     "ocid": "029028c687b992e4b7250a8e85520ca0"
+  },
+  {
+    "characterName": "넬라스커",
+    "ocid": "05fbd947e849994832187a43f10f33de"
   },
   {
     "characterName": "지인범학",
@@ -692,8 +724,16 @@
     "ocid": "2ffe8ef988e34df4689864f14d7bc9f9"
   },
   {
+    "characterName": "홍언",
+    "ocid": "5730b69406c2131137fd3de2e26be3ac"
+  },
+  {
     "characterName": "핀치아빠",
     "ocid": "f103fce7a2b09b1983418da4b483c8b8"
+  },
+  {
+    "characterName": "핀치보마",
+    "ocid": "8dac524807de097dc864ce7753612ebe"
   },
   {
     "characterName": "하늘수",
@@ -702,10 +742,6 @@
   {
     "characterName": "하린탄",
     "ocid": "3532f302e920a0f2e8099e82b728885f"
-  },
-  {
-    "characterName": "한2현",
-    "ocid": "95ca461f082d397ff9238890e3420dca"
   },
   {
     "characterName": "헝헝석",
@@ -760,6 +796,10 @@
     "ocid": "0d47562bb11d910e152f281e46960f29"
   },
   {
+    "characterName": "렌senJ",
+    "ocid": "7e995321aeed896174cde87e055ba426"
+  },
+  {
     "characterName": "Fives",
     "ocid": "f0fe8ad35bc0e108afe5b35a4eb7d885"
   },
@@ -786,6 +826,18 @@
   {
     "characterName": "JELYPO",
     "ocid": "1fa2c25995fea20c0ac8d28e284a013c"
+  },
+  {
+    "characterName": "JEL보마",
+    "ocid": "6662237ef2f7210d12ceedc630f7f787"
+  },
+  {
+    "characterName": "JEL렌",
+    "ocid": "800d45a548f3100e6b90ad996457a405"
+  },
+  {
+    "characterName": "JEL키네",
+    "ocid": "3b172ed0e1a9626c660483b8f0e25115"
   },
   {
     "characterName": "Ludani",
@@ -822,6 +874,18 @@
   {
     "characterName": "PBVIP",
     "ocid": "d2b5d542950c6e4bd13b07a1cab1e739"
+  },
+  {
+    "characterName": "아만도쿄",
+    "ocid": "c10943fd9a684dbe3a47814e09883a78"
+  },
+  {
+    "characterName": "GeniusAct",
+    "ocid": "b2ca11d05a9e3cf9f806b6706da5bb3a"
+  },
+  {
+    "characterName": "디젠오션",
+    "ocid": "6e88071b3d1200d23a36f2c7bdeaa69f"
   },
   {
     "characterName": "THEHYPHEN",
