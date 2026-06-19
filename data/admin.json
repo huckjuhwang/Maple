@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-19T09:25:44.395Z",
+    "lastUpdated": "2026-06-19T10:20:49.512Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -25,7 +25,7 @@
       "memoHistory": [],
       "job": "히어로",
       "level": 295,
-      "combatPower": 1310369539,
+      "combatPower": 1344672406,
       "unionLevel": 9132,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3206,7 +3206,7 @@
       "memoHistory": [],
       "job": "소울마스터",
       "level": 287,
-      "combatPower": 36504609,
+      "combatPower": 44546245,
       "unionLevel": 9067,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4213,7 +4213,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 111441091,
+      "combatPower": 121514324,
       "unionLevel": 9347
     },
     {
@@ -4285,7 +4285,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 28963114,
+      "combatPower": 30358927,
       "unionLevel": 9550
     },
     {
@@ -4303,7 +4303,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 143486749,
+      "combatPower": 148137859,
       "unionLevel": 9550
     },
     {
@@ -4321,7 +4321,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 186341165,
+      "combatPower": 193255494,
       "unionLevel": 9550
     },
     {
@@ -4465,7 +4465,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 364276929,
+      "combatPower": 387331968,
       "unionLevel": 11174
     },
     {
@@ -5488,10 +5488,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-19"
+      "joinDate": "2026-06-19",
+      "leaveDetected": false
     },
     {
       "characterName": "에구렌",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-19",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "일로리얼",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
