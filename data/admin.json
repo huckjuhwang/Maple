@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-20T14:30:58.616Z",
+    "lastUpdated": "2026-06-20T15:10:53.467Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9246,7 +9246,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-15",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "ArrowTlc",
