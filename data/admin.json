@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-20T11:35:45.439Z",
+    "lastUpdated": "2026-06-20T14:30:58.616Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -205,7 +205,7 @@
       "memoHistory": [],
       "job": "보우마스터",
       "level": 294,
-      "combatPower": 344290024,
+      "combatPower": 355485216,
       "unionLevel": 11175,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -656,7 +656,7 @@
       "job": "팔라딘",
       "level": 292,
       "combatPower": 330067660,
-      "unionLevel": 9252,
+      "unionLevel": 9253,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -835,7 +835,7 @@
       "memoHistory": [],
       "job": "아크메이지(썬,콜)",
       "level": 290,
-      "combatPower": 152219902,
+      "combatPower": 169077920,
       "unionLevel": 9427,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -853,8 +853,8 @@
       "memoHistory": [],
       "job": "다크나이트",
       "level": 290,
-      "combatPower": 149097732,
-      "unionLevel": 10384,
+      "combatPower": 168516606,
+      "unionLevel": 10385,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1550,7 +1550,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 291,
-      "combatPower": 183620026,
+      "combatPower": 200219470,
       "unionLevel": 8984,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2378,7 +2378,7 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 288,
-      "combatPower": 98512854,
+      "combatPower": 147955676,
       "unionLevel": 9592,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2882,7 +2882,7 @@
       "memoHistory": [],
       "job": "보우마스터",
       "level": 292,
-      "combatPower": 163430622,
+      "combatPower": 389901245,
       "unionLevel": 9943,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3623,7 +3623,7 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false,
-      "combatPower": 122858716,
+      "combatPower": 127087932,
       "unionLevel": 9079
     },
     {
@@ -3926,7 +3926,7 @@
       "level": 282,
       "status": "new",
       "joinDate": "2026-05-18",
-      "combatPower": 64095685,
+      "combatPower": 65699901,
       "unionLevel": 6693,
       "leaveDetected": false
     },
@@ -4159,7 +4159,7 @@
       "status": "new",
       "joinDate": "2026-06-08",
       "leaveDetected": false,
-      "combatPower": 99882950,
+      "combatPower": 102947847,
       "unionLevel": 8664
     },
     {
@@ -5184,7 +5184,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 71268233,
+      "combatPower": 73316170,
       "unionLevel": 9427
     },
     {
@@ -5841,6 +5841,22 @@
     },
     {
       "characterName": "새벽의키드",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-20",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "매화맛소다",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
@@ -8158,7 +8174,7 @@
       "level": 0,
       "combatPower": 102216739,
       "unionLevel": 9761,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로사모모",
