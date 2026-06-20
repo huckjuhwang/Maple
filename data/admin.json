@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-20T03:15:48.661Z",
+    "lastUpdated": "2026-06-20T04:05:45.869Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7494,7 +7494,7 @@
       "level": 0,
       "combatPower": 55407497,
       "unionLevel": 8997,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "듀꽐루",
