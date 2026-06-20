@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-20T04:10:50.824Z",
+    "lastUpdated": "2026-06-20T04:40:45.459Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5815,7 +5815,7 @@
       "level": 0,
       "combatPower": 91818354,
       "unionLevel": 8997,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "신궁초심01",
