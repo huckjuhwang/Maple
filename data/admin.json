@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-20T10:40:47.403Z",
+    "lastUpdated": "2026-06-20T11:35:45.439Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -1136,7 +1136,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 291,
-      "combatPower": 159598151,
+      "combatPower": 397723541,
       "unionLevel": 9188,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1568,7 +1568,7 @@
       "memoHistory": [],
       "job": "듀얼블레이더",
       "level": 283,
-      "combatPower": 103743069,
+      "combatPower": 154761692,
       "unionLevel": 8891,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1730,7 +1730,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 288,
-      "combatPower": 115239877,
+      "combatPower": 130677534,
       "unionLevel": 9637,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3206,7 +3206,7 @@
       "memoHistory": [],
       "job": "소울마스터",
       "level": 287,
-      "combatPower": 50632580,
+      "combatPower": 56103390,
       "unionLevel": 9067,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4155,12 +4155,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "렌",
-      "level": 278,
+      "level": 280,
       "status": "new",
       "joinDate": "2026-06-08",
       "leaveDetected": false,
       "combatPower": 99882950,
-      "unionLevel": 8662
+      "unionLevel": 8664
     },
     {
       "characterName": "뱅하타",
@@ -4753,7 +4753,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 190116015,
+      "combatPower": 194067535,
       "unionLevel": 9689
     },
     {
@@ -5820,10 +5820,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-20"
+      "joinDate": "2026-06-20",
+      "leaveDetected": false
     },
     {
       "characterName": "폭마령",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-20",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "새벽의키드",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
