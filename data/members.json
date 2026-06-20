@@ -188,6 +188,14 @@
     "ocid": "124dfd4254e02d7130f4d9b1c582474e"
   },
   {
+    "characterName": "천혼아",
+    "ocid": "387c9cf524ad725309c9cd6e60b62ee1"
+  },
+  {
+    "characterName": "폭마령",
+    "ocid": "78f0a77408654b9cf1d82387fb816915"
+  },
+  {
     "characterName": "도히쑥",
     "ocid": "de096f3dbf4519e8eabaffccb2ede06d"
   },
@@ -276,8 +284,16 @@
     "ocid": "6500c843994fe4f0045710b3dc4c5746"
   },
   {
+    "characterName": "퍼플캣",
+    "ocid": "a33234d92187fd11b01b53388949fb20"
+  },
+  {
     "characterName": "맹자린",
     "ocid": "087628bba2d2e60feebb9c2df1d71654"
+  },
+  {
+    "characterName": "장마캣",
+    "ocid": "225daa15469954a89449fb12ed075806"
   },
   {
     "characterName": "나로멋쨍이",
@@ -310,6 +326,10 @@
   {
     "characterName": "미소맛소다",
     "ocid": "863ee9f54db36f8f202b531fe990d621"
+  },
+  {
+    "characterName": "매화맛소다",
+    "ocid": "4e5a64c5dd4f29317f165c23616d7f26"
   },
   {
     "characterName": "밈두",
@@ -356,12 +376,12 @@
     "ocid": "fa2f17d54ca0dd9747f269457bdaae82"
   },
   {
-    "characterName": "세현마흔여섯",
-    "ocid": "621eff7a31b2fed752e5206c1366732a"
-  },
-  {
     "characterName": "세현하나",
     "ocid": "c63574b6d3dfadb13577481ac4b954f8"
+  },
+  {
+    "characterName": "세현마흔여섯",
+    "ocid": "621eff7a31b2fed752e5206c1366732a"
   },
   {
     "characterName": "세현마흔아홉",
@@ -462,6 +482,10 @@
   {
     "characterName": "에너지스마일",
     "ocid": "2574497e3c6f245edc18928a9c80d6cd"
+  },
+  {
+    "characterName": "새벽의키드",
+    "ocid": "2b443c098d45dd401f659cfa228d4bf7"
   },
   {
     "characterName": "여명의키드",
@@ -744,6 +768,10 @@
     "ocid": "3532f302e920a0f2e8099e82b728885f"
   },
   {
+    "characterName": "괴도슥홍",
+    "ocid": "fd616297dd536e76b4c8c3398d7b0800"
+  },
+  {
     "characterName": "헝헝석",
     "ocid": "38665c2d8ee930979f8aa3ffa7780b48"
   },
@@ -796,12 +824,36 @@
     "ocid": "0d47562bb11d910e152f281e46960f29"
   },
   {
+    "characterName": "정마담난시",
+    "ocid": "6ca8bab1af17c5b4eeb79b5e238cfbb3"
+  },
+  {
+    "characterName": "나사실그네",
+    "ocid": "384aefa245432604515d2a544d90fcac"
+  },
+  {
+    "characterName": "빛친빔",
+    "ocid": "bea8c600305fbc271a3cde264131eb80"
+  },
+  {
+    "characterName": "달sen라",
+    "ocid": "5ef18d52753f0dfcec45dacfabc03100"
+  },
+  {
     "characterName": "렌senJ",
     "ocid": "7e995321aeed896174cde87e055ba426"
   },
   {
     "characterName": "Fives",
     "ocid": "f0fe8ad35bc0e108afe5b35a4eb7d885"
+  },
+  {
+    "characterName": "로뜨아재",
+    "ocid": "9bca9ba7bd422e4e24ace61a264afe28"
+  },
+  {
+    "characterName": "R0TT",
+    "ocid": "505059fa58bb15aada5865a6c60d46b8"
   },
   {
     "characterName": "GGIYA",
@@ -902,5 +954,21 @@
   {
     "characterName": "로보략",
     "ocid": "7e19650f7827d47c1b67b66e5aa346a2"
+  },
+  {
+    "characterName": "민몌린",
+    "ocid": "d00e835a1c5f9c4eca98078c097b87b4"
+  },
+  {
+    "characterName": "밍혁이잉",
+    "ocid": "1d05aecbe16eed6d789bfbe367a711a5"
+  },
+  {
+    "characterName": "밈혁잉",
+    "ocid": "d80e83f197cac8a8153fd25e29059d73"
+  },
+  {
+    "characterName": "민몌렌",
+    "ocid": "8472ca1a09d18421f79b11be924436ad"
   }
 ]
