@@ -372,6 +372,10 @@
     "ocid": "8865421c5fa58e20378f9e2fc30fc27f"
   },
   {
+    "characterName": "홍강냉1",
+    "ocid": "2b8773753a0100e6b75f2b10c4ebcc39"
+  },
+  {
     "characterName": "성현x",
     "ocid": "fa2f17d54ca0dd9747f269457bdaae82"
   },
@@ -494,6 +498,10 @@
   {
     "characterName": "여모르띠",
     "ocid": "777cbca47f40a9cf6ffb31244e42677c"
+  },
+  {
+    "characterName": "어모로띠",
+    "ocid": "d870b7fe382dff6be39255fea876590a"
   },
   {
     "characterName": "여왕님최고다",
@@ -804,8 +812,16 @@
     "ocid": "cf04fa7c69672a852877f0380bf64db7"
   },
   {
+    "characterName": "췌쿨",
+    "ocid": "12437786a602fb7051f2c4d70fcde729"
+  },
+  {
     "characterName": "희쿨",
     "ocid": "27d44ec9d8e53bcc99ad4ed252ab6733"
+  },
+  {
+    "characterName": "최쿨",
+    "ocid": "c51d001f5f2926873d6f4fe8386d423d"
   },
   {
     "characterName": "흰라라슈",
@@ -970,5 +986,9 @@
   {
     "characterName": "민몌렌",
     "ocid": "8472ca1a09d18421f79b11be924436ad"
+  },
+  {
+    "characterName": "멍석말이",
+    "ocid": "676e5b9fce59646e6d4e3a812a847e20"
   }
 ]
