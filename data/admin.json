@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-21T14:10:47.760Z",
+    "lastUpdated": "2026-06-21T14:30:52.922Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -5950,10 +5950,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-21"
+      "joinDate": "2026-06-21",
+      "leaveDetected": false
     },
     {
       "characterName": "최쿨",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-21",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "홍강냉1",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
