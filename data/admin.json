@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-21T14:30:52.922Z",
+    "lastUpdated": "2026-06-22T09:20:53.962Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7172,7 +7172,7 @@
       "level": 0,
       "combatPower": 139956482,
       "unionLevel": 8680,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "붙퐁",
