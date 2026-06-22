@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-22T11:20:52.252Z",
+    "lastUpdated": "2026-06-22T12:25:46.591Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -277,7 +277,7 @@
       "memoHistory": [],
       "job": "라라",
       "level": 289,
-      "combatPower": 142011239,
+      "combatPower": 298282633,
       "unionLevel": 9360,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -547,7 +547,7 @@
       "memoHistory": [],
       "job": "데몬슬레이어",
       "level": 297,
-      "combatPower": 614944542,
+      "combatPower": 615710351,
       "unionLevel": 9731,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3206,7 +3206,7 @@
       "memoHistory": [],
       "job": "소울마스터",
       "level": 287,
-      "combatPower": 56455531,
+      "combatPower": 96319211,
       "unionLevel": 9067,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3762,7 +3762,7 @@
       "memoHistory": [],
       "job": "제로",
       "level": 285,
-      "combatPower": 61189759,
+      "combatPower": 95609578,
       "unionLevel": 7289,
       "status": "new",
       "joinDate": "2026-04-21",
@@ -4088,7 +4088,7 @@
       "joinDate": "2026-06-04",
       "leaveDetected": false,
       "combatPower": 21804961,
-      "unionLevel": 9652
+      "unionLevel": 9684
     },
     {
       "characterName": "앵스바리",
@@ -5346,7 +5346,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 28239570,
+      "combatPower": 34528574,
       "unionLevel": 9301
     },
     {
@@ -6029,6 +6029,37 @@
     },
     {
       "characterName": "aasd2313",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-22",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "0렙흡혈",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-22"
+    },
+    {
+      "characterName": "0렙매화",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
