@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-22T11:10:54.912Z",
+    "lastUpdated": "2026-06-22T11:20:52.252Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9770,7 +9770,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-04",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "넬라스커",
