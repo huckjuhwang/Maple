@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-23T06:55:44.794Z",
+    "lastUpdated": "2026-06-23T08:55:48.135Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6114,7 +6114,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-23"
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
     },
     {
       "characterName": "십군데벤",
@@ -6129,7 +6130,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-23"
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
     },
     {
       "characterName": "십군렌",
@@ -6144,10 +6146,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-23"
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
     },
     {
       "characterName": "십군보마",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "극유운",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
