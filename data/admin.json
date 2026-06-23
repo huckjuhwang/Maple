@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-23T14:55:43.501Z",
+    "lastUpdated": "2026-06-23T15:20:57.763Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7612,7 +7612,7 @@
       "level": 0,
       "combatPower": 45887264,
       "unionLevel": 9741,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "JEL보마",
