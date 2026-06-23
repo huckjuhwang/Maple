@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-23T03:40:46.769Z",
+    "lastUpdated": "2026-06-23T06:10:47.080Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -169,7 +169,7 @@
       "memoHistory": [],
       "job": "스트라이커",
       "level": 293,
-      "combatPower": 187812770,
+      "combatPower": 408659138,
       "unionLevel": 9550,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1585,9 +1585,9 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "제논",
-      "level": 290,
+      "level": 291,
       "combatPower": 354573560,
-      "unionLevel": 8829,
+      "unionLevel": 8830,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -2521,9 +2521,9 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "나이트로드",
-      "level": 285,
-      "combatPower": 126771411,
-      "unionLevel": 8616,
+      "level": 286,
+      "combatPower": 129960773,
+      "unionLevel": 8617,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -3026,7 +3026,7 @@
       "memoHistory": [],
       "job": "다크나이트",
       "level": 284,
-      "combatPower": 25998990,
+      "combatPower": 41199168,
       "unionLevel": 9270,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4105,8 +4105,8 @@
       "status": "new",
       "joinDate": "2026-06-05",
       "leaveDetected": false,
-      "combatPower": 30196383,
-      "unionLevel": 5579
+      "combatPower": 30738963,
+      "unionLevel": 7816
     },
     {
       "characterName": "퐁스바리",
@@ -4339,7 +4339,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 101743664,
+      "combatPower": 134617577,
       "unionLevel": 9428
     },
     {
@@ -4393,7 +4393,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 97618495,
+      "combatPower": 103352432,
       "unionLevel": 9428
     },
     {
@@ -4645,8 +4645,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 65351356,
-      "unionLevel": 9481
+      "combatPower": 77222297,
+      "unionLevel": 9483
     },
     {
       "characterName": "기대천",
@@ -4681,7 +4681,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 80552849,
+      "combatPower": 80737152,
       "unionLevel": 9483
     },
     {
@@ -5650,7 +5650,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 61382879,
+      "combatPower": 73930982,
       "unionLevel": 10218
     },
     {
@@ -5668,7 +5668,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 151354111,
+      "combatPower": 162451251,
       "unionLevel": 10218
     },
     {
@@ -6082,6 +6082,21 @@
       "combatPower": 19598972,
       "unionLevel": 9082,
       "leaveDetected": false
+    },
+    {
+      "characterName": "노닥렌",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-23"
     }
   ],
   "dalla": [
