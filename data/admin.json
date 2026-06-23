@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-23T06:10:47.080Z",
+    "lastUpdated": "2026-06-23T06:30:56.503Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8564,7 +8564,7 @@
       "level": 0,
       "combatPower": 132227254,
       "unionLevel": 9147,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "6초라면",
