@@ -124,6 +124,10 @@
     "ocid": "858ff61ba2eddfb313d9e72cb52c4dc2"
   },
   {
+    "characterName": "노닥렌",
+    "ocid": "3404c94ef82f99f87032a6bb76baaaef"
+  },
+  {
     "characterName": "얼굴이아퐈이",
     "ocid": "9238b048987fb4222af1ee2d976278b0"
   },
@@ -296,6 +300,10 @@
     "ocid": "7c26c9916a675a1109032e75a1cd01b6"
   },
   {
+    "characterName": "극유운",
+    "ocid": "6b9aae7ad906ebd4767be4c70a72ca29"
+  },
+  {
     "characterName": "맥주맛소마",
     "ocid": "6500c843994fe4f0045710b3dc4c5746"
   },
@@ -344,6 +352,14 @@
     "ocid": "863ee9f54db36f8f202b531fe990d621"
   },
   {
+    "characterName": "소다맛미소",
+    "ocid": "5a310a4c9ebaa5471fc89d8c3d9d3c76"
+  },
+  {
+    "characterName": "레인맛소다",
+    "ocid": "8a50031e84ef2cf76be71ca2140767bc"
+  },
+  {
     "characterName": "매화맛소다",
     "ocid": "4e5a64c5dd4f29317f165c23616d7f26"
   },
@@ -362,6 +378,10 @@
   {
     "characterName": "뱃흔",
     "ocid": "4be176d5a63884b3e988b442f0cb78d3"
+  },
+  {
+    "characterName": "퍼니힐",
+    "ocid": "6e7a4cda7ecac83c9d6c086e44b83898"
   },
   {
     "characterName": "뱅하타",
@@ -412,10 +432,6 @@
     "ocid": "d8ecc1f7cc64307d224caec06e265d5d"
   },
   {
-    "characterName": "소다맛미소",
-    "ocid": "5a310a4c9ebaa5471fc89d8c3d9d3c76"
-  },
-  {
     "characterName": "소방교최재혁",
     "ocid": "2327051261505c03e26b1d5ef513e620"
   },
@@ -428,8 +444,24 @@
     "ocid": "21dcceb52b878f590f56c1daf9bbdfae"
   },
   {
+    "characterName": "오백티",
+    "ocid": "e1b13bcc0c9b7c6e8128511d62ef9f94"
+  },
+  {
     "characterName": "십군",
     "ocid": "06f9d0db4ad802f349806a7a785ee2b5"
+  },
+  {
+    "characterName": "십군데벤",
+    "ocid": "3fc17d947cd2690d8f8855c1b3458525"
+  },
+  {
+    "characterName": "십군렌",
+    "ocid": "d8a43237ecbe52fdeea50a0e5917076a"
+  },
+  {
+    "characterName": "십군보마",
+    "ocid": "77eebf65fa2922cf63e24dd9eee28510"
   },
   {
     "characterName": "쒸꺄",
@@ -792,6 +824,10 @@
     "ocid": "3532f302e920a0f2e8099e82b728885f"
   },
   {
+    "characterName": "월산동리가민",
+    "ocid": "5d3a0b95d97ddff8f2d5da4a8ccc3ade"
+  },
+  {
     "characterName": "괴도슥홍",
     "ocid": "fd616297dd536e76b4c8c3398d7b0800"
   },
@@ -1010,5 +1046,13 @@
   {
     "characterName": "멍석말이",
     "ocid": "676e5b9fce59646e6d4e3a812a847e20"
+  },
+  {
+    "characterName": "헬렌츄",
+    "ocid": "86b5c93ae8430ce453b5015b1112617b"
+  },
+  {
+    "characterName": "르퀴",
+    "ocid": "de2c9de6ab1ab2afcbf2e0bcefadfe7f"
   }
 ]
