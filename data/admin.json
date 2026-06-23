@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-23T14:45:51.614Z",
+    "lastUpdated": "2026-06-23T14:55:43.501Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6215,6 +6215,22 @@
     },
     {
       "characterName": "헬렌츄",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "레인맛소다",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
