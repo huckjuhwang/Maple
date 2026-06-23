@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-23T06:50:48.938Z",
+    "lastUpdated": "2026-06-23T15:20:57.763Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6114,7 +6114,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-23"
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
     },
     {
       "characterName": "십군데벤",
@@ -6129,7 +6130,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-23"
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
     },
     {
       "characterName": "십군렌",
@@ -6144,10 +6146,91 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-23"
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
     },
     {
       "characterName": "십군보마",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "극유운",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "퍼니힐",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "르퀴",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "헬렌츄",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "레인맛소다",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
@@ -7529,7 +7612,7 @@
       "level": 0,
       "combatPower": 45887264,
       "unionLevel": 9741,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "JEL보마",
@@ -8717,7 +8800,7 @@
       "level": 0,
       "combatPower": 68829487,
       "unionLevel": 8632,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "세현마흔아홉",
@@ -8807,7 +8890,7 @@
       "level": 0,
       "combatPower": 72015099,
       "unionLevel": 9985,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "령언렌",
@@ -9361,7 +9444,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-11",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "십군보마",
@@ -9377,7 +9460,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-12",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "령어니움",
@@ -9937,7 +10020,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-05-15",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "요베룬",
