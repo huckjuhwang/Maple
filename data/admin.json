@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-23T06:50:48.938Z",
+    "lastUpdated": "2026-06-23T06:55:44.794Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8807,7 +8807,7 @@
       "level": 0,
       "combatPower": 72015099,
       "unionLevel": 9985,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "령언렌",
@@ -9377,7 +9377,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-12",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "령어니움",
