@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-23T13:35:47.779Z",
+    "lastUpdated": "2026-06-23T14:35:49.098Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -637,7 +637,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 296,
-      "combatPower": 563630120,
+      "combatPower": 568781443,
       "unionLevel": 8946,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3134,7 +3134,7 @@
       "memoHistory": [],
       "job": "스트라이커",
       "level": 282,
-      "combatPower": 26924372,
+      "combatPower": 41637262,
       "unionLevel": 9593,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3746,7 +3746,7 @@
       "level": 281,
       "status": "new",
       "joinDate": "2026-04-16",
-      "combatPower": 31119096,
+      "combatPower": 32433008,
       "unionLevel": 2556,
       "leaveDetected": false
     },
@@ -5184,7 +5184,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 82028462,
+      "combatPower": 82792228,
       "unionLevel": 9427
     },
     {
@@ -6183,6 +6183,22 @@
     },
     {
       "characterName": "퍼니힐",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-23",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "르퀴",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
