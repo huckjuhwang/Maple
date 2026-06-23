@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-23T13:10:51.485Z",
+    "lastUpdated": "2026-06-23T13:35:47.779Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9396,7 +9396,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-11",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "십군보마",
