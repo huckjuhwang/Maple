@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-24T14:45:53.157Z",
+    "lastUpdated": "2026-06-24T14:55:44.147Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -317,7 +317,7 @@
       "unionLevel": 9796,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "노약자테러범",
@@ -2022,7 +2022,7 @@
       "unionLevel": 9396,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "허쥬",
@@ -2400,7 +2400,7 @@
       "unionLevel": 9646,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "우미클",
@@ -6422,7 +6422,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-24"
+      "joinDate": "2026-06-24",
+      "leaveDetected": false
     },
     {
       "characterName": "ArrowTlc",
@@ -6437,7 +6438,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-24"
+      "joinDate": "2026-06-24",
+      "leaveDetected": false
     }
   ],
   "dalla": [
