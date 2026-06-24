@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-24T14:01:14.929Z",
+    "lastUpdated": "2026-06-24T14:40:50.394Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -10488,7 +10488,7 @@
       "unionLevel": 9152,
       "status": "new",
       "joinDate": "2026-06-04",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "어모로띠",
