@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-24T01:55:43.331Z",
+    "lastUpdated": "2026-06-24T02:20:47.573Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9991,7 +9991,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-26",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "솔객",
@@ -10023,7 +10023,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-28",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "aasd2313",
