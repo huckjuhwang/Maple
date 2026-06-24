@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-24T15:25:46.132Z",
+    "lastUpdated": "2026-06-24T15:31:01.251Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9150,7 +9150,7 @@
       "level": 0,
       "combatPower": 145510851,
       "unionLevel": 9507,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "어묘띠",
@@ -9718,7 +9718,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-12",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "라라밍고야",
