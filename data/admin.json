@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-24T15:35:47.753Z",
+    "lastUpdated": "2026-06-24T15:50:52.151Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -2396,11 +2396,11 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 285,
-      "combatPower": 73165951,
-      "unionLevel": 9646,
+      "combatPower": 66611305,
+      "unionLevel": 9652,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": true
+      "leaveDetected": false
     },
     {
       "characterName": "우미클",
@@ -6502,7 +6502,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-24"
+      "joinDate": "2026-06-24",
+      "leaveDetected": false
     }
   ],
   "dalla": [
