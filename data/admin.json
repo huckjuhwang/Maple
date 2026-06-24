@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-24T15:31:01.251Z",
+    "lastUpdated": "2026-06-24T15:35:47.753Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -133,7 +133,7 @@
       "memoHistory": [],
       "job": "아크메이지(불,독)",
       "level": 293,
-      "combatPower": 160409012,
+      "combatPower": 189473978,
       "unionLevel": 9796,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4159,7 +4159,7 @@
       "status": "new",
       "joinDate": "2026-06-08",
       "leaveDetected": false,
-      "combatPower": 85036946,
+      "combatPower": 108439432,
       "unionLevel": 8664
     },
     {
@@ -6454,7 +6454,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-24"
+      "joinDate": "2026-06-24",
+      "leaveDetected": false
     },
     {
       "characterName": "령언렌",
@@ -6469,10 +6470,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-24"
+      "joinDate": "2026-06-24",
+      "leaveDetected": false
     },
     {
       "characterName": "령어니움",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-24",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "곰돌EE",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
@@ -10054,7 +10072,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-20",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "숍쭈히",
