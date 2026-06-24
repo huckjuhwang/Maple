@@ -56,12 +56,32 @@
     "ocid": "a9c896de5271d04ef4cc714b75134b67"
   },
   {
+    "characterName": "온라인소영이",
+    "ocid": "67c61dbc3a6f98d61e0dd968bfdbe8a6"
+  },
+  {
+    "characterName": "자이언츠미르",
+    "ocid": "5ed26e6bace165d924b2fb0bf4f79233"
+  },
+  {
+    "characterName": "서린카나",
+    "ocid": "bda9f999baa46e9fb123e126a469c7db"
+  },
+  {
     "characterName": "긍지높은콩",
     "ocid": "edd0b7f0957ba07d4d01a58ac4553840"
   },
   {
     "characterName": "기달리즈",
     "ocid": "e90db2dfc3367ae7e50272555a46eabb"
+  },
+  {
+    "characterName": "LenTlc",
+    "ocid": "cdb060e92a428a305950e6a133e63e3c"
+  },
+  {
+    "characterName": "ArrowTlc",
+    "ocid": "d1437f63dabfd65ef21c3c72e50b5a78"
   },
   {
     "characterName": "김물코이",
@@ -256,10 +276,6 @@
     "ocid": "885f0d1b92c8e85873ef0c23824ad70a"
   },
   {
-    "characterName": "령어니온",
-    "ocid": "afda080c79ba83da14f09f08426376c3"
-  },
-  {
     "characterName": "령언",
     "ocid": "fdaaeadfdc18e6b8e86e18ba9617a117"
   },
@@ -364,6 +380,10 @@
     "ocid": "4e5a64c5dd4f29317f165c23616d7f26"
   },
   {
+    "characterName": "표창맛소다",
+    "ocid": "3ce7724d2850b91702ce9578cf9698b2"
+  },
+  {
     "characterName": "밈두",
     "ocid": "931e3fd676d4086fac6779917f626ddd"
   },
@@ -442,6 +462,10 @@
   {
     "characterName": "시간이머문별",
     "ocid": "21dcceb52b878f590f56c1daf9bbdfae"
+  },
+  {
+    "characterName": "첫미련",
+    "ocid": "51cebc88ad3f9c646933236462e1d6df"
   },
   {
     "characterName": "오백티",
@@ -696,8 +720,16 @@
     "ocid": "b700ff6def712c632e20b89b82e52ef5"
   },
   {
+    "characterName": "드디어토끼가",
+    "ocid": "20b8b9343df1a81ee01a2376580c318f"
+  },
+  {
     "characterName": "지하돌세민",
     "ocid": "3eb501f7f0d0aedc0c5c53fac9a2de6a"
+  },
+  {
+    "characterName": "내아내일뻔한",
+    "ocid": "12065482ab3220ea514715accf87376e"
   },
   {
     "characterName": "쨩탔",
@@ -736,10 +768,6 @@
     "ocid": "d0cb2e918053f4238a6b7fb8c518c93f"
   },
   {
-    "characterName": "첫미련",
-    "ocid": "51cebc88ad3f9c646933236462e1d6df"
-  },
-  {
     "characterName": "총알왕",
     "ocid": "c2aff66d5877280f4ae19398071e25bf"
   },
@@ -752,8 +780,16 @@
     "ocid": "11714c93db0490361428b94bdac9b9aa"
   },
   {
+    "characterName": "스파이괘밀리",
+    "ocid": "bff5e058a3e16873497cfcc90b17da2c"
+  },
+  {
     "characterName": "퀀텀si",
     "ocid": "0c1cdb139c638e2065c2eb18694f4291"
+  },
+  {
+    "characterName": "최셔준",
+    "ocid": "3ba6fc1550d3420564885b0d7ab9e1bc"
   },
   {
     "characterName": "퀘스트충충",
@@ -774,10 +810,6 @@
   {
     "characterName": "크앍렌",
     "ocid": "77ccf4aba0e230fbffd2327393bc9308"
-  },
-  {
-    "characterName": "키루o",
-    "ocid": "89ad984a801100296e2c19e017f135b8"
   },
   {
     "characterName": "키아o",
@@ -910,10 +942,6 @@
   {
     "characterName": "렌senJ",
     "ocid": "7e995321aeed896174cde87e055ba426"
-  },
-  {
-    "characterName": "Fives",
-    "ocid": "f0fe8ad35bc0e108afe5b35a4eb7d885"
   },
   {
     "characterName": "로뜨아재",
@@ -1054,5 +1082,9 @@
   {
     "characterName": "르퀴",
     "ocid": "de2c9de6ab1ab2afcbf2e0bcefadfe7f"
+  },
+  {
+    "characterName": "호경땅",
+    "ocid": "78fb53f02e6e2be10d946d6c3062ca03"
   }
 ]
