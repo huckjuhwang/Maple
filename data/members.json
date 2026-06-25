@@ -236,6 +236,10 @@
     "ocid": "c11fb54814a7d6aaaf32b021ad1c5b77"
   },
   {
+    "characterName": "뚜렝아",
+    "ocid": "fcb1e1d1f21b92eb1a9359e0909c1c87"
+  },
+  {
     "characterName": "뚜왕아",
     "ocid": "0007fd7dd540ad8749965587fde15ca3"
   },
@@ -280,6 +284,22 @@
     "ocid": "fdaaeadfdc18e6b8e86e18ba9617a117"
   },
   {
+    "characterName": "령어니온",
+    "ocid": "afda080c79ba83da14f09f08426376c3"
+  },
+  {
+    "characterName": "령어니언",
+    "ocid": "38a337c4ac9a084c89341c4700606bcf"
+  },
+  {
+    "characterName": "령언렌",
+    "ocid": "30ad58d61aeb3d37d80d2638b49cfba1"
+  },
+  {
+    "characterName": "령어니움",
+    "ocid": "83810923ecf04e2524719db053973680"
+  },
+  {
     "characterName": "롄숙",
     "ocid": "87f9c858fd41bab6c6aa159da5521226"
   },
@@ -310,6 +330,10 @@
   {
     "characterName": "로사나워",
     "ocid": "e7c0ac991b0aea460e3329310a82a3b2"
+  },
+  {
+    "characterName": "로사우기",
+    "ocid": "bc866ad8eda9efaf5e16847ba9dc8e1a"
   },
   {
     "characterName": "매유운",
@@ -408,7 +432,7 @@
     "ocid": "60df41dd3316ab93c2e94eccebe9c655"
   },
   {
-    "characterName": "변백",
+    "characterName": "거제야호전사",
     "ocid": "32e980cd3fe8e2259081bf3342206ce7"
   },
   {
@@ -624,10 +648,6 @@
     "ocid": "756476bcb48f9c6097733bbb3ed1201d"
   },
   {
-    "characterName": "취업진로지원",
-    "ocid": "fa3cd880f43f7f7c88fb3612bcce7dc3"
-  },
-  {
     "characterName": "뽕구니",
     "ocid": "a26b2ab789f9f52c8d1719f32c3bf6bb"
   },
@@ -816,6 +836,10 @@
     "ocid": "1ecdf1ee50bd6ae4859d95f49e77420b"
   },
   {
+    "characterName": "키루o",
+    "ocid": "89ad984a801100296e2c19e017f135b8"
+  },
+  {
     "characterName": "텃루",
     "ocid": "2fd8ef89f74462d4d1e13bb1d4bbcebc"
   },
@@ -884,6 +908,10 @@
     "ocid": "14eb573d51c8302152ffd82120751d99"
   },
   {
+    "characterName": "곰돌EE",
+    "ocid": "90631037e189e51e460202a90e1c6646"
+  },
+  {
     "characterName": "활잡이곰돌E",
     "ocid": "f2043cc6eeabd6b84c37ff2daa16ed97"
   },
@@ -896,6 +924,10 @@
     "ocid": "cf04fa7c69672a852877f0380bf64db7"
   },
   {
+    "characterName": "희큘",
+    "ocid": "46853a8c8e9ac9184949e2b410d6543d"
+  },
+  {
     "characterName": "췌쿨",
     "ocid": "12437786a602fb7051f2c4d70fcde729"
   },
@@ -906,6 +938,10 @@
   {
     "characterName": "최쿨",
     "ocid": "c51d001f5f2926873d6f4fe8386d423d"
+  },
+  {
+    "characterName": "빡쭈l",
+    "ocid": "af0e5b8801947943e22802e4502a1be0"
   },
   {
     "characterName": "흰라라슈",
@@ -1086,5 +1122,13 @@
   {
     "characterName": "호경땅",
     "ocid": "78fb53f02e6e2be10d946d6c3062ca03"
+  },
+  {
+    "characterName": "술후니",
+    "ocid": "ff13802bde829da327ef775ad8606b8a"
+  },
+  {
+    "characterName": "술후Ll",
+    "ocid": "76fe6a6ac2c6fedcbe7290fce47845ae"
   }
 ]
