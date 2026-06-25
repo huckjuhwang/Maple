@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-25T13:50:49.491Z",
+    "lastUpdated": "2026-06-25T13:55:45.112Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6622,6 +6622,22 @@
       "job": "",
       "level": 0,
       "status": "new",
+      "joinDate": "2026-06-25",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "로사우기",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
       "joinDate": "2026-06-25"
     }
   ],
@@ -8964,7 +8980,7 @@
       "level": 0,
       "combatPower": 126568225,
       "unionLevel": 9716,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "LenTlc",
