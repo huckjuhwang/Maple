@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-26T19:25:40.852Z",
+    "lastUpdated": "2026-06-26T19:35:38.179Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8778,7 +8778,7 @@
       "level": 0,
       "combatPower": 164312355,
       "unionLevel": 9014,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "랜쐐",
@@ -9768,7 +9768,7 @@
       "level": 0,
       "combatPower": 27967927,
       "unionLevel": 9014,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "cyrillus",
