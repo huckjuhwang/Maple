@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-26T05:35:39.959Z",
+    "lastUpdated": "2026-06-26T06:10:47.746Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7728,7 +7728,7 @@
       "level": 0,
       "combatPower": 66068205,
       "unionLevel": 9019,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "김쪼랭랭",
@@ -9150,7 +9150,7 @@
       "level": 0,
       "combatPower": 15875917,
       "unionLevel": 9019,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "임나구잉",
