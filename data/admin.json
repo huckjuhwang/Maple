@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-26T13:01:06.424Z",
+    "lastUpdated": "2026-06-26T13:50:49.296Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -599,8 +599,8 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "렌",
-      "level": 293,
+      "job": "",
+      "level": 0,
       "combatPower": 320643236,
       "unionLevel": 8873,
       "status": "active",
@@ -763,7 +763,7 @@
       "memoHistory": [],
       "job": "섀도어",
       "level": 292,
-      "combatPower": 142644933,
+      "combatPower": 140464776,
       "unionLevel": 9830,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -817,7 +817,7 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 290,
-      "combatPower": 157063128,
+      "combatPower": 219184320,
       "unionLevel": 9203,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1298,7 +1298,7 @@
       "memoHistory": [],
       "job": "히어로",
       "level": 286,
-      "combatPower": 110795495,
+      "combatPower": 124150098,
       "unionLevel": 9444,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2450,7 +2450,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 290,
-      "combatPower": 122924331,
+      "combatPower": 124706749,
       "unionLevel": 8974,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2882,7 +2882,7 @@
       "memoHistory": [],
       "job": "보우마스터",
       "level": 292,
-      "combatPower": 351530172,
+      "combatPower": 373769982,
       "unionLevel": 9943,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4105,7 +4105,7 @@
       "status": "new",
       "joinDate": "2026-06-05",
       "leaveDetected": false,
-      "combatPower": 30738963,
+      "combatPower": 31609090,
       "unionLevel": 7816
     },
     {
@@ -4321,7 +4321,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 177404443,
+      "combatPower": 177076130,
       "unionLevel": 9550
     },
     {
@@ -4519,8 +4519,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 191747836,
-      "unionLevel": 11180
+      "combatPower": 180447860,
+      "unionLevel": 11181
     },
     {
       "characterName": "렌실피드",
@@ -4748,8 +4748,8 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "렌",
-      "level": 285,
+      "job": "",
+      "level": 0,
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
@@ -4802,8 +4802,8 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "와일드헌터",
-      "level": 278,
+      "job": "",
+      "level": 0,
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
@@ -4896,8 +4896,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 148567693,
-      "unionLevel": 9507
+      "combatPower": 191747836,
+      "unionLevel": 11180
     },
     {
       "characterName": "닉넴진심귀찮",
@@ -5179,8 +5179,8 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "렌",
-      "level": 284,
+      "job": "",
+      "level": 0,
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
@@ -5256,7 +5256,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 120309856,
+      "combatPower": 156183520,
       "unionLevel": 9475
     },
     {
@@ -6010,7 +6010,7 @@
       "status": "new",
       "joinDate": "2026-06-22",
       "leaveDetected": false,
-      "combatPower": 183105710,
+      "combatPower": 168925479,
       "unionLevel": 9247
     },
     {
@@ -6203,8 +6203,8 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "일리움",
-      "level": 285,
+      "job": "",
+      "level": 0,
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
@@ -6635,8 +6635,8 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "렌",
-      "level": 283,
+      "job": "",
+      "level": 0,
       "status": "new",
       "joinDate": "2026-06-25",
       "leaveDetected": false,
@@ -6709,7 +6709,7 @@
       "joinDate": "2026-06-26",
       "combatPower": 224491851,
       "unionLevel": 9731,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "다희라딘",
@@ -6809,6 +6809,22 @@
     },
     {
       "characterName": "6초라면",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-26",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "스왝",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
