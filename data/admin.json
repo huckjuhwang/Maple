@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-26T09:30:55.826Z",
+    "lastUpdated": "2026-06-26T09:50:50.945Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7023,7 +7023,7 @@
       "level": 0,
       "combatPower": 43551189,
       "unionLevel": 9397,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "도낭지",
@@ -8877,7 +8877,7 @@
       "level": 0,
       "combatPower": 77263814,
       "unionLevel": 9448,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "벤지프렌",
