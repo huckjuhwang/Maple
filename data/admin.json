@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-26T05:10:49.051Z",
+    "lastUpdated": "2026-06-26T05:35:39.959Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -2846,7 +2846,7 @@
       "memoHistory": [],
       "job": "배틀메이지",
       "level": 284,
-      "combatPower": 66721381,
+      "combatPower": 91279621,
       "unionLevel": 8751,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3569,7 +3569,7 @@
       "job": "아크메이지(썬,콜)",
       "level": 289,
       "leaveDetected": false,
-      "combatPower": 102502123,
+      "combatPower": 115965638,
       "unionLevel": 9444
     },
     {
@@ -4014,7 +4014,7 @@
       "level": 282,
       "status": "new",
       "joinDate": "2026-05-26",
-      "combatPower": 53436361,
+      "combatPower": 53948694,
       "unionLevel": 6652,
       "leaveDetected": false
     },
@@ -6695,6 +6695,54 @@
     },
     {
       "characterName": "며누1",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "데몬슬레이어",
+      "level": 297,
+      "status": "new",
+      "joinDate": "2026-06-26",
+      "combatPower": 224491851,
+      "unionLevel": 9731,
+      "leaveDetected": false
+    },
+    {
+      "characterName": "다희라딘",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-26"
+    },
+    {
+      "characterName": "다희스메셔",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-26"
+    },
+    {
+      "characterName": "남양주다희",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
