@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-26T12:55:43.948Z",
+    "lastUpdated": "2026-06-26T13:01:06.424Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8388,7 +8388,7 @@
       "level": 0,
       "combatPower": 77779758,
       "unionLevel": 9236,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "DuIly",
@@ -9306,7 +9306,7 @@
       "level": 0,
       "combatPower": 134353926,
       "unionLevel": 9236,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "바르버니",
