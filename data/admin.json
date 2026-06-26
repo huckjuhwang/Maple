@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-26T06:10:47.746Z",
+    "lastUpdated": "2026-06-26T09:30:55.826Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -169,7 +169,7 @@
       "memoHistory": [],
       "job": "스트라이커",
       "level": 293,
-      "combatPower": 170777147,
+      "combatPower": 181364394,
       "unionLevel": 9550,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -206,7 +206,7 @@
       "job": "보우마스터",
       "level": 294,
       "combatPower": 326825911,
-      "unionLevel": 11180,
+      "unionLevel": 11181,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -583,7 +583,7 @@
       "memoHistory": [],
       "job": "나이트워커",
       "level": 295,
-      "combatPower": 447062215,
+      "combatPower": 471238956,
       "unionLevel": 9348,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -871,7 +871,7 @@
       "memoHistory": [],
       "job": "아델",
       "level": 292,
-      "combatPower": 400107563,
+      "combatPower": 424438289,
       "unionLevel": 9814,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1262,7 +1262,7 @@
       "memoHistory": [],
       "job": "바이퍼",
       "level": 291,
-      "combatPower": 204816271,
+      "combatPower": 205218944,
       "unionLevel": 9483,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2882,7 +2882,7 @@
       "memoHistory": [],
       "job": "보우마스터",
       "level": 292,
-      "combatPower": 351530172,
+      "combatPower": 373769982,
       "unionLevel": 9943,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3623,7 +3623,7 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false,
-      "combatPower": 86330712,
+      "combatPower": 117819739,
       "unionLevel": 9079
     },
     {
@@ -3891,7 +3891,7 @@
       "status": "new",
       "joinDate": "2026-05-15",
       "leaveDetected": false,
-      "combatPower": 60568336,
+      "combatPower": 65135073,
       "unionLevel": 8987
     },
     {
@@ -3997,7 +3997,7 @@
       "status": "new",
       "joinDate": "2026-05-24",
       "leaveDetected": false,
-      "combatPower": 20906725,
+      "combatPower": 32550539,
       "unionLevel": 6072
     },
     {
@@ -4357,7 +4357,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 72044968,
+      "combatPower": 95440117,
       "unionLevel": 9428
     },
     {
@@ -4466,7 +4466,7 @@
       "joinDate": "2026-06-18",
       "leaveDetected": false,
       "combatPower": 342811570,
-      "unionLevel": 11180
+      "unionLevel": 11181
     },
     {
       "characterName": "얌실피드",
@@ -4483,8 +4483,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 360644005,
-      "unionLevel": 11180
+      "combatPower": 362932413,
+      "unionLevel": 11181
     },
     {
       "characterName": "효실피드",
@@ -4502,7 +4502,7 @@
       "joinDate": "2026-06-18",
       "leaveDetected": false,
       "combatPower": 329727985,
-      "unionLevel": 11180
+      "unionLevel": 11181
     },
     {
       "characterName": "썬실피드",
@@ -4519,8 +4519,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 180298605,
-      "unionLevel": 11180
+      "combatPower": 180447860,
+      "unionLevel": 11181
     },
     {
       "characterName": "렌실피드",
@@ -4537,7 +4537,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 291133307,
+      "combatPower": 291262054,
       "unionLevel": 11181
     },
     {
@@ -4556,7 +4556,7 @@
       "joinDate": "2026-06-18",
       "leaveDetected": false,
       "combatPower": 351519326,
-      "unionLevel": 11180
+      "unionLevel": 11181
     },
     {
       "characterName": "렌로봉",
@@ -4932,7 +4932,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 86704764,
+      "combatPower": 152987743,
       "unionLevel": 9477
     },
     {
@@ -5525,7 +5525,7 @@
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 66020277,
+      "combatPower": 67555127,
       "unionLevel": 9157
     },
     {
@@ -5543,7 +5543,7 @@
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 33508461,
+      "combatPower": 33710708,
       "unionLevel": 9178
     },
     {
@@ -5848,7 +5848,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 110477189,
+      "combatPower": 121598708,
       "unionLevel": 9530
     },
     {
@@ -6190,7 +6190,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 60056832,
+      "combatPower": 79825575,
       "unionLevel": 8987
     },
     {
@@ -6724,7 +6724,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-26"
+      "joinDate": "2026-06-26",
+      "leaveDetected": false
     },
     {
       "characterName": "다희스메셔",
@@ -6739,10 +6740,42 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-26"
+      "joinDate": "2026-06-26",
+      "leaveDetected": false
     },
     {
       "characterName": "남양주다희",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-26",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "보마뚜왕",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-26"
+    },
+    {
+      "characterName": "뚜왕렌",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
