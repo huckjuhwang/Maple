@@ -192,7 +192,7 @@
     "ocid": "53f94434d0d0b02bfc3f3cc100d08a20"
   },
   {
-    "characterName": "데먼",
+    "characterName": "스왝",
     "ocid": "e35b32815cecd87c7a2562ea5e7bba03"
   },
   {
@@ -242,6 +242,14 @@
   {
     "characterName": "뚜왕아",
     "ocid": "0007fd7dd540ad8749965587fde15ca3"
+  },
+  {
+    "characterName": "보마뚜왕",
+    "ocid": "98f45937fbbd78689267e8dffdb980cd"
+  },
+  {
+    "characterName": "뚜왕렌",
+    "ocid": "d050bd0644cab85a84f2f21c33ab14a9"
   },
   {
     "characterName": "뚱넝",
@@ -444,6 +452,18 @@
     "ocid": "7501ce7e021b1f0004661352e0c8e82e"
   },
   {
+    "characterName": "다희라딘",
+    "ocid": "eb25d850b434949edbd7e8a7ec6816ed"
+  },
+  {
+    "characterName": "다희스메셔",
+    "ocid": "ca01838e85d4f624ebb958a03f674c5b"
+  },
+  {
+    "characterName": "남양주다희",
+    "ocid": "f6c040fc6981118e3a495840ead8260f"
+  },
+  {
     "characterName": "설윤중",
     "ocid": "111ec855b9c23d24462f4b351523af40"
   },
@@ -598,10 +618,6 @@
   {
     "characterName": "어모로띠",
     "ocid": "d870b7fe382dff6be39255fea876590a"
-  },
-  {
-    "characterName": "여왕님최고다",
-    "ocid": "d177a9f9f0a09ed0941e237f4f7c214f"
   },
   {
     "characterName": "예이이이이잇",
@@ -840,6 +856,10 @@
     "ocid": "89ad984a801100296e2c19e017f135b8"
   },
   {
+    "characterName": "패링o",
+    "ocid": "052e35c13cb4e670a7a8ab141966ed37"
+  },
+  {
     "characterName": "텃루",
     "ocid": "2fd8ef89f74462d4d1e13bb1d4bbcebc"
   },
@@ -854,6 +874,10 @@
   {
     "characterName": "포철상",
     "ocid": "08f11398d107349f16a74e181dba6eda"
+  },
+  {
+    "characterName": "죤낸",
+    "ocid": "b4985f5818bdd3befd0cabad3504b77b"
   },
   {
     "characterName": "퐁스바리",
@@ -1054,6 +1078,18 @@
   {
     "characterName": "ol픈소마",
     "ocid": "6274ccd0d61c7f846824c3d609cfb477"
+  },
+  {
+    "characterName": "여왕님최고다",
+    "ocid": "d177a9f9f0a09ed0941e237f4f7c214f"
+  },
+  {
+    "characterName": "6분라면",
+    "ocid": "c63499dc1ec2bb0c3f434138e3d97b53"
+  },
+  {
+    "characterName": "6초라면",
+    "ocid": "b25dc09b3bd300ec53f9ae0141e93614"
   },
   {
     "characterName": "ooblanxoo",
