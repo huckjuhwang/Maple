@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-27T11:50:43.157Z",
+    "lastUpdated": "2026-06-27T15:50:49.286Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9330,7 +9330,7 @@
       "level": 0,
       "combatPower": 76044670,
       "unionLevel": 9920,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "다희스메셔",
