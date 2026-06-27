@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-27T03:55:41.254Z",
+    "lastUpdated": "2026-06-27T11:50:43.157Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6587,7 +6587,7 @@
       "joinDate": "2026-06-25",
       "combatPower": 195034800,
       "unionLevel": 9080,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "희큘",
@@ -6904,7 +6904,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-27"
+      "joinDate": "2026-06-27",
+      "leaveDetected": false
     },
     {
       "characterName": "다동탱",
@@ -6919,10 +6920,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-27"
+      "joinDate": "2026-06-27",
+      "leaveDetected": false
     },
     {
       "characterName": "귤루돌",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-27",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "호카게",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
