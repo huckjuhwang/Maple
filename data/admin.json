@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-27T15:55:41.373Z",
+    "lastUpdated": "2026-06-27T16:25:40.372Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8460,7 +8460,7 @@
       "level": 0,
       "combatPower": 62573714,
       "unionLevel": 9920,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "령어니언",
@@ -10330,7 +10330,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-13",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "어둠의상자",
