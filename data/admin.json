@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-28T15:50:46.442Z",
+    "lastUpdated": "2026-06-28T17:00:59.030Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -205,7 +205,7 @@
       "memoHistory": [],
       "job": "보우마스터",
       "level": 294,
-      "combatPower": 322837295,
+      "combatPower": 326825911,
       "unionLevel": 11181,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -998,7 +998,7 @@
       "job": "데몬어벤져",
       "level": 287,
       "combatPower": 208939616,
-      "unionLevel": 9827,
+      "unionLevel": 9829,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1016,7 +1016,7 @@
       "job": "아크메이지(불,독)",
       "level": 291,
       "combatPower": 204221003,
-      "unionLevel": 9687,
+      "unionLevel": 9688,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1118,7 +1118,7 @@
       "memoHistory": [],
       "job": "와일드헌터",
       "level": 290,
-      "combatPower": 266115158,
+      "combatPower": 267370959,
       "unionLevel": 9509,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1208,8 +1208,8 @@
       "memoHistory": [],
       "job": "패스파인더",
       "level": 281,
-      "combatPower": 131147576,
-      "unionLevel": 9827,
+      "combatPower": 132076571,
+      "unionLevel": 9829,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -3677,7 +3677,7 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false,
-      "combatPower": 35337967,
+      "combatPower": 35381523,
       "unionLevel": 8665
     },
     {
@@ -3695,7 +3695,7 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false,
-      "combatPower": 124941706,
+      "combatPower": 131638684,
       "unionLevel": 8706
     },
     {
@@ -4501,7 +4501,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 328937815,
+      "combatPower": 332863661,
       "unionLevel": 11181
     },
     {
@@ -5901,8 +5901,8 @@
       "level": 285,
       "status": "new",
       "joinDate": "2026-06-20",
-      "combatPower": 127445759,
-      "unionLevel": 9827,
+      "combatPower": 128379237,
+      "unionLevel": 9829,
       "leaveDetected": false
     },
     {
@@ -6262,8 +6262,8 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 67022185,
-      "unionLevel": 9827
+      "combatPower": 67600822,
+      "unionLevel": 9829
     },
     {
       "characterName": "표창맛소다",
@@ -6909,7 +6909,7 @@
       "joinDate": "2026-06-27",
       "leaveDetected": false,
       "combatPower": 75668737,
-      "unionLevel": 10110
+      "unionLevel": 10112
     },
     {
       "characterName": "다동탱",
@@ -6927,7 +6927,7 @@
       "joinDate": "2026-06-27",
       "leaveDetected": false,
       "combatPower": 46876502,
-      "unionLevel": 10110
+      "unionLevel": 10112
     },
     {
       "characterName": "귤루돌",
@@ -7231,6 +7231,37 @@
     },
     {
       "characterName": "잠이좋은마족",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-28",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "힁곰범",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-28"
+    },
+    {
+      "characterName": "휘휘휘렌",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
