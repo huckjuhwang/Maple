@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-28T06:55:39.596Z",
+    "lastUpdated": "2026-06-28T07:10:44.539Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -11158,7 +11158,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-06-06",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "청공탄",
