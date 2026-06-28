@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-28T13:45:48.283Z",
+    "lastUpdated": "2026-06-28T14:00:57.140Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -6995,7 +6995,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-06-27",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "쏙쏙쿤",
@@ -7128,10 +7128,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-06-28"
+      "joinDate": "2026-06-28",
+      "leaveDetected": false
     },
     {
       "characterName": "임나구글",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-06-28",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "쏙쏙쨩",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
