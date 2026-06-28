@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-28T15:00:58.770Z",
+    "lastUpdated": "2026-06-28T15:25:41.832Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9638,7 +9638,7 @@
       "level": 0,
       "combatPower": 18216968,
       "unionLevel": 10200,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "김쫘알깃",
