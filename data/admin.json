@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-28T11:30:52.566Z",
+    "lastUpdated": "2026-06-28T13:10:50.855Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -29,7 +29,7 @@
       "unionLevel": 9193,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "Limit",
@@ -61,7 +61,7 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 294,
-      "combatPower": 259353974,
+      "combatPower": 612369157,
       "unionLevel": 9690,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -727,7 +727,7 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 290,
-      "combatPower": 183086258,
+      "combatPower": 192143031,
       "unionLevel": 9085,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -853,8 +853,8 @@
       "memoHistory": [],
       "job": "다크나이트",
       "level": 291,
-      "combatPower": 285176722,
-      "unionLevel": 10386,
+      "combatPower": 320895751,
+      "unionLevel": 10387,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1033,7 +1033,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 289,
-      "combatPower": 204842846,
+      "combatPower": 213691265,
       "unionLevel": 9153,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1082,7 +1082,7 @@
       "memoHistory": [],
       "job": "엔젤릭버스터",
       "level": 290,
-      "combatPower": 116477705,
+      "combatPower": 121669526,
       "unionLevel": 9078,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1298,7 +1298,7 @@
       "memoHistory": [],
       "job": "히어로",
       "level": 286,
-      "combatPower": 87642119,
+      "combatPower": 124150098,
       "unionLevel": 9444,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3134,7 +3134,7 @@
       "memoHistory": [],
       "job": "스트라이커",
       "level": 282,
-      "combatPower": 25193122,
+      "combatPower": 56799711,
       "unionLevel": 9593,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3746,7 +3746,7 @@
       "level": 281,
       "status": "new",
       "joinDate": "2026-04-16",
-      "combatPower": 36417146,
+      "combatPower": 36472232,
       "unionLevel": 6564,
       "leaveDetected": false
     },
@@ -4195,7 +4195,7 @@
       "status": "new",
       "joinDate": "2026-06-17",
       "leaveDetected": false,
-      "combatPower": 93200606,
+      "combatPower": 155935639,
       "unionLevel": 8692
     },
     {
@@ -4465,7 +4465,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 342811570,
+      "combatPower": 353412533,
       "unionLevel": 11181
     },
     {
@@ -4519,7 +4519,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 182729804,
+      "combatPower": 195861653,
       "unionLevel": 11181
     },
     {
@@ -4717,7 +4717,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 162828374,
+      "combatPower": 219606903,
       "unionLevel": 9690
     },
     {
@@ -6154,7 +6154,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 133796764,
+      "combatPower": 134860331,
       "unionLevel": 10184
     },
     {
@@ -6172,7 +6172,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 38915348,
+      "combatPower": 43002597,
       "unionLevel": 10184
     },
     {
@@ -7081,6 +7081,24 @@
     },
     {
       "characterName": "다숭",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "렌",
+      "level": 291,
+      "status": "new",
+      "joinDate": "2026-06-28",
+      "combatPower": 372675165,
+      "unionLevel": 9188,
+      "leaveDetected": false
+    },
+    {
+      "characterName": "오선",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
