@@ -24,7 +24,7 @@
     "ocid": "2f733210c86dc632a81d64e60b3701af"
   },
   {
-    "characterName": "고로시상어",
+    "characterName": "핑볼",
     "ocid": "e7c1e5e8bac153041023187a4bb1b52e"
   },
   {
@@ -360,7 +360,7 @@
     "ocid": "a33234d92187fd11b01b53388949fb20"
   },
   {
-    "characterName": "맹자린",
+    "characterName": "다숭",
     "ocid": "087628bba2d2e60feebb9c2df1d71654"
   },
   {
@@ -406,6 +406,18 @@
   {
     "characterName": "문쏙쏙",
     "ocid": "fb260bed708eb7f3305b19d1fad8bed8"
+  },
+  {
+    "characterName": "박쏙쏙",
+    "ocid": "da3916054a0f79a9b7c5dd30e5176cbe"
+  },
+  {
+    "characterName": "쏙쏙쨩",
+    "ocid": "eb2e8ca6f206f685c1ae15d728b64a3e"
+  },
+  {
+    "characterName": "쏙쏙쿤",
+    "ocid": "2d2c5f06fcf8dcc498b0fd8381b60df2"
   },
   {
     "characterName": "미소맛소다",
@@ -460,7 +472,7 @@
     "ocid": "32e980cd3fe8e2259081bf3342206ce7"
   },
   {
-    "characterName": "넉벼",
+    "characterName": "기계전사그람",
     "ocid": "9c6300e77242c05001da57b3e1358071"
   },
   {
@@ -556,8 +568,20 @@
     "ocid": "5122aff6ac9c446a2402a9f6fe74e576"
   },
   {
+    "characterName": "내친구링크10",
+    "ocid": "649cbf314a2f9ed5a222e369f9d92782"
+  },
+  {
     "characterName": "아기공룡탄이",
     "ocid": "ddf1e3b65a588d893f506e140bad0189"
+  },
+  {
+    "characterName": "에몽타",
+    "ocid": "604746aa435275ef5ab15fe468ea3a17"
+  },
+  {
+    "characterName": "청공탄",
+    "ocid": "8c0e3a2d08d298d7c94d07c28923a0e5"
   },
   {
     "characterName": "아델렌타",
@@ -726,6 +750,26 @@
   {
     "characterName": "임나구리",
     "ocid": "b377110c03d6661a38069824f29e4bee"
+  },
+  {
+    "characterName": "임나구이",
+    "ocid": "491683db938b1d4060091ecbe325db54"
+  },
+  {
+    "characterName": "임나구글",
+    "ocid": "bbc96ba5404e50ed9a47dfd98633ff86"
+  },
+  {
+    "characterName": "임나구리35",
+    "ocid": "5a0d1e4c44fd02d04e9caa1eeb51df1c"
+  },
+  {
+    "characterName": "임나구잉",
+    "ocid": "d7cb08b4054c36764b477a03cb0afc37"
+  },
+  {
+    "characterName": "임나구밍",
+    "ocid": "5b3ee3d31143c13cc9bcd5783c395923"
   },
   {
     "characterName": "잉짱",
@@ -1116,7 +1160,7 @@
     "ocid": "835c62cf50e7caa34450b3d5fc65c1ce"
   },
   {
-    "characterName": "PBVIP",
+    "characterName": "오선",
     "ocid": "d2b5d542950c6e4bd13b07a1cab1e739"
   },
   {
