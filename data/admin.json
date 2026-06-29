@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-29T11:20:45.039Z",
+    "lastUpdated": "2026-06-29T11:30:53.800Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9096,7 +9096,7 @@
       "level": 0,
       "combatPower": 34952934,
       "unionLevel": 8812,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "렌며누",
