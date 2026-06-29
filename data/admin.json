@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-29T19:00:59.037Z",
+    "lastUpdated": "2026-06-29T19:10:46.774Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8214,7 +8214,7 @@
       "level": 0,
       "combatPower": 79218544,
       "unionLevel": 10041,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "깅며누",
@@ -9492,7 +9492,7 @@
       "level": 0,
       "combatPower": 81756775,
       "unionLevel": 10041,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "뚜렝아",
