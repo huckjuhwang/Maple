@@ -20,6 +20,10 @@
     "ocid": "e3c75e424d588286fa16b21959e1c273"
   },
   {
+    "characterName": "잠이좋은마족",
+    "ocid": "f6ea4b7db5ed33b9e5cf42da70d71286"
+  },
+  {
     "characterName": "격앙된딜타임",
     "ocid": "2f733210c86dc632a81d64e60b3701af"
   },
@@ -532,6 +536,10 @@
     "ocid": "2327051261505c03e26b1d5ef513e620"
   },
   {
+    "characterName": "이재명의과거",
+    "ocid": "e45ea922439465edf9d86588c891574b"
+  },
+  {
     "characterName": "슬렌떠",
     "ocid": "7e3e9928b118529ad289340e4dfa505b"
   },
@@ -824,7 +832,7 @@
     "ocid": "20b8b9343df1a81ee01a2376580c318f"
   },
   {
-    "characterName": "지하돌세민",
+    "characterName": "꾸잉",
     "ocid": "3eb501f7f0d0aedc0c5c53fac9a2de6a"
   },
   {
@@ -1004,8 +1012,16 @@
     "ocid": "f2043cc6eeabd6b84c37ff2daa16ed97"
   },
   {
+    "characterName": "힁곰범",
+    "ocid": "aaf59e6c5f83539d0aed11d08b4f8d88"
+  },
+  {
     "characterName": "휭곰범",
     "ocid": "1e3a8897af4797d673e5df7066cf0065"
+  },
+  {
+    "characterName": "휘휘휘렌",
+    "ocid": "9a910cc8caf880dc6bb8d04826d1b912"
   },
   {
     "characterName": "희뜨",
