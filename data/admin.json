@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-06-29T19:10:46.774Z",
+    "lastUpdated": "2026-06-30T00:40:43.234Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7440,7 +7440,7 @@
       "level": 0,
       "combatPower": 102776704,
       "unionLevel": 9234,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "카세르니오",
@@ -7494,7 +7494,7 @@
       "level": 0,
       "combatPower": 8621621,
       "unionLevel": 9228,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "듀블초심01",
@@ -7512,7 +7512,7 @@
       "level": 0,
       "combatPower": 87484768,
       "unionLevel": 9234,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "류루엥",
@@ -7926,7 +7926,7 @@
       "level": 0,
       "combatPower": 25845922,
       "unionLevel": 9228,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "나사실그네",
@@ -8628,7 +8628,7 @@
       "level": 0,
       "combatPower": 19731482,
       "unionLevel": 9234,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로보락불독",
