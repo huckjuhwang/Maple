@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-01T15:15:48.046Z",
+    "lastUpdated": "2026-07-01T16:25:47.075Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -10239,7 +10239,7 @@
       "level": 0,
       "combatPower": 78333446,
       "unionLevel": 9663,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "건며누",
