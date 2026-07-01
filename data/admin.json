@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-01T14:55:39.707Z",
+    "lastUpdated": "2026-07-01T15:00:53.563Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7446,6 +7446,21 @@
       "status": "new",
       "joinDate": "2026-06-30",
       "leaveDetected": false
+    },
+    {
+      "characterName": "옵티머스레테",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-07-01"
     }
   ],
   "dalla": [
