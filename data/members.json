@@ -156,6 +156,10 @@
     "ocid": "33c86de26fddccb053d1c2652ee78044"
   },
   {
+    "characterName": "매활",
+    "ocid": "1e06952d9d3398a1154d312b13f8cd7f"
+  },
+  {
     "characterName": "노닥아크",
     "ocid": "858ff61ba2eddfb313d9e72cb52c4dc2"
   },
@@ -190,6 +194,10 @@
   {
     "characterName": "머스크일론",
     "ocid": "f2f5680c6c27d46c77b487c0f93cb0b2"
+  },
+  {
+    "characterName": "옵티머스레테",
+    "ocid": "75fedb036c3f56dfb11e157a720b32ec"
   },
   {
     "characterName": "닉넴쥰내귀찮",
@@ -488,7 +496,7 @@
     "ocid": "32e980cd3fe8e2259081bf3342206ce7"
   },
   {
-    "characterName": "기계전사그람",
+    "characterName": "람뢰",
     "ocid": "9c6300e77242c05001da57b3e1358071"
   },
   {
@@ -888,10 +896,6 @@
     "ocid": "d0cb2e918053f4238a6b7fb8c518c93f"
   },
   {
-    "characterName": "총알왕",
-    "ocid": "c2aff66d5877280f4ae19398071e25bf"
-  },
-  {
     "characterName": "추준",
     "ocid": "0d4b32b38facab9f872105929355c34c"
   },
@@ -1034,10 +1038,6 @@
   {
     "characterName": "휘휘휘렌",
     "ocid": "9a910cc8caf880dc6bb8d04826d1b912"
-  },
-  {
-    "characterName": "희뜨",
-    "ocid": "cf04fa7c69672a852877f0380bf64db7"
   },
   {
     "characterName": "희큘",
