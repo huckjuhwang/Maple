@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-02T10:40:43.901Z",
+    "lastUpdated": "2026-07-02T14:01:02.596Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -9174,7 +9174,7 @@
       "level": 0,
       "combatPower": 50579914,
       "unionLevel": 9625,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "윤린",
@@ -9858,7 +9858,7 @@
       "level": 0,
       "combatPower": 96782692,
       "unionLevel": 9625,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로사지수",
@@ -10774,7 +10774,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "퍼니힐",
