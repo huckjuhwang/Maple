@@ -612,7 +612,7 @@
     "ocid": "d2472207590761b13664f375c7b772cf"
   },
   {
-    "characterName": "악굽",
+    "characterName": "삼등",
     "ocid": "94bf3be1dca0efe8bd281e7ffc51e0c0"
   },
   {
@@ -1014,6 +1014,10 @@
   {
     "characterName": "현대렌",
     "ocid": "a1c696d88dcc4430caeb48daf3daf0f3"
+  },
+  {
+    "characterName": "레테칭호용인",
+    "ocid": "a752e68fa35ece42bea3d6e37bf010f3"
   },
   {
     "characterName": "호피곰",
