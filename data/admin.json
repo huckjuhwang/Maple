@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-05T00:01:05.796Z",
+    "lastUpdated": "2026-07-05T02:05:36.847Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -529,7 +529,7 @@
       "memoHistory": [],
       "job": "아델",
       "level": 296,
-      "combatPower": 687410448,
+      "combatPower": 704821359,
       "unionLevel": 9656,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -727,7 +727,7 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 290,
-      "combatPower": 179245926,
+      "combatPower": 186100941,
       "unionLevel": 9085,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2250,8 +2250,8 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "라라",
-      "level": 285,
+      "job": "",
+      "level": 0,
       "combatPower": 58918592,
       "unionLevel": 9858,
       "status": "active",
@@ -2630,7 +2630,7 @@
       "memoHistory": [],
       "job": "아크메이지(썬,콜)",
       "level": 289,
-      "combatPower": 149043791,
+      "combatPower": 179653751,
       "unionLevel": 9069,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4483,8 +4483,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 365736935,
-      "unionLevel": 11185
+      "combatPower": 367361868,
+      "unionLevel": 11184
     },
     {
       "characterName": "효실피드",
@@ -4501,8 +4501,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 338145346,
-      "unionLevel": 11184
+      "combatPower": 342622394,
+      "unionLevel": 11185
     },
     {
       "characterName": "썬실피드",
@@ -4519,8 +4519,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 179595502,
-      "unionLevel": 11184
+      "combatPower": 192502105,
+      "unionLevel": 11185
     },
     {
       "characterName": "렌실피드",
@@ -5450,12 +5450,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "렌",
-      "level": 263,
+      "level": 264,
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 158091402,
-      "unionLevel": 9195
+      "combatPower": 159635703,
+      "unionLevel": 9196
     },
     {
       "characterName": "GeniusAct",
@@ -6961,8 +6961,8 @@
       "level": 286,
       "status": "new",
       "joinDate": "2026-06-27",
-      "combatPower": 180649962,
-      "unionLevel": 9132,
+      "combatPower": 195737444,
+      "unionLevel": 9133,
       "leaveDetected": false
     },
     {
@@ -7122,7 +7122,7 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "combatPower": 748435645,
-      "unionLevel": 9195,
+      "unionLevel": 9196,
       "leaveDetected": false
     },
     {
@@ -7427,8 +7427,8 @@
       "level": 283,
       "status": "new",
       "joinDate": "2026-06-30",
-      "combatPower": 58878517,
-      "unionLevel": 9129,
+      "combatPower": 63588798,
+      "unionLevel": 9133,
       "leaveDetected": false
     },
     {
@@ -7611,6 +7611,22 @@
     },
     {
       "characterName": "접허엉",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-07-05",
+      "leaveDetected": true
+    },
+    {
+      "characterName": "삼등",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
