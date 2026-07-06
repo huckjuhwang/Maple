@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-05T16:10:58.864Z",
+    "lastUpdated": "2026-07-06T07:25:43.327Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8322,7 +8322,7 @@
       "level": 0,
       "combatPower": 36855264,
       "unionLevel": 9077,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "술후Ll",

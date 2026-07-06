@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-01T15:10:46.988Z",
+    "lastUpdated": "2026-07-05T16:10:58.864Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -61,8 +61,8 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 294,
-      "combatPower": 248671900,
-      "unionLevel": 9690,
+      "combatPower": 231399781,
+      "unionLevel": 9691,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -79,7 +79,7 @@
       "memoHistory": [],
       "job": "바이퍼",
       "level": 292,
-      "combatPower": 550784997,
+      "combatPower": 571507401,
       "unionLevel": 8875,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -97,7 +97,7 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 292,
-      "combatPower": 250333448,
+      "combatPower": 434313699,
       "unionLevel": 9315,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -115,8 +115,8 @@
       "memoHistory": [],
       "job": "렌",
       "level": 293,
-      "combatPower": 229337907,
-      "unionLevel": 9082,
+      "combatPower": 515455383,
+      "unionLevel": 9132,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -133,7 +133,7 @@
       "memoHistory": [],
       "job": "아크메이지(불,독)",
       "level": 293,
-      "combatPower": 200746727,
+      "combatPower": 534537360,
       "unionLevel": 9796,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -151,7 +151,7 @@
       "memoHistory": [],
       "job": "칼리",
       "level": 293,
-      "combatPower": 397630630,
+      "combatPower": 505002880,
       "unionLevel": 9511,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -187,7 +187,7 @@
       "memoHistory": [],
       "job": "보우마스터",
       "level": 290,
-      "combatPower": 37931720,
+      "combatPower": 36095686,
       "unionLevel": 8702,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -205,8 +205,8 @@
       "memoHistory": [],
       "job": "보우마스터",
       "level": 294,
-      "combatPower": 326825911,
-      "unionLevel": 11184,
+      "combatPower": 322170271,
+      "unionLevel": 11185,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -223,7 +223,7 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 288,
-      "combatPower": 302831438,
+      "combatPower": 295651515,
       "unionLevel": 9442,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -241,7 +241,7 @@
       "memoHistory": [],
       "job": "아크메이지(썬,콜)",
       "level": 290,
-      "combatPower": 284122083,
+      "combatPower": 120869706,
       "unionLevel": 9531,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -276,9 +276,9 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "라라",
-      "level": 289,
-      "combatPower": 274083930,
-      "unionLevel": 9360,
+      "level": 290,
+      "combatPower": 281338550,
+      "unionLevel": 9361,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -295,7 +295,7 @@
       "memoHistory": [],
       "job": "소울마스터",
       "level": 291,
-      "combatPower": 310789304,
+      "combatPower": 308039139,
       "unionLevel": 9426,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -313,7 +313,7 @@
       "memoHistory": [],
       "job": "다크나이트",
       "level": 285,
-      "combatPower": 255294742,
+      "combatPower": 202945205,
       "unionLevel": 9796,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -349,7 +349,7 @@
       "memoHistory": [],
       "job": "제로",
       "level": 292,
-      "combatPower": 293102689,
+      "combatPower": 275431400,
       "unionLevel": 9289,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -385,8 +385,8 @@
       "memoHistory": [],
       "job": "아크메이지(썬,콜)",
       "level": 287,
-      "combatPower": 245385505,
-      "unionLevel": 10113,
+      "combatPower": 234000925,
+      "unionLevel": 10119,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -421,7 +421,7 @@
       "memoHistory": [],
       "job": "다크나이트",
       "level": 286,
-      "combatPower": 180645403,
+      "combatPower": 175532797,
       "unionLevel": 9430,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -439,7 +439,7 @@
       "memoHistory": [],
       "job": "섀도어",
       "level": 298,
-      "combatPower": 226532286,
+      "combatPower": 194694839,
       "unionLevel": 9487,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -493,7 +493,7 @@
       "memoHistory": [],
       "job": "나이트워커",
       "level": 287,
-      "combatPower": 151735782,
+      "combatPower": 200074639,
       "unionLevel": 10008,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -511,7 +511,7 @@
       "memoHistory": [],
       "job": "섀도어",
       "level": 288,
-      "combatPower": 196669088,
+      "combatPower": 205134151,
       "unionLevel": 9460,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -529,8 +529,8 @@
       "memoHistory": [],
       "job": "아델",
       "level": 296,
-      "combatPower": 273429489,
-      "unionLevel": 9652,
+      "combatPower": 276668935,
+      "unionLevel": 9656,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -565,7 +565,7 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 295,
-      "combatPower": 228570328,
+      "combatPower": 184730396,
       "unionLevel": 9707,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -583,8 +583,8 @@
       "memoHistory": [],
       "job": "나이트워커",
       "level": 295,
-      "combatPower": 230524882,
-      "unionLevel": 9348,
+      "combatPower": 448266029,
+      "unionLevel": 9398,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -601,7 +601,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 293,
-      "combatPower": 303025257,
+      "combatPower": 249225352,
       "unionLevel": 8906,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -637,7 +637,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 296,
-      "combatPower": 199458391,
+      "combatPower": 198892526,
       "unionLevel": 8947,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -655,7 +655,7 @@
       "memoHistory": [],
       "job": "팔라딘",
       "level": 292,
-      "combatPower": 338299447,
+      "combatPower": 144003137,
       "unionLevel": 9253,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -691,11 +691,11 @@
       "memoHistory": [],
       "job": "렌",
       "level": 293,
-      "combatPower": 160633607,
-      "unionLevel": 9475,
+      "combatPower": 387025443,
+      "unionLevel": 9525,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "메익두방",
@@ -709,8 +709,8 @@
       "memoHistory": [],
       "job": "섀도어",
       "level": 294,
-      "combatPower": 142299726,
-      "unionLevel": 9477,
+      "combatPower": 163105437,
+      "unionLevel": 9528,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -727,7 +727,7 @@
       "memoHistory": [],
       "job": "비숍",
       "level": 290,
-      "combatPower": 185822536,
+      "combatPower": 186100941,
       "unionLevel": 9085,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -745,8 +745,8 @@
       "memoHistory": [],
       "job": "신궁",
       "level": 285,
-      "combatPower": 26425676,
-      "unionLevel": 9475,
+      "combatPower": 61627697,
+      "unionLevel": 9525,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -763,7 +763,7 @@
       "memoHistory": [],
       "job": "섀도어",
       "level": 292,
-      "combatPower": 188788840,
+      "combatPower": 139357763,
       "unionLevel": 9830,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -817,7 +817,7 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 290,
-      "combatPower": 219184320,
+      "combatPower": 142749767,
       "unionLevel": 9203,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -835,7 +835,7 @@
       "memoHistory": [],
       "job": "아크메이지(썬,콜)",
       "level": 290,
-      "combatPower": 137142380,
+      "combatPower": 150776929,
       "unionLevel": 9427,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -853,7 +853,7 @@
       "memoHistory": [],
       "job": "다크나이트",
       "level": 291,
-      "combatPower": 311858547,
+      "combatPower": 314874022,
       "unionLevel": 10388,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -871,7 +871,7 @@
       "memoHistory": [],
       "job": "아델",
       "level": 292,
-      "combatPower": 152372619,
+      "combatPower": 148123729,
       "unionLevel": 9814,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -889,7 +889,7 @@
       "memoHistory": [],
       "job": "섀도어",
       "level": 296,
-      "combatPower": 219398884,
+      "combatPower": 213490063,
       "unionLevel": 10219,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -925,8 +925,8 @@
       "memoHistory": [],
       "job": "아델",
       "level": 290,
-      "combatPower": 113705335,
-      "unionLevel": 9475,
+      "combatPower": 108273055,
+      "unionLevel": 9525,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -997,7 +997,7 @@
       "memoHistory": [],
       "job": "데몬어벤져",
       "level": 287,
-      "combatPower": 129522714,
+      "combatPower": 204349273,
       "unionLevel": 9829,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1015,8 +1015,8 @@
       "memoHistory": [],
       "job": "아크메이지(불,독)",
       "level": 291,
-      "combatPower": 162509273,
-      "unionLevel": 9731,
+      "combatPower": 158899079,
+      "unionLevel": 9735,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1033,8 +1033,8 @@
       "memoHistory": [],
       "job": "렌",
       "level": 289,
-      "combatPower": 203590709,
-      "unionLevel": 9153,
+      "combatPower": 211237120,
+      "unionLevel": 9203,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1064,7 +1064,7 @@
       ],
       "job": "아델",
       "level": 298,
-      "combatPower": 132956860,
+      "combatPower": 124869906,
       "unionLevel": 9840,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1082,7 +1082,7 @@
       "memoHistory": [],
       "job": "엔젤릭버스터",
       "level": 290,
-      "combatPower": 121669526,
+      "combatPower": 118508272,
       "unionLevel": 9078,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1118,7 +1118,7 @@
       "memoHistory": [],
       "job": "와일드헌터",
       "level": 290,
-      "combatPower": 267370959,
+      "combatPower": 277028676,
       "unionLevel": 9509,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1154,7 +1154,7 @@
       "memoHistory": [],
       "job": "제로",
       "level": 291,
-      "combatPower": 419284249,
+      "combatPower": 412331741,
       "unionLevel": 9052,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1172,7 +1172,7 @@
       "memoHistory": [],
       "job": "바이퍼",
       "level": 289,
-      "combatPower": 103481661,
+      "combatPower": 101809906,
       "unionLevel": 9835,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1208,7 +1208,7 @@
       "memoHistory": [],
       "job": "패스파인더",
       "level": 281,
-      "combatPower": 117405112,
+      "combatPower": 128031184,
       "unionLevel": 9829,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1244,7 +1244,7 @@
       "memoHistory": [],
       "job": "듀얼블레이더",
       "level": 280,
-      "combatPower": 111082044,
+      "combatPower": 108369225,
       "unionLevel": 8519,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1262,7 +1262,7 @@
       "memoHistory": [],
       "job": "바이퍼",
       "level": 291,
-      "combatPower": 149997229,
+      "combatPower": 123884877,
       "unionLevel": 9483,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1298,7 +1298,7 @@
       "memoHistory": [],
       "job": "히어로",
       "level": 286,
-      "combatPower": 106426805,
+      "combatPower": 104619898,
       "unionLevel": 9494,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1352,7 +1352,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 288,
-      "combatPower": 123441986,
+      "combatPower": 121360477,
       "unionLevel": 9355,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1370,7 +1370,7 @@
       "memoHistory": [],
       "job": "아크메이지(썬,콜)",
       "level": 288,
-      "combatPower": 117046680,
+      "combatPower": 187125681,
       "unionLevel": 10100,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1388,7 +1388,7 @@
       "memoHistory": [],
       "job": "호영",
       "level": 288,
-      "combatPower": 106946568,
+      "combatPower": 107068077,
       "unionLevel": 8941,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1406,7 +1406,7 @@
       "memoHistory": [],
       "job": "나이트워커",
       "level": 293,
-      "combatPower": 122276990,
+      "combatPower": 117051477,
       "unionLevel": 9302,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1424,7 +1424,7 @@
       "memoHistory": [],
       "job": "아크",
       "level": 285,
-      "combatPower": 129433436,
+      "combatPower": 128044089,
       "unionLevel": 9157,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1442,7 +1442,7 @@
       "memoHistory": [],
       "job": "바이퍼",
       "level": 286,
-      "combatPower": 156661286,
+      "combatPower": 153978730,
       "unionLevel": 9213,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1478,7 +1478,7 @@
       "memoHistory": [],
       "job": "듀얼블레이더",
       "level": 285,
-      "combatPower": 173524619,
+      "combatPower": 167403821,
       "unionLevel": 9034,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1496,7 +1496,7 @@
       "memoHistory": [],
       "job": "나이트워커",
       "level": 282,
-      "combatPower": 112806430,
+      "combatPower": 108666745,
       "unionLevel": 9856,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1514,7 +1514,7 @@
       "memoHistory": [],
       "job": "아란",
       "level": 289,
-      "combatPower": 79889186,
+      "combatPower": 78255461,
       "unionLevel": 9526,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1532,8 +1532,8 @@
       "memoHistory": [],
       "job": "일리움",
       "level": 290,
-      "combatPower": 184016581,
-      "unionLevel": 10199,
+      "combatPower": 182542089,
+      "unionLevel": 10238,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1550,7 +1550,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 291,
-      "combatPower": 180193525,
+      "combatPower": 185462043,
       "unionLevel": 9000,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1568,8 +1568,8 @@
       "memoHistory": [],
       "job": "듀얼블레이더",
       "level": 283,
-      "combatPower": 142225167,
-      "unionLevel": 8891,
+      "combatPower": 98306595,
+      "unionLevel": 8907,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1586,8 +1586,8 @@
       "memoHistory": [],
       "job": "제논",
       "level": 291,
-      "combatPower": 146691111,
-      "unionLevel": 8836,
+      "combatPower": 367317947,
+      "unionLevel": 8842,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1622,7 +1622,7 @@
       "memoHistory": [],
       "job": "메르세데스",
       "level": 285,
-      "combatPower": 90390655,
+      "combatPower": 92142787,
       "unionLevel": 9426,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1658,7 +1658,7 @@
       "memoHistory": [],
       "job": "아크",
       "level": 284,
-      "combatPower": 101226560,
+      "combatPower": 127826312,
       "unionLevel": 9296,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1712,7 +1712,7 @@
       "memoHistory": [],
       "job": "데몬슬레이어",
       "level": 288,
-      "combatPower": 138584791,
+      "combatPower": 137469348,
       "unionLevel": 9082,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1730,7 +1730,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 288,
-      "combatPower": 121294190,
+      "combatPower": 120571665,
       "unionLevel": 9637,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1748,7 +1748,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 288,
-      "combatPower": 154841748,
+      "combatPower": 149706661,
       "unionLevel": 8616,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1766,7 +1766,7 @@
       "memoHistory": [],
       "job": "아크",
       "level": 285,
-      "combatPower": 115049704,
+      "combatPower": 124141684,
       "unionLevel": 9355,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1802,7 +1802,7 @@
       "memoHistory": [],
       "job": "아델",
       "level": 285,
-      "combatPower": 31814212,
+      "combatPower": 31583197,
       "unionLevel": 9396,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1820,8 +1820,8 @@
       "memoHistory": [],
       "job": "아델",
       "level": 288,
-      "combatPower": 105845460,
-      "unionLevel": 9527,
+      "combatPower": 165286679,
+      "unionLevel": 9567,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1856,8 +1856,8 @@
       "memoHistory": [],
       "job": "렌",
       "level": 285,
-      "combatPower": 73853068,
-      "unionLevel": 9688,
+      "combatPower": 120872176,
+      "unionLevel": 9731,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1874,7 +1874,7 @@
       "memoHistory": [],
       "job": "아크메이지(불,독)",
       "level": 291,
-      "combatPower": 97375384,
+      "combatPower": 98384404,
       "unionLevel": 8834,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1928,8 +1928,8 @@
       "memoHistory": [],
       "job": "렌",
       "level": 285,
-      "combatPower": 118300427,
-      "unionLevel": 7554,
+      "combatPower": 123711171,
+      "unionLevel": 7604,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1946,7 +1946,7 @@
       "memoHistory": [],
       "job": "아델",
       "level": 289,
-      "combatPower": 69564543,
+      "combatPower": 70228198,
       "unionLevel": 10279,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1964,8 +1964,8 @@
       "memoHistory": [],
       "job": "아크메이지(불,독)",
       "level": 297,
-      "combatPower": 130634754,
-      "unionLevel": 9531,
+      "combatPower": 162561806,
+      "unionLevel": 9561,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1982,7 +1982,7 @@
       "memoHistory": [],
       "job": "아델",
       "level": 288,
-      "combatPower": 114607189,
+      "combatPower": 67894941,
       "unionLevel": 9702,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2054,7 +2054,7 @@
       "memoHistory": [],
       "job": "소울마스터",
       "level": 280,
-      "combatPower": 58361743,
+      "combatPower": 52081144,
       "unionLevel": 9858,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2090,7 +2090,7 @@
       "memoHistory": [],
       "job": "아크",
       "level": 285,
-      "combatPower": 91867720,
+      "combatPower": 89649537,
       "unionLevel": 9637,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2108,11 +2108,11 @@
       "memoHistory": [],
       "job": "렌",
       "level": 284,
-      "combatPower": 85199963,
+      "combatPower": 82199964,
       "unionLevel": 9126,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "상암벌광전사",
@@ -2162,7 +2162,7 @@
       "memoHistory": [],
       "job": "캐논마스터",
       "level": 286,
-      "combatPower": 163448529,
+      "combatPower": 218414290,
       "unionLevel": 9490,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2252,7 +2252,7 @@
       "memoHistory": [],
       "job": "라라",
       "level": 285,
-      "combatPower": 72362427,
+      "combatPower": 60271761,
       "unionLevel": 9858,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2306,7 +2306,7 @@
       "memoHistory": [],
       "job": "섀도어",
       "level": 283,
-      "combatPower": 66859127,
+      "combatPower": 67238798,
       "unionLevel": 9098,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2342,7 +2342,7 @@
       "memoHistory": [],
       "job": "호영",
       "level": 290,
-      "combatPower": 140199023,
+      "combatPower": 144174185,
       "unionLevel": 9228,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2378,7 +2378,7 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 288,
-      "combatPower": 69277401,
+      "combatPower": 73553362,
       "unionLevel": 9594,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2396,8 +2396,8 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 285,
-      "combatPower": 71522808,
-      "unionLevel": 9652,
+      "combatPower": 70658230,
+      "unionLevel": 9656,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -2450,8 +2450,8 @@
       "memoHistory": [],
       "job": "렌",
       "level": 290,
-      "combatPower": 124706749,
-      "unionLevel": 8974,
+      "combatPower": 128338615,
+      "unionLevel": 9045,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -2468,7 +2468,7 @@
       "memoHistory": [],
       "job": "데몬어벤져",
       "level": 293,
-      "combatPower": 346418629,
+      "combatPower": 333329925,
       "unionLevel": 9259,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2522,7 +2522,7 @@
       "memoHistory": [],
       "job": "나이트로드",
       "level": 286,
-      "combatPower": 119345420,
+      "combatPower": 115258248,
       "unionLevel": 8617,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2594,8 +2594,8 @@
       "memoHistory": [],
       "job": "나이트로드",
       "level": 282,
-      "combatPower": 69724051,
-      "unionLevel": 9477,
+      "combatPower": 123501689,
+      "unionLevel": 9528,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -2630,7 +2630,7 @@
       "memoHistory": [],
       "job": "아크메이지(썬,콜)",
       "level": 289,
-      "combatPower": 182084802,
+      "combatPower": 179653751,
       "unionLevel": 9069,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2684,7 +2684,7 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 284,
-      "combatPower": 95426124,
+      "combatPower": 100113778,
       "unionLevel": 8875,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2702,7 +2702,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 283,
-      "combatPower": 44871911,
+      "combatPower": 61662026,
       "unionLevel": 8913,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2774,7 +2774,7 @@
       "memoHistory": [],
       "job": "섀도어",
       "level": 284,
-      "combatPower": 56297288,
+      "combatPower": 46714879,
       "unionLevel": 5756,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2810,7 +2810,7 @@
       "memoHistory": [],
       "job": "보우마스터",
       "level": 282,
-      "combatPower": 66683076,
+      "combatPower": 63933258,
       "unionLevel": 3721,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2846,7 +2846,7 @@
       "memoHistory": [],
       "job": "배틀메이지",
       "level": 285,
-      "combatPower": 94705951,
+      "combatPower": 66905824,
       "unionLevel": 8752,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2882,8 +2882,8 @@
       "memoHistory": [],
       "job": "보우마스터",
       "level": 292,
-      "combatPower": 160645992,
-      "unionLevel": 9943,
+      "combatPower": 158316658,
+      "unionLevel": 9985,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -3134,7 +3134,7 @@
       "memoHistory": [],
       "job": "스트라이커",
       "level": 282,
-      "combatPower": 36749392,
+      "combatPower": 40173018,
       "unionLevel": 9594,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3206,7 +3206,7 @@
       "memoHistory": [],
       "job": "소울마스터",
       "level": 288,
-      "combatPower": 102708831,
+      "combatPower": 170092931,
       "unionLevel": 9068,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3224,7 +3224,7 @@
       "memoHistory": [],
       "job": "라라",
       "level": 283,
-      "combatPower": 23305177,
+      "combatPower": 29592727,
       "unionLevel": 6622,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3260,7 +3260,7 @@
       "memoHistory": [],
       "job": "윈드브레이커",
       "level": 281,
-      "combatPower": 24668927,
+      "combatPower": 19008283,
       "unionLevel": 8969,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3386,7 +3386,7 @@
       "memoHistory": [],
       "job": "나이트로드",
       "level": 281,
-      "combatPower": 18831101,
+      "combatPower": 14519069,
       "unionLevel": 1869,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -3569,7 +3569,7 @@
       "job": "아크메이지(썬,콜)",
       "level": 289,
       "leaveDetected": false,
-      "combatPower": 73588465,
+      "combatPower": 73128368,
       "unionLevel": 9494
     },
     {
@@ -3586,7 +3586,7 @@
       "level": 281,
       "status": "new",
       "joinDate": "2026-04-11",
-      "combatPower": 27537818,
+      "combatPower": 26539313,
       "unionLevel": 9306,
       "leaveDetected": false
     },
@@ -3623,7 +3623,7 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false,
-      "combatPower": 83470194,
+      "combatPower": 111561859,
       "unionLevel": 9079
     },
     {
@@ -3641,7 +3641,7 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false,
-      "combatPower": 47052634,
+      "combatPower": 46213906,
       "unionLevel": 9035
     },
     {
@@ -3659,7 +3659,7 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false,
-      "combatPower": 224366102,
+      "combatPower": 223404839,
       "unionLevel": 8846
     },
     {
@@ -3677,7 +3677,7 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false,
-      "combatPower": 35578604,
+      "combatPower": 33455947,
       "unionLevel": 8666
     },
     {
@@ -3695,8 +3695,8 @@
       "status": "new",
       "joinDate": "2026-04-16",
       "leaveDetected": false,
-      "combatPower": 132004875,
-      "unionLevel": 8706
+      "combatPower": 122949895,
+      "unionLevel": 8756
     },
     {
       "characterName": "일니솔",
@@ -3743,11 +3743,11 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "렌",
-      "level": 281,
+      "level": 282,
       "status": "new",
       "joinDate": "2026-04-16",
-      "combatPower": 25953551,
-      "unionLevel": 6564,
+      "combatPower": 39948620,
+      "unionLevel": 6717,
       "leaveDetected": false
     },
     {
@@ -3762,8 +3762,8 @@
       "memoHistory": [],
       "job": "제로",
       "level": 285,
-      "combatPower": 69225711,
-      "unionLevel": 7289,
+      "combatPower": 67059217,
+      "unionLevel": 8478,
       "status": "new",
       "joinDate": "2026-04-21",
       "leaveDetected": false
@@ -3782,7 +3782,7 @@
       "level": 288,
       "status": "new",
       "joinDate": "2026-04-23",
-      "combatPower": 218012542,
+      "combatPower": 184739617,
       "unionLevel": 9579,
       "leaveDetected": false
     },
@@ -3836,7 +3836,7 @@
       "level": 290,
       "status": "new",
       "joinDate": "2026-05-04",
-      "combatPower": 108724127,
+      "combatPower": 206821732,
       "unionLevel": 8983,
       "leaveDetected": false
     },
@@ -3891,8 +3891,8 @@
       "status": "new",
       "joinDate": "2026-05-15",
       "leaveDetected": false,
-      "combatPower": 64008055,
-      "unionLevel": 8987
+      "combatPower": 65662841,
+      "unionLevel": 9037
     },
     {
       "characterName": "요베륜",
@@ -3926,7 +3926,7 @@
       "level": 283,
       "status": "new",
       "joinDate": "2026-05-18",
-      "combatPower": 42436434,
+      "combatPower": 60244148,
       "unionLevel": 6694,
       "leaveDetected": false
     },
@@ -3962,7 +3962,7 @@
       "level": 285,
       "status": "new",
       "joinDate": "2026-05-23",
-      "combatPower": 130022963,
+      "combatPower": 67429879,
       "unionLevel": 9161,
       "leaveDetected": false
     },
@@ -3993,12 +3993,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "은월",
-      "level": 280,
+      "level": 281,
       "status": "new",
       "joinDate": "2026-05-24",
       "leaveDetected": false,
-      "combatPower": 21030445,
-      "unionLevel": 6075
+      "combatPower": 33859944,
+      "unionLevel": 6327
     },
     {
       "characterName": "지인범학",
@@ -4014,7 +4014,7 @@
       "level": 282,
       "status": "new",
       "joinDate": "2026-05-26",
-      "combatPower": 59522494,
+      "combatPower": 57408871,
       "unionLevel": 8145,
       "leaveDetected": false
     },
@@ -4047,12 +4047,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "데몬어벤져",
-      "level": 280,
+      "level": 281,
       "status": "new",
       "joinDate": "2026-06-04",
       "leaveDetected": false,
-      "combatPower": 109313009,
-      "unionLevel": 9688
+      "combatPower": 41180269,
+      "unionLevel": 9732
     },
     {
       "characterName": "한2현",
@@ -4087,8 +4087,8 @@
       "status": "new",
       "joinDate": "2026-06-04",
       "leaveDetected": false,
-      "combatPower": 19405555,
-      "unionLevel": 9684
+      "combatPower": 23527123,
+      "unionLevel": 9731
     },
     {
       "characterName": "앵스바리",
@@ -4105,7 +4105,7 @@
       "status": "new",
       "joinDate": "2026-06-05",
       "leaveDetected": false,
-      "combatPower": 31609090,
+      "combatPower": 30423948,
       "unionLevel": 7816
     },
     {
@@ -4123,7 +4123,7 @@
       "status": "new",
       "joinDate": "2026-06-05",
       "leaveDetected": false,
-      "combatPower": 26495495,
+      "combatPower": 28084230,
       "unionLevel": 7683
     },
     {
@@ -4140,8 +4140,8 @@
       "level": 290,
       "status": "new",
       "joinDate": "2026-06-06",
-      "combatPower": 266417542,
-      "unionLevel": 9147,
+      "combatPower": 246847087,
+      "unionLevel": 9148,
       "leaveDetected": false
     },
     {
@@ -4159,7 +4159,7 @@
       "status": "new",
       "joinDate": "2026-06-08",
       "leaveDetected": false,
-      "combatPower": 114811259,
+      "combatPower": 124320713,
       "unionLevel": 8665
     },
     {
@@ -4176,7 +4176,7 @@
       "level": 278,
       "status": "new",
       "joinDate": "2026-06-08",
-      "combatPower": 4114362,
+      "combatPower": 3837301,
       "unionLevel": 8787,
       "leaveDetected": false
     },
@@ -4195,7 +4195,7 @@
       "status": "new",
       "joinDate": "2026-06-17",
       "leaveDetected": false,
-      "combatPower": 155935639,
+      "combatPower": 151915264,
       "unionLevel": 8692
     },
     {
@@ -4213,8 +4213,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 60073376,
-      "unionLevel": 9348
+      "combatPower": 26782117,
+      "unionLevel": 9398
     },
     {
       "characterName": "크앍바퍼",
@@ -4231,7 +4231,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 87381817,
+      "combatPower": 84503689,
       "unionLevel": 9442
     },
     {
@@ -4249,7 +4249,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 61414430,
+      "combatPower": 68333743,
       "unionLevel": 9442
     },
     {
@@ -4267,7 +4267,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 27355518,
+      "combatPower": 28972211,
       "unionLevel": 9550
     },
     {
@@ -4285,7 +4285,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 12252355,
+      "combatPower": 20779858,
       "unionLevel": 9550
     },
     {
@@ -4303,7 +4303,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 237032789,
+      "combatPower": 214304554,
       "unionLevel": 9550
     },
     {
@@ -4321,7 +4321,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 142647345,
+      "combatPower": 120938960,
       "unionLevel": 9550
     },
     {
@@ -4339,7 +4339,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 90312221,
+      "combatPower": 72143502,
       "unionLevel": 9430
     },
     {
@@ -4357,7 +4357,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 73419872,
+      "combatPower": 70670064,
       "unionLevel": 9430
     },
     {
@@ -4375,7 +4375,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 87897854,
+      "combatPower": 85424181,
       "unionLevel": 9430
     },
     {
@@ -4393,7 +4393,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 97322162,
+      "combatPower": 69782838,
       "unionLevel": 9430
     },
     {
@@ -4411,7 +4411,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 70644186,
+      "combatPower": 68121180,
       "unionLevel": 9430
     },
     {
@@ -4465,8 +4465,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 342811570,
-      "unionLevel": 11184
+      "combatPower": 332892357,
+      "unionLevel": 11185
     },
     {
       "characterName": "얌실피드",
@@ -4483,8 +4483,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 360644005,
-      "unionLevel": 11184
+      "combatPower": 363446778,
+      "unionLevel": 11185
     },
     {
       "characterName": "효실피드",
@@ -4501,8 +4501,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 151008162,
-      "unionLevel": 11184
+      "combatPower": 342622394,
+      "unionLevel": 11185
     },
     {
       "characterName": "썬실피드",
@@ -4519,8 +4519,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 180298605,
-      "unionLevel": 11183
+      "combatPower": 177389994,
+      "unionLevel": 11185
     },
     {
       "characterName": "렌실피드",
@@ -4537,8 +4537,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 287692882,
-      "unionLevel": 11184
+      "combatPower": 286556690,
+      "unionLevel": 11185
     },
     {
       "characterName": "듀실피드",
@@ -4555,8 +4555,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 351519326,
-      "unionLevel": 11184
+      "combatPower": 355949010,
+      "unionLevel": 11185
     },
     {
       "characterName": "렌로봉",
@@ -4573,7 +4573,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 164781398,
+      "combatPower": 157166322,
       "unionLevel": 9001
     },
     {
@@ -4591,7 +4591,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 149188640,
+      "combatPower": 149497559,
       "unionLevel": 9001
     },
     {
@@ -4645,7 +4645,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 69331592,
+      "combatPower": 61134596,
       "unionLevel": 9483
     },
     {
@@ -4663,7 +4663,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 26110244,
+      "combatPower": 34468446,
       "unionLevel": 9483
     },
     {
@@ -4681,7 +4681,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 71563717,
+      "combatPower": 53839466,
       "unionLevel": 9483
     },
     {
@@ -4695,12 +4695,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "은월",
-      "level": 279,
+      "level": 280,
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 130116159,
-      "unionLevel": 9690
+      "combatPower": 154849205,
+      "unionLevel": 9691
     },
     {
       "characterName": "이필립",
@@ -4717,8 +4717,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 164547365,
-      "unionLevel": 9690
+      "combatPower": 159999814,
+      "unionLevel": 9691
     },
     {
       "characterName": "로보릭",
@@ -4753,8 +4753,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 130474726,
-      "unionLevel": 9690
+      "combatPower": 126330575,
+      "unionLevel": 9691
     },
     {
       "characterName": "로보궁",
@@ -4771,8 +4771,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 147215470,
-      "unionLevel": 9690
+      "combatPower": 142480504,
+      "unionLevel": 9691
     },
     {
       "characterName": "윤린",
@@ -4789,7 +4789,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 124398709,
+      "combatPower": 122261274,
       "unionLevel": 9052
     },
     {
@@ -4807,7 +4807,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 79946409,
+      "combatPower": 60886019,
       "unionLevel": 8947
     },
     {
@@ -4825,7 +4825,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 120370920,
+      "combatPower": 117430262,
       "unionLevel": 8947
     },
     {
@@ -4843,7 +4843,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 22983606,
+      "combatPower": 22014231,
       "unionLevel": 9840
     },
     {
@@ -4861,7 +4861,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 67112508,
+      "combatPower": 65225510,
       "unionLevel": 9840
     },
     {
@@ -4896,7 +4896,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 143529729,
+      "combatPower": 164531892,
       "unionLevel": 9511
     },
     {
@@ -4914,7 +4914,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 96051391,
+      "combatPower": 97509638,
       "unionLevel": 9511
     },
     {
@@ -4932,8 +4932,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 86807613,
-      "unionLevel": 9477
+      "combatPower": 86298805,
+      "unionLevel": 9528
     },
     {
       "characterName": "weriat",
@@ -4950,7 +4950,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 14558218,
+      "combatPower": 13976166,
       "unionLevel": 9531
     },
     {
@@ -4968,7 +4968,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 25795088,
+      "combatPower": 25335146,
       "unionLevel": 9531
     },
     {
@@ -4986,8 +4986,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 69620623,
-      "unionLevel": 9477
+      "combatPower": 96174399,
+      "unionLevel": 9528
     },
     {
       "characterName": "깅며누",
@@ -5004,7 +5004,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 55853262,
+      "combatPower": 54534137,
       "unionLevel": 9773
     },
     {
@@ -5022,8 +5022,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 17884407,
-      "unionLevel": 9731
+      "combatPower": 15960302,
+      "unionLevel": 9773
     },
     {
       "characterName": "깅혀눙",
@@ -5040,8 +5040,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 42910539,
-      "unionLevel": 9731
+      "combatPower": 40079734,
+      "unionLevel": 9773
     },
     {
       "characterName": "렌며누",
@@ -5076,7 +5076,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 210766376,
+      "combatPower": 207086418,
       "unionLevel": 9253
     },
     {
@@ -5166,7 +5166,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 82583340,
+      "combatPower": 86060533,
       "unionLevel": 9427
     },
     {
@@ -5184,7 +5184,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 70923014,
+      "combatPower": 77921988,
       "unionLevel": 9427
     },
     {
@@ -5202,7 +5202,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 58914585,
+      "combatPower": 91309680,
       "unionLevel": 9594
     },
     {
@@ -5220,7 +5220,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 29746375,
+      "combatPower": 46237352,
       "unionLevel": 9594
     },
     {
@@ -5238,8 +5238,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 19389632,
-      "unionLevel": 9475
+      "combatPower": 19427445,
+      "unionLevel": 9525
     },
     {
       "characterName": "제카니움",
@@ -5256,8 +5256,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 110227947,
-      "unionLevel": 9475
+      "combatPower": 109570932,
+      "unionLevel": 9525
     },
     {
       "characterName": "메르키우네",
@@ -5292,7 +5292,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 2204899,
+      "combatPower": 2062648,
       "unionLevel": 1869
     },
     {
@@ -5400,8 +5400,8 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 84810045,
-      "unionLevel": 9527
+      "combatPower": 84687327,
+      "unionLevel": 9567
     },
     {
       "characterName": "렌senJ",
@@ -5418,7 +5418,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 189356910,
+      "combatPower": 171386966,
       "unionLevel": 10219
     },
     {
@@ -5436,8 +5436,8 @@
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 54457148,
-      "unionLevel": 9475
+      "combatPower": 55391885,
+      "unionLevel": 9525
     },
     {
       "characterName": "아만도쿄",
@@ -5450,12 +5450,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "렌",
-      "level": 262,
+      "level": 264,
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 10196392,
-      "unionLevel": 9194
+      "combatPower": 159635703,
+      "unionLevel": 9196
     },
     {
       "characterName": "GeniusAct",
@@ -5489,8 +5489,8 @@
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 189698352,
-      "unionLevel": 9182
+      "combatPower": 186770614,
+      "unionLevel": 9194
     },
     {
       "characterName": "마스터에구",
@@ -5525,7 +5525,7 @@
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 67555127,
+      "combatPower": 67637459,
       "unionLevel": 9157
     },
     {
@@ -5543,7 +5543,7 @@
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 33403997,
+      "combatPower": 32889476,
       "unionLevel": 9228
     },
     {
@@ -5610,12 +5610,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "데몬어벤져",
-      "level": 233,
+      "level": 234,
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 1631465,
-      "unionLevel": 6075
+      "combatPower": 2147195,
+      "unionLevel": 6327
     },
     {
       "characterName": "R0TT",
@@ -5632,8 +5632,8 @@
       "status": "new",
       "joinDate": "2026-06-19",
       "leaveDetected": false,
-      "combatPower": 4039578,
-      "unionLevel": 6074
+      "combatPower": 4413725,
+      "unionLevel": 6327
     },
     {
       "characterName": "정마담난시",
@@ -5668,7 +5668,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 146328786,
+      "combatPower": 130432754,
       "unionLevel": 10219
     },
     {
@@ -5686,7 +5686,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 119951222,
+      "combatPower": 107803100,
       "unionLevel": 10219
     },
     {
@@ -5704,7 +5704,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 174625101,
+      "combatPower": 167266257,
       "unionLevel": 10219
     },
     {
@@ -5721,7 +5721,7 @@
       "level": 280,
       "status": "new",
       "joinDate": "2026-06-20",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 66169251,
       "unionLevel": 9188
     },
@@ -5739,7 +5739,7 @@
       "level": 284,
       "status": "new",
       "joinDate": "2026-06-20",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 160052021,
       "unionLevel": 9188
     },
@@ -5758,7 +5758,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 100568696,
+      "combatPower": 112336702,
       "unionLevel": 9769
     },
     {
@@ -5776,7 +5776,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 19353700,
+      "combatPower": 19264032,
       "unionLevel": 9769
     },
     {
@@ -5794,7 +5794,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 19065927,
+      "combatPower": 17851300,
       "unionLevel": 9769
     },
     {
@@ -5813,7 +5813,7 @@
       "joinDate": "2026-06-20",
       "leaveDetected": false,
       "combatPower": 37221815,
-      "unionLevel": 9759
+      "unionLevel": 9769
     },
     {
       "characterName": "괴도슥홍",
@@ -5830,7 +5830,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 46002274,
+      "combatPower": 40270708,
       "unionLevel": 9494
     },
     {
@@ -5848,8 +5848,8 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 123229593,
-      "unionLevel": 9531
+      "combatPower": 114456382,
+      "unionLevel": 9561
     },
     {
       "characterName": "폭마령",
@@ -5866,8 +5866,8 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 8843849,
-      "unionLevel": 9531
+      "combatPower": 25474468,
+      "unionLevel": 9561
     },
     {
       "characterName": "새벽의키드",
@@ -5901,7 +5901,7 @@
       "level": 285,
       "status": "new",
       "joinDate": "2026-06-20",
-      "combatPower": 129263025,
+      "combatPower": 124963786,
       "unionLevel": 9829,
       "leaveDetected": false
     },
@@ -5920,8 +5920,8 @@
       "status": "new",
       "joinDate": "2026-06-21",
       "leaveDetected": false,
-      "combatPower": 103123806,
-      "unionLevel": 9115
+      "combatPower": 73724807,
+      "unionLevel": 9121
     },
     {
       "characterName": "어모로띠",
@@ -5938,7 +5938,7 @@
       "status": "new",
       "joinDate": "2026-06-21",
       "leaveDetected": false,
-      "combatPower": 45092884,
+      "combatPower": 43137055,
       "unionLevel": 10008
     },
     {
@@ -5956,7 +5956,7 @@
       "status": "new",
       "joinDate": "2026-06-21",
       "leaveDetected": false,
-      "combatPower": 5137148,
+      "combatPower": 5376203,
       "unionLevel": 8913
     },
     {
@@ -5974,7 +5974,7 @@
       "status": "new",
       "joinDate": "2026-06-21",
       "leaveDetected": false,
-      "combatPower": 19832626,
+      "combatPower": 21696531,
       "unionLevel": 8913
     },
     {
@@ -5991,7 +5991,7 @@
       "level": 273,
       "status": "new",
       "joinDate": "2026-06-21",
-      "combatPower": 12175556,
+      "combatPower": 10095605,
       "unionLevel": 8969,
       "leaveDetected": false
     },
@@ -6006,12 +6006,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "팔라딘",
-      "level": 289,
+      "level": 290,
       "status": "new",
       "joinDate": "2026-06-22",
       "leaveDetected": false,
-      "combatPower": 171481039,
-      "unionLevel": 9247
+      "combatPower": 174107730,
+      "unionLevel": 9248
     },
     {
       "characterName": "뚱넝이",
@@ -6046,7 +6046,7 @@
       "status": "new",
       "joinDate": "2026-06-22",
       "leaveDetected": false,
-      "combatPower": 98065132,
+      "combatPower": 94370231,
       "unionLevel": 8983
     },
     {
@@ -6063,7 +6063,7 @@
       "level": 262,
       "status": "new",
       "joinDate": "2026-06-22",
-      "combatPower": 3839823,
+      "combatPower": 3689532,
       "leaveDetected": false,
       "unionLevel": 9082
     },
@@ -6081,7 +6081,7 @@
       "level": 277,
       "status": "new",
       "joinDate": "2026-06-22",
-      "combatPower": 19598972,
+      "combatPower": 17168277,
       "unionLevel": 9082,
       "leaveDetected": false
     },
@@ -6100,7 +6100,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 173507055,
+      "combatPower": 169990951,
       "unionLevel": 9296
     },
     {
@@ -6118,7 +6118,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 27458825,
+      "combatPower": 30062938,
       "unionLevel": 10184
     },
     {
@@ -6154,7 +6154,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 77126747,
+      "combatPower": 82820177,
       "unionLevel": 10184
     },
     {
@@ -6172,7 +6172,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 48259825,
+      "combatPower": 35817587,
       "unionLevel": 10184
     },
     {
@@ -6190,7 +6190,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 78185215,
+      "combatPower": 65775389,
       "unionLevel": 9037
     },
     {
@@ -6208,7 +6208,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 105043263,
+      "combatPower": 104731812,
       "unionLevel": 9000
     },
     {
@@ -6226,7 +6226,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 111328162,
+      "combatPower": 109929191,
       "unionLevel": 8830
     },
     {
@@ -6244,7 +6244,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 24700475,
+      "combatPower": 25796697,
       "unionLevel": 8830
     },
     {
@@ -6262,7 +6262,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 62684399,
+      "combatPower": 69280435,
       "unionLevel": 9829
     },
     {
@@ -6280,7 +6280,7 @@
       "status": "new",
       "joinDate": "2026-06-23",
       "leaveDetected": false,
-      "combatPower": 44670012,
+      "combatPower": 40535489,
       "unionLevel": 9829
     },
     {
@@ -6298,7 +6298,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 63557786,
+      "combatPower": 59209874,
       "unionLevel": 9579
     },
     {
@@ -6316,7 +6316,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 86139895,
+      "combatPower": 89045924,
       "unionLevel": 9579
     },
     {
@@ -6334,7 +6334,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 67645054,
+      "combatPower": 56873028,
       "unionLevel": 8911
     },
     {
@@ -6352,7 +6352,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 86020053,
+      "combatPower": 84024230,
       "unionLevel": 9027
     },
     {
@@ -6370,7 +6370,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 404977,
+      "combatPower": 382162,
       "unionLevel": 9027
     },
     {
@@ -6424,7 +6424,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 48167930,
+      "combatPower": 50797219,
       "unionLevel": 9396
     },
     {
@@ -6442,7 +6442,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 62510012,
+      "combatPower": 66844574,
       "unionLevel": 10279
     },
     {
@@ -6460,7 +6460,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 45082728,
+      "combatPower": 48205369,
       "unionLevel": 10279
     },
     {
@@ -6496,7 +6496,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 148452132,
+      "combatPower": 151406515,
       "unionLevel": 9796
     },
     {
@@ -6514,7 +6514,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 163247027,
+      "combatPower": 164591901,
       "unionLevel": 9796
     },
     {
@@ -6532,7 +6532,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 75198866,
+      "combatPower": 64472941,
       "unionLevel": 9079
     },
     {
@@ -6550,7 +6550,7 @@
       "status": "new",
       "joinDate": "2026-06-25",
       "leaveDetected": false,
-      "combatPower": 101602884,
+      "combatPower": 110683758,
       "unionLevel": 9345
     },
     {
@@ -6568,7 +6568,7 @@
       "status": "new",
       "joinDate": "2026-06-25",
       "leaveDetected": false,
-      "combatPower": 72162850,
+      "combatPower": 70798712,
       "unionLevel": 9345
     },
     {
@@ -6604,7 +6604,7 @@
       "status": "new",
       "joinDate": "2026-06-25",
       "leaveDetected": false,
-      "combatPower": 6084276,
+      "combatPower": 6814771,
       "unionLevel": 8913
     },
     {
@@ -6640,7 +6640,7 @@
       "status": "new",
       "joinDate": "2026-06-25",
       "leaveDetected": false,
-      "combatPower": 69478293,
+      "combatPower": 68263638,
       "unionLevel": 8519
     },
     {
@@ -6657,7 +6657,7 @@
       "level": 286,
       "status": "new",
       "joinDate": "2026-06-25",
-      "combatPower": 157764005,
+      "combatPower": 137775391,
       "unionLevel": 9856,
       "leaveDetected": false
     },
@@ -6676,8 +6676,8 @@
       "status": "new",
       "joinDate": "2026-06-25",
       "leaveDetected": false,
-      "combatPower": 121822498,
-      "unionLevel": 9652
+      "combatPower": 129564420,
+      "unionLevel": 9656
     },
     {
       "characterName": "죤낸",
@@ -6694,7 +6694,7 @@
       "status": "new",
       "joinDate": "2026-06-26",
       "leaveDetected": false,
-      "combatPower": 20000580,
+      "combatPower": 19615954,
       "unionLevel": 9490
     },
     {
@@ -6730,8 +6730,8 @@
       "status": "new",
       "joinDate": "2026-06-26",
       "leaveDetected": false,
-      "combatPower": 104136921,
-      "unionLevel": 9288
+      "combatPower": 103845455,
+      "unionLevel": 9289
     },
     {
       "characterName": "다희스메셔",
@@ -6748,7 +6748,7 @@
       "status": "new",
       "joinDate": "2026-06-26",
       "leaveDetected": false,
-      "combatPower": 56787872,
+      "combatPower": 59746976,
       "unionLevel": 9289
     },
     {
@@ -6820,7 +6820,7 @@
       "status": "new",
       "joinDate": "2026-06-26",
       "leaveDetected": false,
-      "combatPower": 96264582,
+      "combatPower": 85516992,
       "unionLevel": 9426
     },
     {
@@ -6838,7 +6838,7 @@
       "status": "new",
       "joinDate": "2026-06-26",
       "leaveDetected": false,
-      "combatPower": 168473181,
+      "combatPower": 123126299,
       "unionLevel": 9426
     },
     {
@@ -6855,7 +6855,7 @@
       "level": 297,
       "status": "new",
       "joinDate": "2026-06-26",
-      "combatPower": 224720920,
+      "combatPower": 220812730,
       "unionLevel": 9773,
       "leaveDetected": false
     },
@@ -6908,8 +6908,8 @@
       "status": "new",
       "joinDate": "2026-06-27",
       "leaveDetected": false,
-      "combatPower": 100738182,
-      "unionLevel": 10113
+      "combatPower": 95936386,
+      "unionLevel": 10119
     },
     {
       "characterName": "다동탱",
@@ -6926,8 +6926,8 @@
       "status": "new",
       "joinDate": "2026-06-27",
       "leaveDetected": false,
-      "combatPower": 46336771,
-      "unionLevel": 10113
+      "combatPower": 44855963,
+      "unionLevel": 10119
     },
     {
       "characterName": "귤루돌",
@@ -6961,8 +6961,8 @@
       "level": 286,
       "status": "new",
       "joinDate": "2026-06-27",
-      "combatPower": 196715269,
-      "unionLevel": 9080,
+      "combatPower": 195737444,
+      "unionLevel": 9133,
       "leaveDetected": false
     },
     {
@@ -6980,7 +6980,7 @@
       "status": "new",
       "joinDate": "2026-06-27",
       "leaveDetected": false,
-      "combatPower": 79651266,
+      "combatPower": 77302153,
       "unionLevel": 10100
     },
     {
@@ -7014,7 +7014,7 @@
       "status": "new",
       "joinDate": "2026-06-27",
       "leaveDetected": false,
-      "combatPower": 42119034,
+      "combatPower": 38325342,
       "unionLevel": 10100
     },
     {
@@ -7050,8 +7050,8 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 124019921,
-      "unionLevel": 9147
+      "combatPower": 125982412,
+      "unionLevel": 9148
     },
     {
       "characterName": "에몽타",
@@ -7064,12 +7064,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "와일드헌터",
-      "level": 265,
+      "level": 266,
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 10325107,
-      "unionLevel": 9147
+      "combatPower": 11433503,
+      "unionLevel": 9148
     },
     {
       "characterName": "청공탄",
@@ -7086,8 +7086,8 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 93532617,
-      "unionLevel": 9147
+      "combatPower": 129216292,
+      "unionLevel": 9148
     },
     {
       "characterName": "다숭",
@@ -7103,9 +7103,9 @@
       "level": 291,
       "status": "new",
       "joinDate": "2026-06-28",
-      "combatPower": 142314977,
+      "combatPower": 360755838,
       "unionLevel": 9188,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "오선",
@@ -7121,8 +7121,8 @@
       "level": 295,
       "status": "new",
       "joinDate": "2026-06-28",
-      "combatPower": 1283027372,
-      "unionLevel": 9194,
+      "combatPower": 1337554143,
+      "unionLevel": 9196,
       "leaveDetected": false
     },
     {
@@ -7140,7 +7140,7 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 171430584,
+      "combatPower": 165469578,
       "unionLevel": 9550
     },
     {
@@ -7158,7 +7158,7 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 85838316,
+      "combatPower": 82317206,
       "unionLevel": 10388
     },
     {
@@ -7176,7 +7176,7 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 77352123,
+      "combatPower": 69191716,
       "unionLevel": 10100
     },
     {
@@ -7194,7 +7194,7 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 132096779,
+      "combatPower": 132681628,
       "unionLevel": 10388
     },
     {
@@ -7248,7 +7248,7 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 11499943,
+      "combatPower": 10826504,
       "unionLevel": 10388
     },
     {
@@ -7284,8 +7284,8 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 82897788,
-      "unionLevel": 9943
+      "combatPower": 88434647,
+      "unionLevel": 9985
     },
     {
       "characterName": "휘휘휘렌",
@@ -7298,12 +7298,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "렌",
-      "level": 277,
+      "level": 278,
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 24385326,
-      "unionLevel": 9943
+      "combatPower": 29306180,
+      "unionLevel": 9985
     },
     {
       "characterName": "꾸잉",
@@ -7319,7 +7319,7 @@
       "level": 291,
       "status": "new",
       "joinDate": "2026-06-28",
-      "combatPower": 390627519,
+      "combatPower": 380470870,
       "unionLevel": 9027,
       "leaveDetected": false
     },
@@ -7337,7 +7337,7 @@
       "level": 280,
       "status": "new",
       "joinDate": "2026-06-29",
-      "combatPower": 72261076,
+      "combatPower": 72126883,
       "unionLevel": 8875,
       "leaveDetected": false
     },
@@ -7356,8 +7356,8 @@
       "status": "new",
       "joinDate": "2026-06-29",
       "leaveDetected": false,
-      "combatPower": 97670689,
-      "unionLevel": 10199
+      "combatPower": 96941323,
+      "unionLevel": 10238
     },
     {
       "characterName": "벤지프렌",
@@ -7374,8 +7374,8 @@
       "status": "new",
       "joinDate": "2026-06-29",
       "leaveDetected": false,
-      "combatPower": 119667054,
-      "unionLevel": 10199
+      "combatPower": 119689999,
+      "unionLevel": 10238
     },
     {
       "characterName": "먕임",
@@ -7392,8 +7392,8 @@
       "status": "new",
       "joinDate": "2026-06-29",
       "leaveDetected": false,
-      "combatPower": 61429622,
-      "unionLevel": 10199
+      "combatPower": 66103567,
+      "unionLevel": 10238
     },
     {
       "characterName": "쌩은",
@@ -7409,8 +7409,8 @@
       "level": 285,
       "status": "new",
       "joinDate": "2026-06-30",
-      "combatPower": 142074205,
-      "unionLevel": 9080,
+      "combatPower": 122881482,
+      "unionLevel": 9133,
       "leaveDetected": false
     },
     {
@@ -7427,8 +7427,8 @@
       "level": 283,
       "status": "new",
       "joinDate": "2026-06-30",
-      "combatPower": 64534792,
-      "unionLevel": 9080,
+      "combatPower": 63588798,
+      "unionLevel": 9133,
       "leaveDetected": false
     },
     {
@@ -7457,11 +7457,13 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "",
-      "level": 0,
+      "job": "레테",
+      "level": 200,
       "status": "new",
       "joinDate": "2026-07-01",
-      "leaveDetected": false
+      "leaveDetected": false,
+      "combatPower": 27030,
+      "unionLevel": 9527
     },
     {
       "characterName": "쭈슈뚜",
@@ -7473,10 +7475,204 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
+      "job": "호영",
+      "level": 281,
+      "status": "new",
+      "joinDate": "2026-07-01",
+      "leaveDetected": false,
+      "combatPower": 38902590,
+      "unionLevel": 9858
+    },
+    {
+      "characterName": "펩제니",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "제로",
+      "level": 270,
+      "status": "new",
+      "joinDate": "2026-07-01",
+      "leaveDetected": false,
+      "combatPower": 38088393,
+      "unionLevel": 9858
+    },
+    {
+      "characterName": "어리머",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "윈드브레이커",
+      "level": 274,
+      "status": "new",
+      "joinDate": "2026-07-01",
+      "leaveDetected": false,
+      "combatPower": 40529254,
+      "unionLevel": 9858
+    },
+    {
+      "characterName": "운츄아",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "미하일",
+      "level": 275,
+      "status": "new",
+      "joinDate": "2026-07-01",
+      "leaveDetected": false,
+      "combatPower": 18280896,
+      "unionLevel": 9858
+    },
+    {
+      "characterName": "쭈렌뚜",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "렌",
+      "level": 280,
+      "status": "new",
+      "joinDate": "2026-07-01",
+      "leaveDetected": false,
+      "combatPower": 61761860,
+      "unionLevel": 9858
+    },
+    {
+      "characterName": "DuIly",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "보우마스터",
+      "level": 280,
+      "status": "new",
+      "joinDate": "2026-07-02",
+      "combatPower": 61423711,
+      "unionLevel": 9835,
+      "leaveDetected": false
+    },
+    {
+      "characterName": "kanxki",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "렌",
+      "level": 285,
+      "status": "new",
+      "joinDate": "2026-07-02",
+      "combatPower": 97227670,
+      "unionLevel": 9835,
+      "leaveDetected": false
+    },
+    {
+      "characterName": "사백사귀",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "아크메이지(썬,콜)",
+      "level": 285,
+      "status": "new",
+      "joinDate": "2026-07-02",
+      "combatPower": 33169317,
+      "unionLevel": 9835,
+      "leaveDetected": false
+    },
+    {
+      "characterName": "접허엉",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-07-01"
+      "joinDate": "2026-07-05",
+      "leaveDetected": true
+    },
+    {
+      "characterName": "삼등",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "렌",
+      "level": 284,
+      "status": "new",
+      "joinDate": "2026-07-05",
+      "leaveDetected": false,
+      "combatPower": 83517261,
+      "unionLevel": 9126
+    },
+    {
+      "characterName": "레테칭호용인",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-07-05",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "철용",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-07-05"
     }
   ],
   "dalla": [
@@ -8234,7 +8430,7 @@
       "level": 0,
       "combatPower": 29313475,
       "unionLevel": 9663,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "순양화양",
@@ -9062,7 +9258,7 @@
       "level": 0,
       "combatPower": 50579914,
       "unionLevel": 9625,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "윤린",
@@ -9746,7 +9942,7 @@
       "level": 0,
       "combatPower": 96782692,
       "unionLevel": 9625,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "로사지수",
@@ -10178,7 +10374,7 @@
       "level": 0,
       "combatPower": 78333446,
       "unionLevel": 9663,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "건며누",
@@ -10662,7 +10858,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "퍼니힐",
