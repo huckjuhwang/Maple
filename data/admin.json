@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-06T15:15:46.056Z",
+    "lastUpdated": "2026-07-06T15:31:14.627Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -7693,7 +7693,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-07-06"
+      "joinDate": "2026-07-06",
+      "leaveDetected": true
     }
   ],
   "dalla": [
