@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-07T05:41:01.998Z",
+    "lastUpdated": "2026-07-07T14:05:52.669Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -1586,8 +1586,8 @@
       "memoHistory": [],
       "job": "제논",
       "level": 291,
-      "combatPower": 364422915,
-      "unionLevel": 8843,
+      "combatPower": 367317947,
+      "unionLevel": 8842,
       "status": "active",
       "joinDate": "2026-04-10",
       "leaveDetected": false
@@ -1854,8 +1854,8 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "렌",
-      "level": 285,
+      "job": "",
+      "level": 0,
       "combatPower": 120872176,
       "unionLevel": 9735,
       "status": "active",
@@ -3134,7 +3134,7 @@
       "memoHistory": [],
       "job": "스트라이커",
       "level": 282,
-      "combatPower": 40173018,
+      "combatPower": 57505771,
       "unionLevel": 9594,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4569,12 +4569,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "렌",
-      "level": 288,
+      "level": 293,
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 157166322,
-      "unionLevel": 9001
+      "combatPower": 158782987,
+      "unionLevel": 9525
     },
     {
       "characterName": "로보략",
@@ -5198,12 +5198,12 @@
       "fromMirror": "",
       "memoHistory": [],
       "job": "렌",
-      "level": 285,
+      "level": 286,
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 91309680,
-      "unionLevel": 9594
+      "combatPower": 90834365,
+      "unionLevel": 8692
     },
     {
       "characterName": "세현쉰하나",
@@ -5867,7 +5867,7 @@
       "status": "new",
       "joinDate": "2026-06-20",
       "leaveDetected": false,
-      "combatPower": 88591962,
+      "combatPower": 78498873,
       "unionLevel": 9561
     },
     {
@@ -6294,8 +6294,8 @@
       "inactiveReason": "",
       "fromMirror": "",
       "memoHistory": [],
-      "job": "아크메이지(썬,콜)",
-      "level": 280,
+      "job": "",
+      "level": 0,
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
@@ -6785,7 +6785,7 @@
       "status": "new",
       "joinDate": "2026-06-26",
       "leaveDetected": false,
-      "combatPower": 48728955,
+      "combatPower": 48674937,
       "unionLevel": 9460
     },
     {
@@ -7698,6 +7698,22 @@
     },
     {
       "characterName": "원니솔",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-07-07",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "솔객",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
@@ -11407,7 +11423,7 @@
       "level": 0,
       "status": "new",
       "joinDate": "2026-04-26",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "스파이괘밀리",
