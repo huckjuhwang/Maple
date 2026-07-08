@@ -172,26 +172,6 @@
     "ocid": "3404c94ef82f99f87032a6bb76baaaef"
   },
   {
-    "characterName": "얼굴이아퐈이",
-    "ocid": "9238b048987fb4222af1ee2d976278b0"
-  },
-  {
-    "characterName": "누끼렌",
-    "ocid": "b9ae158cf1a288af03f59dc2b070eda9"
-  },
-  {
-    "characterName": "쨩륙",
-    "ocid": "8a138bff129934158de808d6c5d2864c"
-  },
-  {
-    "characterName": "딸기향쨩룩",
-    "ocid": "f17056ac93846ae4c5e711db01a3d57f"
-  },
-  {
-    "characterName": "소인섭김남준",
-    "ocid": "6ff2df7a97b647684877381013b224f4"
-  },
-  {
     "characterName": "니콜라테슬라",
     "ocid": "a5e3bb2ab6734faf34a4eb7e448fd0be"
   },
@@ -242,22 +222,6 @@
   {
     "characterName": "데션족",
     "ocid": "5257c22c5cbca146459c2a93c905a89b"
-  },
-  {
-    "characterName": "도동보",
-    "ocid": "124dfd4254e02d7130f4d9b1c582474e"
-  },
-  {
-    "characterName": "천혼아",
-    "ocid": "387c9cf524ad725309c9cd6e60b62ee1"
-  },
-  {
-    "characterName": "폭마령",
-    "ocid": "78f0a77408654b9cf1d82387fb816915"
-  },
-  {
-    "characterName": "도히쑥",
-    "ocid": "de096f3dbf4519e8eabaffccb2ede06d"
   },
   {
     "characterName": "뚜앵아",
@@ -482,6 +446,10 @@
   {
     "characterName": "뱅하타",
     "ocid": "60df41dd3316ab93c2e94eccebe9c655"
+  },
+  {
+    "characterName": "백롑",
+    "ocid": "f889d52803d8c6622d5e0a38e94160b3"
   },
   {
     "characterName": "쌩은",
@@ -712,10 +680,6 @@
     "ocid": "280968c711c8c109f600b3033a1284f0"
   },
   {
-    "characterName": "외톨이영욱",
-    "ocid": "3249abce537abe5f2d098f5a0bcbf30f"
-  },
-  {
     "characterName": "우미클",
     "ocid": "ed1b8278610e76ff2ef9cfd58ee88dd6"
   },
@@ -854,18 +818,6 @@
   {
     "characterName": "내아내일뻔한",
     "ocid": "12065482ab3220ea514715accf87376e"
-  },
-  {
-    "characterName": "쨩탔",
-    "ocid": "bb281794933c8f3d2cf53f9005cfbb59"
-  },
-  {
-    "characterName": "쨩룩",
-    "ocid": "67e2196bb9ed48fa565b55ab15f717f2"
-  },
-  {
-    "characterName": "쨩깟",
-    "ocid": "1a94699fbabde154f5891c2d5c8b4c36"
   },
   {
     "characterName": "쪼읊",
@@ -1046,6 +998,10 @@
   {
     "characterName": "힁곰범",
     "ocid": "aaf59e6c5f83539d0aed11d08b4f8d88"
+  },
+  {
+    "characterName": "황곰범",
+    "ocid": "8c015b9b906c7b0675c2cc134da4aa7d"
   },
   {
     "characterName": "휭곰범",
@@ -1232,7 +1188,7 @@
     "ocid": "c10943fd9a684dbe3a47814e09883a78"
   },
   {
-    "characterName": "GeniusAct",
+    "characterName": "degencys",
     "ocid": "b2ca11d05a9e3cf9f806b6706da5bb3a"
   },
   {
@@ -1276,23 +1232,7 @@
     "ocid": "676e5b9fce59646e6d4e3a812a847e20"
   },
   {
-    "characterName": "헬렌츄",
-    "ocid": "86b5c93ae8430ce453b5015b1112617b"
-  },
-  {
-    "characterName": "르퀴",
-    "ocid": "de2c9de6ab1ab2afcbf2e0bcefadfe7f"
-  },
-  {
     "characterName": "호경땅",
     "ocid": "78fb53f02e6e2be10d946d6c3062ca03"
-  },
-  {
-    "characterName": "술후니",
-    "ocid": "ff13802bde829da327ef775ad8606b8a"
-  },
-  {
-    "characterName": "술후Ll",
-    "ocid": "76fe6a6ac2c6fedcbe7290fce47845ae"
   }
 ]
