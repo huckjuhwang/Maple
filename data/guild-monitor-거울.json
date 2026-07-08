@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-07-08T17:25:43.691Z",
+  "lastChecked": "2026-07-08T17:31:16.379Z",
   "members": [
     "0렙흡혈",
     "0렙악마",
@@ -279,6 +279,9 @@
     "weriat",
     "iceia",
     "cyrillus",
+    "일진자식",
+    "sIS아델SIs",
+    "sIS소울SIs",
     "IS렌SI",
     "JELYPO",
     "JEL보마",
@@ -2298,6 +2301,21 @@
       "date": "2026-07-08",
       "level": 285,
       "job": "카데나"
+    },
+    {
+      "name": "일진자식",
+      "type": "join",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "sIS아델SIs",
+      "type": "join",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "sIS소울SIs",
+      "type": "join",
+      "date": "2026-07-08"
     }
   ]
 }
