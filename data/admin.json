@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-08T09:31:13.392Z",
+    "lastUpdated": "2026-07-08T10:31:14.290Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -313,7 +313,7 @@
       "memoHistory": [],
       "job": "다크나이트",
       "level": 285,
-      "combatPower": 202945205,
+      "combatPower": 242329421,
       "unionLevel": 9796,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -889,7 +889,7 @@
       "memoHistory": [],
       "job": "섀도어",
       "level": 296,
-      "combatPower": 206434115,
+      "combatPower": 213490063,
       "unionLevel": 10227,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2072,7 +2072,7 @@
       "memoHistory": [],
       "job": "루미너스",
       "level": 289,
-      "combatPower": 90277677,
+      "combatPower": 114638964,
       "unionLevel": 10184,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -2454,7 +2454,7 @@
       "unionLevel": 9045,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "데션족",
@@ -4483,7 +4483,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 363446778,
+      "combatPower": 365736935,
       "unionLevel": 11185
     },
     {
@@ -4717,7 +4717,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 150019835,
+      "combatPower": 168868833,
       "unionLevel": 9691
     },
     {
@@ -5093,7 +5093,7 @@
       "level": 265,
       "status": "new",
       "joinDate": "2026-06-18",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 11188885,
       "unionLevel": 8974
     },
@@ -5111,7 +5111,7 @@
       "level": 260,
       "status": "new",
       "joinDate": "2026-06-18",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 806558,
       "unionLevel": 8811
     },
@@ -5129,7 +5129,7 @@
       "level": 266,
       "status": "new",
       "joinDate": "2026-06-18",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 12808239,
       "unionLevel": 8810
     },
@@ -5147,7 +5147,7 @@
       "level": 240,
       "status": "new",
       "joinDate": "2026-06-18",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 1178780,
       "unionLevel": 8974
     },
@@ -6515,7 +6515,7 @@
       "status": "new",
       "joinDate": "2026-06-24",
       "leaveDetected": false,
-      "combatPower": 164591901,
+      "combatPower": 170623332,
       "unionLevel": 9796
     },
     {
@@ -7069,7 +7069,7 @@
       "status": "new",
       "joinDate": "2026-06-28",
       "leaveDetected": false,
-      "combatPower": 11439870,
+      "combatPower": 13147547,
       "unionLevel": 9149
     },
     {
@@ -7481,7 +7481,7 @@
       "status": "new",
       "joinDate": "2026-07-01",
       "leaveDetected": false,
-      "combatPower": 39651938,
+      "combatPower": 41150074,
       "unionLevel": 9858
     },
     {
@@ -7763,7 +7763,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-07-08"
+      "joinDate": "2026-07-08",
+      "leaveDetected": false
     }
   ],
   "dalla": [
