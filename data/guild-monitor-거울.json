@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-07-08T05:45:44.407Z",
+  "lastChecked": "2026-07-08T05:51:02.066Z",
   "members": [
     "0렙흡혈",
     "0렙악마",
@@ -306,7 +306,7 @@
     "ooblanxoo",
     "오선",
     "아만도쿄",
-    "GeniusAct",
+    "degencys",
     "디젠오션",
     "THEHYPHEN",
     "듀실피드",
@@ -2190,6 +2190,18 @@
       "date": "2026-07-08",
       "level": 285,
       "job": "윈드브레이커"
+    },
+    {
+      "name": "GeniusAct",
+      "type": "leave",
+      "date": "2026-07-08",
+      "level": 285,
+      "job": "팔라딘"
+    },
+    {
+      "name": "degencys",
+      "type": "join",
+      "date": "2026-07-08"
     }
   ]
 }
