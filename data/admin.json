@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-08T10:31:14.290Z",
+    "lastUpdated": "2026-07-08T11:21:08.982Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -313,7 +313,7 @@
       "memoHistory": [],
       "job": "다크나이트",
       "level": 285,
-      "combatPower": 242329421,
+      "combatPower": 247685360,
       "unionLevel": 9796,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1968,7 +1968,7 @@
       "unionLevel": 9561,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "호피곰",
@@ -4141,7 +4141,7 @@
       "status": "new",
       "joinDate": "2026-06-06",
       "combatPower": 268454503,
-      "unionLevel": 9148,
+      "unionLevel": 9149,
       "leaveDetected": false
     },
     {
@@ -5848,7 +5848,7 @@
       "level": 285,
       "status": "new",
       "joinDate": "2026-06-20",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 116935137,
       "unionLevel": 9561
     },
@@ -5866,7 +5866,7 @@
       "level": 284,
       "status": "new",
       "joinDate": "2026-06-20",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 97695482,
       "unionLevel": 9561
     },
@@ -6226,7 +6226,7 @@
       "level": 294,
       "status": "new",
       "joinDate": "2026-06-23",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 109929191,
       "unionLevel": 8830
     },
@@ -6244,7 +6244,7 @@
       "level": 275,
       "status": "new",
       "joinDate": "2026-06-23",
-      "leaveDetected": false,
+      "leaveDetected": true,
       "combatPower": 25796697,
       "unionLevel": 8830
     },
