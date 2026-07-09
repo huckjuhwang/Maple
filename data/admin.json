@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-09T06:21:10.509Z",
+    "lastUpdated": "2026-07-09T07:25:40.161Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -601,7 +601,7 @@
       "memoHistory": [],
       "job": "렌",
       "level": 293,
-      "combatPower": 266092482,
+      "combatPower": 299779866,
       "unionLevel": 8964,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1298,7 +1298,7 @@
       "memoHistory": [],
       "job": "히어로",
       "level": 286,
-      "combatPower": 96720825,
+      "combatPower": 122778131,
       "unionLevel": 9494,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -1946,7 +1946,7 @@
       "memoHistory": [],
       "job": "아델",
       "level": 289,
-      "combatPower": 70228198,
+      "combatPower": 128078330,
       "unionLevel": 10279,
       "status": "active",
       "joinDate": "2026-04-10",
@@ -4034,7 +4034,7 @@
       "joinDate": "2026-06-01",
       "combatPower": 28538026,
       "unionLevel": 8902,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "아르건",
@@ -4591,7 +4591,7 @@
       "status": "new",
       "joinDate": "2026-06-18",
       "leaveDetected": false,
-      "combatPower": 116768247,
+      "combatPower": 146765012,
       "unionLevel": 9001
     },
     {
