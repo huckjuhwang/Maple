@@ -872,10 +872,6 @@
     "ocid": "a8c17732c131ce86dec01d8897d6ae4a"
   },
   {
-    "characterName": "큐랑로",
-    "ocid": "0385a3214aa1f75112dc68b87a740b76"
-  },
-  {
     "characterName": "크앍숍",
     "ocid": "ab84f1dcf69cd1edb44e2903b3129adf"
   },
@@ -932,7 +928,7 @@
     "ocid": "f103fce7a2b09b1983418da4b483c8b8"
   },
   {
-    "characterName": "핀치보마",
+    "characterName": "팅볼",
     "ocid": "8dac524807de097dc864ce7753612ebe"
   },
   {
@@ -1112,6 +1108,18 @@
     "ocid": "83ad7de0f40a0ae809248905b493321d"
   },
   {
+    "characterName": "일진자식",
+    "ocid": "a05c284fc242bdc519853e62f281d039"
+  },
+  {
+    "characterName": "sIS아델SIs",
+    "ocid": "325bf7668222ef4a48757e4a0b3c42d7"
+  },
+  {
+    "characterName": "sIS소울SIs",
+    "ocid": "c422dc5247c8cf57e0be1df646eebf0d"
+  },
+  {
     "characterName": "IS렌SI",
     "ocid": "44b2622b0e5aada44827c255a899a645"
   },
@@ -1234,5 +1242,13 @@
   {
     "characterName": "호경땅",
     "ocid": "78fb53f02e6e2be10d946d6c3062ca03"
+  },
+  {
+    "characterName": "술후니",
+    "ocid": "ff13802bde829da327ef775ad8606b8a"
+  },
+  {
+    "characterName": "술후Ll",
+    "ocid": "76fe6a6ac2c6fedcbe7290fce47845ae"
   }
 ]
