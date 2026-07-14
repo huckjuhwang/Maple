@@ -6,7 +6,7 @@
   "masterName": "언팩",
   "memberCount": 317,
   "collectedCount": 317,
-  "collectedAt": "2026-07-14T19:05:40.446Z",
+  "collectedAt": "2026-07-14T19:35:39.176Z",
   "members": [
     {
       "characterName": "오선",
@@ -204,8 +204,8 @@
       "characterName": "렌실피드",
       "job": "렌",
       "level": 291,
-      "exp": 93703802580073,
-      "expRate": 28.945,
+      "exp": 94103440248579,
+      "expRate": 29.068,
       "combatPower": 288367408,
       "unionLevel": 11188,
       "arcaneForce": 1320,
@@ -2508,7 +2508,7 @@
       "characterName": "ArrowTlc",
       "job": "보우마스터",
       "level": 285,
-      "exp": 9601912283561,
+      "exp": 9602000163561,
       "expRate": 9.649,
       "combatPower": 52193993,
       "unionLevel": 10279,
