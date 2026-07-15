@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-15T15:01:18.600Z",
+    "lastUpdated": "2026-07-15T16:55:44.188Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -8970,7 +8970,7 @@
       "level": 0,
       "combatPower": 47810514,
       "unionLevel": 9157,
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "다희라딘",
