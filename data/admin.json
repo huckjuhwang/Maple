@@ -9,7 +9,7 @@
       "먼지",
       "사유"
     ],
-    "lastUpdated": "2026-07-19T06:35:39.718Z",
+    "lastUpdated": "2026-07-19T06:40:44.816Z",
     "masterPosition": "거울"
   },
   "mirror": [
@@ -1698,7 +1698,7 @@
       "unionLevel": 9119,
       "status": "active",
       "joinDate": "2026-04-10",
-      "leaveDetected": false
+      "leaveDetected": true
     },
     {
       "characterName": "0렙악마",
@@ -7838,7 +7838,7 @@
       "joinDate": "2026-07-08",
       "leaveDetected": false,
       "combatPower": 16622959,
-      "unionLevel": 8666
+      "unionLevel": 8667
     },
     {
       "characterName": "팅볼",
@@ -8083,7 +8083,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-07-19"
+      "joinDate": "2026-07-19",
+      "leaveDetected": false
     },
     {
       "characterName": "민혁미",
@@ -8098,7 +8099,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-07-19"
+      "joinDate": "2026-07-19",
+      "leaveDetected": false
     },
     {
       "characterName": "미녁9",
@@ -8113,7 +8115,8 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-07-19"
+      "joinDate": "2026-07-19",
+      "leaveDetected": false
     },
     {
       "characterName": "민히어롱",
@@ -8128,10 +8131,27 @@
       "job": "",
       "level": 0,
       "status": "new",
-      "joinDate": "2026-07-19"
+      "joinDate": "2026-07-19",
+      "leaveDetected": false
     },
     {
       "characterName": "궁수민혁",
+      "guild": "mirror",
+      "position": "",
+      "mainCharacter": "",
+      "realName": "",
+      "note": "",
+      "inactiveReason": "",
+      "fromMirror": "",
+      "memoHistory": [],
+      "job": "",
+      "level": 0,
+      "status": "new",
+      "joinDate": "2026-07-19",
+      "leaveDetected": false
+    },
+    {
+      "characterName": "두몌린",
       "guild": "mirror",
       "position": "",
       "mainCharacter": "",
