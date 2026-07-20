@@ -6,7 +6,7 @@
   "masterName": "언팩",
   "memberCount": 275,
   "collectedCount": 275,
-  "collectedAt": "2026-07-20T18:04:58.538Z",
+  "collectedAt": "2026-07-20T18:34:47.125Z",
   "members": [
     {
       "characterName": "령언",
@@ -1980,7 +1980,7 @@
       "characterName": "DuIly",
       "job": "보우마스터",
       "level": 280,
-      "exp": 4348719175670,
+      "exp": 4348755915670,
       "expRate": 12.924,
       "combatPower": 62562617,
       "unionLevel": 9835,
@@ -2448,8 +2448,8 @@
       "characterName": "멜랑쿠키크림",
       "job": "카데나",
       "level": 282,
-      "exp": 6153545360012,
-      "expRate": 15.114,
+      "exp": 6582052312050,
+      "expRate": 16.167,
       "combatPower": 29611824,
       "unionLevel": 9307,
       "arcaneForce": 1250,
