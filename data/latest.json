@@ -6,7 +6,7 @@
   "masterName": "언팩",
   "memberCount": 300,
   "collectedCount": 300,
-  "collectedAt": "2026-07-20T01:05:51.805Z",
+  "collectedAt": "2026-07-20T01:35:11.894Z",
   "members": [
     {
       "characterName": "령언",
@@ -348,7 +348,7 @@
       "characterName": "퀀텀si",
       "job": "섀도어",
       "level": 288,
-      "exp": 86534861818666,
+      "exp": 86534959058666,
       "expRate": 65.334,
       "combatPower": 219280092,
       "unionLevel": 9579,
@@ -1344,8 +1344,8 @@
       "characterName": "민몌린",
       "job": "히어로",
       "level": 294,
-      "exp": 414500790771452,
-      "expRate": 96.196,
+      "exp": 414870867789776,
+      "expRate": 96.282,
       "combatPower": 99523815,
       "unionLevel": 9817,
       "arcaneForce": 1320,
