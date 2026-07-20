@@ -28,26 +28,6 @@
     "ocid": "2f733210c86dc632a81d64e60b3701af"
   },
   {
-    "characterName": "핑볼",
-    "ocid": "e7c1e5e8bac153041023187a4bb1b52e"
-  },
-  {
-    "characterName": "옴마나놀라라",
-    "ocid": "0da7fff08db3a9ee263d0c00e849b2f8"
-  },
-  {
-    "characterName": "냥냥펀치로시",
-    "ocid": "bd75175b30607501000d59b9e46a7f53"
-  },
-  {
-    "characterName": "앱뚱",
-    "ocid": "e8067a9d0f0e147785489733ce13c0db"
-  },
-  {
-    "characterName": "마리린로시",
-    "ocid": "661ea8ff70a9e4483a8be7a8d9a0b4a9"
-  },
-  {
     "characterName": "귀살대호앵",
     "ocid": "7fc5941d89281113fc1c0dfccbba0996"
   },
@@ -320,22 +300,6 @@
     "ocid": "6500c843994fe4f0045710b3dc4c5746"
   },
   {
-    "characterName": "나로멋쨍이",
-    "ocid": "e020ec5e6d517be4baf12ba8621b1455"
-  },
-  {
-    "characterName": "메익두방",
-    "ocid": "b5d3ee517ad08f22c4c6b710e0990a32"
-  },
-  {
-    "characterName": "랜꾜",
-    "ocid": "9429e3de4d0db4c5bc81496cbf667406"
-  },
-  {
-    "characterName": "뽀마유챔",
-    "ocid": "92f91bc17494d22e96e4bc663fabfe73"
-  },
-  {
     "characterName": "멜랑쿠키크림",
     "ocid": "c0cd95d9ee54256fd809026cf58e9830"
   },
@@ -400,14 +364,6 @@
     "ocid": "931e3fd676d4086fac6779917f626ddd"
   },
   {
-    "characterName": "두밈",
-    "ocid": "c9b695e9b3ace0cd3cab86b3098bba62"
-  },
-  {
-    "characterName": "호치두두",
-    "ocid": "ac8a2eb878daa184b6d144c77fa72b00"
-  },
-  {
     "characterName": "뱃흔",
     "ocid": "4be176d5a63884b3e988b442f0cb78d3"
   },
@@ -430,22 +386,6 @@
   {
     "characterName": "뱅하타",
     "ocid": "60df41dd3316ab93c2e94eccebe9c655"
-  },
-  {
-    "characterName": "백롑",
-    "ocid": "f889d52803d8c6622d5e0a38e94160b3"
-  },
-  {
-    "characterName": "쌩은",
-    "ocid": "55e3daad9621953fb9e3b0cdca52b4ea"
-  },
-  {
-    "characterName": "호카게",
-    "ocid": "32e980cd3fe8e2259081bf3342206ce7"
-  },
-  {
-    "characterName": "람뢰",
-    "ocid": "9c6300e77242c05001da57b3e1358071"
   },
   {
     "characterName": "상암숲불주먹",
@@ -498,10 +438,6 @@
   {
     "characterName": "세현쉰하나",
     "ocid": "d8ecc1f7cc64307d224caec06e265d5d"
-  },
-  {
-    "characterName": "슬렌떠",
-    "ocid": "7e3e9928b118529ad289340e4dfa505b"
   },
   {
     "characterName": "시간이머문별",
@@ -728,10 +664,6 @@
     "ocid": "2b17e0813a6df5c9ebac0e37b3fab465"
   },
   {
-    "characterName": "전략가",
-    "ocid": "406dd6f4084cec179b49ab98dbe3a597"
-  },
-  {
     "characterName": "전설적인고서",
     "ocid": "add5d04da0741b31ff244134afc75fbc"
   },
@@ -742,26 +674,6 @@
   {
     "characterName": "박은붕",
     "ocid": "87f1cb59f43f8eb45aca8c73ab3612e3"
-  },
-  {
-    "characterName": "아르건",
-    "ocid": "7ac7987b200b8726f12da4d83e0651d0"
-  },
-  {
-    "characterName": "지넬라",
-    "ocid": "77630f4f62b4e930edf2a410ad88275c"
-  },
-  {
-    "characterName": "한2현",
-    "ocid": "95ca461f082d397ff9238890e3420dca"
-  },
-  {
-    "characterName": "지렌라",
-    "ocid": "029028c687b992e4b7250a8e85520ca0"
-  },
-  {
-    "characterName": "넬라스커",
-    "ocid": "05fbd947e849994832187a43f10f33de"
   },
   {
     "characterName": "지인범학",
@@ -870,10 +782,6 @@
   {
     "characterName": "패그",
     "ocid": "00137006198d4823ebd3577d9b40cd83"
-  },
-  {
-    "characterName": "포철상",
-    "ocid": "08f11398d107349f16a74e181dba6eda"
   },
   {
     "characterName": "퐁스바리",
@@ -1152,10 +1060,6 @@
     "ocid": "8472ca1a09d18421f79b11be924436ad"
   },
   {
-    "characterName": "멍석말이",
-    "ocid": "676e5b9fce59646e6d4e3a812a847e20"
-  },
-  {
     "characterName": "호경땅",
     "ocid": "78fb53f02e6e2be10d946d6c3062ca03"
   },
@@ -1166,10 +1070,6 @@
   {
     "characterName": "술후Ll",
     "ocid": "76fe6a6ac2c6fedcbe7290fce47845ae"
-  },
-  {
-    "characterName": "신궁넬라",
-    "ocid": "0f08f498dfb475cade6fda5a138ef7fa"
   },
   {
     "characterName": "밍혁이이잉",
