@@ -88,14 +88,6 @@
     "ocid": "d19e7e7c0375828759f5a87af186bbc2"
   },
   {
-    "characterName": "뇽실피드",
-    "ocid": "e18d0e222d32e4d7dd4b1fd59d7904db"
-  },
-  {
-    "characterName": "얌실피드",
-    "ocid": "acd67de8a6ee08edc8c566c1129e7ed8"
-  },
-  {
     "characterName": "효실피드",
     "ocid": "5937cf8879752e1b3441c9bdd7321d1d"
   },
@@ -362,6 +354,10 @@
   {
     "characterName": "밈두",
     "ocid": "931e3fd676d4086fac6779917f626ddd"
+  },
+  {
+    "characterName": "땅땅두",
+    "ocid": "917cebec5f388b5f7f997103a6f6c28b"
   },
   {
     "characterName": "뱃흔",
