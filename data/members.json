@@ -84,16 +84,8 @@
     "ocid": "d19e7e7c0375828759f5a87af186bbc2"
   },
   {
-    "characterName": "효실피드",
-    "ocid": "5937cf8879752e1b3441c9bdd7321d1d"
-  },
-  {
     "characterName": "썬실피드",
     "ocid": "e2620ed2c21da3568ba8e52feb369b7c"
-  },
-  {
-    "characterName": "렌실피드",
-    "ocid": "43cefb0c6d73097e2655004b0b60cfdb"
   },
   {
     "characterName": "낙원의인형",
@@ -146,18 +138,6 @@
   {
     "characterName": "옵티머스레테",
     "ocid": "75fedb036c3f56dfb11e157a720b32ec"
-  },
-  {
-    "characterName": "닉넴쥰내귀찮",
-    "ocid": "85b016e80a38b71b15f272667d94daff"
-  },
-  {
-    "characterName": "닉넴겁나귀찮",
-    "ocid": "699111e671502dbebfaca3dd58dbdc0a"
-  },
-  {
-    "characterName": "닉넴진심귀찮",
-    "ocid": "f86bb1c5ba72abe34d7872566129adc5"
   },
   {
     "characterName": "닛뾰",
@@ -518,10 +498,6 @@
   {
     "characterName": "앵스바리",
     "ocid": "ab9764e8632209f029cd599e8137c0c5"
-  },
-  {
-    "characterName": "언팩",
-    "ocid": "2e72d755d1fa717faf2c4ec9e4627b94"
   },
   {
     "characterName": "에구룽",
@@ -1074,5 +1050,25 @@
   {
     "characterName": "와일드곰범솜",
     "ocid": "6c0a175e27e9c5c3545223e4b4f9e3c7"
+  },
+  {
+    "characterName": "뜨렌9",
+    "ocid": "0d05f26952e453db9c61c350be472255"
+  },
+  {
+    "characterName": "뇽실피드",
+    "ocid": "e18d0e222d32e4d7dd4b1fd59d7904db"
+  },
+  {
+    "characterName": "얌실피드",
+    "ocid": "acd67de8a6ee08edc8c566c1129e7ed8"
+  },
+  {
+    "characterName": "효실피드",
+    "ocid": "5937cf8879752e1b3441c9bdd7321d1d"
+  },
+  {
+    "characterName": "렌실피드",
+    "ocid": "43cefb0c6d73097e2655004b0b60cfdb"
   }
 ]
