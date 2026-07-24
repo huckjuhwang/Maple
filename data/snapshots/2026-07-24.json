@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 268,
   "collectedCount": 268,
-  "collectedAt": "2026-07-24T00:34:36.877Z",
+  "collectedAt": "2026-07-24T01:04:50.739Z",
   "members": [
     {
       "characterName": "로보락",
@@ -408,8 +408,8 @@
       "characterName": "내활",
       "job": "윈드브레이커",
       "level": 295,
-      "exp": 828285124117705,
-      "expRate": 95.161,
+      "exp": 828663706719479,
+      "expRate": 95.205,
       "combatPower": 198536942,
       "unionLevel": 9707,
       "arcaneForce": 1320,
