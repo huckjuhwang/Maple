@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 270,
   "collectedCount": 270,
-  "collectedAt": "2026-07-28T17:04:46.043Z",
+  "collectedAt": "2026-07-28T17:34:44.939Z",
   "members": [
     {
       "characterName": "찐돌쿤",
@@ -996,8 +996,8 @@
       "characterName": "민몌린",
       "job": "히어로",
       "level": 295,
-      "exp": 57270928393504,
-      "expRate": 6.58,
+      "exp": 57818907035137,
+      "expRate": 6.643,
       "combatPower": 113170749,
       "unionLevel": 9818,
       "arcaneForce": 1320,
