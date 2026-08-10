@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 269,
   "collectedCount": 269,
-  "collectedAt": "2026-08-10T21:04:41.127Z",
+  "collectedAt": "2026-08-10T21:34:33.791Z",
   "members": [
     {
       "characterName": "렌뚜븃",
@@ -1188,7 +1188,7 @@
       "characterName": "호경땅",
       "job": "비숍",
       "level": 290,
-      "exp": 119941529887697,
+      "exp": 119941629348392,
       "expRate": 40.754,
       "combatPower": 103056193,
       "unionLevel": 8961,
@@ -1632,8 +1632,8 @@
       "characterName": "기달리즈",
       "job": "아델",
       "level": 289,
-      "exp": 134256392878006,
-      "expRate": 92.148,
+      "exp": 135174560442161,
+      "expRate": 92.779,
       "combatPower": 78198597,
       "unionLevel": 10280,
       "arcaneForce": 1320,
