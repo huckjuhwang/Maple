@@ -260,6 +260,10 @@
     "ocid": "6500c843994fe4f0045710b3dc4c5746"
   },
   {
+    "characterName": "맥주맛렌",
+    "ocid": "d863f61f076b6f84c13c066e5e5c01da"
+  },
+  {
     "characterName": "멜랑쿠키크림",
     "ocid": "c0cd95d9ee54256fd809026cf58e9830"
   },
@@ -764,16 +768,12 @@
     "ocid": "3532f302e920a0f2e8099e82b728885f"
   },
   {
+    "characterName": "처리독",
+    "ocid": "cdafd223550510dd5346ceefdc227e9a"
+  },
+  {
     "characterName": "헬로우송",
     "ocid": "d60424799788488efa8fe76782a35a90"
-  },
-  {
-    "characterName": "혁쥬",
-    "ocid": "eff243265def164f31d03206bb91a2ce"
-  },
-  {
-    "characterName": "혁쥬렌",
-    "ocid": "2b828d6b47b7882d7bbac7ab654eb7c5"
   },
   {
     "characterName": "호피곰",
@@ -1070,5 +1070,9 @@
   {
     "characterName": "렌실피드",
     "ocid": "43cefb0c6d73097e2655004b0b60cfdb"
+  },
+  {
+    "characterName": "로사워나",
+    "ocid": "b1cc1f7a23f16215e3b4b0860a24f1f1"
   }
 ]
