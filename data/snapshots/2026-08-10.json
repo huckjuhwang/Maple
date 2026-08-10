@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 268,
   "collectedCount": 268,
-  "collectedAt": "2026-08-10T01:04:38.078Z",
+  "collectedAt": "2026-08-10T01:34:36.429Z",
   "members": [
     {
       "characterName": "령언",
@@ -698,7 +698,7 @@
       "level": 286,
       "exp": 13918056341281,
       "expRate": 12.715,
-      "combatPower": 147250568,
+      "combatPower": 147545868,
       "unionLevel": 9005,
       "arcaneForce": 1320,
       "authenticForce": 400,
@@ -984,8 +984,8 @@
       "characterName": "앵구바퍼",
       "job": "바이퍼",
       "level": 292,
-      "exp": 208359655378335,
-      "expRate": 58.51,
+      "exp": 209203955502587,
+      "expRate": 58.747,
       "combatPower": 119665432,
       "unionLevel": 9547,
       "arcaneForce": 1320,
