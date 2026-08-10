@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 269,
   "collectedCount": 269,
-  "collectedAt": "2026-08-10T22:04:48.389Z",
+  "collectedAt": "2026-08-10T22:34:32.651Z",
   "members": [
     {
       "characterName": "렌뚜븃",
@@ -408,8 +408,8 @@
       "characterName": "찐돌쿤",
       "job": "섀도어",
       "level": 298,
-      "exp": 758683360060641,
-      "expRate": 65.488,
+      "exp": 759200338155172,
+      "expRate": 65.533,
       "combatPower": 200354370,
       "unionLevel": 9487,
       "arcaneForce": 1320,
