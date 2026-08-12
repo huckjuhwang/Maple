@@ -480,12 +480,12 @@
     "ocid": "e497490286086ed211449e72a2ed17af"
   },
   {
-    "characterName": "앵구파파",
-    "ocid": "9ad7e9294a9ec0a31fb75df2595e50c6"
-  },
-  {
     "characterName": "앵구바퍼",
     "ocid": "635ee99243c093b7ea0073309ee31e45"
+  },
+  {
+    "characterName": "부송동보안관",
+    "ocid": "9bd2a2cb8604c1fdc94e1983bd8de2ce"
   },
   {
     "characterName": "앵구엔젤",
@@ -778,6 +778,10 @@
   {
     "characterName": "호피곰",
     "ocid": "14eb573d51c8302152ffd82120751d99"
+  },
+  {
+    "characterName": "주보곰불독",
+    "ocid": "86accb3fbf190c34b1f8203c155fb824"
   },
   {
     "characterName": "곰돌EE",
