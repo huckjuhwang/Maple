@@ -780,6 +780,10 @@
     "ocid": "d60424799788488efa8fe76782a35a90"
   },
   {
+    "characterName": "니하오송",
+    "ocid": "388e1fe7f428200a8c6f7921ec39fb99"
+  },
+  {
     "characterName": "호피곰",
     "ocid": "14eb573d51c8302152ffd82120751d99"
   },
@@ -1082,5 +1086,9 @@
   {
     "characterName": "로사워나",
     "ocid": "b1cc1f7a23f16215e3b4b0860a24f1f1"
+  },
+  {
+    "characterName": "로사모모",
+    "ocid": "618175d34f07e37f9b7539856495f371"
   }
 ]
