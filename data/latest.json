@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 275,
   "collectedCount": 275,
-  "collectedAt": "2026-08-17T21:04:45.116Z",
+  "collectedAt": "2026-08-17T21:34:39.528Z",
   "members": [
     {
       "characterName": "령언",
@@ -180,8 +180,8 @@
       "characterName": "JELYPO",
       "job": "나이트워커",
       "level": 294,
-      "exp": 300141406385283,
-      "expRate": 69.656,
+      "exp": 300730518543467,
+      "expRate": 69.792,
       "combatPower": 321049984,
       "unionLevel": 9354,
       "arcaneForce": 1320,
@@ -2412,7 +2412,7 @@
       "characterName": "GGIYA",
       "job": "은월",
       "level": 282,
-      "exp": 26760497609545,
+      "exp": 26760544915885,
       "expRate": 65.729,
       "combatPower": 34068531,
       "unionLevel": 8701,
