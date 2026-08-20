@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 277,
   "collectedCount": 277,
-  "collectedAt": "2026-08-20T19:04:47.778Z",
+  "collectedAt": "2026-08-20T19:34:40.079Z",
   "members": [
     {
       "characterName": "로보락",
@@ -26,7 +26,7 @@
       "level": 293,
       "exp": 320905577553245,
       "expRate": 81.922,
-      "combatPower": 612855775,
+      "combatPower": 618389891,
       "unionLevel": 9837,
       "arcaneForce": 1320,
       "authenticForce": 750,
@@ -2292,8 +2292,8 @@
       "characterName": "GGIYA",
       "job": "은월",
       "level": 282,
-      "exp": 40503452463916,
-      "expRate": 99.484,
+      "exp": 40664181884956,
+      "expRate": 99.879,
       "combatPower": 42967112,
       "unionLevel": 8703,
       "arcaneForce": 1320,
