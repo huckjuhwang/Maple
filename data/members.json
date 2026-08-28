@@ -696,8 +696,16 @@
     "ocid": "82e694adecf7795691a4c21bd772073d"
   },
   {
+    "characterName": "쭈라주",
+    "ocid": "e878076ebd6467d0dc98ea077d0d3516"
+  },
+  {
     "characterName": "쭈레엔",
     "ocid": "6706902fff8e075192b6c46233174bc9"
+  },
+  {
+    "characterName": "쭈딕트",
+    "ocid": "bb15160ea994ff83123fcb0cd65bc7e1"
   },
   {
     "characterName": "찐돌쿤",
@@ -1086,13 +1094,5 @@
   {
     "characterName": "렌실피드",
     "ocid": "43cefb0c6d73097e2655004b0b60cfdb"
-  },
-  {
-    "characterName": "로사워나",
-    "ocid": "b1cc1f7a23f16215e3b4b0860a24f1f1"
-  },
-  {
-    "characterName": "로사모모",
-    "ocid": "618175d34f07e37f9b7539856495f371"
   }
 ]
