@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 275,
   "collectedCount": 275,
-  "collectedAt": "2026-08-31T23:04:47.452Z",
+  "collectedAt": "2026-08-31T23:34:38.579Z",
   "members": [
     {
       "characterName": "로보락",
@@ -132,8 +132,8 @@
       "characterName": "얌실피드",
       "job": "섀도어",
       "level": 292,
-      "exp": 169941220302973,
-      "expRate": 47.722,
+      "exp": 170771203192946,
+      "expRate": 47.955,
       "combatPower": 368591226,
       "unionLevel": 11219,
       "arcaneForce": 1320,
