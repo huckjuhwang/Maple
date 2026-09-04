@@ -648,8 +648,8 @@
     "ocid": "5a0d1e4c44fd02d04e9caa1eeb51df1c"
   },
   {
-    "characterName": "임나구잉",
-    "ocid": "d7cb08b4054c36764b477a03cb0afc37"
+    "characterName": "임나구리12",
+    "ocid": "ece4880bd4c316824cb17b808237e611"
   },
   {
     "characterName": "잉짱",
@@ -1106,5 +1106,9 @@
   {
     "characterName": "렌실피드",
     "ocid": "43cefb0c6d73097e2655004b0b60cfdb"
+  },
+  {
+    "characterName": "강쫑민",
+    "ocid": "00b0992e377c0ffc4b5c4de91b144e2d"
   }
 ]
