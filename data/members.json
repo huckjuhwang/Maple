@@ -500,12 +500,12 @@
     "ocid": "e497490286086ed211449e72a2ed17af"
   },
   {
-    "characterName": "앵구바퍼",
-    "ocid": "635ee99243c093b7ea0073309ee31e45"
+    "characterName": "앵구파파",
+    "ocid": "9ad7e9294a9ec0a31fb75df2595e50c6"
   },
   {
-    "characterName": "부송동보안관",
-    "ocid": "9bd2a2cb8604c1fdc94e1983bd8de2ce"
+    "characterName": "앵구바퍼",
+    "ocid": "635ee99243c093b7ea0073309ee31e45"
   },
   {
     "characterName": "앵구엔젤",
@@ -802,6 +802,10 @@
   {
     "characterName": "하린탄",
     "ocid": "3532f302e920a0f2e8099e82b728885f"
+  },
+  {
+    "characterName": "갇처리",
+    "ocid": "1e7a3ae33133fa6cb0238602203b5688"
   },
   {
     "characterName": "처리독",
