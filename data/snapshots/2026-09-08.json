@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 280,
   "collectedCount": 280,
-  "collectedAt": "2026-09-07T21:34:46.013Z",
+  "collectedAt": "2026-09-07T22:05:41.559Z",
   "members": [
     {
       "characterName": "깡쫑민",
@@ -348,8 +348,8 @@
       "characterName": "찐돌쿤",
       "job": "섀도어",
       "level": 298,
-      "exp": 1073450886565538,
-      "expRate": 92.658,
+      "exp": 1074025365985790,
+      "expRate": 92.708,
       "combatPower": 211403317,
       "unionLevel": 9614,
       "arcaneForce": 1320,
