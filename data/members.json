@@ -108,6 +108,10 @@
     "ocid": "0a7f724b27f989f47af679bbe8bc5585"
   },
   {
+    "characterName": "모르겐레테",
+    "ocid": "59f321f1756a1a8232c4fb1d19247d52"
+  },
+  {
     "characterName": "원니솔",
     "ocid": "7eaa0b6bf98dccf0c144985e2d95c8f9"
   },
@@ -198,6 +202,10 @@
   {
     "characterName": "지요렝",
     "ocid": "b02348aadf8877b5ccc2523e3440559b"
+  },
+  {
+    "characterName": "리본팅",
+    "ocid": "33a198aae92e7a209c06c64d0f227397"
   },
   {
     "characterName": "렌뚜븃",
@@ -308,10 +316,6 @@
     "ocid": "fb260bed708eb7f3305b19d1fad8bed8"
   },
   {
-    "characterName": "문쓱싹",
-    "ocid": "2e789f0dae2949603004eee7dcebf352"
-  },
-  {
     "characterName": "문쏙쏜",
     "ocid": "e8eba930a9b94af43b1d0a5289fd7cc5"
   },
@@ -326,6 +330,10 @@
   {
     "characterName": "쏙쏙쿤",
     "ocid": "2d2c5f06fcf8dcc498b0fd8381b60df2"
+  },
+  {
+    "characterName": "킹수짜",
+    "ocid": "c444ce922e68d748684084612f2edaec"
   },
   {
     "characterName": "미소맛소다",
@@ -348,6 +356,10 @@
     "ocid": "3ce7724d2850b91702ce9578cf9698b2"
   },
   {
+    "characterName": "유리맛소다",
+    "ocid": "263bc355afdd5a5d10f956d369d6887d"
+  },
+  {
     "characterName": "밈두",
     "ocid": "931e3fd676d4086fac6779917f626ddd"
   },
@@ -360,6 +372,10 @@
     "ocid": "917cebec5f388b5f7f997103a6f6c28b"
   },
   {
+    "characterName": "궁두야",
+    "ocid": "bcc5b4762557db72a3ad23d3ce627519"
+  },
+  {
     "characterName": "뱃흔",
     "ocid": "4be176d5a63884b3e988b442f0cb78d3"
   },
@@ -368,20 +384,12 @@
     "ocid": "6e7a4cda7ecac83c9d6c086e44b83898"
   },
   {
-    "characterName": "괘함",
-    "ocid": "3c9f71ae7e51b7efc075561f98635534"
-  },
-  {
-    "characterName": "밤하타",
-    "ocid": "15f20c2577be93c0a805c661a165762a"
-  },
-  {
     "characterName": "예삐집사",
     "ocid": "3998d3754ccbc77acf6e6ec5a4d7e211"
   },
   {
-    "characterName": "뱅하타",
-    "ocid": "60df41dd3316ab93c2e94eccebe9c655"
+    "characterName": "즛키",
+    "ocid": "4e3ba078b77f6a9ebd0a8661c650d390"
   },
   {
     "characterName": "상암숲불주먹",
@@ -508,16 +516,16 @@
     "ocid": "d2472207590761b13664f375c7b772cf"
   },
   {
+    "characterName": "활내리고총쏴",
+    "ocid": "1336c8133b7108f2154b1ead7b0f8836"
+  },
+  {
     "characterName": "삼등",
     "ocid": "94bf3be1dca0efe8bd281e7ffc51e0c0"
   },
   {
     "characterName": "물새미",
     "ocid": "e497490286086ed211449e72a2ed17af"
-  },
-  {
-    "characterName": "앵구파파",
-    "ocid": "9ad7e9294a9ec0a31fb75df2595e50c6"
   },
   {
     "characterName": "앵구바퍼",
@@ -534,6 +542,10 @@
   {
     "characterName": "앵구토끼",
     "ocid": "6186291407f44cfc25207a4081d7db0a"
+  },
+  {
+    "characterName": "앵구폴",
+    "ocid": "b5a8ff843d120451c3e6c6966b47741b"
   },
   {
     "characterName": "앵스바리",
@@ -562,6 +574,10 @@
   {
     "characterName": "여명의키드",
     "ocid": "eacf381b38073044623b5a23797b4781"
+  },
+  {
+    "characterName": "폭시의키드",
+    "ocid": "ce3b004578e80c0c1f12a6652cfeaae5"
   },
   {
     "characterName": "여모르띠",
@@ -598,6 +614,10 @@
   {
     "characterName": "왜포12움",
     "ocid": "280968c711c8c109f600b3033a1284f0"
+  },
+  {
+    "characterName": "왁귀",
+    "ocid": "87fb162443c56672779e4a88a747dd8d"
   },
   {
     "characterName": "우미클",
@@ -672,8 +692,12 @@
     "ocid": "2b17e0813a6df5c9ebac0e37b3fab465"
   },
   {
-    "characterName": "플라레엣테",
-    "ocid": "d6f9c7ca9faa4fe5899610878c6061d9"
+    "characterName": "잉잉잉렌",
+    "ocid": "6e5fcd809eb55179be51a9482436134b"
+  },
+  {
+    "characterName": "아이도루잉짱",
+    "ocid": "d5f9f28ad79248fa22a960059640c5f3"
   },
   {
     "characterName": "전설적인고서",
@@ -732,6 +756,10 @@
     "ocid": "bb15160ea994ff83123fcb0cd65bc7e1"
   },
   {
+    "characterName": "쭈스폴트",
+    "ocid": "4658967126d2c372e31816b03a1335b1"
+  },
+  {
     "characterName": "찐돌쿤",
     "ocid": "9486be659dc6f69fd392bd0c5c1743fc"
   },
@@ -766,6 +794,10 @@
   {
     "characterName": "최셔준",
     "ocid": "3ba6fc1550d3420564885b0d7ab9e1bc"
+  },
+  {
+    "characterName": "레테일로",
+    "ocid": "7eb1f78f64e8bb6aa64c7a9faeb6e8d9"
   },
   {
     "characterName": "퀘스트충충",
@@ -920,8 +952,16 @@
     "ocid": "dc5f730a70bdb2de28dff14e089669c6"
   },
   {
+    "characterName": "배트마",
+    "ocid": "44ccb86c7ac76cf57610b93f66bdff3c"
+  },
+  {
     "characterName": "CcHm",
     "ocid": "642f4bd6d5ba4851491d9dc2c59d80fb"
+  },
+  {
+    "characterName": "왓마넴",
+    "ocid": "c28cbd0b1b17fc75c5328fc2173108aa"
   },
   {
     "characterName": "EsenJ",
@@ -962,6 +1002,14 @@
   {
     "characterName": "GGIYA",
     "ocid": "5a440aa2f4d73ad480f4e17037428c2e"
+  },
+  {
+    "characterName": "다우주니",
+    "ocid": "e64fd0f5650038fdf0afe1b0e2b620cb"
+  },
+  {
+    "characterName": "주레텡",
+    "ocid": "17029f481f80155d6af481aeac24ee81"
   },
   {
     "characterName": "일진자식",
@@ -1024,6 +1072,10 @@
     "ocid": "4966e923306544d52420713607d24557"
   },
   {
+    "characterName": "Letheriana",
+    "ocid": "16a559146eba5bdfe9e8e6c449672606"
+  },
+  {
     "characterName": "ol픈소마",
     "ocid": "6274ccd0d61c7f846824c3d609cfb477"
   },
@@ -1060,6 +1112,10 @@
     "ocid": "7e19650f7827d47c1b67b66e5aa346a2"
   },
   {
+    "characterName": "율무샷",
+    "ocid": "2a8957f34b36869e16a4fa4d639835c3"
+  },
+  {
     "characterName": "민몌린",
     "ocid": "d00e835a1c5f9c4eca98078c097b87b4"
   },
@@ -1074,6 +1130,10 @@
   {
     "characterName": "민몌렌",
     "ocid": "8472ca1a09d18421f79b11be924436ad"
+  },
+  {
+    "characterName": "민혁술사",
+    "ocid": "8332422b9990fcf54e3fff1fb5430c1a"
   },
   {
     "characterName": "술후니",
@@ -1126,5 +1186,13 @@
   {
     "characterName": "렌실피드",
     "ocid": "43cefb0c6d73097e2655004b0b60cfdb"
+  },
+  {
+    "characterName": "깨비샷",
+    "ocid": "4a8a16c050064c2329a4dcc4173245a0"
+  },
+  {
+    "characterName": "센빠이히로",
+    "ocid": "b90e6ab7edcff7329b56ebf0574dc0d9"
   }
 ]
