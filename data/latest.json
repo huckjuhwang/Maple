@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 306,
   "collectedCount": 306,
-  "collectedAt": "2026-09-11T21:05:22.663Z",
+  "collectedAt": "2026-09-11T21:35:16.085Z",
   "members": [
     {
       "characterName": "깡쫑민",
@@ -372,8 +372,8 @@
       "characterName": "휭곰범",
       "job": "보우마스터",
       "level": 293,
-      "exp": 349403558632399,
-      "expRate": 89.197,
+      "exp": 349630143983839,
+      "expRate": 89.255,
       "combatPower": 201831655,
       "unionLevel": 10039,
       "arcaneForce": 1320,
@@ -2078,7 +2078,7 @@
       "level": 284,
       "exp": 8609502190388,
       "expRate": 17.476,
-      "combatPower": 81157642,
+      "combatPower": 83837131,
       "unionLevel": 8292,
       "arcaneForce": 1320,
       "authenticForce": 270,
