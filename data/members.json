@@ -1,15 +1,15 @@
 [
   {
-    "characterName": "0렙흡혈",
-    "ocid": "d4c5e3c580ae1c8b9da3d7b354f15ad7"
-  },
-  {
     "characterName": "0렙악마",
     "ocid": "3701c631f41f85c48452046cba822b94"
   },
   {
     "characterName": "0렙매화",
     "ocid": "cb9276bef7ea97360a8926fa9438e576"
+  },
+  {
+    "characterName": "레뜨엥",
+    "ocid": "1fc2f99a0539b7ca1e2a1ad6571047d3"
   },
   {
     "characterName": "20억",
@@ -152,6 +152,10 @@
     "ocid": "75fedb036c3f56dfb11e157a720b32ec"
   },
   {
+    "characterName": "은월머스크",
+    "ocid": "7386bc186fa38aba02344237a126370b"
+  },
+  {
     "characterName": "닛뾰",
     "ocid": "53f94434d0d0b02bfc3f3cc100d08a20"
   },
@@ -178,6 +182,10 @@
   {
     "characterName": "뚜왕렌",
     "ocid": "d050bd0644cab85a84f2f21c33ab14a9"
+  },
+  {
+    "characterName": "뚜왕레테",
+    "ocid": "18a5dc8c97b48f7a9364dffd7600ebd7"
   },
   {
     "characterName": "뚱넝",
@@ -412,6 +420,10 @@
     "ocid": "f6c040fc6981118e3a495840ead8260f"
   },
   {
+    "characterName": "레레레다히",
+    "ocid": "0a3f17617cca7c9b80f3abcc5009ac45"
+  },
+  {
     "characterName": "설윤중",
     "ocid": "111ec855b9c23d24462f4b351523af40"
   },
@@ -550,6 +562,10 @@
   {
     "characterName": "앵스바리",
     "ocid": "ab9764e8632209f029cd599e8137c0c5"
+  },
+  {
+    "characterName": "앵말랑",
+    "ocid": "f83fb797e05b6c10c9274cde48b62271"
   },
   {
     "characterName": "에구룽",
@@ -846,6 +862,10 @@
   {
     "characterName": "사백사귀",
     "ocid": "a892ff6902723be61e66142162989d41"
+  },
+  {
+    "characterName": "Astons",
+    "ocid": "808fffe2785edbc0777115dbaad6ee9f"
   },
   {
     "characterName": "하린탄",
@@ -1194,5 +1214,13 @@
   {
     "characterName": "센빠이히로",
     "ocid": "b90e6ab7edcff7329b56ebf0574dc0d9"
+  },
+  {
+    "characterName": "금느엥",
+    "ocid": "296859c9b794fabadd3a2de3a099aaa9"
+  },
+  {
+    "characterName": "헌뭉치",
+    "ocid": "5e4004719faa1567948940068005f6c5"
   }
 ]
