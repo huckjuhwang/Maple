@@ -28,6 +28,10 @@
     "ocid": "4d234df449f953bb8e74329700befc15"
   },
   {
+    "characterName": "야로카미",
+    "ocid": "4f6449842879aafe6702080bb79954e7"
+  },
+  {
     "characterName": "금발카나오",
     "ocid": "a9c896de5271d04ef4cc714b75134b67"
   },
@@ -118,6 +122,10 @@
   {
     "characterName": "내솔",
     "ocid": "75834b510b506c0b270a31c12fda203d"
+  },
+  {
+    "characterName": "선쪼",
+    "ocid": "56a92a9dbf0a5dc9b8cada8f0ae96da1"
   },
   {
     "characterName": "내활",
@@ -224,6 +232,10 @@
     "ocid": "0af54cdeda6ec7aa4abbe59be784c5a9"
   },
   {
+    "characterName": "렌찌숍",
+    "ocid": "978c6e30a7fe27b29fe553b34ec3b887"
+  },
+  {
     "characterName": "렌천칠",
     "ocid": "885f0d1b92c8e85873ef0c23824ad70a"
   },
@@ -246,6 +258,10 @@
   {
     "characterName": "령어니움",
     "ocid": "83810923ecf04e2524719db053973680"
+  },
+  {
+    "characterName": "령언보마마",
+    "ocid": "bda384e6559e9be27120699d09b98cb6"
   },
   {
     "characterName": "로보락",
@@ -390,6 +406,10 @@
   {
     "characterName": "퍼니힐",
     "ocid": "6e7a4cda7ecac83c9d6c086e44b83898"
+  },
+  {
+    "characterName": "태고별",
+    "ocid": "436cea1864008d77efa37f97dbd2a120"
   },
   {
     "characterName": "예삐집사",
@@ -642,6 +662,26 @@
   {
     "characterName": "운리그",
     "ocid": "e3acb25da9dc770febcb8e32bf915135"
+  },
+  {
+    "characterName": "섬깅",
+    "ocid": "7470d60c813ef67217f64300986f76dd"
+  },
+  {
+    "characterName": "순양화양",
+    "ocid": "30336840152fff56c99b67d65d8f7d3e"
+  },
+  {
+    "characterName": "순삭쓱",
+    "ocid": "a4fe24508d8e55269974b4ca2eee181b"
+  },
+  {
+    "characterName": "흔티나",
+    "ocid": "86afa6235b725182b24114bd7a94151a"
+  },
+  {
+    "characterName": "비먹냥",
+    "ocid": "f65c9009f213bf377e7675d3d52f15c9"
   },
   {
     "characterName": "원기는친구없",
@@ -906,6 +946,10 @@
   {
     "characterName": "활잡이곰돌E",
     "ocid": "f2043cc6eeabd6b84c37ff2daa16ed97"
+  },
+  {
+    "characterName": "정병아란곰",
+    "ocid": "60bb6bc12c2746e6a87e3eb379309854"
   },
   {
     "characterName": "힁곰범",
@@ -1224,6 +1268,10 @@
     "ocid": "4a8a16c050064c2329a4dcc4173245a0"
   },
   {
+    "characterName": "라라라히로",
+    "ocid": "9702be29c361792bbecca227714376e3"
+  },
+  {
     "characterName": "센빠이히로",
     "ocid": "b90e6ab7edcff7329b56ebf0574dc0d9"
   },
@@ -1238,5 +1286,9 @@
   {
     "characterName": "헌뭉치",
     "ocid": "5e4004719faa1567948940068005f6c5"
+  },
+  {
+    "characterName": "늑구소환술사",
+    "ocid": "056552faa597e84e18dea51a6d47911f"
   }
 ]
