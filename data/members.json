@@ -1060,30 +1060,6 @@
     "ocid": "7e995321aeed896174cde87e055ba426"
   },
   {
-    "characterName": "로뜨노예",
-    "ocid": "ef0e32ceba90deebdefaf76f65a683e1"
-  },
-  {
-    "characterName": "로뜨아재",
-    "ocid": "9bca9ba7bd422e4e24ace61a264afe28"
-  },
-  {
-    "characterName": "R0TT",
-    "ocid": "505059fa58bb15aada5865a6c60d46b8"
-  },
-  {
-    "characterName": "GGIYA",
-    "ocid": "5a440aa2f4d73ad480f4e17037428c2e"
-  },
-  {
-    "characterName": "다우주니",
-    "ocid": "e64fd0f5650038fdf0afe1b0e2b620cb"
-  },
-  {
-    "characterName": "주레텡",
-    "ocid": "17029f481f80155d6af481aeac24ee81"
-  },
-  {
     "characterName": "일진자식",
     "ocid": "a05c284fc242bdc519853e62f281d039"
   },
@@ -1276,6 +1252,14 @@
     "ocid": "b90e6ab7edcff7329b56ebf0574dc0d9"
   },
   {
+    "characterName": "히로레테상",
+    "ocid": "f04080679ac6f3257eba7be534797e81"
+  },
+  {
+    "characterName": "히로기사단장",
+    "ocid": "f21d27c773fafa2e6244c611c49073f6"
+  },
+  {
     "characterName": "금토야",
     "ocid": "a5e51ee2c48355016c4575c4d227dfcc"
   },
@@ -1290,5 +1274,21 @@
   {
     "characterName": "늑구소환술사",
     "ocid": "056552faa597e84e18dea51a6d47911f"
+  },
+  {
+    "characterName": "나는맘대",
+    "ocid": "c7c5a5aaa06d35f19639eff579f5b9af"
+  },
+  {
+    "characterName": "나이트맘대",
+    "ocid": "cf4b151e1fdb3160185e94d8b9500916"
+  },
+  {
+    "characterName": "플레임맘대",
+    "ocid": "795237a8896bb825a94fdf279c885b67"
+  },
+  {
+    "characterName": "염증기계치료",
+    "ocid": "9e5edf26eaca48ffda96ee19ba17ce77"
   }
 ]
