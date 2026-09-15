@@ -240,6 +240,10 @@
     "ocid": "885f0d1b92c8e85873ef0c23824ad70a"
   },
   {
+    "characterName": "와헌천칠",
+    "ocid": "02ec568af80f0fd053080650d154b9b9"
+  },
+  {
     "characterName": "령언",
     "ocid": "fdaaeadfdc18e6b8e86e18ba9617a117"
   },
@@ -892,6 +896,10 @@
     "ocid": "2ffe8ef988e34df4689864f14d7bc9f9"
   },
   {
+    "characterName": "몽글비숑",
+    "ocid": "a7c24937ed0d00f614e3d8b89ce51484"
+  },
+  {
     "characterName": "하늘수",
     "ocid": "9ed204f4f099fee101f4402c2004c9ac"
   },
@@ -1040,10 +1048,6 @@
     "ocid": "0d47562bb11d910e152f281e46960f29"
   },
   {
-    "characterName": "정마담난시",
-    "ocid": "6ca8bab1af17c5b4eeb79b5e238cfbb3"
-  },
-  {
     "characterName": "나사실그네",
     "ocid": "384aefa245432604515d2a544d90fcac"
   },
@@ -1058,6 +1062,10 @@
   {
     "characterName": "렌senJ",
     "ocid": "7e995321aeed896174cde87e055ba426"
+  },
+  {
+    "characterName": "레sen테",
+    "ocid": "94d5df0913180239f027f359fb4e6538"
   },
   {
     "characterName": "일진자식",
@@ -1290,5 +1298,9 @@
   {
     "characterName": "염증기계치료",
     "ocid": "9e5edf26eaca48ffda96ee19ba17ce77"
+  },
+  {
+    "characterName": "봉재규",
+    "ocid": "28b70399ae4bb79ed9ebb5e43f432517"
   }
 ]
