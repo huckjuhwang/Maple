@@ -36,16 +36,16 @@
     "ocid": "a9c896de5271d04ef4cc714b75134b67"
   },
   {
-    "characterName": "온라인소영이",
-    "ocid": "67c61dbc3a6f98d61e0dd968bfdbe8a6"
-  },
-  {
     "characterName": "자이언츠미르",
     "ocid": "5ed26e6bace165d924b2fb0bf4f79233"
   },
   {
     "characterName": "서린카나",
     "ocid": "bda9f999baa46e9fb123e126a469c7db"
+  },
+  {
+    "characterName": "테린카나",
+    "ocid": "b566e84e5d2a3c24ccd683229eaf35cd"
   },
   {
     "characterName": "긍지높은콩",
@@ -62,6 +62,10 @@
   {
     "characterName": "ArrowTlc",
     "ocid": "d1437f63dabfd65ef21c3c72e50b5a78"
+  },
+  {
+    "characterName": "FairyTic",
+    "ocid": "a1895acd7565c6e1564546c1f3165d1e"
   },
   {
     "characterName": "김물코이",
@@ -560,6 +564,10 @@
     "ocid": "94bf3be1dca0efe8bd281e7ffc51e0c0"
   },
   {
+    "characterName": "폭유멘헤라",
+    "ocid": "7d4146c73b30193cc66b12300b293bc7"
+  },
+  {
     "characterName": "물새미",
     "ocid": "e497490286086ed211449e72a2ed17af"
   },
@@ -604,8 +612,20 @@
     "ocid": "c071bfb8684070ba962352de09d24c78"
   },
   {
+    "characterName": "에구레테",
+    "ocid": "b01ce33214b9c6ecaf710f45778dd651"
+  },
+  {
     "characterName": "에너지스마일",
     "ocid": "2574497e3c6f245edc18928a9c80d6cd"
+  },
+  {
+    "characterName": "시마무라키네",
+    "ocid": "e20814a5dfd5b57ee1e58112283f7525"
+  },
+  {
+    "characterName": "시마무라레테",
+    "ocid": "6a0cec987338978d1d52b4d9feb2b089"
   },
   {
     "characterName": "새벽의키드",
@@ -664,6 +684,10 @@
     "ocid": "ed1b8278610e76ff2ef9cfd58ee88dd6"
   },
   {
+    "characterName": "절개뭉",
+    "ocid": "f292fecd05f040453993b4c8747383c0"
+  },
+  {
     "characterName": "운리그",
     "ocid": "e3acb25da9dc770febcb8e32bf915135"
   },
@@ -694,6 +718,10 @@
   {
     "characterName": "파랑컬러렌즈",
     "ocid": "756476bcb48f9c6097733bbb3ed1201d"
+  },
+  {
+    "characterName": "레테였던것",
+    "ocid": "37a5c5219f4c2959b934ee7fe4183538"
   },
   {
     "characterName": "뽕구니",
@@ -924,6 +952,10 @@
     "ocid": "3532f302e920a0f2e8099e82b728885f"
   },
   {
+    "characterName": "뜨뜨탄",
+    "ocid": "7fd502b49b3a0967ebd97ac87b14d6ce"
+  },
+  {
     "characterName": "갇처리",
     "ocid": "1e7a3ae33133fa6cb0238602203b5688"
   },
@@ -996,12 +1028,12 @@
     "ocid": "c51d001f5f2926873d6f4fe8386d423d"
   },
   {
-    "characterName": "빡쭈l",
-    "ocid": "af0e5b8801947943e22802e4502a1be0"
-  },
-  {
     "characterName": "레테시희",
     "ocid": "d12ab6bac58567a4c31c7f5836e03545"
+  },
+  {
+    "characterName": "추의",
+    "ocid": "e140df23ec89e348976119a0dc221812"
   },
   {
     "characterName": "펩제니",
@@ -1048,6 +1080,10 @@
     "ocid": "0d47562bb11d910e152f281e46960f29"
   },
   {
+    "characterName": "정마담난시",
+    "ocid": "6ca8bab1af17c5b4eeb79b5e238cfbb3"
+  },
+  {
     "characterName": "나사실그네",
     "ocid": "384aefa245432604515d2a544d90fcac"
   },
@@ -1062,10 +1098,6 @@
   {
     "characterName": "렌senJ",
     "ocid": "7e995321aeed896174cde87e055ba426"
-  },
-  {
-    "characterName": "레sen테",
-    "ocid": "94d5df0913180239f027f359fb4e6538"
   },
   {
     "characterName": "일진자식",
@@ -1104,26 +1136,6 @@
     "ocid": "93355d32fc8a5793e8fba71e79185216"
   },
   {
-    "characterName": "Ludani",
-    "ocid": "160e63fc578e022acdb91216d9ebb6a4"
-  },
-  {
-    "characterName": "메르키우네",
-    "ocid": "495fd0d63ff37b9740b8b0b29e01ca4f"
-  },
-  {
-    "characterName": "키우레니",
-    "ocid": "5bca53ca5964d3990a57deabf539f75c"
-  },
-  {
-    "characterName": "아실리스타",
-    "ocid": "fb07e50d51f42e8bbe501f1e112ee0f7"
-  },
-  {
-    "characterName": "그라비네",
-    "ocid": "d910a895bedcae43008b33191b456afe"
-  },
-  {
     "characterName": "Nitoria",
     "ocid": "6c78d4c8fd824df33b4e40b3e51fdafe"
   },
@@ -1150,6 +1162,10 @@
   {
     "characterName": "6초라면",
     "ocid": "b25dc09b3bd300ec53f9ae0141e93614"
+  },
+  {
+    "characterName": "성능보단엔버",
+    "ocid": "fb81a58616d97d0129f24fe67f666f7e"
   },
   {
     "characterName": "ooblanxoo",
@@ -1302,5 +1318,9 @@
   {
     "characterName": "봉재규",
     "ocid": "28b70399ae4bb79ed9ebb5e43f432517"
+  },
+  {
+    "characterName": "타인리",
+    "ocid": "9827eb414a15a7ae3a45da4979475d29"
   }
 ]
