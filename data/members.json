@@ -72,6 +72,10 @@
     "ocid": "f2dc23cf288d45dbc51e71dfe22e9302"
   },
   {
+    "characterName": "레물코이",
+    "ocid": "65603ec8e8d7283d7ba5f1f4c7178bb4"
+  },
+  {
     "characterName": "깡쫑민",
     "ocid": "a626b8c9c29e2546e416430adbbf436a"
   },
@@ -396,6 +400,10 @@
     "ocid": "931e3fd676d4086fac6779917f626ddd"
   },
   {
+    "characterName": "곰범섀도어",
+    "ocid": "40cd5e8e445988d760e5ceac16d1e0fc"
+  },
+  {
     "characterName": "두밈",
     "ocid": "c9b695e9b3ace0cd3cab86b3098bba62"
   },
@@ -492,10 +500,6 @@
     "ocid": "d8ecc1f7cc64307d224caec06e265d5d"
   },
   {
-    "characterName": "시간이머문별",
-    "ocid": "21dcceb52b878f590f56c1daf9bbdfae"
-  },
-  {
     "characterName": "첫미련",
     "ocid": "51cebc88ad3f9c646933236462e1d6df"
   },
@@ -508,16 +512,16 @@
     "ocid": "06f9d0db4ad802f349806a7a785ee2b5"
   },
   {
-    "characterName": "십군데벤",
-    "ocid": "3fc17d947cd2690d8f8855c1b3458525"
-  },
-  {
     "characterName": "십군렌",
     "ocid": "d8a43237ecbe52fdeea50a0e5917076a"
   },
   {
     "characterName": "십군보마",
     "ocid": "77eebf65fa2922cf63e24dd9eee28510"
+  },
+  {
+    "characterName": "십군레테",
+    "ocid": "60830053e95b05ade146b9ea52cd9d1e"
   },
   {
     "characterName": "쒸꺄",
@@ -682,6 +686,10 @@
   {
     "characterName": "우미클",
     "ocid": "ed1b8278610e76ff2ef9cfd58ee88dd6"
+  },
+  {
+    "characterName": "헌뭉치",
+    "ocid": "5e4004719faa1567948940068005f6c5"
   },
   {
     "characterName": "절개뭉",
@@ -1292,10 +1300,6 @@
     "ocid": "296859c9b794fabadd3a2de3a099aaa9"
   },
   {
-    "characterName": "헌뭉치",
-    "ocid": "5e4004719faa1567948940068005f6c5"
-  },
-  {
     "characterName": "늑구소환술사",
     "ocid": "056552faa597e84e18dea51a6d47911f"
   },
@@ -1322,5 +1326,13 @@
   {
     "characterName": "타인리",
     "ocid": "9827eb414a15a7ae3a45da4979475d29"
+  },
+  {
+    "characterName": "시간이머문별",
+    "ocid": "21dcceb52b878f590f56c1daf9bbdfae"
+  },
+  {
+    "characterName": "시간이머물던",
+    "ocid": "b218181bdb920383ca31cf1c9c879b73"
   }
 ]
