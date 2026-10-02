@@ -960,14 +960,6 @@
     "ocid": "00137006198d4823ebd3577d9b40cd83"
   },
   {
-    "characterName": "퐁스바리",
-    "ocid": "2ffe8ef988e34df4689864f14d7bc9f9"
-  },
-  {
-    "characterName": "몽글비숑",
-    "ocid": "a7c24937ed0d00f614e3d8b89ce51484"
-  },
-  {
     "characterName": "하늘수",
     "ocid": "9ed204f4f099fee101f4402c2004c9ac"
   },
@@ -1388,12 +1380,20 @@
     "ocid": "9827eb414a15a7ae3a45da4979475d29"
   },
   {
+    "characterName": "쮸니호빵",
+    "ocid": "f586aa66b3699cd380ef47fb9b1a3a82"
+  },
+  {
     "characterName": "시간이머문별",
     "ocid": "21dcceb52b878f590f56c1daf9bbdfae"
   },
   {
     "characterName": "시간이머물던",
     "ocid": "b218181bdb920383ca31cf1c9c879b73"
+  },
+  {
+    "characterName": "시간이머무는",
+    "ocid": "45d1f1e4d76ea4437246cf2dc505fa33"
   },
   {
     "characterName": "렌senJ",
