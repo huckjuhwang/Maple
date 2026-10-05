@@ -4,9 +4,9 @@
   "worldName": "스카니아",
   "guildLevel": 30,
   "masterName": "유킹",
-  "memberCount": 352,
+  "memberCount": 350,
   "collectedCount": 350,
-  "collectedAt": "2026-10-05T18:35:56.471Z",
+  "collectedAt": "2026-10-05T19:06:07.448Z",
   "members": [
     {
       "characterName": "로보락",
@@ -264,8 +264,8 @@
       "characterName": "내활",
       "job": "윈드브레이커",
       "level": 296,
-      "exp": 868458613924661,
-      "expRate": 90.706,
+      "exp": 868621845072984,
+      "expRate": 90.723,
       "combatPower": 234619701,
       "unionLevel": 9829,
       "arcaneForce": 1320,
