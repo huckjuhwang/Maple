@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 353,
   "collectedCount": 353,
-  "collectedAt": "2026-10-10T23:35:58.651Z",
+  "collectedAt": "2026-10-11T00:06:11.978Z",
   "members": [
     {
       "characterName": "깡쫑민",
@@ -1260,7 +1260,7 @@
       "characterName": "뚱늬숍",
       "job": "비숍",
       "level": 282,
-      "exp": 16778956305180,
+      "exp": 16779000745180,
       "expRate": 41.212,
       "combatPower": 120512543,
       "unionLevel": 9511,
@@ -2892,8 +2892,8 @@
       "characterName": "나는맘대",
       "job": "레테",
       "level": 287,
-      "exp": 119433026065449,
-      "expRate": 99.189,
+      "exp": 119644602925518,
+      "expRate": 99.365,
       "combatPower": 57180751,
       "unionLevel": 7957,
       "arcaneForce": 1320,
