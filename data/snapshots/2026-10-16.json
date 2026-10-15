@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 356,
   "collectedCount": 356,
-  "collectedAt": "2026-10-15T20:36:12.166Z",
+  "collectedAt": "2026-10-15T21:06:16.384Z",
   "members": [
     {
       "characterName": "령언",
@@ -660,8 +660,8 @@
       "characterName": "쭈히",
       "job": "아델",
       "level": 299,
-      "exp": 551715449600136,
-      "expRate": 31.749,
+      "exp": 553042053695443,
+      "expRate": 31.825,
       "combatPower": 159223999,
       "unionLevel": 10019,
       "arcaneForce": 1320,
