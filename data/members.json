@@ -900,8 +900,28 @@
     "ocid": "13782359235a5f0caa8b1161ed0093ac"
   },
   {
+    "characterName": "추억을담아",
+    "ocid": "863aeb0f879d30683ec373a3fe96cdda"
+  },
+  {
     "characterName": "콰트로에어",
     "ocid": "11714c93db0490361428b94bdac9b9aa"
+  },
+  {
+    "characterName": "루나레인보우",
+    "ocid": "daf5229145d2ec6b8efab1fc442ee83f"
+  },
+  {
+    "characterName": "동춘당문정공",
+    "ocid": "dabaa39c0ecaf00870d401ee8e03e4ac"
+  },
+  {
+    "characterName": "킹크로스",
+    "ocid": "a109f3957502bb7772ac6d48cd7d419c"
+  },
+  {
+    "characterName": "풍산들동",
+    "ocid": "649195e01da270793acfc63e650c486f"
   },
   {
     "characterName": "스파이괘밀리",
@@ -1364,6 +1384,10 @@
     "ocid": "9e5edf26eaca48ffda96ee19ba17ce77"
   },
   {
+    "characterName": "랏코하치와레",
+    "ocid": "42d6d51db9e0685b0c5d12567e31d205"
+  },
+  {
     "characterName": "엄태열",
     "ocid": "6454efd1c0d85bccdd8a9691493fd8d4"
   },
@@ -1422,5 +1446,17 @@
   {
     "characterName": "보마히끼잉",
     "ocid": "a871dd50d6983c462a9eac55f1e44dcb"
+  },
+  {
+    "characterName": "누끼렌",
+    "ocid": "b9ae158cf1a288af03f59dc2b070eda9"
+  },
+  {
+    "characterName": "탕탕흐물민수",
+    "ocid": "d0a24bd4c2033c3b8438da910f616371"
+  },
+  {
+    "characterName": "Ceph1",
+    "ocid": "79d4d66e8e47dccf4c6cf433d6892693"
   }
 ]
