@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 366,
   "collectedCount": 366,
-  "collectedAt": "2026-10-19T21:36:12.271Z",
+  "collectedAt": "2026-10-19T22:06:21.689Z",
   "members": [
     {
       "characterName": "로보락",
@@ -972,8 +972,8 @@
       "characterName": "민몌린",
       "job": "히어로",
       "level": 296,
-      "exp": 47065785218134,
-      "expRate": 4.916,
+      "exp": 47447273672507,
+      "expRate": 4.956,
       "combatPower": 137355401,
       "unionLevel": 9946,
       "arcaneForce": 1320,
@@ -2364,7 +2364,7 @@
       "characterName": "십군보마",
       "job": "보우마스터",
       "level": 282,
-      "exp": 35996451755193,
+      "exp": 35996588278429,
       "expRate": 88.414,
       "combatPower": 85887636,
       "unionLevel": 10306,
