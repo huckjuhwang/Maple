@@ -1458,5 +1458,9 @@
   {
     "characterName": "Ceph1",
     "ocid": "79d4d66e8e47dccf4c6cf433d6892693"
+  },
+  {
+    "characterName": "Ceph34",
+    "ocid": "5a307d72b1286aef74ce2c292c6fb218"
   }
 ]
