@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 369,
   "collectedCount": 369,
-  "collectedAt": "2026-10-27T21:06:20.438Z",
+  "collectedAt": "2026-10-27T21:36:08.163Z",
   "members": [
     {
       "characterName": "령언",
@@ -60,8 +60,8 @@
       "characterName": "뇽실피드",
       "job": "비숍",
       "level": 293,
-      "exp": 69443725122965,
-      "expRate": 17.728,
+      "exp": 69934046638773,
+      "expRate": 17.853,
       "combatPower": 468311406,
       "unionLevel": 11345,
       "arcaneForce": 1320,
@@ -2868,7 +2868,7 @@
       "characterName": "DuIly",
       "job": "보우마스터",
       "level": 280,
-      "exp": 4350371829071,
+      "exp": 4350408569071,
       "expRate": 12.929,
       "combatPower": 67197644,
       "unionLevel": 9964,
