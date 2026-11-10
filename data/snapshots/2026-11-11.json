@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 368,
   "collectedCount": 368,
-  "collectedAt": "2026-11-10T19:36:47.926Z",
+  "collectedAt": "2026-11-10T20:06:40.205Z",
   "members": [
     {
       "characterName": "깡쫑민",
@@ -1308,7 +1308,7 @@
       "characterName": "임나구리12",
       "job": "레테",
       "level": 289,
-      "exp": 58274756603094,
+      "exp": 58274814023094,
       "expRate": 39.998,
       "combatPower": 131891595,
       "unionLevel": 10589,
@@ -2340,8 +2340,8 @@
       "characterName": "하늘수",
       "job": "바이퍼",
       "level": 290,
-      "exp": 29545954829446,
-      "expRate": 10.039,
+      "exp": 31121236205660,
+      "expRate": 10.574,
       "combatPower": 89838798,
       "unionLevel": 9964,
       "arcaneForce": 1320,
