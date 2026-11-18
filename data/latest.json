@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 369,
   "collectedCount": 369,
-  "collectedAt": "2026-11-18T18:07:07.128Z",
+  "collectedAt": "2026-11-18T18:36:54.891Z",
   "members": [
     {
       "characterName": "깡쫑민",
@@ -648,8 +648,8 @@
       "characterName": "Ceph1",
       "job": "보우마스터",
       "level": 286,
-      "exp": 107379127580541,
-      "expRate": 98.096,
+      "exp": 107793035193381,
+      "expRate": 98.474,
       "combatPower": 170078940,
       "unionLevel": 6488,
       "arcaneForce": 1320,
