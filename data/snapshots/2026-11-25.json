@@ -6,7 +6,7 @@
   "masterName": "유킹",
   "memberCount": 370,
   "collectedCount": 369,
-  "collectedAt": "2026-11-24T18:07:12.885Z",
+  "collectedAt": "2026-11-24T18:37:09.267Z",
   "members": [
     {
       "characterName": "로보락",
@@ -108,8 +108,8 @@
       "characterName": "렌실피드",
       "job": "렌",
       "level": 292,
-      "exp": 199124375737021,
-      "expRate": 55.917,
+      "exp": 199609143887136,
+      "expRate": 56.053,
       "combatPower": 501362254,
       "unionLevel": 11395,
       "arcaneForce": 1320,
